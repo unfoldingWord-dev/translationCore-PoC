@@ -25,7 +25,7 @@ Stretch Goals
 Input for Prototype
 -----
 - tA module for Metaphor (& Figures of Speech?)
-> - https://door43.org/_export/xhtmlbody/en/ta/vol1/translate/figs_metaphor
+ - https://door43.org/_export/xhtmlbody/en/ta/vol1/translate/figs_metaphor
 - tN parsed & JSON created for all metaphors
 - uGNT
 - ULB
