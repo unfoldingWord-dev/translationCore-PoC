@@ -1,6 +1,6 @@
 translationCore Prototype
 =====
-Focused prototype of translationCore to be produced just for Metaphors.
+Focused prototype of translationCore to be produced just for Metaphors & Ephesians.
 
 Key Results
 -----
@@ -22,14 +22,20 @@ Stretch Goals
 - Alert if the quote is not found in the OL when pasting in the quote input box
 - Provide optional comments box for translators to make notes
 
-Input for Prototype
+Sources/Input for Prototype
 -----
 - tA module for Metaphor (& Figures of Speech?)
  - https://door43.org/_export/xhtmlbody/en/ta/vol1/translate/figs_metaphor
-- tN parsed & JSON created for all metaphors
+- tN for all metaphors in Ephesians
+ - https://github.com/Door43/d43-en/tree/master/bible/notes/eph
 - uGNT
-- ULB
-- Other Language Bible
+ - https://raw.githubusercontent.com/toddlprice/Unlocked-Greek-New-Testament/master/greek_WH_UBS4_parsed_utf8.txt
+- ULB book of Ephesians
+ - https://api.unfoldingword.org/ulb/txt/1/ulb-en/50-EPH.usfm
+ - Convert into JSON
+- Other Language Bible, pt-br ULB
+ - https://git.door43.org/BrainT/ULB-pt-br/raw/master/50-EPH.usfm
+ - Convert into JSON
 - UI to bring all items together
 
 Output from Prototype
