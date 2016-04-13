@@ -1,0 +1,57 @@
+====== Ephesians 03:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Although I am the least  \add worthy\add* of all God's people, God kindly  \add appointed\add* me to proclaim to the non-Jews the message about the great spiritual blessings that  \add they can receive\add* from Christ,
+\v 9 and to enable everyone to understand clearly how God accomplished what he planned. God, who created everything, \add has now revealed\add* this message, which he never revealed to anyone before.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Although I am the least worthy of all God's people, God has enabled me by his kindness and mercy to proclaim to non-Jews the good news about what Christ has done for us, which is so much no one can describe it all.
+\v 9 My mission is to explain to everyone what God's plan is, something that God has kept hidden from long ago, from the time when he created everything.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 To me this gift was given, although I am less than the lowest of those set apart for God, to proclaim to the Gentiles the gospel of the infinite riches of Christ
+\v 9 and to enlighten everyone about what God's plan is, the hidden truth that was hidden from ages past by God, who created all things.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:gift]]
+  * [[:en:obe:kt:setapart]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:true]]
+
+===== Translation Notes: =====
+
+
+    * **To me this gift was given, although I am less than the lowest of those set apart for God** - AT: "Even though I am the least worthy of all God's people, God has given me this gracious gift"
+    * **and to enlighten everyone about what God's plan is** - AT: "and to make all people aware of God's plan"
+    * **the hidden truth that was hidden from ages past by God, who created all things** - AT: "something that God has kept hidden from long ago, from the time when he created everything"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:03|Ephesians Chapter 03 Comprehension Questions]]**
+ 
+
+**[[en/bible/notes/eph/03/06|<<]] | [[en/bible/notes/eph/03/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

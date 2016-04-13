@@ -1,0 +1,60 @@
+====== Ephesians 04:14-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Then we will no longer be \add spiritually immature\add*, like \f + \ft metaphor \f* little children \add are immature\add*. We will no longer be constantly \add changing what we believe, like\add* \f + \ft metaphor \f* waves of the sea are \add constantly changing as the wind blows and\add* tosses them back and forth. We will not allow people who teach \add what is false\add* and who scheme\f + \ft Or: try cleverly \f* to deceive, Or: influence us.
+\v 15 Instead, by loving \add others\add* as we behave according to \add God's\add* truth \f + \ft Or: speak in a loving manner what is true \f*, we will become more and more like Christ in every way. He is the one \add who controls\f + \ft Or: guides \f* all his people\add* \f + \ft metaphor \f*, \add just like a person's\add* head \add controls\f + \ft Or: guides \f* his\add* body.
+\v 16 He \add enables all those who belong to him to mature spiritually. Specifically, they will become mature spiritually\add* by loving each other and by each of them doing the work \add that God wants them to do. That is like\add* \f + \ft metaphor \f* a person's body \add grows stronger, as\add* each part of the body is joined to the others by the ligaments and as each part functions properly\f + \ft Or: works as it should \f*.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Then we will no longer be ignorant of what is true, like little children. We will no longer follow every new teaching, like a boat is blown around by the wind and waves. We will not allow people who teach what is false to trick us and deceive us.
+\v 15 Instead, we will live by loving God and trusting his true teachings, and we will become more and more like Christ in every way. He controls his people like a person's head controls his body.
+\v 16 He enables all believers everywhere to grow together and love each other, like a person's body fits together and holds together by the joints that connect the body together, which allows the body to grow and build itself up because the parts of body depend upon each other.
+
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 14 This is so that we should no longer be like children, tossed around and carried away by every wind of teaching by the trickery of people in the cleverness of erring deceit.
+\v 15 Rather we will speak the truth in love and grow up in all ways into him who is the head, Christ,
+\v 16 from whom all the body of believers fits together and is held together by each joint, which assists according to the working in the measure of each part in the body's growth, for the building up of each one in love.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:true]]
+  * [[:en:obe:kt:love]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:believe]]
+
+===== Translation Notes: =====
+
+  * **This is so that we should** - AT: "Then we will"
+  * **be like children** - This is comparing a believer who has not grown spiritually to a child who has had very little experience in life. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **tossed around and carried away by every wind of teaching** - This metaphor compares a believer who has not become mature and hears wrong teaching to a boat that is being blown by the wind in random directions on the water. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **by the trickery of people in the cleverness of erring deceit** - AT: "by crafty people who trick believers with clever lies"
+  * **Rather we will speak** - AT: "Instead we will speak"
+  * **into him who is the head...in the body's growth** - This is a metaphor using the human body to describe how Christ causes believers to work together in harmony like the head of a body causes the body parts to work together to grow healthy. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **for the building up of each one in love** - AT: "so believers can help each other grow in love"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:eph:04:11|<<]] | [[:en:bible:notes:eph:04:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

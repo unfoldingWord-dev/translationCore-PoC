@@ -1,0 +1,59 @@
+====== Ephesians 02:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 He came \add to earth\add* and proclaimed that you \add non-Jews\add*, who did not have a relationship with \f + \ft metaphor \f* \add God\add*, and \add us\f + \ft exclusive \f* Jews\add*, who \add considered that we\f + \ft exclusive \f* belonged to\add* \f + \ft metaphor \f* God's \add family\add*, can \add all\add* now have peace \add with God\add*.
+\v 18 \add We know that he has done that\add* because we both, \add Jews and non-Jews\add*, are \add now\add* able to approach God the Father in prayer by the help of his Spirit, because of what Christ \add has done\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Jesus came and proclaimed the gospel that brings peace with God; he proclaimed it both to  you non-Jews, who did not know about God, and to us Jews, who did know about God.
+\v 18 Through Jesus both Jews and non-Jews now can speak with the Father because God's Spirit lives in all believers.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 Jesus came and proclaimed the gospel and his peace to those who were far away and peace to those who were near.
+\v 18 For through Jesus we both have access in one Spirit to the Father.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:proclaim]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:kt:godthefather]]
+ 
+
+===== Translation Notes: =====
+
+    * **proclaimed the gospel** - AT: "announced the gospel" or "declared the gospel"
+    * **the gospel and his peace** - AT: "the gospel of peace"
+    * **those who were far away** - This refers to the Gentiles or non-Jews.
+    * **those who were near** - This refers to the Jews.
+    * **For through Jesus we both have access** - "We both" refers to both Paul, the believing Jews and the believing non-Jews. (See: [[en:ta:vol2:translate:figs_inclusive]])
+    * **have access in one Spirit** - All believers are given the right to enter into the presence of God the Father by one spirit or authority.
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:02|Ephesians Chapter 02 Comprehension Questions]]**
+
+**[[en/bible/notes/eph/02/13|<<]] | [[en/bible/notes/eph/02/19|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish}}
+
+~~NOCACHE~~

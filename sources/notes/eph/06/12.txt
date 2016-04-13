@@ -1,0 +1,64 @@
+====== Ephesians 06:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 You must do this because the fighting that we \add believers\add* do is not only against human beings \f + \ft synecdoche \f*. Instead, we are also fighting against evil spirits who rule and have authority over all that is evil \f + \ft metaphor \f* in the world. We are fighting against evil spirits who are in heavenly places \f + \ft Or: everywhere \f*.
+\v 13 Therefore, \add just like a soldier\add* puts on all his armor\f + \ft Or: things to help him fight \f* \f + \ft metaphor \f*, \add use well all the spiritual resources, Or: helps that God provides for you\add*. Do that in order that you may be able to resist successfully the devil and all his powerful evil spirits \f + \ft metonymy \f* every time they attack you\f + \ft Or: tempt you to sin or cause something bad to happen to you \f*. \add Do it also in order that\add* when you have done all that you can to resist them \add when they attack you\add*, you will still be ready to resist them \add when they attack you the next time\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 We are not fighting against other humans, but instead we are battling against all kinds of demonic rulers and evil spirits who live in spiritual darkness.
+\v 13 Therefore, just as a soldier puts on all his armor, so also you must put on all of the armor of God so that you can stand against evil in this time of evil on earth. With God's armor, you can fight against attacks of evil and live for God.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 For our battle is not against flesh and blood, but against the governments and spiritual authorities and rulers of the realm of evil darkness, against the evil spirits in heavenly places.
+\v 13 Therefore put on the whole armor of God that you may be able to stand firm against evil in this time of evil, and do everything you can to stand firm.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:flesh]]
+  * [[:en:obe:kt:blood]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:kt:evil]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:other:armor]]
+  * [[:en:obe:kt:god]]
+
+
+===== Translation Notes: =====
+
+    * **flesh and blood** - This expression refers to people, in contrast to spirits who do not have human bodies. (See: [[:en:ta:vol1:translate:figs_idiom]])
+    * **Therefore put on the whole armor of God** - Christians should use the protective resources God gives them in fighting the devil in the same way a soldier puts on armor to protect himself against his enemies. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:06|Ephesians Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/06/10|<<]] | [[en/bible/notes/eph/06/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish flesh}}
+
+~~NOCACHE~~

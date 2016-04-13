@@ -1,0 +1,64 @@
+====== Ephesians 03:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 That message, which he has now revealed, is that because of our\add \f + \ft inclusive \f*\add* relationship with Christ Jesus, \add all of us\add*, non-Jews as well as Jews \f + \ft metonymy \f*, will receive the  \add great spiritual blessings that God has\add* promised as we all form one group \f + \ft metaphor \f* \add as a result of our believing\add* the good message  \add about Christ\add*.
+\v 7 By God powerfully enabling me, and because God acted kindly toward me, doing what I did not deserve, and chose me  \add to do that work\add*, I became one person who tells others this good message.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 This hidden truth is that the non-Jews now share together with Jews the spiritual riches of God, and belong to the same group of God's people, and will share all the things God has promised them, because they trust in Christ Jesus—this is the gospel.
+\v 7 I am now God's servant to spread the good news, a work I did not deserve to do, but which God gave me working in me with his power.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 that the Gentiles are fellow heirs and fellow members of the body and fellow sharers in the promise in Christ Jesus through the gospel.
+\v 7 For this I became a servant by the gift of God's grace given to me through the working of his power.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:other:heir]]
+  * [[:en:obe:kt:body]]
+  * [[:en:obe:kt:promise]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:gift]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:grace]]
+  * [[:en:obe:kt:power]]
+===== Translation Notes: =====
+
+
+    * **the Gentiles are fellow heirs...** - This is the hidden truth Paul began to express in [[en:bible:notes:eph:03:03|3:5]]. The Gentiles who receive christ will also receive the inheritance like the believing Jews.
+    * **fellow members of the body** - Paul continues to use the analogy of the physical body in describing the believers in Christ.
+    * **For this I became a servant** - AT: "I am now serving God to spread the gospel" (see [[en:ta:vol1:translate:figs_explicit]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:03|Ephesians Chapter 03 Comprehension Questions]]**
+
+ 
+**[[en/bible/notes/eph/03/03|<<]] | [[en/bible/notes/eph/03/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

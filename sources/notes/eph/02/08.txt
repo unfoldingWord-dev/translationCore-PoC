@@ -1,0 +1,68 @@
+====== Ephesians 02:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 It is \add only\add* by \add God\add* acting \f + \ft personification \f* \add toward you\add* in a way that you did not deserve that you have been saved \f + \ft Or:that he has saved you \f* as a result of your trusting \add in Christ\add*. You did not save yourselves. His saving you was his gift to you.
+\v 9 He did not save any of you because of anything you yourselves did. The result is that no one can be proud of what they have done \add to save themselves\add*.
+\v 10 It is God who has made us what we are now. Because of our relationship with Christ Jesus, he has enabled us to receive \add spiritual\f + \ft Or: eternal \f*\add* life in order that we should conduct our lives habitually doing the good deeds that God previously planned for us to do.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 For God has saved you from his punishment by his extreme kindness because you trust Jesus. We have not saved ourselves; this is a gift from God—
+\v 9 a gift that no one can earn, so no one can boast and say that he has saved himself.
+\v 10 So God has created us as new people joined to Christ Jesus, so we can do good things—things that God planned long ago for us to do.
+
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 For by grace have you been saved through faith. And this did not come from us; it is instead a gift from God, 
+\v 9 not from works, so that no one may boast.
+\v 10 For we are God's workmanship, created in Christ Jesus to do good works which God planned long ago, for us to walk in.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:grace]]
+  * [[:en:obe:kt:save]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:gift]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:works]]
+  * [[:en:obe:kt:boast]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:good]]
+  * [[:en:obe:kt:walk]]
+
+===== Translation Notes: =====
+
+  * **For by grace have you been saved through faith** - God's kindness to us is the reason he made it possible for us to be saved from judgment if we simply trust in Jesus.
+  * **And this did not** - The word “this” refers back to "by grace you have been saved by faith."
+  * **come from us** - The pronoun "us" refers to Paul and all the believers at Ephesus. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **not from works** - AT: "This salvation did not come from our works"
+  * **we are God's workmanship, created in Christ Jesus** - The pronoun "we" refers to Paul and all the believers at Ephesus. AT: "God has created us as new people joined to Christ Jesus" (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **walk in** - AT: “live in” or “follow”
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:02|Ephesians Chapter 02 Comprehension Questions]]**
+**[[:en:bible:notes:eph:02:04|<<]] | [[:en:bible:notes:eph:02:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

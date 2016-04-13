@@ -1,0 +1,63 @@
+====== Ephesians 01:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 You \add Ephesians\add* also heard the true message, the good message about how God saves you. \add People\add* put their seal on something to show that \add it belongs to them\add*. Similarly, when you believed \add in Christ\add*, God \add showed that you also belong to him by sending you\add* the Holy Spirit as he promised to do \f + \ft metaphor \f*.
+\v 14 The Holy Spirit is \add like\add* \f + \ft metaphor \f* a deposit\f + \ft Or: down payment \f*. That is, he guarantees\f + \ft Or: assures us \f* that \add we will receive\add* all that God has promised to give us, at the time when God will give to those who belong to him \f + \ft metaphor \f* everything that \add Christ\add* freed us to receive. \add God also assures you that you belong to him\add*, in order that you would praise him for his greatness.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Now you Ephesians and other non-Jews have heard the true message, the good news that Jesus saves everyone who believes him. And you have believed in Christ, so it is as if God's Spirit had marked you on your foreheads to show that you belong to God.
+\v 14 The Holy Spirit is proof that we will receive all that God has promised. All this is great reason to praise him!
+
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 It was by Christ that you also heard the word of truth, the gospel of your salvation by Christ, in whom you also have believed and were sealed with the promised Holy Spirit.
+\v 14 The Spirit is the guarantee of our inheritance, until the possession is gained, for the praise of his glory.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:wordoftruth]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:kt:save]]
+  * [[:en:obe:kt:believe]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:kt:inherit]]
+  * [[:en:obe:kt:redeem]]
+===== Translation Notes: =====
+
+  * **It was by Christ that you also heard the word of truth** - AT: "it was through believing in Christ that you heard that you were saved by him"
+  * **the gospel of your salvation by Christ** - AT: "Christ is the gospel of your salvation"
+  * **in whom you also have believed** - AT: "and you also have believed in Christ"
+  * **were sealed with the promised Holy Spirit** - As wax was placed on a letter and impressed with a symbol representing who sent the letter, God sealed our salvation with the Holy Spirit signifying his ownership of us. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **The Spirit is the guarantee** - God gave us the Holy Spirit as a promise of his gift of eternal life at the proper time. AT: "the Holy Spirit is a pledge"
+  * **until the possession is gained** - AT: "until we gain possession of our inheritance" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:01|Ephesians Chapter 01 Comprehension Questions]]**
+**[[:en:bible:notes:eph:01:11|<<]] | [[:en:bible:notes:eph:01:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish wordoftruth}}
+
+~~NOCACHE~~

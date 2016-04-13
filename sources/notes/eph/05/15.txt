@@ -1,0 +1,64 @@
+====== Ephesians 05:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 So be very careful how you behave. Do not behave as foolish people do. Instead, behave as wise people do.
+\v 16 Use your time carefully, because in these days \f + \ft metonymy \f* \add people do\add* extremely evil \add deeds\add*.
+\v 17 Because of that, do not be foolish. Instead, understand what the Lord \add Jesus\add* wants you to do, \add and do it!\add*
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 So be very careful how you live. Do not behave as foolish people do. Instead, behave as wise people do.
+\v 16 Use the time you have on earth wisely because the days here are filled with evil.
+\v 17 So do not be foolish. Instead, understand what the Lord Jesus wants you to do, and do it!
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Therefore be careful how you live, not as unwise people but as wise.
+\v 16 Redeem the time because the days are evil.
+\v 17 Do not be foolish, but understand what the will of the Lord is.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:wise]]
+  * [[:en:obe:kt:redeem]]
+  * [[:en:obe:kt:evil]]
+  * [[:en:obe:kt:foolish]]
+  * [[:en:obe:kt:willofgod]]
+
+===== Translation Notes: =====
+
+
+    * **Therefore be careful how you live, not as unwise people but as wise** - Unwise people do not guard themselves against sin. However wise people can identify sin and flee from it. AT: "Therefore you must be careful to live like a wise person rather than an unwise person"
+    * **Redeem the time** -  We have a choice to live in sin which is the same as using our time unwisely. Or we can live doing what the Lord wants us to do and use our time wisely. AT: "Use your time wisely"
+    * **because the days are evil** - The word "days" means the times you are living in. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:05|Ephesians Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/05/13|<<]] | [[en/bible/notes/eph/05/18|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish redeem foolish}}
+
+~~NOCACHE~~

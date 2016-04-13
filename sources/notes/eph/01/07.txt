@@ -1,0 +1,50 @@
+====== Ephesians 01:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 When the blood of Christ\add flowed when he died\add* \f + \ft metonymy \f*, \add it was as though\add* he paid a price to free\f + \ft Or: save \f* us \add from the guilt of our sins\add*. \add That\add* \add provided a way\f + \ft Or: made it possible\add* \f* \add for\add* God to act very kindly toward us to forgive us for having sinned.
+\v 8 He acted very kindly toward us and enabled us to become wise about many \f + \ft hyperbole \f* things and to understand his truth.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Jesus has freed us as if he purchased us out of a slave market. He freed us by his death; that is, God has forgiven us of our sins, because he has been very, very kind to us.
+\v 8 He has been very kind to us, and he has given us much wisdom.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 For in his beloved one, we have redemption through his blood, the forgiveness of sins, by the riches of his grace.
+\v 8 This grace was abundantly provided for us in all wisdom and understanding.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:redeem]]
+  * [[:en:obe:kt:blood]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:grace]]
+  * [[:en:obe:kt:wise]]
+
+===== Translation Notes: =====
+
+  * **in his beloved one** - AT: "in God's beloved one, Jesus Christ"
+  * **we have redemption** - "We" refers to all believers. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **riches of his grace ** - AT: "greatness of God's grace" or "abundance of God's grace"
+  * **in all wisdom and understanding** - God has given believers great wisdom and understanding. AT: "much wisdom and understanding"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:01|Ephesians Chapter 01 Comprehension Questions]]**
+**[[:en:bible:notes:eph:01:05|<<]] | [[:en:bible:notes:eph:01:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish redeem}}
+
+~~NOCACHE~~

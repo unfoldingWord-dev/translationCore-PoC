@@ -1,0 +1,60 @@
+====== Ephesians 01:19-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 And \add I pray that\add* you will know how very powerfully \add God acts\add* for us who continue to trust \add in Christ\add*. He works powerfully for us
+\v 20 just like he acted powerfully for Christ when he caused Christ to become alive again after he died, and put him in the place of highest\f + \ft Or: greatest \f* honor \f + \ft metonymy \f* in heaven.
+\v 21 \add There\add*, Christ is the supreme ruler over every powerful spirit of every level of authority. His rank is much higher than any of them can receive, not only now, but forever.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 And I pray that you will know how very powerfully God acts for us who are trusting in Christ. He works powerfully for us,
+\v 20 just like he acted powerfully for Christ when he caused Christ to become alive again after he died, and raised him to the place of highest honor in heaven.
+\v 21 In that place, Christ rules as supreme over every powerful spirit on every level of authority and over every name that exists. Jesus is much higher than any other being, not only now, but forever.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 and what is the exceeding greatness of his power in us who believe, according to the working of the strength of his power.
+\v 20 This is the power that worked in Christ when  God raised him from the dead and seated him at his right hand in the heavenly places,
+\v 21 far above all rule, authority, power, dominion, and every name that is named, not only in this age, but also in the age to come.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:power]]
+  * [[:en:obe:kt:believe]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:raise]]
+  * [[:en:obe:kt:righthand]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:kt:dominion]]
+
+===== Translation Notes: =====
+
+  * **what is the exceeding greatness of his power** - God's power is far beyond all other power.
+  * **the working of the strength of his power** - AT: "his great power that is at work for us"
+  * **seated him at his right hand** - "seated Christ at God's right hand." This is the highest place of honor. (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **in this age** - AT: "at this time"
+  * **in the age to come** - AT: "in the future"
+  * **far above all rule, authority, power, dominion** - These are different terms for the ranks of supernatural beings, both angelic and demonic. AT: "far above all types of supernatural beings"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:01|Ephesians Chapter 01 Comprehension Questions]]**
+**[[:en:bible:notes:eph:01:17|<<]] | [[:en:bible:notes:eph:01:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

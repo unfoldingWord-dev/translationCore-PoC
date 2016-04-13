@@ -1,0 +1,54 @@
+====== Ephesians 06:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Finally, at all times rely\f + \ft Or: depend \f* completely on the Lord \add Jesus\add* to strengthen you \add spiritually\add* by his own mighty power.
+\v 11 \add Just like a soldier\add* puts on all his armor\f + \ft Or: things \add to help him fight\add* \f* \f + \ft metaphor \f*, you should \add use every spiritual resource, Or: help that God provides for you\add*, in order that you may successfully resist the devil when he cleverly tries \add to oppose you\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Finally, rely completely on the Lord Jesus to strengthen you spiritually by his own mighty power.
+\v 11 Just like a soldier puts on all his armor, you should use every resource from God to successfully resist the devil when he cleverly schemes against you.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 Finally, be strong in the Lord and in the strength of his might.
+\v 11 Put on the whole armor of God, that you may be able to stand against the scheming plans of the devil.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:mighty]]
+  * [[:en:obe:other:armor]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:satan]] 
+
+===== Translation Notes: =====
+
+  * **be strong in the Lord and in the strength of his might** - AT: "depend completely on the Lord to give you spiritual strength" (See [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Put on the whole armor of God, that you may be able to stand against the scheming plans of the devil** - Christians should use all the resources God gives to stand firm against the devil just as a soldier puts on armor to protect himself from enemy attacks. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:06|Ephesians Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/06/09|<<]] | [[en/bible/notes/eph/06/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish armor}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Ephesians 06:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 You must be ready to firmly \add resist the devil and his evil spirits\add* \f + \ft metaphor \f*, \add just like soldiers must be ready to resist the enemy. Prepare for doing that by doing these things\add*: \add To be strong spiritually\add*, hold firmly to \add God's\add* truth, just like soldiers prepare to stand firm against\f + \ft Or: to firmly resist \f* their enemies by fastening their belts around their waists \f + \ft metaphor \f*. Act righteously \add in order to protect yourself against demonic attacks, just like soldiers\add* put on breastplates \add to protect their chests against his enemies' attacks\add* \f + \ft metaphor \f*.
+\v 15 Hold firmly the good message\add that gives us\add* peace \add with God, just like soldiers\add* put on their boots firmly \f + \ft metaphor \f* to stand firm \add against\f + \ft Or: \add*to firmly \add resist\add* \f* \add their enemies\add*.
+\v 16 In addition, keep trusting firmly \add in the Lord. That will enable you to protect yourselves from anything that Satan\add*, the evil one, \add may do to harm you spiritually, just like soldiers\add* carry shields \add to protect themselves against\add* the arrows that have flaming tips \add that their enemies shoot at them\add* \f + \ft metaphor \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 So stand against the devil by clothing yourself with God's truth and righteousness, as if they were pieces of armor you put on to do battle.
+\v 15 And hold firmly the good news,  that gives us peace with God, just like soldiers put on their boots firmly on.
+\v 16 In addition, keep trusting firmly in the Lord. That will enable you to protect yourselves from anything that Satan, the evil one, may do to harm you spiritually, just like soldiers carry shields to protect themselves against the arrows that have flaming tips that their enemies shoot at them .
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 Therefore stand firm, having put on the belt of truth and the breastplate of righteousness,
+\v 15 wear shoes on your feet that are prepared to proclaim the gospel of peace,
+\v 16 always carrying the shield of faith, by which you will be able to put out all the flaming arrows of the evil one.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:true]]
+  * [[:en:obe:kt:righteous]]
+  * [[:en:obe:other:proclaim]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:other:peace]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:satan]]
+ 
+===== Translation Notes: =====
+
+
+    * **the belt of truth** - Truth holds everything together for a believer just as a belt holds all clothing of a soldier together. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **the breastplate of righteousness** - The gift of righteousness covers a believer's heart just as a breastplate protects the chest of a soldier. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **wear shoes on your feet that are prepared to proclaim the gospel of peace** - Just as a soldier wears shoes to give him solid footing, the believer must have solid knowledge of the gospel of peace in order to be ready to proclaim it. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **always carrying the shield of faith** - The faith God gives a believer is to be used for protection when the devil attacks like a shield which a soldier uses to protect from enemy attacks. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **the flaming arrows of the evil one** - The attacks of the devil against a believer are like flaming arrows shot at a soldier by an enemy. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:06|Ephesians Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/06/12|<<]] | [[en/bible/notes/eph/06/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

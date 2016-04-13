@@ -1,0 +1,60 @@
+====== Ephesians 04:28-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 Those who have been stealing must not steal any longer. Instead, they should work hard to earn their living\f + \ft Or: what they need \f* \add by\add* their own efforts\f + \ft Or: \add by\add* what they do themselves \f* \f + \ft metonymy \f*, in order that they may have \add something\add* to give to those who are needy.
+\v 29 Do not use \f + \ft metonymy \f* foul language. Instead, say only things that are suitable\f + \ft Or: useful \f* for helping people when they need help, things that will help \add spiritually\add* the people that you talk to.
+\v 30 \add God has given you his\add* Spirit to confirm\f + \ft Or: to assure you \f* that some day \add God will claim all\add* you people \add whom Christ has\add* redeemed \f + \ft metaphor \f*, \add just like people confirm that something belongs to them by\add* putting their seal on it. So do not cause God's Holy Spirit to be sad \add by the way you talk\f + \ft Or: by the things that you say\add* \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 Those who have been stealing must not steal any longer. Instead, they must work hard to earn their living by their own efforts, so that they may have something to give to those who are needy.
+\v 29 Do not use foul language. Instead, say good things that will help people when they need help, things that help those who hear.
+\v 30 Do not make the Holy Spirit of God sad by what you say or how you live, for He has sealed us with the promise of God's eternal protection for the day when God will deliver us from this world of evil.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 Whoever steals must steal no longer, but rather, he must labor, working usefully with his hands, so that he may be able to share with the person who has need.
+\v 29 No corrupt speech must come out of your mouth, but instead words that are useful for building up others as they need it, to give grace to them who are listening.
+\v 30 And do not grieve the Holy Spirit of God, by whom you have been sealed for the day of redemption.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:grace]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:redeem]]
+ 
+
+===== Translation Notes: =====
+
+  * **No corrupt speech must come out of your mouth** - AT: "Let no bad language come out of your mouth" or "Let no evil talk come out of your mouth"
+  * **instead words that are useful for building up others** - AT: "instead speak words that are useful for building up, or giving strength to other believers"
+  * **to give grace to them who are listening** - AT: "In this way you will give grace to those who are listening"
+  * **do not grieve the Holy Spirit of God** - AT: "do not cause the Holy Spirit of God to become sad by your bad speech"
+  * **by whom you have been sealed** - AT: "for he has sealed you"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/04/25|<<]] | [[en/bible/notes/eph/04/31|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

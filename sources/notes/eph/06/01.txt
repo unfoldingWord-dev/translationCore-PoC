@@ -1,0 +1,64 @@
+====== Ephesians 06:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 You children, because you belong to\f + \ft Or: have a close relationship with \f* the Lord \add Jesus\add*, obey your parents, because it is right \add for you to do\add* that.
+\v 2 God commanded \add in the Scriptures\add*,
+\p \add Greatly\add* respect your father and mother.
+\q That is the first law \add that God\add* commanded in \add which he also\add* promised \add something\add*. \add He promised\add*,
+\p
+\v 3 \add If you do\add* that, you will prosper, and you will live a long time on the earth.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 You children, because you belong to the Lord Jesus, obey your parents, because it is right for you to do that.
+\v 2 God commanded in the Scriptures,
+\p "Greatly respect your father and mother."
+That is the first law that God commanded in which he also promised something. He promised,
+\p
+\v 3 "If you do that, you will prosper, and you will live a long time on the earth."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 6
+\p
+\v 1 Children, obey your parents in the Lord, for this is right.
+\v 2 "Honor your father and mother" (which is the first commandment with promise),
+\v 3 that it may be well with you, and you may live long on the earth."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:obey]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:honor]]
+  * [[:en:obe:other:father]]
+  * [[en:obe:other:command]]
+  * [[:en:obe:kt:promise]]
+===== Translation Notes: =====
+
+
+    * **Children, obey your parents in the Lord** - Paul is referring to children obeying their physical parents.
+    * **that it may be well with you, and you may live long on the earth** - The pronoun "you" refers to the children of Israel to whom Moses was speaking. AT: "so that you may prosper and live a long life on the earth" (See: [[:en:ta:vol1:translate:figs_youdual]])
+  
+===== Links: =====
+
+  * **[[:en:bible:questions:comprehension:eph:06|Ephesians Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:eph:05:31|<<]] | [[:en:bible:notes:eph:06:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish commandment}}
+
+~~NOCACHE~~

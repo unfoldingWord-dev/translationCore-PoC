@@ -1,0 +1,46 @@
+====== Ephesians 01:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 He has enabled us to know the things that he had planned secretly \f + \ft Or: that he had not revealed to anyone yet \f*. He did that because he wanted to do that, and because he planned to do that by means of the things Christ would do.
+\v 10 God planned that at the time that \add he appointed\add*, he would unite all things\f + \ft Or: beings \f* in heaven and all things\f + \ft Or: beings \f* on earth \f + \ft Or: all beings in heaven and all things on earth \f*, and cause Christ to be the one who will rule them \f + \ft metaphor \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 God has now explained the secret of his plan, as he was pleased to reveal Christ.
+\v 10 God planned that at the time that he appointed he would unite all things in heaven and all things on earth, and Christ would be the one who will rule them.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 9 God made known to us the hidden truth of the plan, according to his desire that he demonstrated in Christ:
+\v 10 that when the times are fulfilled for the completion of his plan, he will bring together everything in heaven and on the earth under Christ.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:true]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+  * **the hidden truth of the plan** - AT: "his hidden plan"
+  * **according to his desire** - AT: "as he was pleased" (UDB)
+  * **when the times are fulfilled**  - AT: "When everything is comes to pass" 
+  * **for the completion of his plan**  - AT: "for his plan to be completed"
+  * **his plan, he will**  - AT: "God's plan, God will"
+  * **under Christ**  - AT: “under Christ’s rule”
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:01|Ephesians Chapter 01 Comprehension Questions]]**
+**[[:en:bible:notes:eph:01:07|<<]] | [[:en:bible:notes:eph:01:11|>>]]**
+
+{{tag>publish}}
+
+~~NOCACHE~~

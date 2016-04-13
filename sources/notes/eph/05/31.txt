@@ -1,0 +1,57 @@
+====== Ephesians 05:31-33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 \add What someone has written in the Scriptures about people who marry is this\add*,
+\q \add When\add* a man and \add a\add* woman \add marry\add*, they should \add permanently\add* leave\f + \ft Or: no longer live with \f* their fathers and mothers. They should be joined \add as husband and\add* wife, and the two of them shall become \add as though they were\add* one \f + \ft metaphor \f* person.
+\p
+\v 32 It is very difficult to understand the meaning of these things that God has now revealed to me, but \add I am telling you that\add* those words \add also\add* refer to \add the relationship between\add* Christ and all those who belong to him.
+\v 33 However, as for you, each man must love his wife just as he loves himself, and each woman must respect her husband.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 The Scriptures say this about people who marry,
+\q "When a man and a woman marry, they should permanently leave their fathers and mothers. They should be joined as husband and wife, and the two of them will become as though they were one person."
+\p
+\v 32 It is difficult to understand the meaning of these things that God has now revealed, but I am telling you 
+about Christ's love for his worldwide assembly of believers.
+\v 33 However, as for you, each man must love his wife just as he loves himself, and each woman must respect her husband.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 31 "For this cause a man will leave his father and mother and will be joined to his wife; and the two will become one flesh."
+\v 32 This is a great hidden truth, but I am speaking about Christ and his Church.
+\v 33 Nevertheless, each of you also must love his own wife as himself, and the wife must respect her husband.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:flesh]]
+  * [[:en:obe:other:mystery]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:church]]
+ 
+
+===== Translation Notes: =====
+
+    * **For this cause** - AT: "For this reason"
+    * **must love his own wife as himself** - The words "his" and "himself" refer to a male believer who is married.
+    * **the wife must respect her husband** - AT: "the wife must honor her husband" or "the wife must reverence her husband"
+
+===== Links: =====
+
+  * **[[:en:bible:questions:comprehension:eph:05|Ephesians Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:eph:05:28|<<]] | [[:en:bible:notes:eph:06:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

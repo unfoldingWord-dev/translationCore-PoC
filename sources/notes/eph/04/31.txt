@@ -1,0 +1,53 @@
+====== Ephesians 04:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 Do not be resentful at all towards others. Do not become angry in any way. Never shout abusively at others. Never slander\f + \ft Or: say bad things about \f* others. Never act maliciously, Or: be mean in any way.
+\v 32 Be kind to one another. Act mercifully toward each other. Forgive each other, just like God forgave you because of \add what\add* Christ \add has done\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 Do not be resentful at all towards others. Do not become angry in any way or shout abusively at others. Never slander others. Never plan evil toward others.
+\v 32 Be kind to one another. Act mercifully toward each other. Forgive each other, just like God forgave you because of what Christ has done.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 31 Let all bitterness and rage and anger, and shouting and insults be taken away from you, along with all evil;
+\v 32 and be kind to each other, tenderhearted, forgiving each other, just as God in Christ freely forgave you.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:angry]]
+  * [[:en:obe:kt:evil]]
+  * [[:en:obe:kt:forgive]]
+
+===== Translation Notes: =====
+
+  * **Let all bitterness...be taken away from you** - AT: "Let God take away all feelings of hostility" or "Let God take away all feelings of hatred" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **rage and anger** - The words "rage" and "anger" express the great intensity of anger. AT: "uncontrolled anger" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **shouting and insults** - The word "shouting" intensifies the harshness of "insults." AT: "harsh verbal abuse" (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **and be kind to each other, tenderhearted** - AT: "Instead you must be kind to each other, gentle" or "Instead you must be kind to each other, full of compassion"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/04/28|<<]] | [[en/bible/notes/eph/05/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish forgive}}
+
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Ephesians 02:19-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 So \add God no longer treats\add* you \add non-Jews\add* as \add people treat\add* \f + \ft metaphor \f* foreigners and strangers \add who live among them\add* \f + \ft metaphor \f*. Instead, along with all God's people, \add it is as though\add* you have become citizens of a country that he rules over, and \add as though you have become\add* members of the family\add of which he is the father\add* \f + \ft metaphor \f*.
+\v 20 \add Just like\add* a building is built \f + \ft Or:\add as someone\add* builds a building \f* on a foundation, \add God has joined you into one group that originated, Or: began\add* from what the apostles and prophets \add taught\add*. Christ Jesus is the \add most important one in that group, just like a\add* cornerstone \add is the most important part of a building\add*. And
+\v 21 just like \add a builder might\add* join together all the parts of a building to make it a temple that \add people will\add* dedicate to the Lord \f + \ft metaphor \f*, \add Christ is continually causing all of\add* you who have a relationship with \add him to be united, in order that you will become one holy group\add*.
+\v 22 And because of your relationship with Christ, \add God\add* is joining you \add non-Jews\add* together with \add Jewish believers\add* to be \add like\add* one building \f + \ft metaphor \f* in which his Spirit lives.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Therefore now you non-Jews are no longer strangers and foreigners to God's people, but instead you are fellow members with those whom God has set apart for himself, and you belong to God's family for whom God is the Father.
+\v 20 You are like stones that God has made to be part of his building, and the building is built on what the apostles and prophets taught. The most important stone, the cornerstone, of the building is Christ Jesus himself.
+\v 21 Jesus is building his family of believers and fitting them together like a temple of stones is built and fit together, increasing as the Lord sets apart new believers for himself, as when people add stones to build a temple.
+\v 22 Jesus is building you up together, both Jews and non-Jews, into one family in which his Spirit lives, because God's Spirit lives inside each believer.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 So then now you Gentiles are no longer strangers and foreigners, but instead you are fellow citizens with those set apart for God, those who are members of God's family.
+\v 20 These are built upon the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone.
+\v 21 By the power of Jesus the whole building of his family fits together and increases as a temple set apart for the Lord,
+\v 22 in whom you also  are being built together into a dwelling place for God in the Spirit.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:kt:setapart]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:apostle]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:cornerstone]]
+  * [[:en:obe:kt:temple]]
+
+===== Translation Notes: =====
+
+  * **you Gentiles are no longer strangers and foreigners, but instead you are fellow citizens with those set apart for God, those who are members of God's family**  - This is describing the spiritual condition of Gentiles before and after they became believers in the same way as a non-citizen becomes a citizen of a nation. (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **no longer strangers**  - AT: "no longer outsiders"
+  * **and foreigners**  - AT: "and non-citizens"
+  * **These are built upon the foundation...**  - Paul compares God's family to a building. Christ being the cornerstone, the apostles being the foundation, and the believers being the structure. (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **the whole building of his family fits together and increases as a temple set apart for the Lord**  - Paul continues with the comparison of Christ's family to a building in the way a builder fits stones in the making a building so Christ is fitting us together. (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **in whom you also are being built together into a dwelling place for God in the Spirit**  - This describes how believers are being put together to become a place where God will permanently dwell in the Spirit just as a house is a dwelling place for people on earth. (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:02|Ephesians Chapter 02 Comprehension Questions]]**
+**[[:en:bible:notes:eph:02:17|<<]] | [[:en:bible:notes:eph:03:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish cornerstone}}
+
+~~NOCACHE~~

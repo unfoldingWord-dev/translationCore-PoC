@@ -1,0 +1,66 @@
+====== Ephesians 05:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 But when \add God's people rebuke those evil people about their deeds, it will be clear\f + \ft Or: evident \f* how evil their deeds really are, just like\add* everything exposed to the light becomes visible \f + \ft Or:as light ( metaphor ) reveals everything \add that we cannot see in the darkness\add* \f*.
+\v 14 \add Just like something on which a light shines reflects that light\add* \f + \ft metaphor \f*, \add whoever has learned God's truth reveals that truth to others\add*. That is why \add we believers\add* say this:
+\q You who are not aware of your sins, become aware of them \f + \ft metaphor \f*!
+\q It is as though you are sound asleep, so wake up!
+\q Be like dead people who are becoming alive again!
+\q Christ will cause you to know God's truth, just like a light \f + \ft metaphor \f*
+\q that shines causes people to know what is in the darkness.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Everything that light exposes can then be clearly seen and better understood
+\v 14 because the light shows what it truly is. It is like when God's word explains the sins that destroy people and Jesus who forgives and renews people. So believers say, 
+\q "Wake up from your sleep 
+\q and arise from living like dead people. 
+\q Christ will enable you to understand 
+\q his forgiveness and new life."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 Everything is revealed by the light,
+\v 14 because the light is shining on it all. Therefore it has been said, 
+\q "Awake, you who sleep, 
+\q and rise from the dead, 
+\q and Christ will shine on you."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:light]]
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:christ]]
+
+===== Translation Notes: =====
+
+    * **Everything is revealed by the light** - Just as light reveals things that were hidden in the physical world, so the light of Christ reveals the evil spiritual actions of unbelievers in the spiritual world. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **Awake, you who sleep, and rise from the dead** - Unbelievers need to wake up from being dead spiritually just as a person who has died must come alive again in order to respond. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **Christ will shine on you** - Christ will enable an unbeliever to understand his provision of forgiveness and new life just as light shows what is actually there that was hidden by darkness. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:05|Ephesians Chapter 05 Comprehension Questions]]**
+
+**[[en/bible/notes/eph/05/08|<<]] | [[en/bible/notes/eph/05/15|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,46 @@
+====== Ephesians 06:4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 You parents \f + \ft Or: You fathers \f*, do not treat your children so severely that they become angry. Instead, bring them up well by instructing them and by disciplining them in \add the manner that\add* the Lord \add Jesus wants you to do\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 You parents, do not treat your children so severely that they become angry. Instead, bring them up well by instructing them and by disciplining them in the manner that the Lord Jesus wants you to do.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 And, you fathers, do not provoke your children to anger, but instead raise them in the discipline and instruction of the Lord.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:father]]
+  * [[:en:obe:other:angry]]
+  * [[:en:obe:kt:discipline]]
+  * [[:en:obe:kt:lordgod]]
+===== Translation Notes: =====
+
+  * **And, you fathers, do not provoke your children to anger** - AT: "You fathers must not do things that will make your children angry" or "You fathers must not cause your children to be angry"
+  * **raise them in the discipline and instruction of the Lord** - AT: "bring them up in the training and teaching of the Lord"
+===== Links: =====
+
+  * **[[:en:bible:questions:comprehension:eph:06|Ephesians Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:eph:06:01|<<]] | [[:en:bible:notes:eph:06:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish discipline}}
+
+~~NOCACHE~~

@@ -1,0 +1,49 @@
+====== Ephesians 06:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 \add I pray that\add* God our Father and the Lord Jesus Christ will cause all of you fellow believers to have \add inner\add* peace, and \add enable you to\add* love \add each other\add* and to continue trusting \add in Christ\add*.
+\v 24 I pray that God will continue to act kindly to \add you and\add* to all \add others\add* who love our Lord Jesus Christ and will never quit loving him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 I pray that God our Father and the Lord Jesus Christ may cause all of you fellow believers to have inner peace, and enable you to love each other and to continue trusting in Christ.
+\v 24 I pray that God will continue to act kindly to you and to all others who love our Lord Jesus Christ and will never stop loving him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 Peace be to the brothers, and love with faith from God the Father and the Lord Jesus Christ.
+\v 24 Grace be with all them who love our Lord Jesus Christ with a love that never dies.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:peace]]
+  * [[:en:obe:kt:brother]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:grace]]
+  * [[:en:obe:kt:love]]
+ 
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:06|Ephesians Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:eph:06:21|<<]] |**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

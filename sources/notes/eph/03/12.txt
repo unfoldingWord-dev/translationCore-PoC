@@ -1,0 +1,61 @@
+====== Ephesians 03:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Because of what he has done and because of our relationship with him, \add when we pray\add* we can approach God confidently and without being afraid.
+\v 13 So I ask that you do not be discouraged because of my suffering many things for you  \add here in prison\add*. You should feel honored that I am  \add willing to\add* suffer  \add these things for your sake\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 So now when we pray, we can come to God confidently and without being afraid, because we trust in Jesus, who has fulfilled God's plan.
+\v 13 So I ask that you do not be discouraged because of my suffering many things for you here in prison, which should help you grow toward maturity.
+
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 For in Christ we have boldness and access with confidence because of our faith in him.
+\v 13 Therefore I ask you not to be discouraged at my sufferings for you, which are your glory.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:suffer]]
+  * [[:en:obe:kt:glory]]
+
+===== Translation Notes: =====
+
+  * **access with confidence** - AT: "access into God's presence with confidence" or "freedom to enter into God's presence with confidence" (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **because of our faith in him** - AT: "because of our faith in Christ"
+  * **Therefore I ask you not to be discouraged at** - AT: “Therefore I ask you not to lose courage because of”
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:03|Ephesians Chapter 03 Comprehension Questions]]**
+
+ 
+**[[en/bible/notes/eph/03/10|<<]] | [[en/bible/notes/eph/03/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,53 @@
+====== Ephesians 05:22-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22-23 Because husbands have authority over \f + \ft metaphor \f* their wives, just as all of us believers form one group \add under the authority of\add* Christ, you women should submit yourselves to \add the authority of your\add* husbands just as you submit yourselves to the Lord \add Jesus\add*. He is the one who saves all his people \add from the guilt of their sins\add*.
+\v 24 Just like all believers submit themselves to \add the authority of\add* Christ, the women must submit themselves completely to the \add authority of\add* their husbands.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22-23 Wives should submit to their own husband's leadership as they do to the Lord Jesus, because the husband is the leader of the wife as also Christ is the leader of the worldwide assembly of believers. He is the Savior who has saved all believers from being condemned for their sins.
+\v 24 Just like all believers submit themselves to the authority of Christ, the women must submit themselves completely to the authority of their husbands.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 Wives should be subject to their own husbands, as to the Lord.
+\v 23 For the husband is the head of the wife, as Christ also is the head of the Church, and he is the Savior of the body.
+\v 24 But as the church is subject to Christ, so also must wives be to their husbands in everything.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:church]]
+  * [[:en:obe:kt:savior]] 
+
+===== Translation Notes: =====
+
+  * **he is the Savior of the body** - AT: "Christ is the Savior of the body of believers" or "Christ is the Savior of all believers" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **so also must wives be to their husbands in everything** - AT: "so wives must also be subject to their husbands in everything" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[:en:bible:questions:comprehension:eph:05|Ephesians Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:eph:05:18|<<]] | [[:en:bible:notes:eph:05:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish church}}
+
+~~NOCACHE~~

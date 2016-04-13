@@ -1,0 +1,55 @@
+====== Ephesians 05:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Do not commit any kind of immoral act \f + \ft doublet \f*, and do not desire more things than you need. Do not \add act in such a way that others could\add* even spread rumors\f + \ft Or: talk \f* about your acting in such ways, because it is not appropriate, Or: fitting for God's people to do such things.
+\v 4 Do not use obscene\f + \ft Or: shameful \f* language when you talk to people. Do not talk foolishly. Do not use vulgar\f + \ft Or: indecent \f* language, because it is not appropriate\f + \ft Or: fitting \f* that God's people should talk like that. Instead, tell people how much you thank \add God for all he does for you\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Do not suggest any kind of immoral act and do not desire what others have or wrong things others do. Such sins can cause people to say bad things about God's people, who are together set apart for God, not for sin.
+\v 4 Do not tell obscene stories to others or say foolish things or joke about committing sins. Such things are not what people who belong to God talk about. Instead, thank God for his love when you talk to others.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 3 Sexual immorality or any impurity or sensual greed must not be suggested among you, as is proper for those set apart for God—
+\v 4 nor obscenity, foolish talk, or degrading jokes, which are improper, but rather thankfulness.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:fornication]]
+  * [[:en:obe:kt:setapart]] 
+
+===== Translation Notes: =====
+
+
+    * **Sexual immorality or any impurity or sensual greed must not be suggested among you, as is proper for those set apart for God** - AT: "Do not allow even the thought of sexual immorality or any impurity or greed to be found among God's people"
+    * **any impurity** - AT: "any moral uncleanness" 
+    * **sensual greed** - AT: "desires for what others have" 
+    * **must not be suggested among you** - AT: "must not be mentioned among you" or "must not be discovered among you"
+    * **as is proper for those set apart for God** - AT: "Your behavior should always be appropriate as God's holy people"
+    * **nor obscenity, foolish talk, or degrading jokes, which are improper, but rather thankfulness** - AT: "Let your speech be filled with thanksgiving, not filthy and foolish talk or unclean jokes"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:05|Ephesians Chapter 05 Comprehension Questions]]**
+
+**[[en/bible/notes/eph/05/01|<<]] | [[en/bible/notes/eph/05/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish fornication}}
+
+~~NOCACHE~~

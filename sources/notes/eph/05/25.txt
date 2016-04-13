@@ -1,0 +1,57 @@
+====== Ephesians 05:25-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 Each of you husbands, love your wife as Christ loved all of \add us who would become\add* believers, with the result that he willingly died for our sake,
+\v 26 in order that he might set us apart for himself\f + \ft Or: cause us to belong to him \f*. That is, by \add revealing his\add* message \add to us\add*, he wanted to \add remove the guilt of our sin, just like people remove dirt from something\add* by washing it \f + \ft metaphor \f*.
+\v 27 \add Christ did that\add* in order that he might cause all of us believers to be a glorious group of people that belong to him, people that do not have any moral flaws\f + \ft Or: imperfections \f*, but instead might be completely pure \f + \ft doublet \f* when he gathers us to his presence\f + \ft Or: to himself \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 Each of you husbands, love your wife as Christ loved all believers and gave up his own life for us on the cross,
+\v 26 so that he might set us apart for himself. By the power of his word Jesus purified believers by removing the punishment for our sins, as if he had washed us with water.
+\v 27 Now Christ can present all believers to himself as a completely clean, forgiven, faultless group, without sin.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 Husbands, love your wives as Christ loved the Church and gave himself up for her,
+\v 26 that he might make her holy because he cleansed us by the washing of water by the word,
+\v 27 that he might present to himself the Church as glorious, without  stain or wrinkle or any such thing, but instead holy and without fault.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:love]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:church]]
+  * [[:en:obe:kt:holy]]
+  * [[:en:obe:kt:clean]]
+  * [[:en:obe:kt:glory]]
+
+===== Translation Notes: =====
+
+  * **love your wives** - "Love" is referring to unselfish, serving or giving love.
+  * **gave himself up for her, that he might make her holy because he cleansed us** - The words “himself” and “he” refer to Christ while the words “her” and "us" refer to the Church (or all the believers in the Church).
+  * **gave himself up for her** - AT: "Christ sacrificed everything for her"
+  * **he cleansed us by the washing of water by the word** - Possible meanings are 1) Paul is referring to having been made clean by God's word and through water baptism in Christ or 2) Paul is saying God made us spiritually clean from our sins by the word of God like we make our bodies clean by washing with water. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **that he might present to himself the Church** - "that Christ might present to himself the Church"
+  * **without stain or wrinkle** - Paul speaks of the Church as a garment that is clean and in good condition. He uses the same idea in two ways to emphasize the Church's purity. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[en:ta:vol2:translate:figs_doublet]])
+  * **holy and without fault** - The phrase "without fault" means basically the same thing as "holy." Paul uses the two together to emphasize the Church's purity. (See: [[en:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[:en:bible:questions:comprehension:eph:05|Ephesians Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:eph:05:22|<<]] | [[:en:bible:notes:eph:05:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

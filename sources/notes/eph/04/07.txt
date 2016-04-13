@@ -1,0 +1,59 @@
+====== Ephesians 04:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Christ has generously given to each one of us spiritual gifts, just like he decided to give them.
+\v 8 \add When Christ gave\add* gifts to his people\add , it was similar to what the Psalmist said about God receiving tribute money\add* from those whom he had conquered,
+\q When he ascended to heaven, he gave as gifts to people the things \add that he had taken\add* from the people whom he captured:
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 God has generously given to each believer spiritual gifts that Christ has measured out to us as he wishes.
+\v 8 This is similar to what the Psalmist said about God receiving tribute money from those whom he had conquered,
+\q When he ascended to his city at the top of the mountain,
+\q he led the captives into captivity
+\q and gave their gifts of tribute to his people.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 To each one of us has been given a gift according to the measure of the gift of Christ.
+\v 8 As scripture says,
+\q When he ascended the heights,
+\q he led the captives into captivity,
+\q And gave gifts to the people.
+\m
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:gift]]
+  * [[:en:obe:kt:wordofgod]]
+  * [[:en:obe:kt:enslave]]
+
+===== Translation Notes: =====
+
+  * **To each one of us** - The word "us" includes Paul and all the believers at Ephesus. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **To each one of us has been given a gift** - AT: "A gift has been given to each believer" or "God gave a gift to each one of us" (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **When he ascended the heights** - "When Christ went up into heaven" - The word "he" refers to Christ through verse 11.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:eph:04:04|<<]] | [[:en:bible:notes:eph:04:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

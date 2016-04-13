@@ -1,0 +1,65 @@
+====== Ephesians 02:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Formerly, because you were habitually sinning \f + \ft doublet \f*, you were \add spiritually\add* dead\f + \ft Or: \add as unable to please God as a\add* corpse \f + \ft metaphor \f* is \f*.
+\v 2 You were acting in the same \add evil\add* way as those who oppose Christ \f + \ft metonymy \f* act. That is, you were behaving in the \add evil\add* ways \add that Satan wanted you to behave\add*. He rules over evil spiritual beings that no person can see \f + \ft metonymy \f*. He is the spirit who now powerfully controls the people who disobey God.
+\v 3 Formerly, we all used to disobey God as they do. We did the things that our self-centered nature wanted us to do. We habitually did those \add evil\add* deeds that our bodies and our minds wanted. When we were acting like that, it was certain that \add God\add* would punish \f + \ft metonymy \f* us, just like he will certainly punish all other \add evil people\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Before you trusted Christ, you were powerless to obey God, as if you were dead.
+\v 2 You once lived like most people in the world today who now follow Satan, the evil ruler over the evil spirits whom we do not see. Satan is the evil spirit who is now controlling the people who disobey God.
+\v 3 We were at one time among those who disobeyed God; we did the evil things that we desired, things that would bring pleasure to our bodies and our minds. So God was very angry with us, just as with the others.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 And you were dead in your trespasses and your sins
+\v 2 in which you once walked, according to the age of this world, according to the ruler of the authorities of the air, of the spirit of him who is working in the sons of disobedience. 
+\v 3 We all were once among these unbelievers and acted according to the evil desires of our flesh, doing the will of the flesh and of the mind, and we were by nature children of wrath like the others.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:trespass]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:walk]]
+  * [[:en:obe:kt:world]]
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:other:disobey]]
+  * [[:en:obe:kt:unbeliever]]
+  * [[:en:obe:kt:evil]]
+  * [[:en:obe:kt:flesh]]
+  * [[:en:obe:kt:wrath]]
+
+===== Translation Notes: =====
+
+  * **And you were dead in your trespasses and your sins**  - This shows how sinful people are unable to obey God in the same way a dead person is unable to respond physically. (See: [[en:ta:vol1:translate:figs_metaphor|Metaphor]])
+  * **your trespasses and your sins** - The words "trespasses" and "sins" mean basically the same thing. Paul uses them together to emphasize the greatness of the people's sin. (See: [[en:ta:vol2:translate:figs_doublet]])
+  * **you once walked** - This expresses the behavior of how people live. AT: "you once lived" (see [[en:ta:vol1:translate:figs_idiom]])
+  * **according to the age of this world**  - The apostles also used “world” to refer to the selfish behaviors and corrupt values of the people living in this world. AT: “according to the values of people living in the world” or “following the principles of this present world” (See: [[en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **ruler of the authorities of the air**  - This is referring to the devil or Satan.
+  * **the spirit of him who** - The phrase "spirit of him" is also referring to the devil or Satan.
+  * **acted according to the evil desires of our flesh, doing the will of the flesh and of the mind**  - The words "flesh" and "mind" are used as metonyms for the entire body. (See: [[en:ta:vol2:translate:figs_metonymy|Metonymy]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:02|Ephesians Chapter 02 Comprehension Questions]]**
+**[[:en:bible:notes:eph:01:22|<<]] | [[:en:bible:notes:eph:02:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish trespass}}
+
+~~NOCACHE~~

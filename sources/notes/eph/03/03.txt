@@ -1,0 +1,55 @@
+====== Ephesians 03:3-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 God revealed to me the message that he had not revealed to others. When you read what I have already written briefly about that,
+\v 4 you will be able to understand that I understand clearly that message about Christ.
+\v 5 Formerly, \add God\add* did not reveal that message to anyone, but now his Spirit has revealed that message to his holy apostles and prophets\f + \ft Or: people who tell messages that come directly from God \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 He gave me this task because of the secret truth about which I wrote to you briefly;
+\v 4 when you read what I have already written briefly about that, 
+you will be able to understand that I clearly understand the truth about Christ.
+\v 5 Formerly, God did not fully reveal the good news that was to come to anyone. It was something that no one understood, but now his Spirit has revealed the good news to his apostles and prophets whom the Spirit called to serve God.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 according to the revelation made known to me, the hidden truth about which I wrote a little previously.
+\v 4 When you read about this you will be able to understand my insight into this hidden truth about Christ,
+\v 5 which in other generations was not made known to the human race, but now which has been revealed to his apostles and prophets set apart in the Spirit:
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:reveal]]
+  * [[:en:obe:kt:true]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:apostle]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:setapart]]
+  * [[:en:obe:kt:holyspirit]]
+
+===== Translation Notes: =====
+
+  * **according to the revelation made known to me** - AT: "that God a revelation known to me" or "that God revealed to me"
+  * **the hidden truth about which I wrote a little previously** - AT: "the previously not known truth that I briefly wrote to you about before"
+  * **When you read about this** - "This" refers to the hidden truths that  Paul is making known to the Ephesians.
+  * **you will be able to understand** - AT: "you will be able to comprehend" or "you will be able to realize"
+  * **my insight into this hidden truth about Christ** - AT: "my understanding into this previously not known truth"
+  * **which in other generations was not made known to the human race** - AT: "which was not made known to people in the past"
+  * **but now which has been revealed** - AT: "but now it has been shown" or “but now it has been made known”
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:03|Ephesians Chapter 03 Comprehension Questions]]**
+**[[:en:bible:notes:eph:03:01|<<]] | [[:en:bible:notes:eph:03:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish reveal}}
+
+~~NOCACHE~~

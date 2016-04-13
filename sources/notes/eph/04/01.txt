@@ -1,0 +1,53 @@
+====== Ephesians 04:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Therefore I, who am in prison because \add I serve\add* the Lord \add Jesus\add*, urge you, whom God has chosen \add to be his people, to do these things\add*: Conduct your lives as \add God's people\add* should.
+\v 2 Always be humble, and do not demand your own rights. Be patient \add with each other\add*, and, because you love each other, endure each other's \add irritating\add* behavior\f + \ft Or: behavior that you do not like \f*.
+\v 3 \add God's\add* Spirit has caused you to be united \add with one another\add*, so do all that you can to remain united \add with one another\add* by acting peacefully \add toward each other\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Therefore, from this prison where I am because I proclaim the Lord Jesus, I urge you whom God has chosen to live in a way that honors Jesus, who called you.
+\v 2 Humbly and gently and patiently serve the needs of one another because you love each other.
+\v 3 Do all you can to remain united with one another by peacefully living together with each other.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 4
+\p
+\v 1 Therefore, as the prisoner for the Lord, I urge you to live a life worthy of the calling by which God called you,
+\v 2 with great humility and gentleness and patience, accepting each other in love.
+\v 3 Do your best to keep the unity of the Spirit in the bond of peace.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:prison]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:call]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:humble]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:other:peace]]
+
+===== Translation Notes: =====
+
+  * **as the prisoner for the Lord** - AT: "as someone who is in prison because of his choice to serve the Lord"
+  * **I urge you to live a life worthy of the calling** - In all these verses the word "you" refers to all the believers at Ephesus. AT: "I encourage with you to conduct yourself in a manner proper of the calling" (See: [[en:ta:vol1:translate:figs_you]])
+  * **with great humility and gentleness and patience, accepting each other in love** - AT: "You must learn to be humble, gentle, patient and to accept each other in love"
+  * **keep the unity of the Spirit in the bond of peace** - AT: “seek to live together in peace to maintain the unity of the Spirit”
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:eph:03:20|<<]] | [[:en:bible:notes:eph:04:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish call prison}}
+
+~~NOCACHE~~

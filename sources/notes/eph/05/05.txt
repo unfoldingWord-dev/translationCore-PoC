@@ -1,0 +1,67 @@
+====== Ephesians 05:5-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 You can be sure of this: No person who is sexually immoral or who acts indecently\f + \ft Or: shamefully \f* will be among those people whom God rules over \f + \ft metaphor \f* \add in heaven\add*. Neither will those who desire more things than they need. Such people worship their possessions \add instead of worshipping God\add*.
+\v 6 Do not let anyone deceive you by suggesting that \add God will really\add* not \add punish people who commit such sins\add*, because God certainly will punish \f + \ft metonymy \f* those who habitually disobey him \add by doing such things\add*.
+
+
+\p
+\v 7 So, do not commit the same kind of deeds that such people do,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 You can be sure of this: No person who is sexually immoral or indecent, or who is greedy (for this is the same as worshiping idols) will be among God's people over whom Christ rules as king.
+\v 6 Do not let anyone deceive you with false arguments. Because they do these sinful things, God will be angry with the people who disobey him.
+
+
+
+\p
+\v 7 So do not join with those who do these kinds of sins.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 For you can be certain that no sexually immoral, impure, or greedy person, that is, one who worships idols, has any inheritance in the kingdom of Christ and God.
+\v 6 Let no one deceive you with empty words. Because of these things the anger of God is coming upon the children of disobedience.
+\v 7 So do not be participants with them.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:fornication]]
+  * [[:en:obe:kt:worship]]
+  * [[:en:obe:other:idol]]
+  * [[:en:obe:kt:inherit]]
+  * [[:en:obe:other:kingdom]]
+  * [[:en:obe:other:disobey]]
+
+===== Translation Notes: =====
+
+
+     * **Let no one deceive you with empty words** - AT: "Do not let anyone trick you with false arguments" or "Do not let anyone mislead you with meaningless words"
+    * **Because of these things the anger of God is coming upon the children of disobedience** - AT: "The anger of God is coming upon the people who disobey him when they do these things"
+    * **So do not be participants with them** - AT: "Be sure you do not participate with them in evil behavior" (See: [[:en:ta:vol1:translate:figs_explicit]]}
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:05|Ephesians Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/05/03|<<]] | [[en/bible/notes/eph/05/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

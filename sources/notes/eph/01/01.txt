@@ -1,0 +1,67 @@
+====== Ephesians 01:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 I, Paul, am an apostle whom God appointed to represent\f + \ft Or: to proclaim the message about \f* Christ Jesus because that is what God wanted. \add I am writing this letter\add* to you who are the people of God in Ephesus \add city. You are people who\add* faithfully\f + \ft Or: continue to \f* trust in Christ Jesus and who have a close relationship with him.
+\v 2 \add I pray that\add* God our Father and Jesus Christ our Lord will continue to act kindly toward you and cause you to have \add inner\add* peace.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Dear fellow believers who God has set apart for himself, who trust in Christ Jesus—who are living in the city of Ephesus; this is Paul, whom God has chosen to send to you as an apostle of Christ Jesus
+\v 2 I pray that God our Father and Jesus Christ our Lord will give you his kindness and peace.
+
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 1
+\p
+\v 1 Paul, an apostle of Christ Jesus through the will of God, to those set apart for God in Ephesus who faithfully trust in Christ Jesus—
+\v 2 May grace be to you and peace from God our Father and the Lord Jesus Christ.
+\b
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:paul]]
+  * [[:en:obe:kt:apostle]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:willofgod]]
+  * [[:en:obe:kt:setapart]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:ephesus]]
+  * [[:en:obe:kt:faithful]]
+  * [[:en:obe:kt:trust]]
+  * [[:en:obe:kt:grace]]
+  * [[:en:obe:other:peace]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:lordgod]]
+
+===== Translation Notes: =====
+
+This book is a letter from Paul to members of the church at Ephesus.
+
+  * **through the will of God **  - AT: “chosen by God” or “by the will of God”
+  * **set apart for God **  - “morally blameless” or “holy ones.” AT: “saints”
+  * **grace be to you**  - The word "you" refers to all the believers at Ephesus. (See: [[en:ta:vol1:translate:figs_you]])
+  * **May grace be to you and peace ** - This is a common greeting and blessing Paul often extends in his letters.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:01|Ephesians Chapter 01 Comprehension Questions]]**
+**| [[:en:bible:notes:eph:01:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish willofgod ephesus}}
+
+~~NOCACHE~~

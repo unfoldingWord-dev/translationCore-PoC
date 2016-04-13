@@ -1,0 +1,47 @@
+====== Ephesians 04:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 Others taught you that instead, you must let \add God's Spirit\add* change the way you think,
+\v 24 and that you must start being \f + \ft metaphor \f* the new persons that God made you to become. That is, your \add behavior\add* must be righteous and truly\f + \ft Or: genuinely \f* devout.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 You must let God change the way you think deep in your minds,
+\v 24 and you must start living like the new persons that God made you to become. You must live righteously, set apart for God and living the way that is like the holy truth about Jesus.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 so that you may be renewed in the spirit of your mind,
+\v 24 and so that you may put on the new man, created by God in righteousness and holiness of truth.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:other:mind]]
+  * [[:en:obe:kt:righteous]]
+  * [[:en:obe:kt:holy]]
+  * [[:en:obe:kt:true]]
+
+===== Translation Notes: =====
+
+  * **you may be renewed** - AT: "you may be changed" or "you may be transformed"
+  * **so that you may put on the new man**  - This shows how an unbeliever becomes a new person when he becomes a believer by the power of God, just as a person puts on new clothing and looks totally different. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:eph:04:20|<<]] | [[:en:bible:notes:eph:04:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish spirit}}
+
+~~NOCACHE~~

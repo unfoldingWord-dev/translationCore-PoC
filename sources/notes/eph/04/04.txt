@@ -1,0 +1,61 @@
+====== Ephesians 04:4-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 \add All we believers form just one group\add* \f + \ft metaphor \f*, and there is only one \add Holy\add* Spirit, just like you were chosen \f + \ft Or:\add God\add* chose you \f* in order that you all might confidently keep expecting one\add set of good\add* things as a result of his choosing you.
+\v 5 There is only one Lord, \add Jesus Christ\add*. We all believe the same \add teaching about him. It was to show that we belong to him\add* alone that \add we had someone\add* baptize us.
+\v 6 There is one God, who is the \add spiritual\add* Father of all \add us believers\add*. He \add rules\add* over all his people; he enables all his people \add to do powerful things\add* \f + \ft Or: he sustains all his people \f*; and his \add Spirit lives\add* in all his people.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 All believers form one group, and there is only one Holy Spirit, and you were chosen to confidently wait for God to fulfill His promises to you.
+\v 5 There is only one Lord, Jesus Christ, in whom we all trust together. And there is only one way to baptize anyone into his name.
+\v 6 There is one God, the true Father of everyone. He rules over all his people and fills everything with his power.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 There is one body, and one Spirit, just as also you were called in one confident expectation of your calling;
+\v 5 and there is one Lord, one faith, one baptism,
+\v 6 one God and Father of all, who is over all and through all and in all.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:body]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:kt:call]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:baptize]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:godthefather]]
+ 
+===== Translation Notes: =====
+
+  * **one body** - All believers in the family of God are like the various members of a human body. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **one Spirit** - There is one Holy Spirit.
+  * **called in one** - AT: "specially chosen in one" or "appointed in one"
+  * **in one confident expectation** - AT: "in one sure hope"
+  * **Father of all...and in all** - AT: "Father of everything...over everything...through everything...in everything"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:eph:04:01|<<]] | [[:en:bible:notes:eph:04:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish body}}
+
+~~NOCACHE~~

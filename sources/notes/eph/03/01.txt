@@ -1,0 +1,46 @@
+====== Ephesians 03:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Because  \add God has done all this for\add* you non-Jews, I, Paul, \add pray for you. I want you to know that it is because I serve\add* Christ Jesus for your sake that I am in prison.
+\v 2 I assume that\f + \ft Or: think that probably \f* someone has told you how God acted very kindly toward me, appointing me  \add so that I would proclaim the good message to you non-Jews\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 God has done all this for you non-Jews for which, I, Paul, am here in prison because of Christ Jesus.
+\v 2 I assume that you know that God has honored me by giving me a certain task to do for your sake.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 3
+\p
+\v 1 Because of this I, Paul, the prisoner of Christ Jesus for you Gentiles—
+\v 2 if you have heard of the management of the gift of God that he gave me for you,
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:paul]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:kt:gift]]
+  * [[:en:obe:kt:god]]
+
+===== Translation Notes: =====
+
+  * **Because of this**  - AT: "Because of God's grace to you"
+  * **the management of the gift of God that he gave me for you**  - AT: "the responsibility God gave me to administer His grace to you"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:03|Ephesians Chapter 03 Comprehension Questions]]**
+**[[:en:bible:notes:eph:02:19|<<]] | [[:en:bible:notes:eph:03:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

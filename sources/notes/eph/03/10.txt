@@ -1,0 +1,59 @@
+====== Ephesians 03:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10  \add What he planned\add* was that all believers\f + \ft Or: people who belong to Christ \f* would be the ones who would reveal to all the ranks \f + \ft doublet \f* of spiritual beings in heaven that what God had planned is wise in every way.
+\v 11 That is what God had always planned, and it is what he accomplished by what our Lord Jesus  \add has done\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 What God has wisely planned, he has even shown to powerful angels in heaven through his people who trust in Christ.
+\v 11 That is what God had always planned for eternity, and it is what he accomplished through the work of Christ Jesus our Lord.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 As a result, there will be made known to the rulers and authorities in the heavenly places through the Church the complex wisdom of God,
+\v 11 according to the eternal plan that he intended in Christ Jesus our Lord.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:church]]
+  * [[:en:obe:kt:wise]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:lordgod]]
+
+===== Translation Notes: =====
+
+
+    * **there will be made known to the rulers and authorities in the heavenly places through the Church the complex wisdom of God** - AT: "God will make his complex wisdom known to the rulers and authorities in the heavenly places through the Church" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **rulers and authorities** - These words share similar meanings. Paul uses them together to emphasize that every spiritual being will know God's wisdom. (See: [[:en:ta:vol2:translate:figs_doublet]])
+    * **according to the eternal plan** - AT: "in keeping with the eternal plan" or "consistent with the eternal plan"
+    * **that he intended** - AT: "that he accomplished" or "that he fulfilled completely"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:03|Ephesians Chapter 03 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/03/08|<<]] | [[en/bible/notes/eph/03/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

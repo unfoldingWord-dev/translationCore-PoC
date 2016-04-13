@@ -1,0 +1,46 @@
+====== Ephesians 01:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Because of \add what God has done for you\add*, and because \add people\add* told me that you continue to trust in the Lord Jesus and that you love all those who belong to God,
+\v 16 I thank God for you constantly \f + \ft litotes, hyperbole \f*. I mention\f + \ft Or: pray for \f* you constantly, whenever I pray.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Because God has done so much for you, and because I heard how you trust in the Lord Jesus and love all whom God has chosen for himself,
+\v 16 I have not stopped thanking God for you and praying for you often.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 Because of this, since the time that I heard about your faith in the Lord Jesus, and about your love for all those set apart for him,
+\v 16 I have not stopped thanking God for you and mentioning you in my prayers.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:love]]
+  * [[:en:obe:kt:setapart]]
+  * [[:en:obe:other:pray]]
+
+===== Translation Notes: =====
+
+  * **Because of this** - AT: “For this reason”
+  * **your love for all those set apart for him** - Your love for all the believers in Christ. AT: "your love for all the saints in Christ"
+  * **I have not stopped thanking God** - This can be translated as a positive statement. AT: "I continue to thank God" (See: [[en:ta:vol2:translate:figs_doublenegatives]])
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:01|Ephesians Chapter 01 Comprehension Questions]]**
+**[[:en:bible:notes:eph:01:13|<<]] | [[:en:bible:notes:eph:01:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

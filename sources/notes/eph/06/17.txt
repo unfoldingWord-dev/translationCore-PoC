@@ -1,0 +1,61 @@
+====== Ephesians 06:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 And \add rely\f + \ft Or: depend \f* on the fact that God\add* has saved you, \add in order to protect yourselves against demonic attacks, just like soldiers\add* put on a helmet \add to protect\add* their \add heads from attacks by\add* their \add enemies\add* \f + \ft metaphor \f*. And be ready to use \add the weapon that God's\add* Spirit \add has given you\add*, which is the message of God, \add in order to fight against\add* \add demonic powers\f + \ft Or: Satan\add* \f*, \add just like soldiers\add* use their swords \add to fight against their enemies\add* \f + \ft metaphor \f*.
+\v 18 As you are doing that, keep praying \add to God\add* at all times, and requesting him \add to do things for you and others;\add* and let God's Spirit \add direct what you pray\add*. For this purpose, always be \add spiritually\add* alert\f + \ft Or: watchful \f*, and always be persistent in\f + \ft Or: never quit \f* praying for all God's people.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 And trust in Christ, who has saved you. This will be like a soldier putting on a helmet to protect his head. And believe in what God says in the scriptures; this will be like a soldier who grasps his sword.
+\v 18 As you are doing that, keep praying to God at all times, and requesting him to do things for you and others; and let God's Spirit direct what you pray. For this purpose, always be spiritually alert praying for all God's people.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 And take the helmet of salvation and the sword of the Spirit, which is the word of God,
+\v 18 through every prayer and request praying at all times in the Spirit, watching for his answer with all perseverance and prayer for all those set apart for God.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:salvation]]
+  * [[:en:obe:other:sword]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:kt:wordofgod]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:other:perseverance]]
+  * [[:en:obe:kt:setapart]]
+  * [[:en:obe:kt:god]]
+ 
+===== Translation Notes: =====
+
+
+    * **And take the helmet of salvation** - Salvation given by God protects the believer's mind just as a helmet protects the head of a soldier. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **the sword of the Spirit, which is the word of God** - The word of God, inspired by the Holy Spirit, is to be used to fight against and defend the believer from the devil just as a soldier uses his sword to fight and defend against enemy attacks. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **through every prayer and request praying at all times in the Spirit** - AT: "Pray at all times in the Spirit as you pray and make specific requests"
+    * **with all perseverance and prayer for all those set apart for God** - AT: "with constant alertness and prayer for all the believers"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:06|Ephesians Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/06/14|<<]] | [[en/bible/notes/eph/06/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish salvation perseverance}}
+
+~~NOCACHE~~

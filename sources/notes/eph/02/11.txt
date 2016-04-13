@@ -1,0 +1,54 @@
+====== Ephesians 02:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 You \add Ephesians\add* were non-Jews from the time that you were born. The Jews \add insult you\f + \ft Or: say that you are not God's people\add* \f* \add by\add* calling you 'those who are not circumcised.' They \add proudly\add* call themselves 'we\add \f + \ft exclusive \f*\add* who are circumcised.' \add They have allowed people to\add* circumcise \add them to indicate that they are God's people, but\add* that has \add only\add* changed their bodies, \add not their\add* \add inner beings\f + \ft Or: hearts\add* \f*.
+\v 12 You should constantly remember these things: Formerly you did not have any relationship with Christ. You did not belong to the people of Israel, \add the people whom God chose\add*. You did not know about the things God promised in his agreements \add with his people\add*. You did not confidently expect to go to heaven after you die \f + \ft Or: \add that God would save you\add* \f*. You \add lived\add* in this world without knowing God.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Do not forget that you non-Jewish believers were previously called Gentiles because you were not born as Jews. The Jews insulted you by calling you "uncircumcised pagans." They call themselves "the circumcision;" by this they mean that they, not you, are God's people, although circumcision is something that only humans do, not God.
+\v 12 At that time, you could not join God's community of Israel without knowing about the true God, nor could you receive what God had promised to his people in his covenants with them. You could not even expect to trust in God in this world because you did know who God is.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 Therefore remember that once you were Gentiles in the flesh, who are called "uncircumcised pagans" by what is called the circumcision in the flesh by the hands of men.
+\v 12 For at that time you were separated from Christ, alienated from the citizenship of Israel, and strangers to the covenants of the promise, having no certainty about the future, and without God in the world.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:kt:flesh]]
+  * [[:en:obe:kt:uncircumcised]]
+  * [[:en:obe:kt:circumcise]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:other:israel]]
+  * [[:en:obe:kt:covenant]]
+  * [[:en:obe:kt:hope]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:world]]
+
+===== Translation Notes: =====
+
+  * **Gentiles in the flesh** - People who were not Jewish by birth.
+  * **uncircumcised pagans** - Non-Jewish people were not circumcised as babies and thus considered people who do not follow God.
+  * **the circumcision** - This was another term for Jewish people because all male infants were circumcised when they were eight days old.
+  * **separated from Christ** - AT: "unbelievers"
+  * **alienated from** - AT: “detached from” or “not included in”
+  * **the citizenship of Israel** - AT: “the people of Israel” or “the community of Israel”
+  * **strangers to the covenants of the promise** - AT: "you did not know the covenant promises of God"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:02|Ephesians Chapter 02 Comprehension Questions]]**
+**[[:en:bible:notes:eph:02:08|<<]] | [[:en:bible:notes:eph:02:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish uncircumcised}}
+
+~~NOCACHE~~

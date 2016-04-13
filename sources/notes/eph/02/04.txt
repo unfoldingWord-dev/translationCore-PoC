@@ -1,0 +1,62 @@
+====== Ephesians 02:4-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 But God always acts very mercifully, and he loves us very much.
+\v 5 As a result, even when we were \add spiritually\add* dead\f + \ft Or: \add as unable to please God as\add* a corpse \f + \ft metaphor \f* is \f* because we were habitually sinning, he enabled us to receive \add spiritual\add*, Or: \add eternal\add* life because of our relationship with Christ. \add Do not forget this: It is only\add* because God has acted so kindly toward you, in a way that you did not deserve, that you are saved \f + \ft Or:that \add he\add* saved you \f* \add from the guilt of your sin\add*!
+\v 6 And \add it is as though\add* God gave us spiritual life when he caused Christ Jesus to be alive again after he died \f + \ft metaphor \f*. And \add it is as though\add* God caused us to sit \add and rule\add* \f + \ft metonymy \f* with him in heaven,
+\v 7 in order that he might show to everyone at all times in the future that he has acted toward us in an extremely kind way because of what Christ Jesus \add did for us\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 But God acts very mercifully, and he loves us very much.
+\v 5 We were like dead people, powerless to obey God, but then he made us live again by joining us to Christ. God has saved us because he has been very, very kind to us.
+\v 6 He raised us up from among those who are like dead people, and he gave us seats of honor to rule with Christ Jesus in heavenly places.
+\v 7 He did this to show in future times how kind he has been to us, for we are joined to Christ Jesus.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 4 But since God is rich in mercy because of his great love with which he loved us,
+\v 5 while we were dead in trespasses, he brought us to new life together with Christ—by grace you have been saved—
+\v 6 and raised us up together and made us sit together in the heavenly places with Christ Jesus.
+\v 7 He did this so that in the ages to come he might show to us the great riches of his grace by his kindness in Christ Jesus.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:mercy]]
+  * [[:en:obe:kt:love]]
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:trespass]]
+  * [[:en:obe:kt:life]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:grace]]
+  * [[:en:obe:kt:save]]
+  * [[:en:obe:kt:heaven]]
+===== Translation Notes: =====
+
+  * **God is rich in mercy** - AT: "God is abundant in mercy" or "God acts very kind to us"
+  * **because of his great love with which he loved us** - AT: "because of his great love for us" or "because he loves us very much"
+  * **while we were dead in trespasses, he brought us to new life** - This shows how a sinful person is unable to obey God until he is given new spiritual life just like a dead person is unable to respond physically unless he is raised from the dead. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **he brought us to new life together with Christ** - God has given us new life in Christ.
+  * **by grace you have been saved** - AT: "God saved us because of his great kindness toward us"
+  * **and raised us up together and made us sit together in the heavenly places with Christ Jesus** - Just as he already raised Christ, he will raise us up too and be with Christ in heaven.
+  * **in the ages to come** - AT: "in the future"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:02|Ephesians Chapter 02 Comprehension Questions]]**
+**[[:en:bible:notes:eph:02:01|<<]] | [[:en:bible:notes:eph:02:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

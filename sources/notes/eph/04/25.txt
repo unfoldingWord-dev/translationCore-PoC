@@ -1,0 +1,51 @@
+====== Ephesians 04:25-27 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 Therefore, quit lying to one another. Instead, because we all belong to just one group \add of believers\add*, speak truthfully to each other.
+\v 26 If you get angry, do not sin \add as a result of\add* getting angry. Before the end of the day \f + \ft metonymy \f*, stop being angry
+\v 27 and \add by doing that\add*, do not allow the devil to make you do evil.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 Therefore, quit lying to one another. Instead, speak truthfully to one another because we now are each other's fellow believers; we now belong to one another in God's family.
+\v 26 If you get angry, do not let your anger become sin. Before the end of the day, stop being angry
+\v 27 so that you will not allow the devil to tempt you to do evil.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 25 Therefore put away falsehood. "Speak truth, each one with his neighbor," because we are members of each other.
+\v 26 "Be angry, but do not sin." Do not let the sun go down upon your anger,
+\v 27 nor give an opportunity to the devil.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:true]]
+  * [[:en:obe:other:neighbor]]
+  * [[:en:obe:other:angry]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:satan]]
+
+===== Translation Notes: =====
+
+  * **put away falsehood** - AT: "you must stop telling lies"
+  * **Speak truth, each one with his neighbor** - AT: "believers must speak the truth to their neighbors"
+  * **we are members of each other** - AT: "we are all members of God's family" (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **Be angry, but do not sin** - AT: "You may get angry, but do not sin"
+  * **Do not let the sun go down upon your anger** - AT: "You must get over your anger before night comes"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:eph:04:23|<<]] | [[:en:bible:notes:eph:04:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish neighbor}}
+
+~~NOCACHE~~

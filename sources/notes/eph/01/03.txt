@@ -1,0 +1,53 @@
+====== Ephesians 01:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Praise God, the Father of our Lord Jesus Christ! Because of our relationship with Christ, he has blessed us spiritually in every way by giving us blessings that come from heaven.
+\v 4 Before God created the world, he chose us to be his people because of our relationship with\f + \ft Or: union with \f* Christ, in order that \add God could consider\add* us to be completely holy \f + \ft doublet \f*. Because \add God\add* loves \add us\add*,
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Praise God, the Father of our Lord Jesus Christ! He has caused us great joy through every kind of heavenly, spiritual blessing that Christ gives to us.
+\v 4 Before God created the world he chose us to be his people through Christ, who set us apart for God to live blamelessly in his sight.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 3 May the God and Father of our Lord Jesus Christ be praised, he who has blessed us with every spiritual blessing in the heavenly places in Christ.
+\v 4 For God chose us who believe in Christ before the creation of the world. He chose us so we could be holy and blameless in his sight.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:praise]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:elect]]
+  * [[:en:obe:kt:believe]]
+  * [[:en:obe:other:creation]]
+  * [[:en:obe:kt:holy]]
+  * [[:en:obe:kt:blameless]]
+  * [[:en:obe:kt:beloved]]
+
+===== Translation Notes: =====
+
+  * **May the God and Father of our Lord Jesus Christ be praised**  - This could be worded in the active form. AT: "Let us praise the God and Father of our Lord Jesus Christ" (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **he who has blessed us**  - AT: "for God has blessed us"
+  * **has blessed us **  - This is an inclusive pronoun referring to Paul and all the believers at Ephesus. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **every spiritual blessing **  - AT: "every blessing proceeding from the Spirit of God"
+  * **so we could be holy and blameless**  -  Paul states two traits that we can become in God. (See: [[en:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:01|Ephesians Chapter 01 Comprehension Questions]]**
+**[[:en:bible:notes:eph:01:01|<<]] | [[:en:bible:notes:eph:01:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish bless elect}}
+
+~~NOCACHE~~

@@ -1,0 +1,49 @@
+====== Ephesians 01:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Because of our close relationship with Christ, God has also chosen us\add \f + \ft inclusive \f*\add* \f + \ft Or: us\add ( exclusive )\add* Jews \f* to receive what he has promised \add to give\add* us. He decided long ago to do that. It was exactly what he planned. He accomplishes everything exactly as he plans and desires,
+\v 12 in order that we\f + \ft exclusive \f* Jews, who confidently expected the Messiah to do great things for us before the non-Jews expected such things \f + \ft Or: we \add ( inclusive )\add* who were already confidently expecting Christ \add to do great things for us\add* \f* will praise him for his greatness.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Long ago God chose us to be joined to Christ, just as he had planned—and he always does exactly what he wishes to do.
+\v 12 He did those so that the Jews, who confidently expected the Messiah to come and save them before the non-Jews knew anything about Christ, would praise him for his kindness.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 In Christ we were chosen and set beforehand, according to the plan of the one who does all things by the intent of his will,
+\v 12 so that we might exist for the praise of his glory, we who were the first to trust in Christ.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:elect]]
+  * [[:en:obe:other:praise]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:kt:trust]]
+
+===== Translation Notes: =====
+
+  * **we were chosen** - AT: “we were made to be God's inheritance” or “we were chosen to receive God's inheritance”
+  * **we were chosen...we who were the first** - The word "we" now refers to Paul, his Jewish brothers in Christ but not the Gentile (non-Jewish) believers. (See: [[en:ta:vol2:translate:figs_exclusive]])
+  * **the plan of the one ** - AT: "The plan of God"
+  * **intent of his will ** - AT: "intent of God's will"
+  * **we who were the first ** - Paul continues to exclude the Gentiles (non-Jews) from his use of "we." (See: [[en:ta:vol2:translate:figs_exclusive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:01|Ephesians Chapter 01 Comprehension Questions]]**
+**[[:en:bible:notes:eph:01:09|<<]] | [[:en:bible:notes:eph:01:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

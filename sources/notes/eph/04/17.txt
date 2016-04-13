@@ -1,0 +1,62 @@
+====== Ephesians 04:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 By \add the authority of\add* the Lord \add Jesus\add*, I strongly affirm\f + \ft Or: tell you \f* that you must no longer conduct your lives like unbelievers do. The futile, Or: worthless way in which they think \f + \ft metaphor \f* \add controls how they conduct their lives\add*.
+\v 18 They are unable to think clearly \f + \ft metaphor \f* \add about what is right and what is wrong\add*. Because they have decided that they do not want to know about God and because they stubbornly \f + \ft idiom \f* refuse to \add listen to his message\add*, they do not have the \add eternal\add* life that God \add gives us\add*.
+\v 19 The result is that because they have ceased to care\f + \ft Or: to be concerned \f* \add about what is right and what is wrong\add*, they have deliberately committed themselves to doing\f + \ft Or: wholeheartedly decided to do \f* the shameful things that their bodies want, and they commit all kinds of immoral acts, and continually are eager to do more of those things.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 By the authority of the Lord Jesus, I strongly affirm that you must no longer live like the unbelieving non-Jews do. The futile way they think directs them how to live.
+\v 18 They are unable to think clearly about what is right or wrong. They cannot comprehend obeying God because they refuse to listen to his message, and so they do not have the eternal life that Jesus gives us.
+\v 19 They have chosen to do shameful things their bodies desire without stopping. They commit all kinds of immoral acts and are obsessed with them more and more, and they are greedy for anything they desire.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 This I say therefore, and I exhort you in the Lord, that you no longer walk as the Gentiles walk in the futility of their minds,
+\v 18 being darkened in thought, alienated from the life of God by the ignorance that is in them, and by the stubbornness of their hearts. 
+\v 19 They have handed themselves over to debauchery in impure actions, in every kind of greediness.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:exhort]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:heart]] 
+
+===== Translation Notes: =====
+
+  * **This I say therefore, and I exhort you in the Lord** - AT: "Therefore I strongly encourage you in the Lord"
+  * **no longer walk as the Gentiles walk in the futility of their minds** - AT: "stop living like the Gentiles with their worthless thoughts"
+  * **being darkened in thought, alienated from the life of God by the ignorance that is in them, and by the stubbornness of their heart** - AT: "They cannot experience the life of God because their minds have been blinded and they are stubborn"
+  * **being darkened in thought** - They no longer think or reason clearly.
+  * **alienated from the life of God** - AT: "separated from godly living"
+  * **by the ignorance that is in them** - AT: "because they have no knowledge of God"
+  * **by the stubbornness of their heart** - They refuse to listen to God and follow His teachings.
+  * **They have handed themselves over to debauchery in impure actions, in every kind of greediness** - AT: "They have given their lives to an excessive desire for pleasure by their evil behavior and greed for everything they desire"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:eph:04:14|<<]] | [[:en:bible:notes:eph:04:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,64 @@
+====== Ephesians 06:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 In order that you may know about \add what is happening\add* to me and what I am doing, I am sending Tychicus \add to you with this letter\add*. He will tell you everything \add that is happening here\add*. He is a fellow believer whom we all \add \f + \ft inclusive \f*\add* love very much, and he serves the Lord \add Jesus\add* faithfully.
+\v 22 That is the reason that I am sending him \add to you\add*; I want you to know how my companions and I are\f + \ft Or: what is happening to my companions and me \f*, and I want him to encourage you \f + \ft synecdoche \f*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 In order that you may know about what is happening to me and what I am doing, I am sending Tychicus to you with this letter. He will tell you everything that is happening here. He is a fellow believer whom we all  love very much, and he serves the Lord Jesus faithfully.
+\v 22 That is the reason that I am sending him to you; I want you to know how my companions and I are. I want him to comfort and encourage you.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 But that you also may know my affairs and how I am doing, Tychicus, the beloved brother and faithful servant in the Lord, will make known to you everything.
+\v 22 I have sent him to you for this very purpose, that you may know our state and that he may comfort your hearts.
+\b
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:beloved]]
+  * [[:en:obe:kt:brother]]
+  * [[:en:obe:kt:faithful]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:heart]]
+ 
+
+===== Translation Notes: =====
+
+    * **my affairs** - AT: “my situation” or “my circumstances”
+    * **Tychicus** - Tychicus was one of several men who served with Paul. (See: [[en:ta:vol1:translate:translate_names]]) 
+    * **will make known to you everything** - AT: "will tell you everything" (See UDB)
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:06|Ephesians Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/06/19|<<]] | [[en/bible/notes/eph/06/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

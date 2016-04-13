@@ -1,0 +1,46 @@
+====== Ephesians 04:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 The words 'he ascended' certainly imply\f + \ft Or: indicate \f* \f + \ft rhetorical question \f* that Christ had also previously descended to the earth.
+\v 10 Christ, who descended \add to earth\add*, is also the one who ascended to the most exalted position in heaven, in order that he might show his power \f + \ft metonymy \f* throughout the universe.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 The words "he ascended" certainly make us know that Christ had also previously descended to the earth from heaven, like God's anointed king coming down from Jerusalem to fight.
+\v 10 Christ, who descended to earth to conquer evil, is also the one who was crucified for our sins, came back to life, and ascended to the most exalted position in heaven, in order that he might fill all things with his power.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 (What does this statement, "He ascended" mean, except that he also descended into the depths of the earth?
+\v 10 He who descended is the same person who also ascended far above all the heavens, that he might fill all things.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+  * **He ascended** - AT: "He went up"
+  * **he also descended** - AT: "he also went down" or "he also came down"
+  * **into the depths of the earth** - Possible meanings include 1) "into the lower regions, the earth" or 2) "into the lower parts, the earth"
+  * **he might fill all things** - AT: "he might completely fill everything" or "all might be filled with him"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:eph:04:07|<<]] | [[:en:bible:notes:eph:04:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,72 @@
+====== Ephesians 06:5-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 You slaves, obey those who are \add your masters\add* here on the earth. Obey them very respectfully and sincerely \f + \ft doublet \f*, just like you obey Christ.
+\v 6 Obey them, not only when they are watching \f + \ft metonymy \f* you, and not only to cause them to think highly\f + \ft Or: well \f* of you. Instead, obey them as \add though you were\add* \f + \ft metaphor \f* slaves of Christ, \add not slaves of your masters\add*. Do enthusiastically what God wants \add you to do\add*.
+\v 7 Serve \add your masters\add* zealously\f + \ft Or: wholeheartedly \f*, as you would serve the Lord \add Jesus\add*, not as you would serve \add ordinary\add* people.
+\v 8 \add Do this because\add* you know that \add some day\add* the Lord Jesus will reward each person for whatever good \add deeds\add* that person has done. He will reward people who are slaves and people who are not slaves.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 You slaves, obey those who are your masters here on the earth. Obey them very respectfully and sincerely just like you obey Christ.
+\v 6 Obey them not only when they are watching you. Instead, obey them as though you were slaves of Christ, not slaves of your masters. Do enthusiastically what God wants you to do.
+\v 7 Happily serve your masters, as you would serve the Lord Jesus, not as you would serve ordinary people.
+\v 8 Do this because you know that some day the Lord Jesus will reward each person for whatever good deeds that person has done. He will reward people who are slaves and people who are not slaves.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 5 Slaves, be obedient  to your earthly masters with deep respect and trembling, in the honesty of your heart, as to Christ,
+\v 6 not only to please them when they are watching you, but as slaves of Christ himself, sincerely doing the will of God from your heart,
+\v 7 serving cheerfully as for the Lord  and not just for people,
+\v 8 remembering that whatever good deed each person does, he will receive a reward from the Lord, whether that person is slave or free.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:obey]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:willofgod]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:works]]
+  * [[:en:obe:kt:reward]]
+===== Translation Notes: =====
+
+  * **Slaves, be obedient to** - AT: "You slaves should obey"
+  * **and trembling, in the honesty of your heart, as to Christ** - AT: "and humble fear, just as you obey Christ"  
+  * **deep respect and trembling** - These are two similar ways to show honor towards one's master. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **not only to please them when they are watching you** - AT: "Always work as if you were working for Christ himself, even when your masters are not watching you"
+  * **as slaves of Christ himself** - Serve your earthly master as if your earthly master was Christ himself.
+  * **serving cheerfully as for the Lord and not just for people** - AT: "Work joyfully since you are working for the Lord and not just for people"
+  * **remembering that whatever good deed each person does, he will receive a reward from the Lord** - AT: "Remember that every good deed a person does will be rewarded by the Lord"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:06|Ephesians Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/eph/06/04|<<]] | [[en/bible/notes/eph/06/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

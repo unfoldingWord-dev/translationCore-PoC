@@ -1,0 +1,49 @@
+====== Ephesians 03:14-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Because  \add God has done all this for you\add*, I kneel  \add and pray\add* \f + \ft metonymy \f* to  \add God our\add* Father.
+\v 15 He is the one who is  \add like\add* a father of all  \add the believers who are now in\add* heaven and those who are still on the earth.
+\v 16 I pray that, using his unlimited resources, he will cause you to be strengthened by his Spirit \f + \ft Or:cause his Spirit to strengthen you \f* in your inner beings\f + \ft Or: hearts \f* with all  \add God's\add* power.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Because God has done all this for you, I kneel and pray to God our Father.
+\v 15 He is the one who is like a father of all the believers who are now in heaven and those who are still on the earth, and he is the Creator of all beings.
+\v 16 I pray because of his great power that God will give you power and will strengthen you by his Spirit who lives in your spirits.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 —For this cause I bow my knees to the Father,
+\v 15 after whom every family in heaven and on earth is named and created,
+\v 16 that he would grant you, according to the riches of his glory, to be strengthened with power through his Spirit, who is in you;
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:kt:power]]
+  * [[:en:obe:kt:holyspirit]]
+
+===== Translation Notes: =====
+
+  * **For this cause** - AT: "Because God has done all this for you" (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **I bow my knees to the Father** - AT: "I bow my knees in prayer to the Father" or "I humbly pray to the Father"
+  * **that he would grant you** - AT: "that he would give you"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:03|Ephesians Chapter 03 Comprehension Questions]]**
+**[[:en:bible:notes:eph:03:12|<<]] | [[:en:bible:notes:eph:03:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

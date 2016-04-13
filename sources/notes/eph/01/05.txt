@@ -1,0 +1,55 @@
+====== Ephesians 01:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 he decided long ago that he would adopt us to be \add as though we were\add* his own children because of what Jesus Christ \add has done\add*. He decided to do that because it pleased him to do that,
+\v 6 in order that we would praise him for acting very kindly toward us in a wonderful way that we did not deserve, because of our relationship with his beloved Son \f + \ft Or:\add Son whom he\add* loves \f*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 Because he loves us, God planned long ago to adopt us as his own children because of what Jesus Christ has done. He planned to adopt us because it pleased him to have us as his children, so he did what he wanted to do.
+\v 6 Because of this we now praise God for his amazing kindness given to us by his Son whom he loves, kindness that we did not deserve.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 5 In love God predestined us for adoption as his own sons through Jesus Christ. He did this because he was pleased to do what he desired.
+\v 6 All of this was done so that God would be praised for his glorious grace, which he has freely given to us by his beloved one.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:adoption]]
+  * [[:en:obe:other:praise]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:kt:grace]]
+  * [[:en:obe:kt:beloved]]
+===== Translation Notes: =====
+
+  * **God predestined us for adoption**  - AT: “God determined to adopt us”
+  * **predestined us** - AT: "God planned long ago..." (UDB)
+  * **predestined us**  - Paul was including himself, the Ephesian church and all believers in Christ in his use of "us." (See: [[en:ta:vol2:translate:figs_inclusive|Inclusive]])
+  * **for adoption** - "Adoption" refers to being placed in God’s family.
+  * **through Jesus Christ** - God brought believers into his family by the work of Jesus Christ.
+  * **he did this...he was pleased...he desired...his glorious grace** - "he" and "his" refer to God.
+  * **his beloved one** - "God's beloved one." This refers to Jesus Christ.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:01|Ephesians Chapter 01 Comprehension Questions]]**
+**[[:en:bible:notes:eph:01:03|<<]] | [[:en:bible:notes:eph:01:07|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish adoption}}
+
+~~NOCACHE~~
+
+\\ 

@@ -1,0 +1,65 @@
+====== Ephesians 02:13-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 But now, because of your relationship with Christ Jesus, God has brought you, who had no relationship with him \f + \ft metaphor \f*, into his family \f + \ft metaphor \f*. He did that because \add you trusted in what Christ accomplished when\add* his blood \f + \ft metonymy \f* \add flowed from his body when he died on the cross\add*.
+\p
+\v 14 Christ himself \add has caused us Jewish and non-Jewish believers\add* to have peace \add with each other\add*. He has made both \add of our groups\add* to become one \add group\add*. \add Just like people\add* tear down\f + \ft Or: demolish \f* a wall that separates \add groups of people\add* \f + \ft metaphor \f*, he has destroyed the hatred \add between Jews and non-Jews\add*.
+\v 15 By dying \f + \ft metonymy \f* \add for us on the cross\add* he made it no longer \add necessary for us to obey\add* all the \add Jewish\add* laws and rituals \add in order to be saved\add*. He did that in order to enable the two \add groups\add* to become one new group because of our relationship with him. The result was that he has caused us to have peace \add with each other\add*.
+\v 16 By \add dying on\add* the cross \f + \ft metonymy \f* he caused both Jews and non-Jews to have a peaceful relationship with God. That is how he caused us to no longer be \f + \ft metaphor \f* enemies \add with God\add* \f + \ft Or: \add with each other\add* \f*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 But now because of what Christ Jesus has done, you have been able to trust in him because Christ agreed to die on the cross.
+
+\p
+\v 14 Christ has brought peace and unity between Jews and non-Jews by destroying the barrier between us, as if he had destroyed a wall of hate that separated our peoples from one another.
+\v 15 He made it no longer necessary for us to obey all the Jewish laws and commandments. He made Jews and non-Jews into one people instead of two because he made peace between us.
+\v 16 Jesus caused Jews and non-Jews together to both become friends with God in one new group of believers. By dying on the cross, Jesus made it possible for them to stop hating each other.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 13 But now in Christ Jesus you who once were far away from God have been brought near to God by the blood of Christ.
+\v 14 For he is our peace because he made both Jews and Gentiles one people. By his body He destroyed the wall of hostility that divided us from each other.
+\v 15 That is, he abolished the law of commandments and regulations so that he might create one new people out of two peoples, thus making peace.
+\v 16 He did this to reconcile both peoples into one body to God through the cross, putting to death the hostility between them.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:blood]]
+  * [[:en:obe:other:peace]]
+  * [[:en:obe:other:jew]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:kt:body]]
+  * [[en:obe:other:command]]
+  * [[:en:obe:kt:reconcile]]
+  * [[:en:obe:kt:cross]]
+  * [[:en:obe:kt:death]]
+
+===== Translation Notes: =====
+
+  * **But now in Christ Jesus** - Paul is marking a stark contrast before the Ephesians believed in Christ and after they believed in Christ.
+  * **you who once were far away from God have been brought near to God** - Due to the believers sins, they were separated far from God. However, now Jesus has brought them near to God by his blood.
+  * **he is our peace** - AT: "Jesus gives us his peace"
+  * **By his body** - AT: "By his death on the cross"
+  * **the wall of hostility** - AT: "the wall of hatred" or "ill will"
+  * **divided us from each other** - "Us" refers to both Paul and the Ephesians, that separated the Jewish believers from the Gentile believers. (See [[en:ta:vol2:translate:figs_inclusive]])
+  * **he abolished the law of commandments and regulations** - Jesus's blood satisfied the Law of Moses so that both the Jews and Gentiles can live at peace in Him.
+  * **to reconcile both peoples** - AT: "bring together both the Jews and the Gentiles"
+  * **putting to death the hostility between them** - Jesus eliminated the reason for Jews and Gentiles to be hostile towards each other. That is they were no longer required to live according to the Mosaic Law.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:02|Ephesians Chapter 02 Comprehension Questions]]**
+**[[:en:bible:notes:eph:02:11|<<]] | [[:en:bible:notes:eph:02:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

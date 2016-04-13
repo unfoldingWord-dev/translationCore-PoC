@@ -1,0 +1,48 @@
+====== Ephesians 01:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 God has caused all beings to be subject to Christ \f + \ft metonymy \f*, and he has also appointed Christ, who rules over all things, to rule \f + \ft metaphor \f* over all believers.
+\v 23 We believers \add relate to Christ like the parts of a person's\add* body \f + \ft metaphor \f* \add relate to its head\add*. Christ uses all \add his power among us\add* just like he uses his power throughout the whole universe.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 God has put all beings under the rule of Christ, as if they were all under his feet. And God has appointed Christ as the ruler over everything among all believers everywhere.
+\v 23 It is as if all believers together were Christ's own body. He fills all believers everywhere with his power, just as he fills all the universe with his power.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 God has subjected all things under Christ's feet, and has made him the head over all things in the Church,
+\v 23 which is his body, the fullness of him who fills all things in all ways.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:other:head]]
+  * [[:en:obe:kt:church]]
+===== Translation Notes: =====
+
+  * **God has subjected **  - AT: “God put” (UDB) or "God placed"
+  * **all things under Christ's feet **  - This represents Christ's lordship, authority and power. AT: "all things under Christ’s power" (See: [[en:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **has made him the head...which is his body** - Just as with a human body, the head rules all things pertaining to its body, so is Christ the head of the church body. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **the head over all things in the Church**  - "Head" implies the leader or the one in charge. AT: "ruler over all things in the Church"(See: [[en:ta:vol1:translate:figs_metaphor]]) 
+  * **which is his body**  - The Church is often referred to as the body of Christ. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **the fullness of him who fills all things in all ways** - Christ fills the whole church with His power and with his life. AT: "Christ fills the church with his life and power just as he gives and sustains life to all things"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:01|Ephesians Chapter 01 Comprehension Questions]]**
+**[[:en:bible:notes:eph:01:19|<<]] | [[:en:bible:notes:eph:02:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

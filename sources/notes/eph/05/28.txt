@@ -1,0 +1,48 @@
+====== Ephesians 05:28-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 In the same way, each man should love his wife as he loves his own body. Men who love their wives, \add it is as though\add* they love themselves.
+\v 29-30 This is shown by the fact that no one ever hated his own body. Instead, he feeds his own body and cares for it, just like Christ also cares for all us believers. We have become one group of believers that belongs to him \f + \ft metaphor \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 Each man should love his wife as he loves his own body. When men love their wives, it is as though they loved themselves,
+\v 29-30 because no one ever hated his own body. Instead, he feeds his own body and cares for it, just like Christ also cares for all us believers in his worldwide assembly. We have become one group of believers that belongs to him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 In the same say, husbands ought to love their own wives as their own bodies. He who  loves his own wife loves himself.
+\v 29 No one ever hated his own body, but instead he nourishes and loves it, as Christ also loves the Church,
+\v 30 because we are members of his body.
+</usfm>
+
+===== translationWords: ===== 
+
+  * [[en:obe:kt:love]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:church]]
+
+===== Translation Notes: =====
+
+  * **as their own bodies** - AT: "as they love their own bodies" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **instead he nourishes** - AT: "instead he nurtures" or "instead he cares for"
+  * **we are members of his body** - The word "we" refers to Paul and all the believers. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **we are members of his body** - Possible meanings are 1) "we are members of his body of believers" (non-metaphorical sense) or 2) Believers fit together to form the body of Christ just as the parts of the human body fit together to form a person. (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:en:bible:questions:comprehension:eph:05|Ephesians Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:eph:05:25|<<]] | [[:en:bible:notes:eph:05:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

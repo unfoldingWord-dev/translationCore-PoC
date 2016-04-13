@@ -1,0 +1,51 @@
+====== Ephesians 03:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20  \add God\add* is able to do much greater things\f + \ft Or: more \f* than we could ask him to do, or even that we might think that he can do, according to \f + \ft Or: by \f* his power that is working within us.
+\v 21 Because of our relationship with Christ Jesus, may all believers\f + \ft Or: those who belong to him \f* praise him forever. Amen!\f + \ft Or: May it be so! \f*
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 God is able to do much greater things than we usually ask him to do, or even that we might think that he can do, because of his power that is working within us.
+\v 21 God must be honored beyond everything by all the believers assembled to worship him through Christ Jesus. May all believers from all generations of history praise him forever and ever! So let it be done.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 Now to him who is able to do everything far, far above all that we ask or think, according to his power that works in us,
+\v 21 to him be the glory in the Church and in Christ Jesus to all generations forever and ever. Amen.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:power]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:kt:church]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:generation]]
+  * [[:en:obe:kt:amen]]
+
+===== Translation Notes: =====
+
+  * **Now to him**  - AT: "Now to God"
+  * **everything far, far above**  - God can do far more than we could ever ask or imagine.
+  * **that we ask or think** - "We" includes Paul and his audience. (See: [[en:ta:vol2:translate:figs_inclusive|Inclusive]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:03|Ephesians Chapter 03 Comprehension Questions]]**
+**[[:en:bible:notes:eph:03:17|<<]] | [[:en:bible:notes:eph:04:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

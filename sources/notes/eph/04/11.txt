@@ -1,0 +1,60 @@
+====== Ephesians 04:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 He appointed some people to be apostles. He appointed some people to be prophets\f + \ft Or: ones who reveal messages that come directly from God \f*. He appointed some people to be evangelists\f + \ft Or: ones whose work is to tell others the message about Christ \f*. He appointed some people to lead and teach \add the congregations\add*.
+\v 12 \add He appointed all of these\add* in order that they would prepare God's people to do \add God's\add* work, so that all the people who belong to Christ \f + \ft metaphor \f* might become \add spiritually\add* mature.
+\v 13 He wants all of us \add believers\add* to be united \add because\add* we all believe in the Son of God and \add because\add* we all know \add him\add*. He wants us to become spiritually mature; that is, he wants us to be perfect\f + \ft Or: all that God wants us to be \f*, \add just like\add* Christ was \add perfect\f + \ft Or: all that God wanted him to be\add* \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 He appointed some believers to be apostles, some prophets, some evangelists, and some to lead and others to teach the groups of believers.
+\v 12 This was to prepare God's people to do God's work and serve others, so that all the people who belong to Christ might become spiritually strong
+\v 13 He wants all of us believers to be united together as we all trust in him and grow to fully understand him. He wants us to become mature believers, together, growing to become like himself, who is perfect.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 Christ gave gifts like these: apostles, prophets, evangelists, pastors and teachers,
+\v 12 to equip those set apart for God for the work of service, for the building up of the body of Christ,
+\v 13 until we all reach the unity of faith and knowledge of the Son of God, and reach complete adulthood as those who have grown into the full measure of Christ.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:apostle]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:evangelism]]
+  * [[:en:obe:kt:pastor]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:kt:setapart]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:sonofgod]]
+ 
+===== Translation Notes: =====
+
+  * **Christ gave gifts like these** - AT: "Christ gave gifts to the Church like these" (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **those set apart for God** - This refers to all believers.
+  * **the work of service** - AT: "serving others"
+  * **for the building up of the body of Christ** - This metaphor compares growing spiritually to doing exercises to increase the strength of the human body. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **reach the unity of faith** - AT: "become equally strong in faith"
+  * **reach complete adulthood** - AT: "become mature believers" (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **the unity of faith and knowledge of the Son of God** - The knowledge of Jesus as the Son of God, and what that means, is necessary to reach the unity of faith and complete adulthood as believers. So, it is important to translate "Son of God" as literally and clearly as possible in your language.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:eph:04:09|<<]] | [[:en:bible:notes:eph:04:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish evangelism pastor teacher}}
+
+~~NOCACHE~~

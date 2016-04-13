@@ -1,0 +1,19 @@
+===== Ephesians Links: =====
+
+  * [[:en:ulb:ep:50-eph.usfm|Full ULB text of Ephesians]]
+  * [[:en:udb:ep:50-eph.usfm|Full UDB text of Ephesians]]
+
+
+<nspages en:bible:notes:eph:00 -title -naturalOrder -exclude:home -textPages="Ephesians 0" -nbCol=2>
+
+<nspages en:bible:notes:eph:01 -title -naturalOrder -exclude:home -textPages="Ephesians 1" -nbCol=2>
+
+<nspages en:bible:notes:eph:02 -title -naturalOrder -exclude:home -textPages="Ephesians 2" -nbCol=2>
+
+<nspages en:bible:notes:eph:03 -title -naturalOrder -exclude:home -textPages="Ephesians 3" -nbCol=2>
+
+<nspages en:bible:notes:eph:04 -title -naturalOrder -exclude:home -textPages="Ephesians 4" -nbCol=2>
+
+<nspages en:bible:notes:eph:05 -title -naturalOrder -exclude:home -textPages="Ephesians 5" -nbCol=2>
+
+<nspages en:bible:notes:eph:06 -title -naturalOrder -exclude:home -textPages="Ephesians 6" -nbCol=2>

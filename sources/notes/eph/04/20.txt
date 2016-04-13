@@ -1,0 +1,52 @@
+====== Ephesians 04:20-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 But when you learned \add about\add* Christ, you did not learn \add to behave\add* like that.
+\v 21 I am sure that you heard the message about \add Christ\add*, and because you are people who have a close relationship with him, you were taught \f + \ft Or:\add others\add* taught you \f* the true \add way to live\add* that Jesus \add showed us\add*.
+\v 22 \add You were taught\add* \f + \ft Or:\add They taught you\add* \f* that you must put aside \f + \ft metaphor \f* your evil nature\add ; that is, that you must not behave like you formerly did\add*. Your evil desires deceived you, making you want to do evil things and causing you to think that \add doing that was good for you\add*; and your thinking like that was destroying you \add spiritually\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 But when you learned about Christ you did not learn to live like that.
+\v 21 Now that you have heard about Jesus and he has taught you, you know that his way is the true way to live.
+\v 22 Jesus taught you to stop living the way you used to live, when you did what your evil desires deceived you into doing.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 But this is not how you learned about Christ.
+\v 21 If you have heard about him and have been taught about him, that this is the truth about Jesus,
+\v 22 you must put off the old man—that which accords with your old conduct, which is being corrupted according to deceitful desires,
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:true]]
+  * [[:en:obe:kt:jesus]]
+
+===== Translation Notes: =====
+
+  * **But this is not how you learned about Christ** - AT: "But you did not learn to follow Christ in this way"
+  * **If you have heard about him and have been taught about him, that this is the truth about Jesus** - AT: "Since you have heard about Jesus and have been taught the truth by him"
+  * **you must put off the old man—that which accords with your old conduct, which is being corrupted according to deceitful desires** - AT: "you must discard behavior that was normal to your old way of living, which got worse as your evil desires deceived you"
+  * **you must put off the old man** - You must rid yourself of all sinful behavior just like taking off clothes and throwing them away. AT: "you must change your behavior" (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **that which accords with your old conduct** - AT: "behavior that agrees with your old nature" or "behavior that agrees with your old self"
+  * **which is being corrupted according to deceitful desires** - AT: "which continues to grow worse because of lying desires of the flesh"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:04|Ephesians Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:eph:04:17|<<]] | [[:en:bible:notes:eph:04:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

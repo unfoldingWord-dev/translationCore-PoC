@@ -1,0 +1,65 @@
+====== Ephesians 05:8-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 because formerly you \add did not know God's truth\add* \f + \ft metaphor \f*, \add as those who\add* are in darkness \add do not know what is around them\add*. But now \add it is as though\add* you are in the light \f + \ft metaphor \f* \add because you know God's truth\add* because of your relationship with the Lord \add Jesus\add*. So do those things that those who know God's truth \f + \ft metaphor \f* should do.
+\v 9 Keep in mind that \add as\add* light \f + \ft metaphor \f* produces \add things that are good, those who know God's truth should do those things\add* that are good, righteous, and honest.
+\v 10 And as \add you do that\add*, try to find out\f + \ft Or: to discover \f* what pleases the Lord.
+\v 11 Do not do the worthless deeds that the people who are in \add spiritual\add* darkness\f + \ft Or: who do not know God's truth \f* \f + \ft metaphor \f* do. Instead, let others know that those people's deeds are worthless.
+\v 12 It is shameful for God's people to even talk \add among themselves about\add* those evil deeds that evil people do secretly and habitually.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Before you believed in the Lord Jesus, you were living in sinful disobedience, as if a dark night surrounded you all the time. But now you live in the light of the Lord.
+\v 9 Like light produces good things, so also those who live in the light of Jesus know and do what is good, right, and true;
+\v 10 they openly show what pleases the Lord.
+\v 11 Do not participate together with those who are doing the worthless deeds done in spiritual darkness. Instead, just say, "Those sinful acts are worthless,"
+\v 12 because the evil things people do in the secret of darkness are too shameful to describe in the light.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 For you were once darkness, but now you are light in the Lord. So walk as children of light—
+\v 9 because the fruit of the light is all goodness, righteousness, and truth,
+\v 10 —showing what is pleasing to the Lord.
+\v 11 Have no participation with the unfruitful works of the darkness, but rather expose them,
+\v 12 for the things done by them in secret are too shameful even to describe.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:darkness]]
+  * [[:en:obe:kt:light]]
+  * [[:en:obe:kt:good]]
+  * [[:en:obe:kt:righteous]]
+  * [[:en:obe:kt:true]]
+
+===== Translation Notes: =====
+
+
+    * **For you were once darkness** - Just as one can not see in the dark, so people who live in sin lack spiritual understanding. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **but now you are light in the Lord** - Just as one can see in the light, so people who live in righteousness have spiritual understanding. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **because the fruit of the light is all goodness, righteousness, and truth** - The works coming from the life of a believer (goodness, righteousness, and truth) are like the good fruit produced by a healthy tree. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **Have no participation with the unfruitful works of the darkness** - AT: "Do not be involved with the unfruitful works of sin or unbelievers"
+    * **the unfruitful works of the darkness** - The works of someone living in spiritual darkness are like the evil actions of people who do evil works hidden by the darkness at night. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+    * **but rather expose them** - AT: "but rather show them to be wrong"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:eph:05|Ephesians Chapter 05 Comprehension Questions]]**
+ 
+**[[en/bible/notes/eph/05/05|<<]] | [[en/bible/notes/eph/05/13|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish}}
+
+~~NOCACHE~~
