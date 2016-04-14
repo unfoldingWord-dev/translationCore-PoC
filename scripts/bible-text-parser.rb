@@ -1,27 +1,24 @@
-class BibleTextParser
+class GNTParser
   require 'json'
   require 'pry'
   require 'unicode_utils'
 
-  attr :bible, :training_data, :book_names
-  def initialize
+  attr :bible, :training_data, :book_names, :path
+  def initialize(params={path: '../sources/ugnt/wht-westcott-hort_eph.txt'})
     @bible = {}
     @training_data = []
     @book_names = %w(nil Matthew Mark Luke John Acts Romans 1Corinthians 2Corinthians Galatians Ephesians Philippians Colossians 1Thessalonians 2Thessalonians 1Timothy 2Timothy Titus Philemon Hebrews James 1Peter 2Peter 1John 2John 3John Jude Revelation)
+    @path = params[:path]
     bible_parse
   end
 
-  def bible_parse(path='../sources/wht-westcott-hort.txt')
+  def bible_parse
     File.open(path, "r:UTF-8").each do |line|
       reference_regex = /^\w+\s\d+:\d+/
       reference = bible_reference(line[reference_regex])
       verse = UnicodeUtils.nfkc(line.force_encoding('UTF-8')).gsub(reference_regex, '').strip
       
-      words = verse.split(/\b/).delete_if { |word| word[/^\s$/] }
-      training_data_build(words)
-      words.each do |word|
-        add_word(reference, word, :wht)
-      end
+      add_verse(reference, verse)
     end
   end
 
@@ -35,10 +32,9 @@ class BibleTextParser
     }
   end
 
-  def add_word(reference, word, source, _book=reference[:book], _chapter=reference[:chapter], _verse=reference[:verse])
+  def add_verse(reference, verse, _book=reference[:book], _chapter=reference[:chapter], _verse=reference[:verse])
       bible_build(reference)
-      @bible[_book][_chapter][_verse][source] ||= []
-      @bible[_book][_chapter][_verse][source]<< word
+      @bible[_book][_chapter][_verse] = verse 
   end
 
   def bible_build(reference)
@@ -47,12 +43,11 @@ class BibleTextParser
     @bible[reference[:book]][reference[:chapter]][reference[:verse]] ||= {}
   end
 
-  def training_data_build(words)
-    hash = {}
-    words.each {|word| hash[word] = 1 }
-    @training_data << {input: hash, output: hash}
+  def json
+    JSON.pretty_generate(bible)
   end
+
 end
 
-bible = BibleTextParser.new()
-puts JSON.pretty_generate(bible.training_data)
+gnt = GNTParser.new()
+puts gnt.json
