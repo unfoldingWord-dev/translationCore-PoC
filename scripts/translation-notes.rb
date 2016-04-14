@@ -83,6 +83,7 @@ class TranslationNotes
 
   def verse_lookup(quote)
     raise "no ULB verses found" unless @ulb
+    #TODO: may accidentally be looking in all of @ulb and not just the verses in this file.
     ulb.each do |_book, chapters|
       chapters.each do |_chapter, verses|
         verses.each do |_verse, text|
@@ -134,12 +135,3 @@ tn = TranslationNotes.new('../sources/notes')
 puts tn.ulb_json
 # puts tn.notes_parse(%q{* **the head over all things in the Church**  - "Head" implies the leader or the one in charge. AT: "ruler over all things in the Church"(See: [[en:ta:vol1:translate:figs_metaphor]]) })
 # puts tn.section_parse('===== Translation Notes: =====')
-
-=begin
-Ephesians
-Chapter 1
-1: metaphor
-2: simile, personification
-
-
-=end

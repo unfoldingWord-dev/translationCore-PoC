@@ -1,0 +1,93 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('http://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css');
+
+.pure-form fieldset {
+  margin: 0 2px;
+  padding: .35em .625em .75em;
+}
+
+.pure-form .pure-radio {
+  display: inline;
+  margin: .5em 1.5em .2em;
+}
+
+.pure-form #next {
+  float:right;
+}
+
+.pure-form #previous {
+  float:left;
+}
+
+.togglebox {
+  /*width: 400px;*/
+  margin: 0 auto;
+  background: #fff;
+  transform: translateZ(0);
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+
+input[type="checkbox"] {
+  position: absolute;
+  opacity: 0;
+}
+
+label[for*='1'],label[for*='2'],label[for*='3'],label[for*='4'] {
+  position: relative;
+  display: block;
+  height: 50px;
+  line-height: 50px;
+  padding: 0 20px;
+  font-size: 14px;
+  font-weight: 700;
+  border-top: 1px solid #ddd;
+  background: #fff;
+  cursor: pointer;
+
+  background: #fff;
+  background: -moz-linear-gradient(top,#fff 1%,#eaeaea 100%);
+  background: -webkit-gradient(linear,left top,left bottom,color-stop(1%,#fff),color-stop(100%,#eaeaea));
+  background: -webkit-linear-gradient(top,#fff 1%,#eaeaea 100%);
+  background: -o-linear-gradient(top,#fff 1%,#eaeaea 100%);
+  background: -ms-linear-gradient(top,#fff 1%,#eaeaea 100%);
+  background: linear-gradient(top,#fff 1%,#eaeaea 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff',endColorstr='#eaeaea',GradientType=0 );
+  box-shadow: 0 0 0 1px rgba(155,155,155,0.3),1px 0 0 rgba(255,255,255,0.9) inset,0 2px 2px rgba(0,0,0,0.1);
+}
+
+label[for*='1'] {
+  border: 0;
+}
+
+label[for*='1']:after,label[for*='2']:after,label[for*='3']:after,label[for*='4']:after {
+  content: '\f078';
+  position: absolute;
+  top: 0px;
+  right: 20px;
+  font-family: fontawesome;
+  transform: rotate(90deg);
+  transition: .3s transform;
+}
+
+section {
+  height: 0;
+  transition: .3s all;
+  overflow: auto;
+  padding: 0;
+}
+
+#toggle1:checked ~ label[for*='1']:after,
+#toggle2:checked ~ label[for*='2']:after,
+#toggle3:checked ~ label[for*='3']:after,
+#toggle4:checked ~ label[for*='4']:after {
+  transform: rotate(0deg);
+}
+
+#toggle1:checked ~ #content1,
+#toggle2:checked ~ #content2,
+#toggle3:checked ~ #content3,
+#toggle4:checked ~ #content4 {
+  height: auto;
+  max-height: 400px;
+  padding: 0 1em;
+}
