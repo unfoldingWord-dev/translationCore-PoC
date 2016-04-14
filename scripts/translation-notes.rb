@@ -99,7 +99,7 @@ class TranslationNotes
     return unless line[figs_regex]
     # raise "more than one figure in #{book} #{chapter}:#{verse} chunk:#{chunk} #{section} \n#{line}" if line.scan(figs_regex).count > 1
 
-    notes = {quote: nil, notes: nil, reference: {}}
+    notes = {quote: nil, notes: nil}
     
     types_regex = /\[\[.+figs_(\w+)\|?.*?\]\]/
     types = line.scan(types_regex).map(&:first)
@@ -108,18 +108,25 @@ class TranslationNotes
     notes_regex = /(#{quote_regex}\s+-\s+.*)\s*\(\w+/
 
     notes[:quote] = line.scan(quote_regex).first.first.strip
-    notes[:notes] = line.scan(notes_regex).first.first.strip
+    notes[:notes] = wiki_to_html(line.scan(notes_regex).first.first.strip).strip
 
     notes[:quote].split('...').each do |_quote|
       verse_lookup(_quote)
-      notes[:reference] = { book => { chapter => verse } }
       raise "no verse found for quote '#{notes[:quote]}' in #{notes[:reference]}" unless verse > 0
-    end
 
-    types.each do |type|
-      figures[type] ||= []
-      figures[type] << notes
+      types.each do |type|
+        figures[type] ||= {}
+        figures[type][book] ||= {}
+        figures[type][book][chapter] ||= {}
+        figures[type][book][chapter][verse] = notes
+      end
     end
+  end
+
+  def wiki_to_html(string)
+    #input: **the head over all things in the Church**  - "Head" implies the leader or the one in charge. AT: "ruler over all things in the Church"
+    #output: <strong>the head over all things in the Church</strong>  - "Head" implies the leader or the one in charge. AT: "ruler over all things in the Church"
+    string.gsub(/^\s*\*\*/, "<strong>").gsub(/\*\*\s*-/, "</strong> -")
   end
 
   def figures_json
@@ -132,6 +139,6 @@ class TranslationNotes
 end
 
 tn = TranslationNotes.new('../sources/notes')
-puts tn.ulb_json
+puts tn.figures_json
 # puts tn.notes_parse(%q{* **the head over all things in the Church**  - "Head" implies the leader or the one in charge. AT: "ruler over all things in the Church"(See: [[en:ta:vol1:translate:figs_metaphor]]) })
 # puts tn.section_parse('===== Translation Notes: =====')
