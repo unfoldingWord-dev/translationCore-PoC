@@ -1,5 +1,14 @@
-translationCore Prototype
+translationCore
 =====
+This project's goal is to provide in depth checking tools for Bible translation.
+Instead of just checking verse by verse with many things to consider at once, it is checking one type at a time, going through the whole bible… a pivot on the checking process.
+
+This will provide quantifiable and measurable quality of the translation output.
+
+All of the checking tools are extracted from the translation notes that are made for each verse to ensure that the information is available to the translators while translating.
+
+translationCore Prototype
+-----
 Focused prototype of translationCore to be produced just for Metaphors & Ephesians.
 
 Key Results
