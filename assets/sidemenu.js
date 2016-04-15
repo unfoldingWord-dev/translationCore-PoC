@@ -1,26 +1,25 @@
-(function (window, document) {
+// (function (window, document) {
 
-    $.each(figures, function(figure, books){        
-        $('#menu div').append('<a class="pure-menu-heading" href="#">'+figure+'</a>');
-        var references = '<ul class="pure-menu-list">';
-        $.each(books, function(book, chapters){
-            $.each(chapters, function(chapter, verses){
-                $.each(verses, function(verse, note){
-                    references = references +
-                    '<li class="pure-menu-item"><a class="pure-menu-link">'+
-                    book+' '+chapter+':'+verse+
-                    '</a></li>';
-                    console.log('run');
-                });
-            });
-        });
-        references = references + '</ul>';
-        $('#menu div').append(references);
-        figure_html = '';
-        references = '';
-    });
+//     $.each(figures, function(figure, books){        
+//         $('#menu div').append('<a class="pure-menu-heading" href="#">'+figure+'</a>');
+//         var references = '<ul class="pure-menu-list">';
+//         $.each(books, function(book, chapters){
+//             $.each(chapters, function(chapter, verses){
+//                 $.each(verses, function(verse, note){
+//                     references = references +
+//                     '<li class="pure-menu-item"><a class="pure-menu-link">'+
+//                     book+' '+chapter+':'+verse+
+//                     '</a></li>';
+//                 });
+//             });
+//         });
+//         references = references + '</ul>';
+//         $('#menu div').append(references);
+//         figure_html = '';
+//         references = '';
+//     });
 
-}(this, this.document));
+// }(this, this.document));
 
 (function (window, document) {
 

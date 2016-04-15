@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>translationCore</title>
+
+  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+  <link href="./assets/sidemenu.css" rel="stylesheet">
+  <link href="./assets/toggle.css" rel="stylesheet">
+</head>
+<body>
+  <div id="layout">
+    <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+      <!-- Hamburger icon -->
+      <span></span>
+    </a>
+
+    <div id="menu">
+      <div class="pure-menu">
+        <a class="pure-menu-heading" href="#">translationCore</a>
+
+        <!-- Template -->
+        <script id="menu-template" type="text/x-handlebars-template">
+          {{#each this as |notes figure|}}
+            <a class="pure-menu-heading">{{figure_name}}</a>
+            <ul class="pure-menu-list">
+              {{#each notes}}
+              <li class="pure-menu-item"><a class="pure-menu-link" onclick="checking.update('{{figure}}', {{@index}})">
+                {{reference.book}} {{reference.chapter}}:{{reference.verse}}
+              </a></li>
+              {{/each}}
+            </ul>
+          {{/each}}
+        </script> <!-- end template -->
+
+        <!-- Output --> 
+        <div id="menu-placeholder"></div>
+      </div>
+    </div>
+
+    <div id="main">
+      <div class="header">
+        <h1>translationCore</h1>
+      </div>
+
+      <div class="content">
+
+        <div id="check-placeholder"></div>
+        <script id="check-template" type="text/x-handlebars-template">
+          <div class="togglebox">
+
+            <input id="toggle1" type="checkbox" name="toggle" />
+            <label for="toggle1">translationAcademy - {{figure.name}}</label>
+            
+            <section id="content1">
+              <iframe src="{{figure.ta_link}}">This is a placeholder for a module from translationAcademy about {{figure.name}}.</iframe>
+            </section>
+
+            <input id="toggle3" type="checkbox" name="toggle" checked />
+            <label for="toggle3">Checking - {{figure.name}} - {{reference.book}} {{reference.chapter}}:{{reference.verse}}</label>
+
+            <section id="content3">
+              <table class="pure-table" id="verses">
+                <thead>
+                  <tr>
+                  {{#each verses}}
+                    <th>{{{@key}}}</th>
+                  {{/each}}
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                  {{#each verses}}
+                    <td>{{{this}}}</td>
+                  {{/each}}
+                  </tr>
+                </tbody>
+              </table>
+
+              <form class="pure-form">
+                <fieldset>
+                  <legend>translationNotes from ULB - English:</legend>
+                  <blockquote>{{{notes}}}</blockquote>
+                  <legend>Quote of figure from ULB - English:</legend>
+                  <blockquote><strong>{{{quote}}}</strong></blockquote>
+
+                  <legend>What is the translation of the quoted figure?</legend>
+                  <input id="quote" type="text" class="pure-input-2-3" placeholder="Translated Figure Quote...">
+                  <span id="buttonCopy" class="pure-button">Copy selection</span>
+
+                  <legend>Was the figure retained, replaced, or need to be flagged for review?</legend>
+                  <label for="option-retained" class="pure-radio">
+                    <input id="option-retained" type="radio" name="optionStatus" value="retained">
+                    Figure retained in translation
+                  </label>
+                  <label for="option-replaced" class="pure-radio">
+                    <input id="option-replaced" type="radio" name="optionStatus" value="replaced">
+                    Figure replaced in translation
+                  </label>
+                  <label for="option-flag" class="pure-radio">
+                    <input id="option-flag" type="radio" name="optionStatus" value="flag">
+                    Flag for further review
+                  </label>
+
+                </fieldset>
+                <button type="submit" class="pure-button pure-button-primary" id="previous">Prev</button>
+                <button type="submit" onclick="checking.update(checking.figure_id, checking.index+1);" 
+                 class="pure-button pure-button-primary" id="next">Next</button>
+              </form>
+
+            </section>
+          </div>
+        </script>
+
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+    var reference_bibles = {};
+  </script>
+  <script src="./data/figures.js"></script>
+  <script src="./data/ugnt.js"></script>
+  <script src="./data/ulb.js"></script>
+  <script src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
+  <script src="./assets/checking.js"></script>
+  <script src="./assets/template.js"></script>
+  <script src="./assets/sidemenu.js"></script>
+  <script src="./assets/textcopy.js"></script>
+</body>
+</html>
