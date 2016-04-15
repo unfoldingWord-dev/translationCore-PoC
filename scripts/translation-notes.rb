@@ -68,7 +68,7 @@ class TranslationNotes
       ulb[book][chapter] ||= {}
       _line = line.gsub(/\\\w \d*/,'').strip
       ulb[book][chapter][_verse] ||= ""
-      ulb[book][chapter][_verse] << ' '+_line
+      ulb[book][chapter][_verse] << ' '+_line.gsub(/\s+/,' ')
       ulb[book][chapter][_verse].gsub(/^\s/,'')
     end
   end
