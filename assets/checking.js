@@ -35,7 +35,7 @@
     verse_data: function(reference){
       var verses = {};
       $.each(reference_bibles, function(name, bible){
-        verses[name] = bible[reference.book][reference.chapter][reference.verse]
+        verses[name] = bible[reference.book][reference.chapter][reference.verse].replace(checking.quote, '<strong>'+checking.quote+'</strong>');
       });
       return verses;
     },
@@ -90,5 +90,5 @@
       }
     }
   };
-  
+
 }(this, this.document));
