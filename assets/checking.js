@@ -5,7 +5,7 @@
     figure: {
       id: "empty",
       name: "empty",
-      ta_link: "empty"
+      link: "empy"
     },
     notes: "empty",
     quote: "empty",
@@ -17,12 +17,13 @@
     verses: {
       "empty": "empty"
     },
-    update: function(figure_id, index){
+    update: function(figure_id, figure_vol, index){
       this.figure.id = figure_id;
       this.current_index = index;
       this.figure = this.figure_data[figure_id];
       this.figure["id"] = figure_id
       var notes = figures[figure_id][index];
+      this.figure.link = this.figure_link(figure_id, figure_vol);
       this.notes = notes.notes;
       this.quote = notes.quote;
       this.reference = notes.reference;
@@ -45,54 +46,45 @@
       });
       return verses;
     },
+    figure_link: function(type, vol){
+      return "https://door43.org/_export/xhtmlbody/en/ta/vol"+vol+"/translate/figs_"+type
+    },
     figure_data: {
       "metaphor": {
-        name: "Metaphor",
-        ta_link: "./sources/translationAcademy/figs_metaphor.html"
+        name: "Metaphor"
       },
       "you": {
-        name: "You",
-        ta_link: "/sources/translationAcademy/figs_you.html"
+        name: "You"
       },
       "activepassive": {
-        name: "Active Passive",
-        ta_link: "/sources/translationAcademy/figs_activepassive.html"
+        name: "Active Passive"
       },
       "inclusive": {
-        name: "Inclusive",
-        ta_link: "/sources/translationAcademy/figs_inclusive.html"
+        name: "Inclusive"
       },
       "doublet": {
-        name: "Doublet",
-        ta_link: "/sources/translationAcademy/figs_doublet.html"
+        name: "Doublet"
       },
       "exclusive": {
-        name: "Exclusive",
-        ta_link: "/sources/translationAcademy/figs_exclusive.html"
+        name: "Exclusive"
       },
       "doublenegatives": {
-        name: "Double Negatives",
-        ta_link: "/sources/translationAcademy/figs_doublenegatives.html"
+        name: "Double Negatives"
       },
       "idiom": {
-        name: "Idiom",
-        ta_link: "/sources/translationAcademy/figs_idiom.html"
+        name: "Idiom"
       },
       "metonymy": {
-        name: "Metonymy",
-        ta_link: "/sources/translationAcademy/figs_metonymy.html"
+        name: "Metonymy"
       },
       "explicit": {
-        name: "Explicit",
-        ta_link: "/sources/translationAcademy/figs_explicit.html"
+        name: "Explicit"
       },
       "youdual": {
-        name: "You Dual",
-        ta_link: "/sources/translationAcademy/figs_youdual.html"
+        name: "You Dual"
       },
       "parallelism": {
-        name: "parallelism",
-        ta_link: "/sources/translationAcademy/figs_parallelism.html"
+        name: "parallelism"
       }
     },
     bind_copy: function(){

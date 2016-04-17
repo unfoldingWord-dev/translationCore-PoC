@@ -30,7 +30,7 @@
             <a class="pure-menu-heading">{{figure_name}}</a>
             <ul class="pure-menu-list">
               {{#each notes}}
-              <li class="pure-menu-item"><a class="pure-menu-link" onclick="checking.update('{{figure}}', {{@index}})">
+              <li class="pure-menu-item"><a class="pure-menu-link" onclick="checking.update('{{figure}}', {{vol}}, {{@index}})">
                 {{reference.book}} {{reference.chapter}}:{{reference.verse}}
               </a></li>
               {{/each}}
@@ -58,7 +58,7 @@
             <label for="toggle1">translationAcademy - {{figure.name}}</label>
             
             <section id="content1">
-              <iframe src="{{figure.ta_link}}">This is a placeholder for a module from translationAcademy about {{figure.name}}.</iframe>
+              <iframe src="{{figure.link}}">This is a placeholder for a module from translationAcademy about {{figure.name}}.</iframe>
             </section>
 
             <input id="toggle3" type="checkbox" name="toggle" checked />
