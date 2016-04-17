@@ -30,6 +30,7 @@
       source = $("#check-template").html();
       template = Handlebars.compile( source );
       $("#check-placeholder").html( template( this ) );
+      this.bind_copy();
       return false;
     },
     verse_data: function(reference){
@@ -92,6 +93,25 @@
       "parallelism": {
         name: "parallelism",
         ta_link: "/sources/translationAcademy/figs_parallelism.html"
+      }
+    },
+    bind_copy: function(){
+      var selText = "";
+      $( document ).ready( function() {
+        $( '#buttonCopy' ).mousedown( function() {
+            $( '#quote' ).val( checking.getSelectedText() );
+        });
+        return false;
+      });
+    },
+    getSelectedText: function (){
+      if ( window.getSelection ) {
+          return window.getSelection().toString();
+      }
+      else if ( document.getSelection ) {
+          return document.getSelection();
+      } else if ( document.selection ) {
+          return document.selection.createRange().text;
       }
     }
   };
