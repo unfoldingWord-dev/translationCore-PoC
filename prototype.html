@@ -108,7 +108,9 @@
 
                 </fieldset>
               </form>
+                {{#if prev}}
                 <button onclick="checking.update(checking.figure.id, checking.figure.vol, {{prev_id}});" class="pure-button pure-button-primary" id="previous">Prev</button>
+                {{/if}}
                 <button onclick="checking.update(checking.figure.id, checking.figure.vol, {{next_id}});" 
                  class="pure-button pure-button-primary" id="next">Next</button>
 

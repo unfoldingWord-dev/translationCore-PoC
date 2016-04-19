@@ -8,6 +8,7 @@
       name: "empty",
       link: "empy"
     },
+    prev: false,
     notes: "empty",
     quote: "empty",
     reference: {
@@ -19,6 +20,7 @@
       "empty": "empty"
     },
     update: function(figure_id, figure_vol, index){
+      if (index > 0) { this.prev = true; } else { this.prev = false; }
       this.current_index = index;
       this.figure = this.figure_data[figure_id];
       this.figure.id = figure_id;
@@ -112,15 +114,15 @@
     }
   };
 
-  Handlebars.registerHelper('figure_name', function(figure_id) {
-    return checking.figure_data[figure_id.data.key].name;
+  Handlebars.registerHelper('figure_name', function(object) {
+    return checking.figure_data[object.data.key].name;
   });
 
   Handlebars.registerHelper('next_id', function(current_index) {
     return checking.current_index + 1;
   });
 
-  Handlebars.registerHelper('prev_id', function(current_index) {
+  Handlebars.registerHelper('prev_id', function(object) {
     return checking.current_index - 1;
   });
 
