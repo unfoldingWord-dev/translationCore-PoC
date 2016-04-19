@@ -3,10 +3,11 @@ class TranslationNotes
   require "awesome_print"
   require "json"
 
-  attr :figures, :ulb, :book, :chapter, :chunk, :_verse, :verse, :section
+  attr :figures, :words, :ulb, :book, :chapter, :chunk, :_verse, :verse, :section
 
   def initialize(dir)
     @figures = {}
+    @words = {}
     @ulb = {}
     @book = ''
     @chapter = 0
@@ -59,6 +60,7 @@ class TranslationNotes
     section_parse(line)
     ulb_parse(line) if @section == 'ULB'
     notes_parse(line) if @section == 'Translation Notes'
+    words_parse(line) if @section == 'translationWords'
   end
 
   def ulb_parse(line)
@@ -98,6 +100,20 @@ class TranslationNotes
       end
     end
     verse
+  end
+
+  def words_parse(line)
+    return unless line[/\[\[.*\]\]/]
+
+    type_regex = /\[\[.*\:obe\:(\w+)\:\w+\]\]/
+    type = line.scan(type_regex).first.first rescue binding.pry
+
+    word_regex = /\[\[.*\:obe\:\w+\:(\w+)\]\]/
+    word = line.scan(word_regex).first.first
+
+    words[type] ||= {}
+    words[type][word] ||= []
+    words[type][word] << {book: book, chapter: chapter, chunk: chunk}
   end
 
   def notes_parse(line)
@@ -142,12 +158,16 @@ class TranslationNotes
     JSON.pretty_generate(figures)
   end
 
+  def words_json
+    JSON.pretty_generate(words)
+  end
+
   def ulb_json
     JSON.pretty_generate(ulb)
   end
 end
 
 tn = TranslationNotes.new('../sources/notes')
-puts tn.figures_json
+puts tn.words_json
 # puts tn.notes_parse(%q{* **the head over all things in the Church**  - "Head" implies the leader or the one in charge. AT: "ruler over all things in the Church"(See: [[en:ta:vol1:translate:figs_metaphor]]) })
 # puts tn.section_parse('===== Translation Notes: =====')
