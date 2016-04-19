@@ -4,6 +4,7 @@
     current_index: 0,
     figure: {
       id: "empty",
+      vol: 0,
       name: "empty",
       link: "empy"
     },
@@ -18,10 +19,10 @@
       "empty": "empty"
     },
     update: function(figure_id, figure_vol, index){
-      this.figure.id = figure_id;
       this.current_index = index;
       this.figure = this.figure_data[figure_id];
-      this.figure["id"] = figure_id
+      this.figure.id = figure_id;
+      this.figure.vol = figure_vol;
       var notes = figures[figure_id][index];
       this.figure.link = this.figure_link(figure_id, figure_vol);
       this.notes = notes.notes;
@@ -88,10 +89,13 @@
       }
     },
     bind_copy: function(){
-      var selText = "";
       $( document ).ready( function() {
         $( '#buttonCopy' ).mousedown( function() {
-            $( '#quote' ).val( checking.getSelectedText() );
+            var text = checking.getSelectedText();
+            if (text == "") {
+              alert("No text is selected to copy into the textbox.")
+            }
+            $( '#quote' ).val( text );
         });
         return false;
       });
@@ -112,9 +116,21 @@
     return checking.figure_data[figure_id.data.key].name;
   });
 
+  Handlebars.registerHelper('next_id', function(current_index) {
+    return checking.current_index + 1;
+  });
+
+  Handlebars.registerHelper('prev_id', function(current_index) {
+    return checking.current_index - 1;
+  });
+
   var source = $("#menu-template").html();
   var template = Handlebars.compile( source );
   $("#menu-placeholder").html( template( figures ) ); 
-  checking.update("metaphor", 1, 0);
+
+  if (checking.figure.id == "empty") {
+    console.log("Initial load.");
+    checking.update("metaphor", 1, 0);
+  }
 
 }(this, this.document));

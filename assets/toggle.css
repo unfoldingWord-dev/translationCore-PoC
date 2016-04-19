@@ -22,11 +22,11 @@ iframe {
   margin: .5em 1.5em .2em;
 }
 
-.pure-form #next {
+#next {
   float:right;
 }
 
-.pure-form #previous {
+#previous {
   float:left;
 }
 

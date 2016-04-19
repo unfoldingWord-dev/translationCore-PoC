@@ -29,7 +29,8 @@
             <a class="pure-menu-heading">{{figure_name}}</a>
             <ul class="pure-menu-list">
               {{#each notes}}
-              <li class="pure-menu-item"><a class="pure-menu-link" onclick="checking.update('{{figure}}', {{vol}}, {{@index}})">
+              <li class="pure-menu-item"><a class="pure-menu-link"
+                onclick="checking.update('{{figure}}', {{vol}}, {{@index}})">
                 {{reference.book}} {{reference.chapter}}:{{reference.verse}}
               </a></li>
               {{/each}}
@@ -106,10 +107,10 @@
                   </label>
 
                 </fieldset>
-                <button type="submit" class="pure-button pure-button-primary" id="previous">Prev</button>
-                <button type="submit" onclick="checking.update(checking.figure_id, checking.index+1);" 
-                 class="pure-button pure-button-primary" id="next">Next</button>
               </form>
+                <button onclick="checking.update(checking.figure.id, checking.figure.vol, {{prev_id}});" class="pure-button pure-button-primary" id="previous">Prev</button>
+                <button onclick="checking.update(checking.figure.id, checking.figure.vol, {{next_id}});" 
+                 class="pure-button pure-button-primary" id="next">Next</button>
 
             </section>
           </div>
