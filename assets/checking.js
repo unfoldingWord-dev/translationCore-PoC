@@ -9,6 +9,7 @@
       link: "empy"
     },
     prev: false,
+    next: true,
     notes: "empty",
     quote: "empty",
     reference: {
