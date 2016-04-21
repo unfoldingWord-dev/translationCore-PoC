@@ -67,6 +67,7 @@
               <table class="pure-table" id="verses">
                 <thead>
                   <tr>
+                    <th>Greek New Testament</th>
                   {{#each verses}}
                     <th>{{{@key}}}</th>
                   {{/each}}
@@ -74,6 +75,11 @@
                 </thead>
                 <tbody>
                   <tr>
+                    <td>
+                    {{#each gnt_glade_words}}
+                      <span title="Morphology: {{morphology}}; Strongs: {{strongs}}; Brief: {{brief}}; Definition: {{long}}">{{greek}}</span>
+                    {{/each}}
+                    </td>
                   {{#each verses}}
                     <td>{{{this}}}</td>
                   {{/each}}
@@ -110,9 +116,10 @@
               </form>
                 {{#if prev}}
                 <button onclick="checking.update(checking.figure.id, checking.figure.vol, {{prev_id}});" class="pure-button pure-button-primary" id="previous">Prev</button>
-                {{/if}}
+                {{/if}}{{#if next}}
                 <button onclick="checking.update(checking.figure.id, checking.figure.vol, {{next_id}});" 
                  class="pure-button pure-button-primary" id="next">Next</button>
+                {{/if}}
 
             </section>
           </div>
@@ -125,7 +132,8 @@
     var reference_bibles = {};
   </script>
   <script src="./data/figures.js"></script>
-  <script src="./data/ugnt.js"></script>
+  <script src="./data/glade-gnt-english.js"></script>
+  <!-- <script src="./data/ugnt.js"></script> -->
   <script src="./data/ulb.js"></script>
   <script src="./data/ulb-ptbr.js"></script>
   <script src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>

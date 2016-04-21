@@ -16,6 +16,7 @@
       chapter: 0,
       verse: 0
     },
+    gnt_glade_words: [],
     verses: {
       "empty": "empty"
     },
@@ -30,12 +31,16 @@
       this.notes = notes.notes;
       this.quote = notes.quote;
       this.reference = notes.reference;
-      this.verses = this.verse_data(notes.reference);
+      this.verses = this.verse_data(this.reference);
+      this.gnt_glade_words = this.gnt_glade_get_verse(this.reference);
       source = $("#check-template").html();
       template = Handlebars.compile( source );
       $("#check-placeholder").html( template( this ) );
       this.bind_copy();
       return false;
+    },
+    gnt_glade_get_verse: function(reference){
+      return glade[reference.book][reference.chapter][reference.verse];
     },
     verse_data: function(reference){
       var verses = {};
