@@ -9,7 +9,7 @@ iframe {
 }
 
 .content b, .content strong {
-  color: darkolivegreen;
+  background-color:yellow;
 }
 
 .pure-form fieldset {
