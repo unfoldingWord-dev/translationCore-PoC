@@ -12,6 +12,28 @@ iframe {
   background-color:yellow;
 }
 
+#gnt-explorer {
+  white-space: inherit;
+}
+
+#gnt-explorer a {
+  padding: 0 5px;
+}
+
+#gnt-explorer .popup{
+    max-height: 400px;
+    min-width: 200px;
+    max-width: 400px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    overflow:auto;
+    padding: 0.5em;
+}
+
+#gnt-explorer .popup .pure-menu-item {
+  height:initial;
+}
+
 .pure-form fieldset {
   margin: 1em 2px 0;
   padding: .35em .625em .75em;

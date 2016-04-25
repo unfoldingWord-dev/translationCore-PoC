@@ -76,9 +76,21 @@
                 <tbody>
                   <tr>
                     <td>
-                    {{#each gnt_glade_words}}
-                      <span title="Morphology: {{morphology}}; Strongs: {{strongs}}; Brief: {{brief}}; Definition: {{long}}">{{greek}}</span>
-                    {{/each}}
+                      <div id="gnt-explorer" class="pure-menu pure-menu-horizontal">
+                        <ul class="pure-menu-list">
+                        {{#each gnt_glade_words}}
+                          <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                              <a href="#" id="menuLink1" class="pure-menu-link">{{greek}}</a>
+                              <ul class="pure-menu-children popup">
+                                  <li class="pure-menu-item">Morphology: {{morphology}}</li>
+                                  <li class="pure-menu-item">Strongs: {{strongs}}</li>
+                                  <li class="pure-menu-item">Brief: {{brief}}</li>
+                                  <li class="pure-menu-item">Definition: {{long}}</li>
+                              </ul>
+                          </li>
+                        {{/each}}
+                        </ul>
+                      </div>
                     </td>
                   {{#each verses}}
                     <td>{{{this}}}</td>
