@@ -21,7 +21,7 @@
     verses: {
       "empty": "empty"
     },
-    update: function(figure_id, figure_vol, index){
+    render: function(figure_id, figure_vol, index){
       if (index > 0) { this.prev = true; } else { this.prev = false; }
       this.current_index = index;
       this.figure = this.figure_data[figure_id];
@@ -138,7 +138,7 @@
 
   if (checking.figure.id == "empty") {
     console.log("Initial load.");
-    checking.update("metaphor", 1, 0);
+    checking.render("metaphor", 1, 0);
   }
 
 }(this, this.document));
