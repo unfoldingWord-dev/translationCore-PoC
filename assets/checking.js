@@ -30,6 +30,10 @@
       chapter: 0,
       verse: 0
     },
+    data: {
+      quote: null,
+      retained: null
+    },
     gnt_glade_words: [],
     verses: {
       "empty": "empty"
@@ -45,13 +49,15 @@
       this.notes = notes.notes;
       this.quote = notes.quote;
       this.reference = notes.reference;
+      this.load();
       this.verses = this.verse_data(this.reference);
       this.gnt_glade_words = this.gnt_glade_get_verse(this.reference);
       source = $("#check-template").html();
       template = Handlebars.compile( source );
       $("#check-placeholder").html( template( this ) );
+      $('input#quote').val(this.data.quote);
+      $("input:radio[name='optionStatus'][value=" + this.data.retained + "]").prop('checked', true);
       this.bind_copy();
-      this.load();
       return false;
     },
     save: function(){
@@ -72,11 +78,12 @@
         else {
           data[this.figure.name] = [];
         }
-        data[this.figure.name][this.current_index] = {
+        checking.data = {
           quote: quote, 
           retained: retained, 
           reference: this.reference
         };
+        data[this.figure.name][this.current_index] = checking.data;
         localforage.setItem("data", data, function (err) {
           if (err) { console.log(err); }
         });
@@ -85,8 +92,9 @@
     },
     load: function(){
       if (data[this.figure.name] && data[this.figure.name][this.current_index]) {
-        $('input#quote').val(data[this.figure.name][this.current_index].quote);
-        $("input:radio[name='optionStatus'][value=" + data[this.figure.name][this.current_index].retained + "]").prop('checked', true);
+        checking.data = data[this.figure.name][this.current_index]
+      } else {
+        checking.data = {};
       }
     },
     reload: function(){
@@ -109,6 +117,7 @@
       var verses = {};
       $.each(reference_bibles, function(name, bible){
         var quotes = checking.quote.split('...');
+        quotes.push(checking.data.quote);
         var verse = bible[reference.book][reference.chapter][reference.verse];
         $.each(quotes, function(index, quote){
           verse = verse.replace(quote, '<strong>'+quote+'</strong>');
