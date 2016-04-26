@@ -56,6 +56,13 @@
     },
     save: function(){
       var quote = $('input#quote').val();
+      var versions = Object.keys(checking.verses);
+      var translated_version = versions[versions.length-1];
+      var translation = checking.verses[translated_version];
+      if (~translation.indexOf(quote)) {} else {
+        alert("The quote must come from the target translation.");
+        return false;
+      }
       var retained = $("input:radio[name='optionStatus']:checked").val();
       if (quote == "" || retained == undefined) {
         alert("You must provide both details.");
