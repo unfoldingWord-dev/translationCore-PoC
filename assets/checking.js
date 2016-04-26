@@ -1,6 +1,18 @@
 (function (window, document) {
 
   data = {};
+
+  localforage.getItem("data", function(err, value){
+    if (err) {
+      console.log(err);
+    } else {
+      if (value !== null) {
+        data = value;
+        checking.reload();
+      }
+    }
+  });
+
   checking = {
     current_index: 0,
     figure: {
@@ -58,6 +70,9 @@
           retained: retained, 
           reference: this.reference
         };
+        localforage.setItem("data", data, function (err) {
+          if (err) { console.log(err); }
+        });
         return true;
       }
     },
@@ -66,6 +81,9 @@
         $('input#quote').val(data[this.figure.name][this.current_index].quote);
         $("input:radio[name='optionStatus'][value=" + data[this.figure.name][this.current_index].retained + "]").prop('checked', true);
       }
+    },
+    reload: function(){
+      checking.render(checking.figure.id, checking.figure.vol, (checking.current_index));
     },
     goToNext: function(){
       if (checking.save()) {
