@@ -26,15 +26,19 @@
 
         <script id="menu-template" type="text/x-handlebars-template"> <!-- template -->
           {{#each this as |notes figure|}}
-            <a class="pure-menu-heading">{{figure_name}}</a>
-            <ul class="pure-menu-list">
-              {{#each notes}}
-              <li class="pure-menu-item"><a class="pure-menu-link"
-                onclick="checking.render('{{figure}}', {{vol}}, {{@index}})">
-                {{reference.book}} {{reference.chapter}}:{{reference.verse}}
-              </a></li>
-              {{/each}}
-            </ul>
+          <ul class="pure-menu-list">
+            <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+              <a href="#" id="menuLink1" class="pure-menu-link" onclick="toggleClass(document.getElementById('menu-{{figure}}'),'active'); return false;">{{figure_name}}</a>
+              <ul id="menu-{{figure}}" class="pure-menu-children">
+                {{#each notes}}
+                <li class="pure-menu-item"><a class="pure-menu-link"
+                  onclick="checking.render('{{figure}}', {{vol}}, {{@index}})">
+                  {{reference.book}} {{reference.chapter}}:{{reference.verse}}
+                </a></li>
+                {{/each}}
+              </ul>
+            </li>
+          </ul>
           {{/each}}
         </script> <!-- end template -->
 

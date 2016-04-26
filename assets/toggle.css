@@ -8,6 +8,12 @@ iframe {
   border: 0;
 }
 
+#menu ul.active {
+  display: initial;
+  position: relative;
+  left: 0;
+}
+
 .content b, .content strong {
   background-color:yellow;
 }
