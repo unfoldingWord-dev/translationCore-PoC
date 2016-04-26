@@ -127,9 +127,9 @@
                 </fieldset>
               </form>
                 {{#if prev}}
-                <button onclick="checking.render(checking.figure.id, checking.figure.vol, {{prev_id}});" class="pure-button pure-button-primary" id="previous">Prev</button>
+                <button onclick="checking.goToPrev();" class="pure-button pure-button-primary" id="previous">Prev</button>
                 {{/if}}{{#if next}}
-                <button onclick="checking.render(checking.figure.id, checking.figure.vol, {{next_id}});" 
+                <button onclick="checking.goToNext();" 
                  class="pure-button pure-button-primary" id="next">Next</button>
                 {{/if}}
 

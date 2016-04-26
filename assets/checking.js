@@ -1,5 +1,6 @@
 (function (window, document) {
 
+  data = {};
   checking = {
     current_index: 0,
     figure: {
@@ -38,7 +39,43 @@
       template = Handlebars.compile( source );
       $("#check-placeholder").html( template( this ) );
       this.bind_copy();
+      this.load();
       return false;
+    },
+    save: function(){
+      var quote = $('input#quote').val();
+      var retained = $("input:radio[name='optionStatus']:checked").val();
+      if (quote == "" || retained == undefined) {
+        alert("You must provide both details.");
+        return false;
+      } else {
+        if (data[this.figure.name]){}
+        else {
+          data[this.figure.name] = [];
+        }
+        data[this.figure.name][this.current_index] = {
+          quote: quote, 
+          retained: retained, 
+          reference: this.reference
+        };
+        return true;
+      }
+    },
+    load: function(){
+      if (data[this.figure.name] && data[this.figure.name][this.current_index]) {
+        $('input#quote').val(data[this.figure.name][this.current_index].quote);
+        $("input:radio[name='optionStatus'][value=" + data[this.figure.name][this.current_index].retained + "]").prop('checked', true);
+      }
+    },
+    goToNext: function(){
+      if (checking.save()) {
+        checking.render(checking.figure.id, checking.figure.vol, (checking.current_index + 1));
+      }
+    },
+    goToPrev: function(){
+      if (checking.save()) {
+        checking.render(checking.figure.id, checking.figure.vol, (checking.current_index - 1));
+      }
     },
     gnt_glade_get_verse: function(reference){
       return glade[reference.book][reference.chapter][reference.verse];
