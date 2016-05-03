@@ -1,0 +1,58 @@
+====== Luke 21:37-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 37 Each day \add during that week Jesus\add* taught the people in the Temple \add courtyard in Jerusalem\add*. But at night he \add and his disciples\add* left \add the city\add* and stayed on Olive \add Tree\add* Hill.
+\v 38 Early \add each\add* morning many people came to the Temple \add courtyard\add* to listen to him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 37 Each day Jesus was teaching people in the temple. But every evening  he went out of the city and stayed all night on the Mount of Olives.
+\v 38 And early every morning all the people came to  the temple to listen to him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 37 So during the days he was teaching in the temple and at night he went out, and spent the night on the mount that is called Olivet.
+\v 38 All of the people came early in the morning to hear him in the temple.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:mountofolives]]
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **during the days he was teaching**  - "during the days he would teach." The following verses tell about things that Jesus and the people did each day during the week before he died.
+    * **in the temple** - This means "at the temple" or "in the temple courtyard." 
+    * **at night he went out**  - "at night he would go out of the city" or "he went out each night"
+    * **All of the people** - This is hyperbole that means "a very large number of people" or "almost everyone." (See: [[en:ta:vol2:translate:figs_hyperbole]])
+    * **came early in the morning** - "would come early in the morning" or "came early each morning"
+    * **to hear him**  - "to hear him teach"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/21/36|<<]] | [[en/bible/notes/luk/22/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Luke 11:52 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 52 There will be terrible punishment for you men who teach the \add Jewish\add* laws, because you have \add not let people\add* know \add God's truth\add* \f + \ft metaphor \f*! \add It is as though you are\add* taking away a key \add to a house\add*. You are not going into \add the house\add* yourselves, and you are not letting other people enter it, either."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 52 How terrible it will be for you men who teach the Jewish laws, because you have not let people know God's truth! It is as though you have taken away a key to a house. You do not go into the house yourselves, and you also prevent other people from entering it."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 52 Woe to you teachers of Jewish laws, because you have taken away the key of knowledge; you do not enter in yourselves, and you hinder those who are entering."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:woe]]
+    * [[en:obe:other:scribe]]
+    * [[en:obe:other:know]]
+
+===== Translation Notes: =====
+Jesus continues to tell the teachers of the law how they sin against God.
+
+  * **you have taken away the key of knowledge**  - This is a metaphor. It means "you have prevented people from entering into the place where God's truth is stored." It can be translated as a simile as in the UDB. (See: [[en:ta:vol1:translate:figs_metaphor]], [[en:ta:vol1:translate:figs_simile]])
+  * **the key**  - This represents the means of access, as to a house or storage room.
+  * **you do not enter in yourselves**  - "You yourselves do not go in in order to get knowledge." This metaphor means "You yourselves do make use of the knowledge." (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:49|<<]] | [[:en:bible:notes:luk:11:53|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

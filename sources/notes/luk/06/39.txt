@@ -1,0 +1,64 @@
+====== Luke 06:39-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 He also told \add his disciples\add* this parable \add to show them that they should be like him, and not be like the Jewish religious leaders\add*: "You certainly would not \add expect\add* a blind man to lead another blind man.\f + \ft Or: Would you \add expect\add* a blind man to lead\add another\add* blind man? \f* \f + \ft rhetorical question \f* If he tried to do \add that\add*, they would both probably fall into a hole!\f + \ft Or: wouldn't they both probably fall into a hole? \f* \f + \ft rhetorical question \f* \add I am your teacher, and you disciples should be like me\add*.
+\v 40 A disciple should not \add expect to be\add* greater than his teacher. But if a student is fully trained \f + \ft Or:if someone fully trains a student \f*, the student can become like his teacher \f + \ft metaphor \f*. \add So you should be content to be like me\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 He also gave his disciples this parable:  "A blind man should not try to lead another blind man. If he did, they both would fall into a hole!
+\v 40 A disciple is not greater than his teacher. But when he is fully trained, he will become like his teacher. So you should become like me.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 39 Then he also told them a parable. "Can a blind person guide another blind person? If he did, they would both fall into a pit, would they not?
+\v 40 A disciple is not greater than his teacher, but everyone when he is completely trained will be like his teacher.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:parable]]
+    * [[en:obe:other:pit]]
+    * [[en:obe:kt:disciple]]
+    * [[en:obe:kt:teacher]]
+
+
+===== Translation Notes: =====
+Jesus continues to teach the crowd not to judge people.
+
+  * **Can a blind person guide another blind person?**  - Jesus used this rhetorical question to get people to think about something that they already knew. AT: "A blind person cannot guide another blind person, can he?" or "We all know that a blind person cannot guide another blind person." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **If he did**  - Some languages might prefer "if one did."
+  * **they would both fall into a pit, would they not?**  - This is another rhetorical question. AT: "Would they not both fall into a pit?" or "They both would fall into a hole" (UDB).  (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **A disciple is not greater than his teacher**  - This could either mean 1) "A disciple does not have more knowledge than his teacher" or 2) "A disciple does not have more authority than his teacher." AT: "A disciple has not surpassed his teacher."
+  * **everyone when he is completely trained**  - "every disciple who has been trained well." AT: "every disciple whose training has reached its goal" or "every disciple whose teacher has fully taught him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/06/38|<<]] | [[en/bible/notes/luk/06/41|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish parable disciple teacher}}
+
+~~NOCACHE~~

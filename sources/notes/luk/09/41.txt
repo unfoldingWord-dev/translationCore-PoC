@@ -1,0 +1,55 @@
+====== Luke 09:41-42 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 41 Jesus replied \add by saying to everyone who had gathered there\add*, "\add You who have seen how I help people\add* do not believe \add that you can do anything\add*! What you \add think\add* is perverted! How long must I be with you \add before you are able to do what I do\add* \f + \ft rhetorical question \f*? \add How long must I\add* endure your \add lack of faith\add*?" \add Then he said to the boy's father\add*, "Bring your\add \f + \ft singular \f*\add* son here \add to me\add*!"
+\v 42 While they were bringing the boy to Jesus, the demon attacked the boy, threw him to the ground, and shook him severely. But Jesus rebuked the evil spirit and healed the boy. Then he returned him to his father's \add care\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 41 In response, Jesus said, "This generation of people does not believe and so your thinking is corrupt! How much longer must I be with you before you believe?" Then he said to the boy's father, "Bring your son here to me!"
+\v 42 While they were bringing the boy to him, the demon threw the boy down to the ground, and shook him severely. But Jesus rebuked the evil spirit and healed the boy. Then he returned him to his father.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 41 Jesus answered and said, "You unbelieving and corrupt generation, how long will I have to stay with you and bear with you? Bring your son here."
+\v 42 As the boy was still coming, the demon threw him down and shook him violently. But Jesus rebuked the unclean spirit, and healed the boy, and gave him back to his father.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:unbeliever]]
+    * [[en:obe:kt:corrupt]]
+    * [[en:obe:other:generation]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:other:rebuke]]
+    * [[en:obe:other:heal]]
+ 
+
+===== Translation Notes: =====
+
+    * **Jesus answered and said**  - "In answer Jesus said"
+    * **You unbelieving and corrupt generation** - This was addressed to the crowd that had gathered, and not to the disciples.
+    * **how long will I have to stay with you and bear with you?** - This is a rhetorical question. Jesus did not expect and answer. The meaning is "I have done so much and still you do not believe!" (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **Bring your son here**  - Here Jesus is speaking directly to the father who addressed him.
+    * **still coming**  - "on his way" or "on the way"
+    * **rebuked** - "spoke harshly to"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:37|<<]] | [[:en:bible:notes:luk:09:43|>>]]**
+
+~~DISCUSSION~~{{tag>publish unbeliever}}
+
+~~NOCACHE~~

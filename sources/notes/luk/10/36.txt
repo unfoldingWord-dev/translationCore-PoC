@@ -1,0 +1,56 @@
+====== Luke 10:36-37 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 Then Jesus said, "Three people \add saw\add* the man whom bandits attacked. Which one of them \add acted in a loving way toward\add* that man?"
+\v 37 The man who studied the Scriptures replied, "The one who acted mercifully toward him." Jesus said to him, "You\add \f + \ft singular \f*\add* go and act like that \add toward\add* everyone whom \add you can help\add*!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 Then Jesus said, "Three people saw the man whom bandits attacked. Which one of them showed he was a true neighbor to the man?"
+\v 37 The teacher of the law replied, "The one who acted mercifully toward him." Jesus said to him, "Yes, so now you should go and act like that toward everyone whom you can help!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 Which of these three, do you think, was a neighbor to him who fell among the robbers?"
+\v 37 The teacher said, "The one who showed mercy to him." Jesus said to him, "Go and do the same."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:neighbor]]
+    * [[en:obe:kt:mercy]]
+    * [[en:obe:kt:jesus]]
+
+
+===== Translation Notes: =====
+Jesus continues speaking to the man who asked "Who is my neighbor?"
+
+    * **Which of these three, do you think** - AT: "What do you think? Which of these three men." 
+    * **was a neighbor** - "showed himself to be a true neighbor" (UDB)
+    * **to him who fell among the robbers** - "to the man who was attacked by robbers"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:luk:10:33|<<]] | [[:en:bible:notes:luk:10:38|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,49 @@
+====== Luke 18:40-41 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 40 Jesus stopped and told \add people\add* to bring the man to him. When \add the blind man\add* came near, Jesus asked him,
+\v 41 "What do you\add \f + \ft singular \f*\add* want me to do for you?" He replied, "Lord, enable me to see \add again\add*!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 40 Jesus stopped walking and commanded the people to bring the man to him. When the blind man came near, Jesus asked him,
+\v 41 "What do you want me to do for you?" He replied, "Lord, I want you to enable me to see!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 40 Jesus stood still and commanded that the man be brought to him. Then when the blind man was near, Jesus asked him,
+\v 41 "What do you want me to do for you?" He said, "Lord, I want to receive my sight."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:command]]
+  * [[en:obe:kt:lord]] 
+
+===== Translation Notes: =====
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/18/38|<<]] | [[en/bible/notes/luk/18/42|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

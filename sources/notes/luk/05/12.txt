@@ -1,0 +1,51 @@
+====== Luke 05:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 While \add Jesus\add* was in one of the cities \add there in the district of Galilee\add*, there was a man there who was very severely affected by leprosy. When he saw Jesus, he prostrated himself before him and, \add wanting Jesus to heal him\add*, pleaded with him, "Lord\f + \ft Or: Sir \f*, \add please heal me, because\add* you are able to heal me if you are willing to!"
+\v 13 \add Then Jesus, disregarding the religious law that forbade people to come close to lepers\add*, reached out his hand and touched the man. He said, "I am willing \add to heal you\add*; and I heal you now!" Immediately the man \add was healed\add*. He was no longer a leper \f + \ft personification \f*!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 While Jesus was in one of the towns nearby, there was a man there who was covered with a skin disease called leprosy. When he saw Jesus, he bowed down to the ground in front of him and pleaded with him, "Lord, please heal me, because you are able to heal me if you are willing!"
+\v 13 Then Jesus reached out his hand and touched the man. He said, "I am willing to heal you, and I heal you now!" Immediately the man was healed. He no longer had leprosy!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 It came about that while he was in one of the cities, a man full of leprosy was there. When he saw Jesus, he fell on his face and begged him, saying, "Lord, if you are willing, you can make me clean."
+\v 13 Then Jesus reached out his hand and touched him, saying, "I am willing. Be clean." And immediately the leprosy left him.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:leprosy]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:clean]]
+ 
+
+===== Translation Notes: =====
+
+  * **he fell on his face** - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face" 
+  * **if you are willing** - "if you want to"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/05/08|<<]] | [[en/bible/notes/luk/05/14|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish leprosy heal clean}}
+~~NOCACHE~~

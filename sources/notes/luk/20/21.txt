@@ -1,0 +1,57 @@
+====== Luke 20:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 \add So\add* one of them asked him, "Teacher, we\add \f + \ft exclusive \f*\add* know that you\add \f + \ft singular \f*\add* speak and teach what is right. You tell the truth even if important people do not like it. You teach truthfully what God wants us to do.
+\v 22 \add So tell us what you think about this matter\add*: Is it right that we pay taxes to the Roman government \f + \ft metonymy \f*, or not?"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 So one of the spies asked him, "Teacher, we know that you speak and teach what is right. You tell the truth even if important people do not like it. You teach truthfully what God wants us to do.
+\v 22 So tell us what you think about this matter: Is it right that we pay taxes to the Roman government, or not?"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 They asked him, saying, "Teacher, we know that you say and teach rightly, and are not influenced by anyone, but  you teach the truth about the way of God.
+\v 22 Is it lawful for us to pay taxes to Caesar, or not?"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:teacher]]
+  * [[en:obe:kt:true]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:lawful]]
+  * [[en:obe:other:tax]]
+  * [[en:obe:other:caesar]]
+ 
+
+===== Translation Notes: =====
+
+  * **but you teach the truth about the way of God**  - This is part of what the spy was saying that they knew about Jesus.
+  * **are not influenced by anyone** - Possible meanings are 1) "you tell the truth even if important people do not like it" (UDB) or 2) "you do not favor one person over another." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Is it lawful for us to pay taxes to Caesar** - They hoped that Jesus would say either "yes" or "no." If he said "yes," then the Jewish people would be angry with him for telling them to pay taxes to a foreign government. If he said "no," then the religious leaders could tell the Romans that Jesus was teaching the people to break the Roman laws.
+  * **Is it lawful** - They were asking about God's law, not about Caesar's law. This can also be translated "Does our law permit us."
+  * **Caesar** - Because Caesar was the ruler of the Roman government, they could refer to the Roman government by Caesar's name. (See: [[en:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/20/19|<<]] | [[en/bible/notes/luk/20/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

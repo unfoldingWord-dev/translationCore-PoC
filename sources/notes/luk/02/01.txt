@@ -1,0 +1,70 @@
+====== Luke 02:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 About that time the Emperor Augustus commanded that \add his officials must\add* write down the names\f + \ft Or: \add a census be taken\add* \f* of all the people who lived in countries \add controlled\add* by the Roman \add government\add* \f + \ft Or:that the Roman \add government controlled\add* \f*, \add so that the government could collect taxes from them\add*.
+\v 2 That was the first time that they wrote down the names\f + \ft Or: took a census \f* in Syria \add province, which included Judea district\add*. They did this while Quirinius was the governor of the province.
+\v 3 Every person had to go to the town where his \add most famous ancestor\add* had lived, so that \add the officials\add* could write down their names.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Around that time Caesar Augustus sent out an official order that every person living under Roman rule must be registered in a public record.
+\v 2 This first happened during the time that Quirinius was governing the province of Syria.
+\v 3 So everyone had to go to his family's hometown to be registered.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p 
+\v 1 Now in those days, it came about that Caesar Augustus sent out a decree ordering that a census be taken of all the people living in the Roman world.  
+\v 2 This was the first census made while Quirinius was governor of Syria.  
+\v 3 So everyone went to his own town to be registered for the census.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:caesar]]
+  * [[en:obe:other:decree]]
+  * [[en:obe:other:census]]
+  * [[en:obe:other:rome]]
+  * [[en:obe:other:governor]]
+  * [[en:obe:other:syria]]
+
+===== Translation Notes: =====
+
+This is the start of the account of the birth of Jesus.  
+
+  * **Now** - This word shows that the author is introducing another subject.
+  * **it came about that**  - This phrase is used to show that this is the beginning of an account. If your language has a way of showing the start of an account, you may use that. Some versions do not include this phrase.
+  * **Caesar Augustus** - "King Augustus" or "Emperor Augustus." Augustus was the first emperor of the Roman Empire. (See: [[en:ta:vol1:translate:translate_names]])
+  * **sent out a decree ordering** - A decree is an order or command. AT: "decreed" or "ordered" or "gave the command."
+  * **that a census be taken of all the people living in the Roman world** - AT: "that they register all the people living in the Roman world" or "that they count all the people in the Roman world and write down their names"
+  * **the Roman world** - AT: "the part of the world controlled by the Roman government" or "the countries ruled by the Roman emperor"
+  * **Quirinius**  - Quirinius was appointed to be the governor of Syria. (See: [[en:ta:vol1:translate:translate_names]])
+  * **everyone went** - "everyone started off" or "everyone was going"
+  * **his own town** - AT: "the town in which his ancestors lived"
+  * **to be registered for the census** - "to have their names written in the register" or "to be included in the official count"
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+
+**[[en/bible/notes:luk/01/80|<<]] | [[en/bible/notes:luk/02/04|>>]]** 
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish caesar rome}}
+
+~~NOCACHE~~

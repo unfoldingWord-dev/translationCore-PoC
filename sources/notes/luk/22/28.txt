@@ -1,0 +1,58 @@
+====== Luke 22:28-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 You are the ones who have stayed with me during all my troubles.
+\v 29 So now, just like my Father has appointed me to rule as a king, I am appointing you
+\v 30 so that you can sit and eat \add and rule\add* \f + \ft metaphor \f* with me when I become king. You will sit on thrones to judge the people of the twelve tribes of Israel."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 You are the persons who have stayed with me during all the hard things I have suffered.
+\v 29 So now, I will make you powerful officials when God rules everyone, just as my Father appointed me to rule as a king.
+\v 30 You will sit and eat and drink with me when I become king. In fact, you will sit on thrones to judge the people of the twelve tribes of Israel."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 But you are the ones who have continued with me in my temptations.
+\v 29 I give to you a kingdom, even as my Father has given a kingdom to me,
+\v 30 that you may eat and drink at my table in my kingdom. And you will sit on thrones judging the twelve tribes of Israel.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:tempt]]
+  * [[:en:obe:other:kingdom]]
+  * [[en:obe:kt:godthefather]]
+  * [[:en:obe:other:throne]]
+  * [[:en:obe:kt:judge]]
+  * [[:en:obe:other:12tribesofisrael]]
+===== Translation Notes: =====
+Jesus continues to teach his disciples.
+  * **have continued with me in my temptations**  - "have stayed with me through my struggles"
+  * **I give to you a kingdom, even as my Father has given a kingdom to me**  - Some languages may need to change the order. "Just as my father has given a kingdom to me, I give it to you."
+  * **I give to you a kingdom**  - "I make you rulers in God's kingdom" (UDB) or "I give you authority to rule in the kingdom" or "I will make you kings"
+  * **even as my Father has given a kingdom to me**  - "just as my Father gave me authority to rule as king in his kingdom"
+  * **you will sit on thrones**  - "Sit on thrones" is a metonym for "do the work of kings." This means "you will work as kings" or "you will do the work of kings." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **thrones**  - This can be translated as "kings' chairs" or "chairs made for kings."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:26|<<]] | [[:en:bible:notes:luk:22:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish throne 12tribesofisrael}}

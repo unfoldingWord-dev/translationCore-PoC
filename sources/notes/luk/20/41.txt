@@ -1,0 +1,80 @@
+====== Luke 20:41-44 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 41 \add Later\add* he said to them, "I will show you \f + \ft Or: prove to you \f* that people \add are wrong who\add* say that the Messiah is \add merely\add* a descendant of \add King\add* David!\f + \ft Or: Why do people say that the Messiah is \add merely\add* a descendant of \add King\add* David? \f* \f + \ft rhetorical question \f*
+\v 42 Because David himself wrote in the book of Psalms \add about the Messiah\add*,
+\q God said to my Lord,
+\q Sit \add here beside me\add* on my right, \add where I will highly honor you\f + \ft singular \f*\add* \f + \ft metonymy \f*.
+\v 43 \add Sit here\add* while I completely defeat your enemies.
+\p
+\v 44 King David calls \add the Messiah\add* '\add my\add* Lord'! So \add the Messiah\add* cannot be \add just someone\add* descended from \add King\add* David!\f + \ft Or: how can the Messiah be \add just\add* someone descended from \add King\add* David? \f* \f + \ft rhetorical question \f* \add What I just said proves that he is much greater than David, isn't that right?\add*"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 41 Later Jesus said to them, "I will show you that when people say that the Christ is only a descendant of King David, they are wrong!
+\v 42 David himself wrote in the book of Psalms about the Christ,
+\q God said to my Lord,
+\q 'Sit here beside me at my right, where I will highly honor you.
+\q
+\v 43 Sit here while I completely defeat your enemies.'
+\p
+\v 44 King David calls the Christ 'my Lord'! So the Christ cannot be just someone descended from King David! What I just said proves that he is much greater than David, right?"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 41 Jesus said to them, "How do they say that the Christ is David’s son?
+\v 42 For David himself says in the book of Psalms, 
+\q The Lord said to my Lord,
+\q 'Sit at my right hand,
+\q
+\v 43 until I make your enemies your footstool.'
+\m
+\v 44 David therefore calls the Christ 'Lord', so how is he David's son?"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:other:david]]
+  * [[:en:obe:kt:son]]
+  * [[en:obe:other:psalm]]
+  * [[:en:obe:kt:lord]]
+  * [[en:obe:kt:righthand]]
+  * [[en:obe:other:adversary]]
+  * [[en:obe:other:footstool]]
+
+
+===== Translation Notes: =====
+
+  * **How do they say**  - This is a rhetorical question. It can be translated as "Why do they say" or "Let's think about them saying" or "I will talk about them saying." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **David's son**  - "King David's descendant." The word "son" is used here to refer to a descendant. In this case it refers to the one who would reign over God's kingdom.  (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  * **The Lord said to my Lord**  - This can be translated as "The Lord God said to my Lord" or "God said to my Lord." This is a quotation from Psalm [[:en:bible:notes:psa:110:001|110:1]] which says "Yahweh said to my Lord." But the Jews stopped saying "Yahweh" and often said "Lord" instead.
+  * **my Lord**  - David was referring to the Christ as "my Lord."
+  * **my right hand**  - The right side is the place of honor. God was honoring the Messiah by saying "Sit at my right hand."
+  * **until I make your enemies your footstool**  - This is a metaphor. It can be translated as "until I make your enemies like a footstool for you" or "until I conquer your enemies for you." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **so how is he David's son?**  - "so how can the Christ be David's son?" This is a rhetorical question. It can be translated as "This shows that the Christ is not merely David's descendant."  (See: [[en:ta:vol1:translate:figs_rquestion]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+**[[:en:bible:notes:luk:20:39|<<]] | [[:en:bible:notes:luk:20:45|>>]]**
+
+~~DISCUSSION~~{{tag>publish  david}}
+
+~~NOCACHE~~

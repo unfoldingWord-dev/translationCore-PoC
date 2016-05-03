@@ -1,0 +1,50 @@
+====== Luke 02:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 After the angels left them \add and returned\add* to heaven, the shepherds said to each other, "Let's go to Bethlehem to see this \add wonderful\add* thing that has happened, which the Lord\f + \ft Or: God \f* has told us about!"
+\v 16 So they went quickly. They found the \add place where\add* Mary and Joseph \add were staying\add*, and \add they saw\add* the baby lying in the trough where \add people\add* put food for the animals.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 After the angels left them and returned to heaven, the shepherds said to each other, "We should go right now to Bethlehem to see this wonderful thing that has happened, which the Lord has told us about!"
+\v 16 So they went quickly and when they had found the place where Mary and Joseph were staying, they saw the baby lying in a feeding place for animals.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 15 It came about that when the angels had gone away from them into heaven, the shepherds said to each other, "Let us now go to Bethlehem, and see this thing that has happened, which the Lord has made known to us."  
+\v 16 They hurried there and found Mary and Joseph, and saw the baby lying in the feeding trough.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:bethlehem]]
+  * [[en:obe:other:know]]
+  * [[en:obe:other:mary]]
+  * [[en:obe:other:josephnt]]
+
+===== Translation Notes: =====
+
+  * **from them**  - "from the shepherds"
+  * **to each other**  - "to one another"
+  * **Let us… to us**  - Since the shepherds were speaking to one another, languages that have inclusive forms for "we" and "us" should use the inclusive form here. (See: [[en:ta:vol2:translate:figs_inclusive]])
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:10|<<]] | [[:en:bible:notes:luk:02:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

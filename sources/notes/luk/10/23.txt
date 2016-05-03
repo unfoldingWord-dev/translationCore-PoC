@@ -1,0 +1,55 @@
+====== Luke 10:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 Then when his disciples were alone with him, he turned toward them and said, "\add God\add* is pleased with you \f + \ft synecdoche \f* who have seen \add the things that I have done\add*!
+\v 24 I want you to know that many prophets and kings \add who lived long ago\add* desired to see the things that you are seeing \add me do\add*, but those things did not \add happen\add* then. They longed to hear the things that you have been hearing \add me say\add*, but \add I\add* did not \add reveal them\add* then."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 Then when his disciples were alone with him, he turned toward them and said, "God has given you a great gift by letting you see the things that I have done!
+\v 24 I want you to know that many prophets and kings who lived long ago desired to see the things that you are seeing me do, but they could not, because those things did not happen then. They longed to hear the things that you have been hearing me say, but I had not yet revealed those things at that time."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 23 Turning to the disciples, he said privately, "Blessed are those who see the things that you see.
+\v 24 I say to you, that many prophets and kings desired to see the things that you see, and did not see them, and to hear the things that you hear, and did not hear them."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:disciple]]
+    * [[en:obe:kt:bless]]
+    * [[en:obe:kt:prophet]]
+    * [[en:obe:other:king]]
+
+===== Translation Notes: =====
+
+
+    * **he said privately**  - "to them alone." This was possibly at a later time. The UDB makes this explicit: "Then when his disciples were alone with him." (See: [[en:ta:vol1:translate:figs_explicit]])
+    * **Blessed are those who see the things that you see** - This probably refers to all of the people who were coming to listen to Jesus.  AT: "How good it is for those who see the things that you are seeing." 
+    * **the things that you see** - "the things you have seen me do"
+    * **the things that you hear** - "the things that you have heard me say"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:luk:10:22|<<]] | [[:en:bible:notes:luk:10:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

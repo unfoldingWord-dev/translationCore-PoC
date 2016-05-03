@@ -1,0 +1,58 @@
+====== Luke 13:28-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 Then Jesus continued by saying, "\add From where God will send you\add*, you will see Abraham and Isaac and Jacob in the distance. All the prophets \add who lived long ago will also be there\add*, in the kingdom where God \add is ruling\add*. But you will be outside, crying and grinding your teeth \add because you will have severe pain!\add*
+\v 29 Furthermore, many \add non-Jewish\add* people will \add be inside\add*. There will be ones who have come from \add lands to\add* the north, east, south, and west. They will be feasting in that place where God is ruling\f + \ft Or: God's kingdom \f*.
+\v 30 Think about this: Some people whom others do not \add consider\add* important \add now, God will make\add* them very important \add then\add*, and some people whom \add others consider\add* very important \add now, God will make\add* to be not important \add then\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 Then Jesus continued by saying, "You will see Abraham and Isaac and Jacob in the distance. All the prophets who lived long ago will also be there, where God will rule everything as king. But you will be outside, crying and grinding your teeth in pain!
+\v 29 Furthermore, many non-Jewish people will be inside. There will be ones who have come from lands to the north, east, south, and west. They will be feasting to celebrate that God is ruling everything.
+\v 30 Think about this: Some people who seem the least important now will be the most important then, and others who seem important now, will be the least important then."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 There will be crying and the grinding of teeth when you see Abraham, Isaac, Jacob and all the prophets in God's kingdom, but you—you were thrown outside.
+\v 29 They will arrive from the east, west,north, and south, and relax at the dinner table in the kingdom of God. 
+\v 30 And know this, the last are the first, and the first will be last."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:gnashteeth]]
+    * [[en:obe:other:abraham]]
+    * [[en:obe:other:isaac]]
+    * [[en:obe:other:jacob]]
+    * [[en:obe:kt:prophet]]
+    * [[en:obe:kt:kingdomofgod]]
+===== Translation Notes: =====
+Jesus continues to talk about going into God's kingdom.
+    * **but you—you were thrown outside** - "but you yourselves will have been thrown outside"
+    * **They will arrive**  - "People will come"
+    * **the last are the first** - This is about honor or importance. It can be translated as "Some who are the least important will be the most important" or "Some who are dishonored will be honored."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:en:bible:notes:luk:13:25|<<]] | [[:en:bible:notes:luk:13:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

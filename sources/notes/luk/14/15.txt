@@ -1,0 +1,54 @@
+====== Luke 14:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 One of those who were eating with him heard him say that. He said to Jesus, "God \add has truly\add* blessed \add us Jews\add* who will eat \add with the Messiah\add* when he starts to rule!"
+\v 16 But \add to show that many Jews whom God had invited would not accept God's invitation\add* \f + \ft metaphor \f*, Jesus replied to him, "One time a man \add decided\add* to prepare a large feast. He invited many people to come.
+\v 17 When it was the day for the feast, he sent his servant to tell those who had been \f + \ft Or:whom he had \f* invited, 'Come \add now\add* because everything is ready!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 One of those who were eating with him heard him say that. He said to Jesus, "God has truly blessed everyone who will eat the feast to celebrate that God has begun to rule everywhere!"
+\v 16 Jesus replied to him, "One time a man decided to prepare a large feast. He invited many people to come.
+\v 17 When it was the day for the feast, he sent his servant to tell those who had been invited, 'Come now because everything is ready!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 When one of them who sat at the table with Jesus heard these things, he said to him, "Blessed is he who will eat bread in the kingdom of God!"
+\v 16 But Jesus said to him, "A certain man prepared a large dinner and invited many.
+\v 17 When the dinner was prepared, he sent his servant to say to those who were invited, 'Come, because everything is now ready.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:other:bread]]
+  * [[:en:obe:kt:kingdomofgod]]
+  * [[:en:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+
+  * **Blessed is he**  - The man was not talking about a specific person. It can also be translated "Blessed is anyone who" or "How good it is for everyone."
+  * **he who will eat bread**  - This can be translated as "who will eat at the meal." The word "bread" is used to refer to the whole meal. (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  * **When the dinner was prepared**  - This can be translated as "At the time for the dinner" or "When the dinner was about to begin."
+  * **those who were invited**  - "those he had invited"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+**[[:en:bible:notes:luk:14:13|<<]] | [[:en:bible:notes:luk:14:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish feast }}
+
+~~NOCACHE~~

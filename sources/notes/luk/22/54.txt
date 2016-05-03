@@ -1,0 +1,51 @@
+====== Luke 22:54-55 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 54 They seized \add Jesus\add* and led him away. They brought him to the high priest's house. Peter followed \add them\add* at a distance.
+\v 55 They kindled a fire in the middle of the courtyard and sat down together. Peter sat among them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 54 They seized Jesus and led him away. They brought him to the high priest's house. Peter followed them far behind.
+\v 55 The people lit a fire in the middle of the courtyard and sat down together. Peter sat among them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 54 Seizing him, they led him away, and brought him into the high priest’s house. But Peter followed from a distance.
+\v 55 After they had kindled a fire in the middle of the courtyard and had sat down together, Peter sat in the midst of them.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:seize]]
+  * [[en:obe:kt:highpriest]]
+  * [[en:obe:other:peter]]
+  * [[en:obe:other:courtyard]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **led him away**  - "led Jesus away from the garden where they had arrested him"
+    * **they had kindled a fire** - This can also be translated as "some of them had kindled a fire." The fire was to keep them warm.
+    * **the middle of the courtyard** - This was the courtyard at the high priest's house. It had walls around it, but no roof. 
+
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:52|<<]] | [[:en:bible:notes:luk:22:56|>>]]**
+
+~~DISCUSSION~~{{tag>publish courtyard}}

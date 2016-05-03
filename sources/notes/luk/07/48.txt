@@ -1,0 +1,54 @@
+====== Luke 07:48-50 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 48 Then he said to the woman, "You have been forgiven \f + \ft Or:\add I have\add* forgiven \add you\add* \f* \add for\add* your sins."
+\v 49 Then those who were eating with him said among themselves, "This man must \add think that he is God!\f + \ft Or: \add*Who does this man \add think that he\add* is \f + \ft rhetorical question \f* \f*, saying that he can forgive \add people for\add* their sins?"
+\v 50 But Jesus said to the woman, "Because you have trusted \f + \ft personification \f* \add in me, God\add* has saved you \add from the guilt of your sins\add*. May \add God\add* give you inner peace as you go!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 48 Then he said to the woman, "You have been forgiven for your sins."
+\v 49 Then those who were eating with him said among themselves, "Who is this man who says that he can forgive sins?"
+\v 50 But Jesus said to the woman, "Because you have believed in me, God has saved you. May God give you peace as you go!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 48 Then he said to her, "Your sins are forgiven."
+\v 49 Those reclining together began to say among themselves, "Who is this that even forgives sins?"
+\v 50 Then Jesus said to the woman, "Your faith has saved you. Go in peace."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:sin]]
+    * [[en:obe:kt:forgive]]
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:faith]]
+    * [[en:obe:kt:save]]
+    * [[en:obe:other:peace]]
+
+===== Translation Notes: =====
+
+  * **Your sins are forgiven**  - "You are forgiven." AT: "I forgive your sins." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Your faith has saved you**  - "Because of your faith, you are saved." AT: "Because you believe, you are saved." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Go in peace**  - This is a way of saying "Good-bye" and giving a blessing at the same time. AT: "As you go, do not worry anymore" or "May God give you peace as you go" (UDB).
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:46|<<]] | [[:en:bible:notes:luk:08:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish peace}}
+
+~~NOCACHE~~

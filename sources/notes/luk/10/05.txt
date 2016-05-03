@@ -1,0 +1,55 @@
+====== Luke 10:5-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Whenever you enter a house \add to lodge there\add*, first say to those people, 'May \add God give inner\add* peace to \add you people\add* \f + \ft metonymy \f* \add in\add* this house!'
+\v 6 If people who \add live\add* there \add are desiring to have\add*\f + \ft Or: worthy of receiving \f* \add God's\add* peace, they will experience the \add inner\add* peace that you are \add offering them\add*. If people who \add live\add* there \add are not desiring to have God's\add* peace, you \add will experience God's inner\add* peace, \add but they will not\add*.
+\v 7 \add If they welcome you\add*, stay in that same house \add until you leave that village\add*. Do not move around from one house to another. Eat and drink whatever they provide for you. A worker deserves to get pay \f + \ft metaphor \f* \add from the people for whom he works, so you deserve to receive food and a place to stay from the people to whom you go\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Whenever you enter a house, first say to those people, 'May God give peace to you who are in this house!'
+\v 6 If the people who live there are desiring to have God's peace, they will experience the peace that you are offering them. If the people who live there are not desiring to have God's peace, the peace you have offered will return to you.
+\v 7 Stay in that same house until you leave that village. Do not move around from one house to another. Eat and drink whatever they provide for you,  because a worker deserves to receive payment for his work.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 Into whatever house you may enter, first say, 'May peace be on this house.'
+\v 6 If a person of peace is there, your peace will rest upon him, but if not, it will return to you.
+\v 7 Remain in that same house, eating and drinking what they provide, for the laborer is worthy of his wages. Do not go from house to house.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:peace]]
+    * [[en:obe:other:house]]
+    * [[en:obe:kt:worthy]]
+
+===== Translation Notes: =====
+Jesus continues to give directions to the 70 people he was sending out.
+
+    * **May peace be on this house** -  "May the people in this household receive peace." This was both a greeting and a blessing.
+    * **a person of peace**  - "a peaceful person." This is a person who wants peace with God and with people.
+    * **your peace will rest upon him**  - AT: "he will have the peace you blessed him with."
+    * **if not**  - "if there is no person of peace there" or "if the owner of the house is not a peaceful person"
+    * **it will return to you** - "you will have that peace"
+    * **Remain in that same house** - Jesus was not saying that they should stay in the house all day, but that they should sleep at the same house every night they were there. AT: "Continue to sleep at that house." 
+    * **for the laborer is worthy of his wages** - This is a general principle that Jesus was applying to the men he was sending out. Since they would be teaching and healing the people, the people should provide them with a place to stay and food.
+    * **Do not go from house to house** - This means "Do not go sleep at a different house each night."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:luk:10:03|<<]] | [[:en:bible:notes:luk:10:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

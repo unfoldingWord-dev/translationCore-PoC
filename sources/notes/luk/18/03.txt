@@ -1,0 +1,52 @@
+====== Luke 18:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 There was a widow in that city who kept coming to him, saying, 'Please decide what is just \add in the dispute between me and\add* the man who is opposing me \add in court!'\add*
+\v 4 For a long time the judge refused \add to help her\add*. But later he said to himself, 'I do not revere God and I do not care about people,
+\v 5 but this widow keeps bothering me! So I will \add judge her case and show\add* that she is right. \add If I do not do that\add*, she will exhaust me by continually coming to me!'"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 There was a widow in that city who kept coming to that judge, saying, 'Please get justice for me from the man who is opposing me in court.
+\v 4 For a long time the judge refused to help her. But later, he said to himself, 'I do not revere God and I do not care about people,
+\v 5 but this widow keeps bothering me! So I will judge her case and make sure she is treated fairly, because if I do not do that, she will exhaust me by continually coming to me!'"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 Now there was a widow in that city, and she came often to him, saying, 'Help me get justice against my opponent.'
+\v 4 For a long time he was not willing to help her, but after awhile he said to himself, 'Though I do not fear God or respect man,
+\v 5 yet because this widow causes me trouble, I will help her get justice, so that she does not wear me out by her constant coming.'"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:justice]]
+
+
+===== Translation Notes: =====
+Jesus continues telling his parable.
+  * **widow**  - A widow is a woman whose husband has died. Jesus' hearers would have thought of her as without defense against evildoers.
+  * **Help me get justice against** - This could be translated as "Punish" or "Grant me retribution against."
+  * **my opponent**  - "my enemy" or "the person who is trying to harm me." This is an opponent in a lawsuit. It is not clear whether the woman is suing the man or the man is suing the woman.
+  * **fear God**  - "revere God"
+  * **man**  - This refers here to "people" in general.
+  * **causes me trouble**  - This can also be translated as "bothers me."
+  * **wear me out **- "exhaust me"
+  * **by her constant coming**  - "by continually coming to me"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+**[[:en:bible:notes:luk:18:01|<<]] | [[:en:bible:notes:luk:18:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish justice}}

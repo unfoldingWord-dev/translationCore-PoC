@@ -1,0 +1,68 @@
+====== Luke 01:36-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 \add I also need to tell you something else\add*. Your cousin Elizabeth is very old, and it was thought \f + \ft Or:\add people\add* said \f* that she could not bear any children. But she has been \add pregnant\add* \f + \ft euphemism \f* \add for almost\add* six months, and will bear a son!
+\v 37 \add You should not be surprised at that\add*, because God can do everything!"
+\v 38 Then Mary said, "All right, I want to serve the Lord\f + \ft Or: God \f*, so may what you\add \f + \ft singular \f*\add* have said about me come true!" Then the angel left her.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 And listen to this. Your relative Elizabeth is pregnant with a son, even though she is very old. And though people thought that she could not bear children, she has now been pregnant for almost six months.
+\v 37 For God can do anything!"
+\v 38 Then Mary said, "All right, I am the Lord's servant, so let what you have said about me happen!" Then the angel left her.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 See, Elizabeth your relative also has conceived a son in her old age; she is in her sixth month of pregnancy, even though she was called barren.
+\v 37 For nothing is impossible for God."
+\v 38 Mary said, "Indeed, I am the Lord's servant. Let this happen to me according to your word." And the angel left her.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:elizabeth]]
+  * [[en:obe:other:conceive]]
+  * [[en:obe:kt:barren]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:mary]]
+  * [[en:obe:kt:lordgod]]
+  * [[en:obe:other:servant]]
+  * [[en:obe:kt:word]]
+  * [[en:obe:kt:angel]]
+
+
+===== Translation Notes: =====
+
+The angel finishes speaking to Mary.
+
+    * **your relative** - If you need to state a specific relationship, Elizabeth was probably Mary's aunt or great-aunt.
+    * **also has conceived a son in her old age** - "has also become pregnant with a son, even though she is already very old" or "even though she is old, has also become pregnant and will bear a son" Make sure it doesn't sound as though both Mary and Elizabeth were old when they conceived.
+    * **nothing is impossible for God** - "because God can do anything" What God had done for Elizabeth was proof that God was able to do anything, and that he could even enable Mary to become pregnant without her sleeping with a man. (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+    * **I am the Lord's servant** - "I am a servant of the Lord" Choose an expression that shows her humility and obedience to the Lord. She was not boasting about being the Lord's servant.
+    * **Let this happen to me** - Mary was expressing her willingness for the things to happen that the angel had told her were about to happen.
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:34|<<]] | [[:en:bible:notes:luk:01:39|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

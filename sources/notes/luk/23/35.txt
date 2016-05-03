@@ -1,0 +1,45 @@
+====== Luke 23:35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 Many people stood nearby, watching. And the \add Jewish\add* leaders made fun of\f + \ft Or: ridiculed \f* \add Jesus\add*, saying, "He \add said\add* \f + \ft irony \f* \add that he\add* saved other people! If he is the Messiah, the one God has chosen, he should save himself!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 Many people stood nearby, watching. Even the Jewish leaders were mocking Jesus: “He saved other people! If God has really chosen him to be the Messiah, he should save himself!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 35 The people stood watching while the rulers also were mocking him, saying, "He saved others. Let him save himself, if he is the Christ of God, the chosen one."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:ruler]]
+  * [[en:obe:other:mock]]
+  * [[en:obe:kt:save]]
+  * [[en:obe:kt:christ]]
+  * [[en:obe:kt:elect]]
+
+===== Translation Notes: =====
+
+  * **stood** - "were standing there"
+  * **him** - This refers to Jesus.
+  * **Let him save himself** - "Jesus should be able to save himself" or "We would like to see him prove who he is by saving himself from the cross"
+  * **the chosen one** - This could also be translated as "the one that God chose."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:33|<<]] | [[:en:bible:notes:luk:23:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

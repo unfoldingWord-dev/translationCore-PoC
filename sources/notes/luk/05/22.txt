@@ -1,0 +1,52 @@
+====== Luke 05:22-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 Jesus perceived what they were thinking. So he said to them, "You should not question within yourselves \add about what I said!\add*\f + \ft Or: Why do you question within yourselves \add about what I said\add*? \f* \f + \ft rhetorical question \f* \add Consider this\add*:
+\v 23 It would \add not\add* be risky \add for someone\add* to say \add to this man\add*, '\add I\add* forgive your sins,' \add because no one could see whether or not his sins were really forgiven. But no one\add* \f + \ft rhetorical question \f*\add , without having the power to heal\add*, would say to \add him\add*, 'Get up and walk!' \add because people could easily see whether he was healed or not\add*.
+\v 24 But \add as a result of my healing this man\add* you\add \f + \ft plural \f*\add* will know that \add God\add* has authorized \add me\add*, the one who came from heaven, to forgive the sins \add of people while I am on\add* the earth, \add as well as to heal people\add*." Then he said to the man who was paralyzed, "To you I say, 'Get up, pick up your sleeping pad, and go home!'"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Jesus knew what they were thinking. So he said to them, "You should not question within yourselves about what I said! Consider this:
+\v 23 It is easy to say, 'Your sins are forgiven' because no one can see whether or not the person was really forgiven. But it is not easy to say 'Get up and walk' because people can immediately see whether or not he was healed.
+\v 24 So I will heal this man so that you will know that God has also given to me, the Son of Man, permission to forgive people on earth their sins." Then he said to the man who was paralyzed, "To you I say, 'Get up, pick up your sleeping pad, and go home!'"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 But Jesus, perceiving what they were thinking, answered and said to them, "Why are you questioning this in your hearts?
+\v 23 Which is easier to say, 'Your sins are forgiven you' or to say 'Get up and walk?'
+\v 24 But that you may know that the Son of Man has authority on earth to forgive sins, I say to you, 'Get up, pick up your mat, and go to your house.'"
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:heart]]
+    * [[en:obe:kt:sonofman]]
+    * [[en:obe:kt:authority]]
+===== Translation Notes: =====
+
+  * **Why are you questioning this in your hearts**  - AT: "You should not argue about this in your hearts" or "You should not doubt that I have the authority to forgive sins." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **in your hearts**  - This is an idiom referring to the part of a person that thinks or believes. Some languages will find it more natural not to include this phrase. (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **Which is easier to say**  - Jesus uses this rhetorical question to prepare them to connect his power to forgive with the miracle of healing that he is going to do. AT: "It is easy to say 'Your sins are forgiven,' but only God can cause this lame man to 'Get up and walk.'" (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **you may know**  - Jesus was speaking to the scribes and Pharisees. The word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
+  * **the Son of Man**  - Jesus was referring to himself.
+  * **I say to you**  - Jesus was saying this to the paralyzed man. The word "you" is singular.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:luk:05:20|<<]] | [[:en:bible:notes:luk:05:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

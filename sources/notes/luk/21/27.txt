@@ -1,0 +1,62 @@
+====== Luke 21:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 Then they will see \add me\add*, the one who came from heaven, coming in a cloud powerfully and very gloriously.
+\v 28 So when these things that \add I have just now described\add* begin to happen, stand up \add straight and\add* be brave, because it will be close to the time when \add God\add* will free you \add from all suffering\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 Then all people will see me, the Son of Man, coming in the clouds with power and brilliant light.
+\v 28 So when those terrible things begin to happen, stand up straight and look upward, because God will soon rescue you."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 27 Then they will see the Son of Man coming in a cloud with power and great glory.
+\v 28 But when these things begin to happen, stand up, and lift up your heads, because your deliverance draws near."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:kt:power]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:kt:deliverer]]
+ 
+
+===== Translation Notes: =====
+Jesus continues speaking to his disciples about the future.
+  * **Son of Man** - Jesus is referring to himself.
+  * **coming in a cloud**  - This can be translated as "coming down in a cloud."
+  * **with power and great glory**  - This can be translated as "powerfully and gloriously" or "and he will be powerful and very glorious." "Power" here probably refers to his authority to judge the world. "Glory" here may refer to a bright light. God sometimes shows his greatness with a very bright light.
+  * **stand up**  - This can be translated as "stand up with confidence." Sometimes when people are afraid, they crouch down in order to avoid being seen or hurt. When they are no longer afraid, they get up.
+  * **lift up your heads**  - This is an idiom meaning "look up." By looking up, they would be able to see their rescuer coming to them. (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **because your deliverance draws near**  - This can be translated as "because your deliverer is coming to you" or "because you will soon be delivered."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/21/25|<<]] | [[en/bible/notes/luk/21/29|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

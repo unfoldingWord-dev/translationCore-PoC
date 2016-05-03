@@ -1,0 +1,67 @@
+====== Luke 09:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Herod \add Antipas\add*, the ruler of \add that\add* district, heard about the things that \add Jesus and his disciples\add* were doing. \add He had previously commanded his soldiers to execute John the Baptizer, so now\add* he was perplexed, because some people were saying that John had become alive again \add and was doing those miracles\add*.
+\v 8 Others were saying that \add the prophet\add* Elijah had appeared \add again as had been prophesied\add*. Others were saying that one of the \add other\add* former prophets had become alive again \add and was doing those miracles\add*.
+\v 9 But Herod said, "\add It cannot be John who is doing these things\add*, \add because\add* I \add commanded my soldiers to\add* cut off his head. So who is \add this man\add* that I am hearing these things about?" And he kept wanting to see \add Jesus\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Herod, the ruler over the district of Galilee, heard about everything that was happening.  He was perplexed, because some people were saying that John the Baptizer had become alive again.
+\v 8 Other people were saying that the prophet Elijah had appeared again and still others were saying that one of the other prophets from long ago had become alive again.
+\v 9 But Herod said, "It cannot be John because I had his head cut off. So who is this man that I am hearing these things about?" And he kept looking for a way  to see Jesus.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 Now Herod, the tetrarch, heard about all that was happening and he was very disturbed, because it was said by some that John the Baptist had risen from the dead,
+\v 8 and by some that Elijah had appeared, and by others that one of the ancient prophets had risen to life again.
+\v 9 Herod said, "I beheaded John, but who is this about whom I hear such things?" And Herod  tried to find a way to see Jesus.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:herodantipas]]
+    * [[en:obe:other:tetrarch]]
+    * [[en:obe:other:johnthebaptist]]
+    * [[en:obe:kt:raise]] 
+    * [[en:obe:kt:death]]
+    * [[en:obe:other:elijah]]
+    * [[en:obe:kt:prophet]]
+
+===== Translation Notes: =====
+
+
+    * **Herod, the tetrarch** - This refers to Herod Antipas, who was the ruler of one-fourth of Israel.
+    * **was very disturbed**  - "was very upset" or "was troubled by the news" or "was perplexed" (UDB)
+    * **I beheaded John**  - AT: "I commanded my soldiers to cut off John's head."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/09/05|<<]] | [[en/bible/notes/luk/09/10|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish herodantipas tetrarch}}
+~~NOCACHE~~

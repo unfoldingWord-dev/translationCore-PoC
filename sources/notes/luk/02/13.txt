@@ -1,0 +1,58 @@
+====== Luke 02:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Suddenly a large group of angels from heaven appeared and joined the other angel. They all praised God, singing\f + \ft Or: saying \f*,
+\v 14 "May \add all the angels\add* in the highest heaven praise God! And on the earth may the people to whom God has shown his favor have peace \add with him\add*!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Suddenly a large group of angels from heaven appeared and joined the other angel. They all praised God, saying, 
+\q1
+\v 14 "May all the angels in the highest heaven praise God! And may there be peace on earth among people who are pleasing to God!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 Suddenly with the angel there was a large number of the heavenly army praising God, and saying, 
+\q1 \v 14 "Glory to God in the highest, 
+\q1  and may there be peace on earth among people
+\q1  with whom he is pleased."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:heaven]]
+  * [[en:obe:other:praise]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:glory]]
+  * [[en:obe:other:peace]]
+===== Translation Notes: =====
+
+
+    * **a large number of the heavenly army** - The word "army" here could refer to a literal army, or it could be a metaphor for an organized group. (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **praising God** - AT: "who were praising God"
+    * **Glory to God in the highest** - Possible meanings are 1) "Give honor to God in the highest place" or 2) "Give the highest honor to God."
+    * **may there be peace on earth among people with whom he is pleased** - "may those people on earth with whom God is pleased have peace" 
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:10|<<]] | [[:en:bible:notes:luk:02:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish angel  }}
+
+~~NOCACHE~~

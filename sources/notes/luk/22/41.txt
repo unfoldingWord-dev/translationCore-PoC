@@ -1,0 +1,45 @@
+====== Luke 22:41-42 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 41 Then he went from them a distance of about thirty meters\f + \ft Or: yards \f*. \f + \ft Or: as far as someone can throw a stone. \f* He knelt and prayed,
+\v 42 "\add My\add* Father, if you are willing \add to do it\add*, permit that I do not \add have to undergo\add* these terrible things that \add are about to happen to me\add* \f + \ft metonymy \f*. But do not do what I want. Instead, do what you want."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 41 Then he went about thirty meters from them, knelt down and prayed. He said,
+\v 42 "Father, the terrible things that are about to happen to me: if you are willing to keep from happening, do it. But do not do what I want, but what you want."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 41 He went away from them about a stone’s throw, and he knelt down and prayed,
+\v 42 saying, "Father, if you are willing, remove this cup from me. Nevertheless not my will, but yours be done."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:pray]]
+  * [[en:obe:kt:godthefather]]
+  * [[en:obe:kt:willofgod]]
+
+===== Translation Notes: =====
+
+  * **about a stone's throw** - This means "about the distance that someone can throw a stone." AT: "a short distance" or with an estimated measurement like "about 30 meters" (UDB). (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **remove this cup from me** - Jesus is referring to the suffering that he is about to endure as if it were in a cup and that he was going to drink it. AT: "take away from me this cup of suffering" or "take away this suffering from me" or "rescue me from having to suffer like this." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **Nevertheless not my will, but yours be done**  - This can also be translated as "However, I want your will to be done rather than mine."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:39|<<]] | [[:en:bible:notes:luk:22:43|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

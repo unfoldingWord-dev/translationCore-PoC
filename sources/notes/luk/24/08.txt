@@ -1,0 +1,52 @@
+====== Luke 24:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 The \add women\add* remembered that he had said that.
+\v 9 So they left the tomb and went to the eleven \add apostles\add* and his other \add disciples\add* and told them those things.
+\v 10 The ones who kept telling those things to the apostles were Mary from Magdala \add village\add*, Joanna, Mary who was the mother of James, and the other women \add who were\add* with them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 The women remembered what Jesus had said to them.
+\v 9 So they left the burial chamber and went to the eleven apostles and his other disciples and told them what happened.
+\v 10 The women who told these things to the apostles were Mary from Magdala village, Joanna, Mary the mother of James, and the other women who were with them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 The women remembered his words,
+\v 9 and returned from the tomb and told all these things to the eleven and all the rest.
+\v 10 Now Mary Magdalene, Joanna, Mary the mother of James, and the other women with them reported these things to the apostles.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:other:tomb]]
+  * [[:en:obe:kt:thetwelve]]
+  * [[:en:obe:other:marymagdalene]]
+  * [[:en:obe:kt:apostle]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **remembered his words**  - "remembered Jesus' words" 
+    * **returned from the tomb**  - The narrator's point of observation is from the path between the tomb and apostles (ULB). The UDB has the point of observation at the tomb, noting that the women have left. In either case, the women left the tomb and went to where the apostles were.
+    * **all the rest** - "all the rest of the disciples that were with the eleven apostles"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:06|<<]] | [[:en:bible:notes:luk:24:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish marymagdalene}}

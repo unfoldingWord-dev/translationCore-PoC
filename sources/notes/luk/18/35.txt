@@ -1,0 +1,61 @@
+====== Luke 18:35-37 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 As \add Jesus and his disciples\add* came near to Jericho \add city\add*, a blind man was sitting beside the road. \add He was\add* begging \add for money\add*.
+\v 36 When he heard the crowd \add of people\add* passing by, he asked someone, "What is happening?"
+\v 37 They told him, "Jesus, \add the man\add* from Nazareth \add town\add*, is passing by."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 As Jesus and his disciples came near to the city of Jericho, a blind man was sitting beside the road. He was begging for money.
+\v 36 When he heard the crowd of people passing by, he asked someone, "What is happening?"
+\v 37 They told him, "Jesus, the man from the town of Nazareth, is passing by."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 35 It came about that, as Jesus drew near to Jericho, a certain blind man was sitting by the road begging,
+\v 36 and hearing a crowd going by, he asked what was happening.
+\v 37 They told him that Jesus of Nazareth was passing by.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:jericho]]
+  * [[en:obe:other:beg]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:nazareth]]
+ 
+
+===== Translation Notes: =====
+
+  * **drew near to** - "approached"
+  * **a certain blind man was sitting** - "there was a blind man sitting." Here "certain" means only that the man is important to the story but his name will not be given.
+  * **begging, and hearing** - This could also be translated as two sentences: "begging. When he heard."
+  * **They told him** - People in the crowd told the blind man.
+  * **Jesus of Nazareth** - Jesus came from the town of Nazareth that was located in Galilee.
+  * **was passing by** - "was walking past him"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/18/34|<<]] | [[en/bible/notes/luk/18/38|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish Jericho}}
+~~NOCACHE~~

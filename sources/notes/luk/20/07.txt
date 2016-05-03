@@ -1,0 +1,57 @@
+====== Luke 20:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 So they replied, "We\add \f + \ft exclusive \f*\add* do not know where \add John got his authority\add*."
+\v 8 Then Jesus said to them, "\add Because you did not answer my question\add*, I will not tell you who authorized me to do those things \add here yesterday\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 So they replied that they did not know who told John to baptize.
+\v 8 Then Jesus said to them, "Neither will I tell you who sent me to do those things."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 So they answered that they did not know where it came from.
+\v 8 Jesus said to them, "Neither will I tell you by what authority I do these things."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:authority]]
+
+
+===== Translation Notes: =====
+
+  * **So they answered**  - "So the chief priests, scribes and elders answered"
+  * **they answered that they did not know**  - Some languages may prefer a direct quote. "They said, 'We do not know'" (See: [[en:ta:vol2:translate:figs_quotations]])
+  * **where it came from**  - "where John's baptism came from." It can be translated as "where John's authority to baptize came from" or "who authorized John to baptize people."
+  * **Neither will I tell you**  - This could be translated as "And I will not tell you" or "Just as you will not tell me, I will not tell you."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/20/05|<<]] | [[en/bible/notes/luk/20/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

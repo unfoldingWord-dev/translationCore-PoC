@@ -1,0 +1,50 @@
+====== Luke 24:30-32 ======
+
+===== TFT: =====
+
+<usfm>
+\v 30 When they sat down to eat, he took some bread and \add asked God to\add* bless it. He broke it and gave \add some pieces\add* to them.
+\v 31 And then \add God\add* enabled them to recognize \f + \ft metonymy \f* him. But \add immediately\add* he disappeared!
+\v 32 They said to each other, "\add While we were walking\add* along the road and he talked with us and \add enabled\add* us\add \f + \ft exclusive \f*\add* to understand the Scriptures, we \add became so excited that it was as though\add* \f + \ft metaphor \f* a fire was burning within us \f + \ft rhetorical question \f*! \add We should not stay here; we should go tell others what happened!\add*"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 30 When they sat down to eat, he took some bread and thanked God for it. He broke it and gave some pieces to them.
+\v 31 And then God enabled them to recognize him. But immediately he disappeared!
+\v 32 They said to each other, "While we were walking along the road and he talked with us and enabled us to understand the Scriptures, we started thinking that something very, very good was going to happen, although we did not know what. We should not stay here; we should go tell others what happened!"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 30 It happened that, when he had sat down with them to eat, he took the bread, blessed it, and breaking it, he gave it to them.
+\v 31 Then their eyes were opened, and they knew him, and he vanished out of their sight.
+\v 32 They said one to another, "Was not our heart burning within us, while he spoke to us on the way, while he opened to us the scriptures?"
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:bread]]
+  * [[en:obe:kt:bless]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:kt:wordofgod]]
+
+===== Translation Notes: =====
+
+  * **It happened**  - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+  * **Then their eyes were opened**  - "then they understood" or "then they realized"
+  * **the bread** - This refers to bread made without yeast. It does not refer to food in general. 
+  * **blessed it** - This can be translated as "gave thanks for it" or "thanked God for it."
+  * **he vanished out of their sight** - This means that suddenly he was no longer there. It does not mean that he became invisible.
+  * **Was not our heart burning…**  -  "Our hearts were burning within us" (UDB). This is a rhetorical question. (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **burning within us** - This is a metaphor that describes the intense feelings they had while talking to Jesus. The entire question could be translated as "We had such intense feelings while he was speaking to us..." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **within us**  - The two men were speaking to each other. So the word "us" is dual inclusive for languages that make these distinctions. (See: [[en:ta:vol2:translate:figs_pluralpronouns]], [[en:ta:vol2:translate:figs_inclusive]])
+  * **while he opened to us the scriptures** - "while he explained the scriptures to us." Jesus did not open a book or scroll.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:28|<<]] | [[:en:bible:notes:luk:24:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

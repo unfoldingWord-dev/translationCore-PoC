@@ -1,0 +1,52 @@
+====== Luke 07:18-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 The disciples of John \add the Baptizer went to the prison where John was and\add* told him about those things.
+\v 19 So \add one day\add* John summoned two \add of his disciples\add* and \add told them\add* to go to the Lord and ask him: "Are you \add the Messiah who the prophets prophesied would come\add*, or is it someone else that we should expect \add to come\add*?"
+\v 20 When those two men came to Jesus, they said, "John the Baptizer sent us to ask you\add \f + \ft singular \f*\add* this: Are you \add the Messiah that\add* we are expecting \add God\add* to send, or shall we\add \f + \ft exclusive \f*\add* expect someone else?"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18-19 The disciples of John the Baptizer told him about all these things. So John called for two of his disciples and told them to go to the Lord and ask him: "Are you the one whom God promised would come, or should we be expecting someone else?"
+\v 20 When those two men came to Jesus, they said, "John the Baptizer sent us to ask you, 'Are you the one whom God promised would come, or should we expect someone else?'"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 John's disciples told him about all these things. 
+\v 19 Then John called two of his disciples and sent them to the Lord to say, "Are you the Coming One, or is there another person we should be looking for?"
+\v 20 When they had come near to Jesus, the men said, "John the Baptist has sent us to you to say, 'Are you the Coming One, or is there another person we should be looking for?'"
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:johnthebaptist]]
+    * [[en:obe:kt:disciple]]
+    * [[en:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+    * **told him** - "told John"
+    * **all these things** - "all the things Jesus was doing"
+    * **sent them to the Lord to say** - "(John) sent them to the Lord to ask (Jesus)"
+    * **has sent us to you to say, 'Are you the Coming One** - "(John) has sent us to you. He asks 'Are you the Coming One'" or "(John) has sent us to to ask you, 'Are you the Coming One'" (UDB)
+    * **we should be looking for** - "we should be waiting for" or "we should be expecting to come"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:16|<<]] | [[:en:bible:notes:luk:07:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

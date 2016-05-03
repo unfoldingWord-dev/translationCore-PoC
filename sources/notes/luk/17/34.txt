@@ -1,0 +1,46 @@
+====== Luke 17:34-37 ======
+
+===== TFT: =====
+
+<usfm>
+\v 34 I tell you this: On the night \add when I return\add*, there will be two people \add sleeping\add* in one bed. The one \add who believes in me\add* will be taken \f + \ft Or:\add God\add* will take the one \add who believes in me\add* \f* \add to heaven\add*, and the other one will be left \add behind and punished\add* \f + \ft Or:and \add he\add* will leave the other one \add behind and punish him\add* \f*.
+\v 35-36 Two women will be grinding grain together; one will be taken and the other left \f + \ft Or:\add God\add* will take one and leave the other \f* \add behind\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 34 I tell you this: On the night when I return, there will be two people sleeping in one bed. The one who believes in me will be taken and the other one will be left behind.
+\v 35-36 Two women will be grinding grain together; one will be taken and the other left behind."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 34 I tell you, in that night there will be two men in one bed. One will be taken, and the other will be left.
+\v 35 There will be two women grinding together. One will be taken, and the other will be left."
+\v 36 \f + \ft Luke 17:36 the best ancient copies omit, vs. 36 \fqa There will be two in the field; one will be taken and the other left.  \f*
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:lord]]
+
+===== Translation Notes: =====
+Jesus continues speaking.
+
+  * **in that night**  - This refers to what will happen if the Son of Man comes during the night.
+  * **there will be two men in one bed**  - This is a hypothetical situation about what two people might be doing at the time. It can be translated as "there may be two men on one couch." (See: [[en:ta:vol1:translate:figs_hypo]])
+  * **bed**  - "couch" or "cot"
+  * **One will be taken, and the other will be left**  - "one man will be taken and the other man will be left behind." AT: "God will take one man and leave the other," or "angels will take one and leave behind the other." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **There will be two women grinding together**  - This is a hypothetical situation about what two women might be doing at the time. AT: "There may be two women grinding grain together." (See: [[en:ta:vol1:translate:figs_hypo]])
+  * **Where, Lord?**  - "Lord, where will this happen?" (UDB)
+  * **Where there is a body, there will the vultures also be gathered together**  - Apparently this is a proverb that means "It will be obvious" or "You will know it when it happens." It can also be translated as a simile: "As vultures gathering shows that there is a dead body, so these things show that the Son of Man is being revealed." (See: [[en:ta:vol1:translate:figs_simile]])
+  * **vultures**  - Vultures are large birds that fly together and eat the flesh of dead animals that they find. You could describe birds this way or use the word for a local bird that does this.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:32|<<]] | [[:en:bible:notes:luk:18:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish text}}

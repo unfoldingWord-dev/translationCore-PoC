@@ -1,0 +1,48 @@
+====== Luke 08:30-31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 \add In order to expel the demon more easily\add*, Jesus asked \add the demon\add*, "What is your\add \f + \ft singular \f*\add* name?" He replied, "My name is Crowd\f + \ft Or: Mob \f*." \add He said that\add* because many demons had entered that man.
+\v 31 \add The demons\add* kept begging \add Jesus\add* that he would not command them to go into the deep place \add where God punishes demons\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 Then Jesus asked him, "What is your name?" He replied, “My name is Thousands.” He said that because many demons had entered that man.
+\v 31 The demons kept begging Jesus not to  command them to go into the deep pit where God punishes demons.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 30 Then Jesus asked him, "What is your name?" And he said, "Army," for many demons had entered into him.
+\v 31 They kept imploring him that he would not command them to depart into the abyss.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:other:command]]
+    * [[en:obe:other:abyss]]
+
+
+===== Translation Notes: =====
+
+  * **Army**  - Translate this with a word that refers to a large number of soldiers or people. AT: "Battalion" or "Brigade."
+  * **to depart into the abyss**  - "to leave the man and go into the abyss"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:28|<<]] | [[:en:bible:notes:luk:08:32|>>]]**
+
+~~DISCUSSION~~{{tag>publish abyss}}
+
+~~NOCACHE~~

@@ -1,0 +1,60 @@
+====== Luke 12:33-34 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 \add So now\add* sell the things that you own. Give \add the money that you get for those things\add* to poor people. \add If you do that, it will be as though\add* you are providing for yourselves purses that will not wear out, and \add God will give\add* you a treasure in heaven that will always be safe. There, no thief can come near \add to steal it\add*, and no termite can destroy it.
+\v 34 Remember that \add the things\add* that you \add think are the most\add* valuable are \add the things\add* that you will be constantly concerned about."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 So now sell the things that you own. Give the money to those who do not have as much as you do. Get yourselves wallets that do not get worn out, that is, store up treasure in heaven where it will always be safe. There, no thief can come near to steal it, and no termite can destroy it.
+\v 34 Whatever it is that you treasure, that is what you will think about and spend your time on.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 Sell your possessions and give to the poor. Make for yourselves purses which will not wear out—treasure in the heavens that does not run out, where no thief comes near, and no moth destroys.
+\v 34 For where your treasure is, there your heart will be also.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:possess]]
+    * [[:en:obe:kt:heaven]]
+    * [[en:obe:other:thief]]
+    * [[:en:obe:other:heart]]
+
+===== Translation Notes: =====
+Jesus continues to teach his disciples.
+
+    * **and give to the poor** - "and give to poor people the money you earn from the sales"
+    * **Make for yourselves purses...treasure in heaven** - The purses and treasure in heaven are the same thing. They both represent God's blessing in heaven. AT: "In this way you will make for yourselves purses..." (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **purses which will not wear out**  - "money bags that won't get holes in them" (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **does not run out** - "does not diminish" or "does not become less"
+    * **your heart** - Here "heart" refers to a person's thoughts. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
+
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:31|<<]] | [[:en:bible:notes:luk:12:35|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

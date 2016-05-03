@@ -1,0 +1,58 @@
+====== Luke 05:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 But many people heard the man's report of what \add Jesus had done\add*. The result was that large crowds came to Jesus to hear his \add message\add* and to be healed of their sicknesses \f + \ft Or:so that he would heal their sicknesses \f*.
+\v 16 But he often would go away from them to the desolate area and pray.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 But many people heard about how Jesus had healed the man. The result was that large crowds came to Jesus to hear him teach and to have him heal them from their sicknesses.
+\v 16 But he often would go away from them to isolated areas and pray.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 But the report about him spread even farther, and large crowds of people came together to hear him teach and to be healed of their sicknesses.
+\v 16 But he often withdrew into the deserted places and prayed.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:report]]
+    * [[en:obe:other:teach]]
+    * [[en:obe:other:heal]]
+    * [[en:obe:other:pray]]
+
+===== Translation Notes: =====
+
+
+    * **the report about him**  - "the news about Jesus." This could mean either "the report about Jesus healing the man" or "the report about Jesus healing people."
+    * **the report about him spread even farther**  - "the report about him went out even farther" or "people kept telling the news about him in other places"
+    * **the deserted places** - "lonely places" or "quiet places" or "places where there were no other people"
+
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:luk:05:14|<<]] | [[:en:bible:notes:luk:05:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish report }}
+
+~~NOCACHE~~

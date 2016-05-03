@@ -1,0 +1,53 @@
+====== Luke 13:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 Then he said, "I will tell you how \add the number of people who let\add* God rule \f + \ft metaphor \f* \add their lives will increase\add*.\f + \ft Or: Do you know how \add the number of people who let\add* God rule \f + \ft metaphor \f* \add their lives will increase\add*? \f* \f + \ft rhetorical question \f* I will tell you what I can compare it to.
+\v 19 It is like a \add tiny\add* mustard seed that a man planted in his field. It grew until it became \add big, like\add* a tree. It was \add so big that\add* birds built nests in its branches."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Then he said, "How can I explain what it will be like when God shows himself as king? I will tell you what it will be like.
+\v 19 It is like a tiny mustard seed that a man planted in his field. It grew until it became big, like a tree. It was so big that birds built nests in its branches."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 Then Jesus said, "What is the kingdom of God like, and what can I compare it to?
+\v 19 It is like a mustard seed which a man took and threw into his garden, and it grew into a big tree, and the birds of heaven built their nests in its branches."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[:en:obe:kt:kingdomofgod]]
+    * [[en:obe:kt:heaven]]
+
+===== Translation Notes: =====
+Jesus continues to teach the people in the synagogue.
+  * **What is the kingdom of God like**  - This is a rhetorical question that introduces what Jesus wants to talk about it. It can be translated as a statement: "I will tell you what the kingdom of God is like." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **what can I compare it to**  - This is basically the same as the previous rhetorical question. Jesus used it to introduce what he would talk about. Some languages can use both of these, and some would use only one. (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol2:translate:figs_parallelism]])
+  * **a mustard seed**  - Mustard seeds are very small seeds that grow into large plants. If these are not known, it can be translated with the name of another seed like it or simply as "a small seed."
+  * **and threw into his garden**  - "and planted in his garden." People planted some kinds of seeds by throwing them so that they scattered in the garden.
+  * **a big tree**  - This is an exaggeration to make a point. It can also be translated as "a very large shrub." (See:  [[en:ta:vol2:translate:figs_hyperbole]])
+  * **birds of heaven**  - "birds of the sky." It can be translated as "birds that fly in the sky" or simply "birds."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:en:bible:notes:luk:13:17|<<]] | [[:en:bible:notes:luk:13:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

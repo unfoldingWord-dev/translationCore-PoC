@@ -1,0 +1,57 @@
+====== Luke 20:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 The chief priests and the men who taught the \add Jewish\add* laws realized that he was accusing them when he told the parable \add about what those wicked men did\add*. So they immediately tried to find a way to seize \f + \ft metonymy \f* him, but \add they did not seize him, because\add* they were afraid of \add what\add* the people\add there would do if they did that\add*.
+\v 20 So they watched him carefully. They also hired spies\f + \ft Or: secret agents \f* who pretended to be sincere. \add But\add* they really wanted to get him to say something for \add which they could accuse\add* him. They wanted to be able to turn him over to the authority of the governor \add of the province. But they also knew that the Jews were disgusted with having to pay taxes to the government\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 The chief priests and the teachers of the Jewish laws realized that he was accusing them when he told the story about those wicked men. So they immediately tried to find a way to arrest him, but they did not arrest him, because they were afraid of what the people would do if they did so.
+\v 20 So they watched him carefully. They also sent spies who pretended to be sincere. But they really wanted to get Jesus to say something wrong for which they could accuse him. They wanted to be able to turn him over to the governor of the province.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 So the scribes and the chief priests sought to lay hands on him in that very hour, for they knew that he had spoken this parable against them. But they were afraid of the people.
+\v 20 Watching him carefully, they sent out spies who pretended to be righteous, that they might find fault with his speech, so as to deliver him up to the rule and to the authority of the governor.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:scribe]]
+  * [[en:obe:other:chiefpriests]]
+  * [[en:obe:kt:hour]]
+  * [[en:obe:other:parable]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:kt:righteous]]
+  * [[en:obe:kt:authority]]
+  * [[en:obe:other:governor]]
+ 
+===== Translation Notes: =====
+
+  * **sought to lay hands on him**  - AT: "looked for a way to arrest Jesus." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **in that very hour**  - "immediately"
+  * **they were afraid of the people**  - This is the reason that they did not arrest Jesus right away. The people respected Jesus, and the religious leaders were afraid of what the people might do if they arrested him. Some translations may need to make this explicit: "But they did not arrest him because they were afraid of the people." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **they sent out spies**  - "the scribes and chief priests sent spies to watch Jesus"
+  * **that they might find fault with his speech**  - "they wanted to accuse Jesus of saying something bad"
+  * **so as to deliver him up to**  - "in order to bring him to" or "so that they might hand him over to"
+  * **to the rule and to the authority of the governor**  - "Rule" and "authority" are two ways of saying the same thing. It can be translated with one or both expressions. The reason for handing Jesus over to the governor can be made explicit: "so that the governor would punish Jesus." (See: [[en:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+**[[:en:bible:notes:luk:20:17|<<]] | [[:en:bible:notes:luk:20:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

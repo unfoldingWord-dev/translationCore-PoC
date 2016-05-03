@@ -1,0 +1,61 @@
+====== Luke 12:54-56 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 54 He \add also\add* said to the crowds, "\add In this country\add*, when you see a \add dark\add* cloud forming in the west, you immediately say 'It is going to rain!' and that is what happens.
+\v 55 \add In this region\add*, when the wind blows from the south, you say, 'It is going to be a very hot day!' and that is what happens.
+\v 56 You hypocrites! By observing the clouds and the wind, you are able to discern what is happening regarding \add the weather\add*. It is disgusting that you are not able to discern \add what God is doing\add* at this present time \f + \ft rhetorical question \f*!
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 54 He also said to the crowds, "When you see a dark cloud forming in the west, you immediately say 'It is going to rain!' and that is what happens.
+\v 55 When the wind blows from the south, you say, 'It is going to be a very hot day!' and you are right.
+\v 56 You hypocrites! By observing the clouds and the wind, you are able to discern what is happening regarding the weather. Why are you not able to discern what God is doing at this present time?
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 54 Jesus  was saying to the crowds also, "When you see a cloud rising in the west, immediately you say, 'A shower is coming,' and so it happens.
+\v 55 And when a south wind is blowing, you say, 'There will be a scorching heat,' and it happens.
+\v 56 Hypocrites, you know how to interpret the appearance of the earth and the heavens, but how is it that you do not know how to interpret the present time?
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:hypocrite]]
+    * [[en:obe:other:interpret]]
+    * [[en:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+  * **A shower is coming**  - "Rain is coming" or "It is going to rain" (UDB)
+  * **the earth and the heavens**  - "the earth and the sky" or "the weather"
+  * **how is it that you do not know how to interpret the present time?** - This rhetorical question is used as a rebuke. It can be translated as "You should know how to interpret the present time." (See: [[en:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/12/51|<<]] | [[en/bible/notes/luk/12/57|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish hypocrite}}
+~~NOCACHE~~

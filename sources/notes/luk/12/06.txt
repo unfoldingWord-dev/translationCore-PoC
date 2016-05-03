@@ -1,0 +1,57 @@
+====== Luke 12:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 \add Think about\add* the sparrows. \add They have so little value\add* that \add you\add* can \f + \ft rhetorical question \f* buy five of them for only two small coins. But not one of them is ever forgotten by God \f + \ft Or:God never forgets one of them \f*!
+\v 7 You are more valuable \add to God\add* than many sparrows. So do not be afraid \add of what people can do to you\add*! \add God\add* even knows how many hairs there are on each of your heads, \add so that if you\f + \ft singular \f* lose one hair, he knows about it. So nothing bad can happen to you without his knowing it\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Think about the sparrows. They have so little value that you can buy five of them for only two small coins and yet God never forgets any of them!
+\v 7  God even knows how many hairs there are on your head. Do not be afraid, because you are more valuable to God than many sparrows.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 Are not five sparrows sold for two small coins? Yet not one of them is forgotten in the sight of God.
+\v 7 But even the hairs of your head are all numbered. Do not fear. You are more valuable than many sparrows.
+</usfm>
+
+
+===== translationWords: =====
+    * [[en:obe:kt:god]]
+    * [[en:obe:kt:fear]]
+
+===== Translation Notes: =====
+Jesus continues to speak to his disciples.
+
+    * **Are not five sparrows sold for two small coins?**  - This is a rhetorical question. They have so little value that you can buy five of them for only two small coins" (UDB). AT: "Think about sparrows. (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **sparrows**  - Sparrows are very small, seed eating birds.
+    * **not one of them is forgotten in the sight of God**  - "God never forgets any of them!" (UDB) ( See: [[:en:ta:vol2:translate:figs_activepassive]]) or "God remembers every sparrow!" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+    * **even the hairs of your head are all numbered**  - "God knows even how many hairs are on your head" 
+    * **Do not fear**  - "Do not be afraid of people" or "So do not be afraid of people who could hurt you"
+    * **You are more valuable than many sparrows**  - "God values you more than many sparrows"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/12/04|<<]] | [[en/bible/notes/luk/12/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

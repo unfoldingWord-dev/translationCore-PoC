@@ -1,0 +1,63 @@
+====== Luke 02:22-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 22-23 It had been written by Moses \f + \ft Or:Moses had written \f* \add long ago\add* in a law that God gave him, that when a woman gave birth to her first son, the parents had to take him \add to the Temple\add* in Jerusalem in order that they might dedicate him to the Lord\f + \ft Or: to God \f*. So when the time came for them to do those rituals so that \add God would consider\add* them pure again, Mary and Joseph took Jesus there.
+\v 24 God had commanded in his laws that if the first child \add of a couple\add* was a boy, his parents should offer as a sacrifice to God two turtledoves or two young pigeons. \add So Joseph and Mary gave the priest two birds so he could offer them\add*.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 22 When the required number of days for their purification had gone by, according to the law of Moses, Mary and Joseph traveled up to Jerusalem to dedicate their son to the Lord.
+\v 23 It had been written in the law of the Lord, "Every male offspring that is the first to be born will be set apart to be holy to the Lord."
+\v 24 The law of the Lord also said the parents of a newborn son must offer as a sacrifice, "Two turtledoves or two young pigeons." 
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 22 When the required number of days for their purification had passed, according to the law of Moses, Joseph and Mary brought their infant son up to the temple in Jerusalem to present him to the Lord.  
+\v 23 As it is written in the law of the Lord, "Every male that opens the womb will be called holy to the Lord."  
+\v 24 They also came to offer a sacrifice according to that which is said in the law of the Lord, "a pair of doves or two young pigeons."
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:purify]]
+  * [[:en:obe:kt:lawofmoses]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:written]]
+  * [[:en:obe:kt:holy]]
+  * [[:en:obe:other:sacrifice]]
+  * [[en:obe:other:dove]]
+
+===== Translation Notes: =====
+
+Mary and Joseph take baby Jesus to the temple. 
+
+  * **the required number of days** - AT: "the number of days that God required"
+  * **for their purification** - "for them to become ceremonially clean." or AT: "for God to consider them to be clean again."
+  * **to present him to the Lord** - "to bring him to the Lord" or "to bring him into the Lord's presence." This was a ceremony acknowledging God's claim on the firstborn children who were male.
+  * **As it is written** - AT: "As Moses wrote." or "They did this because Moses wrote." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **male that opens the womb** - This is an idiom for "firstborn offspring that is a male." The law was about the firstborn offspring of both people and domestic animals.  AT: "firstborn son." (See: [[en:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:21|<<]] | [[:en:bible:notes:luk:02:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish purify }}
+
+~~NOCACHE~~

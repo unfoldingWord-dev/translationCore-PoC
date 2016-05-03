@@ -1,0 +1,49 @@
+====== Luke 01:80 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 80 \add Later\add*, Zechariah's son grew up and became spiritually strong. Then he lived in a desolate region until he began to preach to the Israelite people.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 80 Over time, Zechariah and Elizabeth's baby boy grew up and became spiritually strong. Then he lived in a desolate region and was still living there when he began to preach publicly to God's people, Israel.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 80 Then the child grew up, and became strong in spirit. He lived out in the desert areas until he began to appear publicly to the people of Israel.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:spirit]]
+    * [[en:obe:other:desert]]
+    * [[en:obe:other:israel]]
+
+
+===== Translation Notes: =====
+
+This is the end of the account about the birth and childhood of John the Baptist.  
+
+    * **became strong in spirit** - AT: "became spiritually mature" or "strengthened his relationship with God"
+    * **until** - “even when.” This does not necessarily mark a stopping point. John continued to live out in the desert even after he started preaching publicly. 
+    * **he began to appear publicly to** - "the time he began go before." or AT: "he began to preach in public to."
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:78|<<]] | [[:en:bible:notes:luk:02:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

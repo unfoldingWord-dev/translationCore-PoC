@@ -1,0 +1,61 @@
+====== Luke 23:23-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 But they kept insisting. They shouted loudly that \add Jesus\add* should be nailed \f + \ft Or:that \add Pilate\add* should \add have his soldiers\add* nail \add Jesus\add* \f* to a cross. Finally, because they continued to shout \f + \ft personification \f* \add so loudly\add*,
+\v 24 Pilate decided to do what they requested.
+\v 25 The man who had been \f + \ft Or:whom they had \f* put in prison because he had rebelled \add against the government\add* and who had murdered \add someone\add*, he released! That was the man whom the crowd had asked him \add to release\add*. He put Jesus into the hands \add of the soldiers\add*, to do what \add the crowd\add* wanted.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 But they kept insisting with loud voices that Jesus should be die on a cross. Finally, because they continued to shout so loudly, they persuaded Pilate
+\v 24 to do what they requested.
+\v 25 So he set free the man who was in prison because he had fought against the government and murdered people! He then commanded the soldiers to take Jesus and do what the crowd wanted.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 23 But they were insistent with loud voices, demanding for him to be crucified. And their voices convinced Pilate.
+\v 24 So Pilate decided to grant their demand. 
+\v 25 He released the one they asked for who had been put in prison for rioting and murder. But he delivered up Jesus to their will.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:voice]]
+  * [[:en:obe:kt:crucify]]
+  * [[:en:obe:other:pilate]]
+  * [[:en:obe:other:prison]]
+  * [[:en:obe:kt:jesus]]
+ 
+
+===== Translation Notes: =====
+
+  * **they were insistent** - "the crowd insisted"
+  * **with loud voices** - "shouting"
+  * **for him to be crucified** - "that Jesus be crucified"
+  * **their voices** - "the words being shouted by the crowd"
+  * **to grant their demand** - "to do what the crowd requested" (UDB)
+  * **He released the one they asked for** - "Pilate freed Barabbas whom the crowd had asked be released"
+  * **he delivered up Jesus to their will** - "Pilate allowed the crowd to do to Jesus whatever they wanted" or "Pilate gave Jesus to the crowd and allowed the crowd to do to Jesus what they wanted to do"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:20|<<]] | [[:en:bible:notes:luk:23:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish pilate}}

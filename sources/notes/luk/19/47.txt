@@ -1,0 +1,56 @@
+====== Luke 19:47-48 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 47 Each day \add during that week Jesus\add* was teaching people in the Temple \add courtyard\add*. The chief priests and the men who taught the \add Jewish\add* laws and \add other Jewish\add* leaders tried to find a way to kill him.
+\v 48 But they did not find any way to do it, because all the people there listened eagerly to him \add and would have resisted them if they had tried to hurt him\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 47 Each day during that week Jesus was teaching people in the temple courtyard. The chief priests, the teachers of religious laws, and other Jewish leaders were trying to find a way to kill him.
+\v 48 But they did not find any way to do it, because all the people were eager to hear him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 47 So Jesus was teaching daily in the temple. The chief priests and the scribes and the leaders of the people wanted to kill him,
+\v 48 but they could not find a way to do it, because all the people were listening to him intently.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:other:scribe]]
+  * [[en:obe:other:jewishleaders]]
+
+ 
+
+===== Translation Notes: =====
+
+
+  * **in the temple**  - "in the temple courtyard" or "at the temple"
+  * **chief priests** - "highest-ranking priests" of "most important priests"
+  * **were listening to him intently**  - “were paying close attention to what Jesus was saying”
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/45|<<]] | [[en/bible/notes/luk/20/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

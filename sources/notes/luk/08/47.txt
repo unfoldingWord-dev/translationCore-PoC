@@ -1,0 +1,60 @@
+====== Luke 08:47-48 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 47 When the woman realized that she could not prevent \add Jesus\add* \f + \ft Or: \add people\add* \f* from knowing that \add she was healed\add*, her body began to shake. \add She was afraid that because she had disobeyed the law that a woman with such a condition should not touch others, Jesus might scold her for doing that\add*. She prostrated herself before him. As the other people were listening, she told why she had touched him and how she had been healed immediately.
+\v 48 \add Jesus\add* said to her, "Ma'am\f + \ft Or: My dear woman \f*, because you believed \f + \ft personification \f* \add that I could heal you, I\add* have healed you. Go \add from here, and may you experience God's\add* peace \add within you\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 47 And when the woman realized that she could not hide, she came trembling to him and bowed down to the ground in front of him. As the other people were listening, she told Jesus why she had touched him and that she had been healed immediately.
+\v 48 And Jesus said to her, "My dear woman, because you believed that I could heal you, you are now well. Now go on your way, and may God's peace be with you." 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 47 When the woman saw that she could not hide what she had done, she came trembling. Falling down before Jesus, she declared in the presence of all the people the reason she had touched him and how she was healed immediately.
+\v 48 Then he said to her, "Daughter, your faith has made you well. Go in peace."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:tremble]]
+    * [[en:obe:kt:Jesus]]
+    * [[en:obe:other:declare]]
+    * [[en:obe:other:heal]]
+    * [[en:obe:kt:faith]]
+    * [[en:obe:other:peace]]
+
+===== Translation Notes: =====
+
+Jesus continues to speak to the woman while on his way to heal Jairus' daughter.
+
+    * **that she could not hide what she had done** - "that she could not keep it a secret that she was the one who had touched Jesus"
+    * **she came trembling** - "she came trembling with fear"
+    * **in the presence**  - "in the sight of" or "in the hearing of" or "before"
+    * **Falling down before Jesus** - Possible meanings are 1) “She bowed down in front of Jesus” or 2) “She lay down on the ground at Jesus feet.” She did not fall accidentally. She did this as a sign of humility and respect for Jesus.
+    * **Daughter**  - This was a kind way of speaking to a woman. Your language may have another way of showing this kindness.
+    * **your faith has made you well**  - "because of your faith you have become well." AT: “Because you believe, you are healed.”
+    * **Go in peace**  - This is a way of saying “Goodbye” and giving a blessing at the same time. AT: “As you go, do not worry anymore” or “May God give you peace as you go” (UDB).
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:45|<<]] | [[:en:bible:notes:luk:08:49|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

@@ -1,0 +1,62 @@
+====== Luke 09:46-48 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 46 The disciples began to argue among themselves about which one of them would be the greatest \add when Jesus became king\add*.
+\v 47 But Jesus perceived what they were thinking. So he brought a young child to his side.
+\v 48 He said to \add the disciples\add*, "Those who, because they\add love\add* me, \f + \ft Or: because they want to behave like me \f* welcome a little child \add like\add* this one\f + \ft Or: \add as\add* I \add would\add* \f* \f + \ft metonymy \f*\add , God considers that\add* \f + \ft metaphor \f* they are welcoming me. And those who welcome me, \add God considers\add* that \f + \ft metaphor \f* they are welcoming him, the one who sent me. Remember that those among you who think of themselves as being very unimportant will be the ones \add whom God considers\add* to be great."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 46 Sometime later, the disciples began to argue among themselves about which one of them would be the most important.
+\v 47 But Jesus knew what they were thinking, so he brought a young child to  stand beside him.
+\v 48 He said to them, "If someone welcomes a little child like this because of me, it is the same as welcoming me. And if someone welcomes me, it is the same as welcoming God, who sent me. Remember that those among you who seem to be the least important are the ones whom God considers to be most important."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 46 Then a dispute started among them about which one of them would be the greatest.
+\v 47 But when Jesus realized what they were reasoning in their hearts, he took a little child, and set him by his side,
+\v 48 and said to them, "If someone receives a little child like this in my name, he also is receiving me, and if someone receives me, he is also receiving the one who sent me. For the person who is least among all of you is the one who is great."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:other:heart]]
+    * [[en:obe:kt:receive]]
+    * [[en:obe:kt:name]]
+
+
+===== Translation Notes: =====
+
+
+    * **among them**  - "among the disciples"
+    * **reasoning in their hearts**  - "thinking about individually" or "considering in their private thoughts"
+    * **in my name** - This refers to a person doing something as a representative of Jesus. AT: "because of me" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+    * **the one who sent me** - "God, who sent me" (UDB)
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:43|<<]] | [[:en:bible:notes:luk:09:49|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

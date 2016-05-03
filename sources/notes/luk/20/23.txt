@@ -1,0 +1,39 @@
+====== Luke 20:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 But he knew that they were trying to trick him \add to get him into trouble, either with the Jews, who hated to pay those taxes, or with the Roman government\add*. So he said to them,
+\v 24 "Show me a \add Roman\add* coin. \add Then tell me\add* whose picture \add they have\add* put on it. And\add tell me whose\add* name is on it." They \add showed him a coin and\add* said, "It has the picture and name of Caesar, \add the head of the Roman government\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 But he knew that they were trying to trick him to get him into trouble, either with the Jews, who hated to pay those taxes, or with the Roman government. So he said to them,
+\v 24 "Show me a Roman coin. Then tell me whose picture is on on it. And tell me whose name is on it." So they showed him a coin and said, "It has the picture and name of Caesar, the head of the Roman government."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 23 But Jesus understood their craftiness, and said to them,
+\v 24 "Show me a denarius. Whose image and superscription is on it?" They said, "Caesar’s."
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:caesar]]
+
+===== Translation Notes: =====
+
+  * **But Jesus understood their craftiness**  - "But Jesus understood how tricky they were" or "But Jesus saw that they were trying to trap him"
+  * **a denarius** - a coin worth a day's wages. (See: [[en:obe:other:biblicalmoney]])
+  * **image and superscription**  - "picture and name"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+**[[:en:bible:notes:luk:20:21|<<]] | [[:en:bible:notes:luk:20:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish caesar denarius}}

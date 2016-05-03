@@ -1,0 +1,55 @@
+====== Luke 09:12-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 Late in the afternoon the twelve \add apostles\add* came to him and said, "This is a place where nobody lives, so dismiss the people so that they can go to the surrounding villages and other places where they can get some food and find places to stay."
+\v 13 But he said to them, "\add No\add*, you \add yourselves\add* give them something to eat!" They replied, "We\add \f + \ft exclusive \f*\add* have only five small loaves and two \add cooked\add* fish. Are you\add \f + \ft singular \f*\add* going to \add give\add* us \add the money\add* to go somewhere and buy food for all these people?"
+\v 14 There were about five thousand men \add there\add*. He replied to the disciples, "\add No\add*, \add just\add* tell the people to sit down. Tell them to sit in groups, with about fifty people in each group."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Now it was getting late in the day, so the twelve disciples came to him and said, "Please send this large crowd of people away so that they can go to the surrounding villages and farms to get some food and find places to stay, since we are out here in  this isolated place"
+\v 13 But he said to them, "You must give them something to eat!" They replied, "All we have are five small loaves of bread and two small fish. We could never go buy enough food for all these people!"
+\v 14 They said this because there were about five thousand men there. Then Jesus said to the disciples, "Tell the people to sit down in groups, with about fifty people in each group."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 The day began to come to an end, and the twelve came to him and said, "Dismiss the crowds that they may go into the surrounding villages and countryside to find lodging and food, because we are here in a deserted place."
+\v 13 But he said to them, "You give them something to eat." They said, "We have no more than five loaves of bread and two fish, unless we went and bought food for all this crowd of people."
+\v 14 There were about five thousand men there. He said to his disciples, "Have them sit down in groups of about fifty each."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:thetwelve]]
+    * [[en:obe:other:desert]]
+    * [[en:obe:other:bread]]
+    * [[en:obe:kt:disciple]]
+
+===== Translation Notes: =====
+
+
+    * **The day began to come to an end**  - "As the sun set" or "As the day ended" or "As evening came"
+    * **Dismiss the crowds**  - "Tell the crowds to go away"
+    * **unless we went and bought food**  - AT: "unless we were to go and buy food" or "unless we go and buy food." Or you could start a new sentence, "If you want us to feed them, we would have to go and buy food."
+    * **about five thousand men** - "about 5,000 men." This number does not include the women and children who might have been present. (See: [[en:ta:vol2:translate:translate_numbers]])
+    * **Have them sit down** - "Tell them to sit down"
+    * **fifty each** - "50 each" (See: [[en:ta:vol2:translate:translate_numbers]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:10|<<]] | [[:en:bible:notes:luk:09:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish apostle bread}}
+
+~~NOCACHE~~

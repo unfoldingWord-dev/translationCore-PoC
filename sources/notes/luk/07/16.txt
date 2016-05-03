@@ -1,0 +1,52 @@
+====== Luke 07:16-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 Then everyone \add there\add* was amazed\f + \ft Or: awestruck \f*. They praised God, saying, "A great prophet has come among us!" They also said, "God has come to help his people!"
+\v 17 \add Then they\add* reported what Jesus \add had done\add* throughout all of Judea \add district\add* and other nearby areas.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 Everyone there was overcome  with awe. They praised God and said to each other, "A great prophet has come among us!" and, "God has come to care for his people!"
+\v 17 Then this news about what Jesus had done spread throughout the region of Judea and all the other nearby areas.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 16 Then fear overcame all of them. They kept praising God, saying, "A great prophet has been raised among us" and "God has looked upon his people."
+\v 17 This news about Jesus spread throughout the whole of Judea and all the neighboring regions.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:fear]]
+  * [[:en:obe:other:praise]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:peopleofgod]]
+  * [[:en:obe:other:judea]]
+
+===== Translation Notes: =====
+
+  * **fear overcame all of them**  - AT: "fear took everyone" or "they were all filled with fear."
+  * **A great prophet**  - They were referring to Jesus, not to some unidentified prophet. AT: "This great prophet."
+  * **has been raised among us**  - "has come to be with us" or "has appeared to us" or "we have seen"
+  * **looked upon**  - "cared for"
+  * **This news about Jesus spread**  - AT: "People spread this report about Jesus" or "People told others this report about Jesus." "This report" refers to the things people were saying in verse 16.
+  * **This news**  - "This word" or "This message"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:11|<<]] | [[:en:bible:notes:luk:07:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

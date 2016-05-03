@@ -1,0 +1,54 @@
+====== Luke 01:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then an angel whom God had \add sent\add* appeared to him. The angel was standing at the right side of the place \add where the priests burned\add* incense.
+\v 12 When Zechariah saw the angel, he was startled and became very afraid.
+\v 13 But the angel said to him, "Zechariah, do not be afraid! When you\add \f + \ft singular \f*\add* prayed \add asking God for a son\add* \f + \ft Or: \add that God would send the Messiah\add* \f*, God heard what you prayed. \add So\add* your wife Elizabeth shall bear a son for you. You must name him John.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then an angel whom the Lord had sent appeared to him. The angel was standing at the right side of the altar of incense.
+\v 12 When Zechariah saw the angel, he was startled and became very afraid.
+\v 13 But the angel said to him, "Zechariah, do not be afraid! When you prayed, the Lord heard your request. So your wife Elizabeth will bear a son for you. You must name him John.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 An angel of the Lord appeared to him, standing at the right side of the altar of incense.
+\v 12 Zechariah was troubled when he saw him, and became very afraid.
+\v 13 But the angel said to him, "Do not be afraid, Zechariah, because your prayer has been heard. Your wife, Elizabeth, will bear you a son, and you will name him John.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:angel]]
+    * [[en:obe:other:altarofincense]]
+    * [[en:obe:other:trouble]]
+    * [[en:obe:kt:fear]]
+    * [[en:obe:other:johnthebaptist]]
+
+===== Translation Notes: =====
+
+    * **of the Lord ** - "from the Lord" or "who was sent by the Lord"
+    * **appeared to him** - "suddenly came to him" or "was suddenly there with Zechariah"
+    * **your prayer has been heard **- "God has heard what you asked." The following is implied and could be added: "and will grant it." God did not just hear what Zechariah prayed for; he was also going to do it. (See: [[en:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:08|<<]] | [[:en:bible:notes:luk:01:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish  johnthebaptist}}
+
+~~NOCACHE~~

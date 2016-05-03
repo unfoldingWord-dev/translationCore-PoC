@@ -1,0 +1,51 @@
+====== Luke 20:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 So they dragged him outside the vineyard and they killed him. So I will tell you what the owner of the vineyard will do to them!\f + \ft Or: do you know what the owner of the vineyard will do to them? \f* \f + \ft rhetorical question \f*
+\v 16 He will come and kill those men who were taking care of the vineyard. Then he will arrange for other people to take care of it." When they heard that, they said, "\add We would\add* not do anything like those wicked men did!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 So they dragged him outside the vineyard and they killed him. So I will tell you what the owner of the vineyard will do to them!
+\v 16 He will come and kill those men who were taking care of the vineyard. Then he will arrange for other people to take care of it." When the people listening to Jesus heard this, they said,  "May a situation like this never happen!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 They threw him out of the vineyard, and killed him. What then will the lord of the vineyard do to them?
+\v 16 He will come and destroy these vine growers, and will give the vineyard to others." And when they heard it, they said, "God forbid!"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:vineyard]]
+  * [[en:obe:kt:lord]]
+
+
+===== Translation Notes: =====
+Jesus continues telling his parable.
+  * **They threw him out of the vineyard**  - "The vine growers forced the son out of the vineyard"
+  * **What then will the lord of the vineyard do to them?**  - Jesus used this rhetorical question to get his listeners to pay attention to what the owner of the vineyard would do. It can be translated as a command: "So now, listen to what the lord of the vineyard will do to them." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **God forbid!**  - "May God stop it from happening!" or "May it never happen!" The people understood this parable to mean that God would remove them from Jerusalem because they would reject the Messiah. They strongly expressed their desire that this terrible thing would not happen. (see: [[en:ta:vol1:translate:figs_parables]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/20/13|<<]] | [[en/bible/notes/luk/20/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

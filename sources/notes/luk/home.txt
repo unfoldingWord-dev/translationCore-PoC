@@ -1,0 +1,55 @@
+===== Luke Links =====
+
+  * [[:en:ulb:ep:43-luk.usfm|Full ULB text of Luke]]
+  * [[:en:udb:ep:43-luk.usfm|Full UDB text of Luke]]
+
+
+<nspages en:bible:notes:luk:00 -title -naturalOrder -exclude:home -textPages="Luke 0:" -nbCol=2>
+
+<nspages en:bible:notes:luk:01 -title -naturalOrder -exclude:home -textPages="Luke 1:" -nbCol=2>
+
+<nspages en:bible:notes:luk:02 -title -naturalOrder -exclude:home -textPages="Luke 2:" -nbCol=2>
+
+<nspages en:bible:notes:luk:03 -title -naturalOrder -exclude:home -textPages="Luke 3:" -nbCol=2>
+
+<nspages en:bible:notes:luk:04 -title -naturalOrder -exclude:home -textPages="Luke 4:" -nbCol=2>
+
+<nspages en:bible:notes:luk:05 -title -naturalOrder -exclude:home -textPages="Luke 5:" -nbCol=2>
+
+<nspages en:bible:notes:luk:06 -title -naturalOrder -exclude:home -textPages="Luke 6:" -nbCol=2>
+
+<nspages en:bible:notes:luk:07 -title -naturalOrder -exclude:home -textPages="Luke 7:" -nbCol=2>
+
+<nspages en:bible:notes:luk:08 -title -naturalOrder -exclude:home -textPages="Luke 8:" -nbCol=2>
+
+<nspages en:bible:notes:luk:09 -title -naturalOrder -exclude:home -textPages="Luke 9:" -nbCol=2>
+
+<nspages en:bible:notes:luk:10 -title -naturalOrder -exclude:home -textPages="Luke 10:" -nbCol=2>
+
+<nspages en:bible:notes:luk:11 -title -naturalOrder -exclude:home -textPages="Luke 11:" -nbCol=2>
+
+<nspages en:bible:notes:luk:12 -title -naturalOrder -exclude:home -textPages="Luke 12:" -nbCol=2>
+
+<nspages en:bible:notes:luk:13 -title -naturalOrder -exclude:home -textPages="Luke 13:" -nbCol=2>
+
+<nspages en:bible:notes:luk:14 -title -naturalOrder -exclude:home -textPages="Luke 14:" -nbCol=2>
+
+<nspages en:bible:notes:luk:15 -title -naturalOrder -exclude:home -textPages="Luke 15:" -nbCol=2>
+
+<nspages en:bible:notes:luk:16 -title -naturalOrder -exclude:home -textPages="Luke 16:" -nbCol=2>
+
+<nspages en:bible:notes:luk:17 -title -naturalOrder -exclude:home -textPages="Luke 17:" -nbCol=2>
+
+<nspages en:bible:notes:luk:18 -title -naturalOrder -exclude:home -textPages="Luke 18:" -nbCol=2>
+
+<nspages en:bible:notes:luk:19 -title -naturalOrder -exclude:home -textPages="Luke 19:" -nbCol=2>
+
+<nspages en:bible:notes:luk:20 -title -naturalOrder -exclude:home -textPages="Luke 20:" -nbCol=2>
+
+<nspages en:bible:notes:luk:21 -title -naturalOrder -exclude:home -textPages="Luke 21:" -nbCol=2>
+
+<nspages en:bible:notes:luk:22 -title -naturalOrder -exclude:home -textPages="Luke 22:" -nbCol=2>
+
+<nspages en:bible:notes:luk:23 -title -naturalOrder -exclude:home -textPages="Luke 23:" -nbCol=2>
+
+<nspages en:bible:notes:luk:24 -title -naturalOrder -exclude:home -textPages="Luke 24:" -nbCol=2>

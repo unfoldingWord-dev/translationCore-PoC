@@ -1,0 +1,51 @@
+====== Luke 08:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 One day Jesus got into a boat with his disciples. He said to them, "Let's go \add around to\add* the other side of the lake." So they started to go.
+\v 23 As they were sailing, he fell asleep. A big windstorm came down on the lake. Soon the boat was filling with water, and they were in danger.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 On another day Jesus got into a boat with his disciples. He said to them, "I would like us to go across to the other side of the lake." So they started to sail across the lake.
+\v 23 But as they were sailing, Jesus fell asleep. Then a powerful windstorm came down on the lake. Soon the boat was filling with water, and they were in danger.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 Now it happened on one of those days that Jesus and his disciples entered into a boat, and he said to them, "Let us go over to the other side of the lake." Then they set sail.
+\v 23 But as they sailed, Jesus fell asleep, and a storm of very strong winds came up over the lake, and their boat started filling up with water, and they were in serious danger.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:disciple]]
+    * [[en:obe:other:seaofgalilee]]
+
+
+===== Translation Notes: =====
+
+    * **Now it happened** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+    * **the lake** - This is lake of Genneseret which is also called the Sea of Galilee.
+    * **as they sailed**  - "as they went"
+    * **fell asleep** - "slept"
+    * **a storm of very strong winds came up**  - "very strong winds suddenly began to blow"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:19|<<]] | [[:en:bible:notes:luk:08:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

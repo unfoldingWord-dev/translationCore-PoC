@@ -1,0 +1,42 @@
+====== Luke 09:30-31 ======
+
+===== TFT: =====
+
+<usfm>
+\v 30-31 Suddenly, two men appeared who had the brightness \add of heaven\add* surrounding them. They were \add prophets who had lived long ago\add*, Moses and Elijah. They started talking with Jesus about how he \add would accomplish what God had planned when he died\add* \f + \ft euphemism \f* \add very soon\add* in Jerusalem.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 30 Suddenly, two prophets from long ago were there talking with Jesus; they were Moses and Elijah.
+\v 31 They appeared surrounded in glory,  and spoke with Jesus about his departure, which would soon be accomplished in Jerusalem.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 30 Behold, there were two men talking with him! They were Moses and Elijah,
+\v 31 who looked glorious. They spoke about his departure, which he was about to fulfill in Jerusalem.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:moses]]
+  * [[en:obe:other:elijah]]
+  * [[en:obe:kt:glory]]
+  * [[en:obe:kt:fulfill]]
+  * [[en:obe:other:jerusalem]]
+
+===== Translation Notes: =====
+
+  * **Behold, there were two men talking**  - The word “behold” here alerts us to pay attention to the surprising information that follows. AT: "Suddenly there were two men talking" or "Suddenly two men were talking."
+  * **who looked glorious**  - This relative clause is adding information about Moses and Elijah. AT: "and they looked glorious." (See: description of Relative Clauses in the  [[en:ta:vol2:translate:figs_sentences]] information)
+  * **his departure**  - "his leaving" or "how he would leave this world." AT: "his death." (See: [[en:ta:vol2:translate:figs_euphemism]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:28|<<]] | [[:en:bible:notes:luk:09:32|>>]]**
+
+~~DISCUSSION~~{{tag>publish elijah}}

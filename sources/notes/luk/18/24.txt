@@ -1,0 +1,52 @@
+====== Luke 18:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 Jesus looked at him \add as the man left\add*, and he said, "It is very difficult for those who are wealthy \add to decide\add* to let God rule \f + \ft metaphor \f* their \add lives\add*.
+\v 25 \add You would say\add* that it is impossible for a camel to go through the eye of a needle. It is \add almost\add* as difficult \f + \ft hyperbole \f* for rich people \add to decide\add* to let God rule their \add lives\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 When Jesus saw how sad the man was, he too became very sorrowful. He said, "It is very difficult for those who are wealthy to agree for God to rule over them."
+\v 25 In fact, it is easier for a camel to go through the eye of a needle than for rich people to let God rule their lives."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 24 Then Jesus, seeing him, became very sad and said, "How difficult it is for those who are rich to enter the kingdom of God!
+\v 25 For it is easier for a camel to go through a needle’s eye, than for a rich person to enter the kingdom of God."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:kingdomofgod]]
+  * [[en:obe:other:camel]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **Then Jesus, seeing him, became very sad**  - This phrase is absent from many Greek manuscripts and so often omitted from English translations.
+    * **a camel to go through a needle's eye** - It is impossible for a camel to fit through the eye of a needle. Therefore, it appears that Jesus may have been using hyperbole to say "it is extremely difficult for a rich man to be saved." (See: [[en:ta:vol2:translate:figs_hyperbole]])
+    * **needle's eye** - The needle's eye is the hole in a sewing needle through which the thread is passed.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/18/22|<<]] | [[en/bible/notes/luk/18/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

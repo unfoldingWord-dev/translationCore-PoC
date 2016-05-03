@@ -1,0 +1,52 @@
+====== Luke 21:20-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 "But when you see that Jerusalem has been surrounded by the armies of \add your enemies\add*, you will know that it is the time for \add this city\add* to be completely destroyed \f + \ft Or:\add them\add* to completely destroy \add this city\add* \f*.
+\v 21 At that time those \add of you\add* who are in Judea \add district\add* must flee to the \add higher\add* hills. Those who are in this city must leave \add quickly\add*. Those who are in the nearby countryside must not go back into the city \add to get any of their possessions before they flee\add*.
+\v 22 \add You must obey what I tell you\add* because, in order that all the things that are written\add in the Scriptures\add* will be fulfilled, \add God\add* will very severely punish \add the people who stay in this city\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 "When you see armies surround Jerusalem, then you will know that they will soon destroy this city.
+\v 21 At that time those of you who are in the region of Judea must flee to the mountains. And those of you who are in this city must leave. Those of you who are in the nearby countryside must not come into the city.
+\v 22 For this will be the time when God will punish this city; when he does, the words in the Scriptures will come true.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 When you see Jerusalem surrounded by armies, then know that its destruction is near.
+\v 21 Then let those in Judea flee to the mountains, and let those who are in the middle of the city leave,  and do not let those who are in the country enter it.
+\v 22 For these are days of vengeance, so that all the things that are written will be fulfilled.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:judea]]
+  * [[en:obe:kt:avenge]]
+  * [[en:obe:other:written]]
+  * [[:en:obe:kt:fulfill]]
+
+===== Translation Notes: =====
+Jesus continues speaking to his disciples about the future.
+  * **Jerusalem surrounded by armies**  - This can be expressed with an active verb: "armies surrounding Jerusalem." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **that its destruction is near** - "that it will soon be destroyed" or "that they will soon destroy it"
+  * **flee**  - "run away from danger"
+  * **these are days of vengeance**  - "these are days of punishment" or "in these days people will be punished" or  "this is the time when God will punish the city" (UDB)
+  * **the things that are written** - "the things that are written in the scriptures"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+**[[:en:bible:notes:luk:21:16|<<]] | [[:en:bible:notes:luk:21:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish justice}}

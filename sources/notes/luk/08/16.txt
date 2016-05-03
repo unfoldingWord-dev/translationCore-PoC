@@ -1,0 +1,70 @@
+====== Luke 08:16-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 "After people light a lamp, they do not cover it with a basket or put it under a bed. Instead, they put it on a lampstand, so that those who enter \add the house\add* can see \add things from\add* its light \f + \ft metaphor \f*. \add Similarly, you must tell God's truth to others so that they can know what I can do for them\add*.
+\v 17 \add God wants to\add* make clear all \add of his truth\add* that was not evident previously. \add He intends\add* that all of\add the truth\add* that \add he\add* had not revealed before be told openly \f + \ft Or:that \add his people\add* openly tell \add others\add* all \add of the truth\add* that \add he\add* has not revealed before \f*.
+\v 18 So listen carefully \add to what I tell you\add*, because \add God\add* will enable those who accept \add my truth\add* to \add understand even\add* more. But \add God\add* will cause those who do not accept \add my truth\add* to not understand even \add the little\add* that they think they have \add understood\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 After lighting a lamp, people do not cover it with a basket or put it under a bed. Instead, they put it on a lampstand, so that everyone who enters the room can see by its light.
+\v 17 This illustrates that everything that is hidden now will someday be made visible. And everything that is secret now will someday be brought out into the open.
+\v 18 So make sure that you are listening carefully to what I tell you, because God will enable those who believe his truth to understand even more. But God will cause those who do not believe his truth to not understand even the little that they think they have understood."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 16 Now, no one, when he has lighted a lamp, covers it with a bowl or puts it under a bed. Rather, he puts it on a lampstand, so that everyone who enters may see the light.
+\v 17 For nothing is hidden, that will not be made known, nor anything secret, that will not be known and come into the light.
+\v 18 So be careful how you listen, because whoever has, to him will be given more, and whoever has not, from him will be taken away even what he thinks he has."
+</usfm>
+
+
+===== translationWords: =====
+
+   * [[en:obe:other:lamp]]
+   * [[en:obe:other:lampstand]]
+   * [[en:obe:other:know]]
+
+===== Translation Notes: =====
+
+Jesus continues to speak to his disciples.
+
+  * **a lampstand**  - "a table" or "a shelf"
+  * **For nothing is hidden, that will not be made known**  - AT: "Everything that is hidden will be made known." (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **nor anything secret, that will not be known and come into the light** -  AT: "and everything that is secret will be known and come into the light."
+  * **how you listen**  - AT: "how you listen to what I tell you" or "how you listen to God's word." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **whoever has**  - AT: "whoever has understanding" or "whoever receives what I teach."
+  * **to him will be given more**  - "more will be given to him." AT: "God will give him more." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **whoever has not**  - AT: "whoever does not have understanding" or "whoever does not receive what I teach."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/08/14|<<]] | [[en/bible/notes/luk/08/19|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

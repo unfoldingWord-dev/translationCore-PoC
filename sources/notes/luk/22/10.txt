@@ -1,0 +1,50 @@
+====== Luke 22:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 He said to the \add two of\add* them, "Listen carefully. When you \add two\add* enter the city, a man who is carrying a \add large\add* jar of water will meet you. Follow him. \add When\add* he enters \add a house\add*,
+\v 11 tell the owner of the house, '\add Our\add* teacher says\add that we\f + \ft exclusive \f* should\add* ask \add you\f + \ft singular \f* to please\add* show \add us\add* the room that \add he arranged with you\add* where he can eat the Passover \add meal\add* with \add us\add*, his disciples \f + \ft rhetorical question \f*.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 He answered, "Listen carefully. When you go into the city, a man carrying a large jar of water will meet you; follow him into the house that he enters.
+\v 11 Say to the owner of the house, 'Our teacher says to show us the room where he can eat the Passover meal together with us, his disciples?'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 He answered them, "Listen, when you have entered the city, a man bearing a pitcher of water will meet you. Follow him into the house that he goes into.
+\v 11 Then say to the master of the house, 'The Teacher says to you, "Where is the guest room, where I will eat the Passover with my disciples?"'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:teacher]]
+  * [[en:obe:kt:passover]]
+  * [[en:obe:kt:disciple]]
+ 
+
+===== Translation Notes: =====
+
+  * **He answered**  - The word "He" refers to Jesus.
+  * **a man bearing a pitcher of water will meet you** - This can also be translated as "you will see a man carrying a pitcher of water."
+  * **bearing a pitcher of water** - "carrying a jar with water in it." He probably would have carried the jar on his shoulder.
+  * **Follow him into the house** - This can be translated as "Follow him, and go into the house."
+  * **The Teacher says to you** - This begins a direct quotation where Jesus tells the disciples what they should say. The UDB renders this as an indirect quotation: "Our teacher says to show us." (See: [[en:ta:vol2:translate:figs_quotations]])
+  * **The Teacher** - This refers to Jesus. 
+  * **eat the Passover** - "eat the Passover meal"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:07|<<]] | [[:en:bible:notes:luk:22:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

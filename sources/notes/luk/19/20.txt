@@ -1,0 +1,54 @@
+====== Luke 19:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Then another servant came. He said, 'Sir, here is your coin. I wrapped it in a napkin and put it away, \add so that nothing would happen to it\add*.
+\v 21 I did that \add because\add* I was afraid \add of what you would do to me if the business failed. I know\add* you are a man who does not do foolish things with your money. You \add even\add* take \add from others money\add* that does not really belong to you\add , like a farmer who\add* harvests grain \add from another man's field\add* where he did not\add even\add* do the planting.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Then another servant came. He said, 'Sir, here is your money. I wrapped it up in a cloth and hid it to keep it safe.
+\v 21 I was afraid of what you would do to me if the business failed. I know you are a hard man who takes from others that which does not really belong to you. You are like a farmer who harvests grain that another man planted.'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 And another came, saying, 'Lord, here is your mina, which I kept safely in a cloth,
+\v 21 for I was afraid of you, because you are a severe man. You take up that which you did not lay down, and reap that which you did not sow.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:lord]]
+  * [[en:obe:other:reap]]
+  * [[:en:obe:other:sow]]
+ 
+
+===== Translation Notes: =====
+Jesus continues telling his parable.
+  * **mina** - See how you translated this in [[:en:bible:notes:luk:19:13|19:13]].
+  * **a severe man**  - "a stern man" or "a man who expects a lot from his servants" or "a hard man" (UDB)
+  * **You take up that which you did not lay down**  - This can be translated as "You take out what you did not put in" or "You take what is not yours." It was a proverb describing a greedy person. (See: [[:en:obe:other:Proverb]])
+  * **reap that which you did not sow**  - "reap what you did not plant." This is a metaphor. The servant was comparing his master to a farmer who takes food that someone else planted. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **reap**  - "harvest" or "collect" or "gather"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/18|<<]] | [[en/bible/notes/luk/19/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

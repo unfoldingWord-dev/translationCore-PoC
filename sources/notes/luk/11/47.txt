@@ -1,0 +1,54 @@
+====== Luke 11:47-48 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 47 There will be terrible punishment for you! You decorate the tombs of the prophets whom your ancestors killed, \add but you do not live according to what the prophets taught\add*.
+\v 48 So you are declaring that you approve of what your ancestors did. They killed the prophets, and you \add are not honoring them! You just\add* decorate their tombs!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 47 How terrible it will be for you, because you construct buildings to mark the graves of the prophets, but your ancestors are the ones who killed them!
+\v 48 So when you build these buildings, you are declaring that you approve of what your ancestors did when they killed the prophets.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 47 Woe to you, because you build memorials for the prophets' tombs, and yet it was your ancestors who killed them.
+\v 48 So you are witnesses and consent to the works of your ancestors, because they indeed killed the prophets, whose tombs you build memorials for.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:woe]]
+    * [[en:obe:kt:prophet]]
+    * [[en:obe:other:tomb]]
+    * [[en:obe:kt:witness]]
+
+
+===== Translation Notes: =====
+Jesus continues to speak to the teachers of the law.
+
+      * **and yet** - This calls attention to the contrast between their honoring of the prophets while ignoring the fact that their ancestors murdered them.
+      * **So you are witnesses and consent to the works of your ancestors** - This is an implied rebuke: "but you did not denounce them." They knew about the murder of the prophets, but did not condemn their ancestors for killing them. (See: [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+
+
+**[[en/bible/notes/luk/11/45|<<]] | [[en/bible/notes/luk/11/49|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

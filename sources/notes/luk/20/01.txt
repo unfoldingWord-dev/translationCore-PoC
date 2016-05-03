@@ -1,0 +1,46 @@
+====== Luke 20:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 One day \add during that week Jesus\add* was teaching the people in the Temple \add courtyard\add* and telling them \add God's\add* good message. As he was doing that, the chief priests, the men who taught the \add Jewish\add* laws, and \add other Jewish\add* elders came to him.
+\v 2 They said to him, "Tell us, by what authority are you doing these things? Who authorized you to do things \add like you did here yesterday\add*?"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 One day during that week Jesus was teaching the people in the temple courtyard and telling them God's good message. As he was doing that, the chief priests, the teachers of the Jewish laws, and other elders came to him.
+\v 2 They said to him, "Tell us, what right do you have to do these things? And who gave you this right?"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 20
+\p
+\v 1 It came about one day, as Jesus was teaching the people in the temple and preaching the gospel, the chief priests and the scribes came to him with the elders.
+\v 2 They spoke, saying to him, "Tell us by what authority you do these things? Or who is he that gave you this authority?"
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:teach]]
+  * [[en:obe:kt:temple]]
+  * [[en:obe:other:preach]]
+  * [[en:obe:kt:goodnews]]
+  * [[en:obe:other:chiefpriests]]
+  * [[en:obe:other:scribe]]
+  * [[en:obe:other:elder]]
+  * [[en:obe:kt:authority]]
+
+===== Translation Notes: =====
+
+  * **It came about**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+**[[:en:bible:notes:luk:19:47|<<]] | [[:en:bible:notes:luk:20:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish chiefpriests  authority}}

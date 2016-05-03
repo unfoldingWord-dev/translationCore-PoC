@@ -1,0 +1,63 @@
+====== Luke 03:18-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 John kept telling them many things to urge them \add to turn to God\add*, as he told them the good message \add from God\add*.
+\v 19 He also rebuked \add the ruler of the district\add*, Herod \add Antipas. He rebuked him\add* for \add marrying\add* Herodias, his brother's wife, \add while his brother was still alive\add*, and for doing many other evil things.
+\v 20 But Herod \add had his soldiers\add* put John in prison. That was another evil thing he did.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 In many different ways like this, John urged the people to repent and turn back to God, as he kept telling them the good message from God.
+\v 19 He also rebuked King Herod for marrying his brother's wife, Herodias, while his brother was still alive, and for doing many other evil things.
+\v 20 Then Herod had his soldiers put John in prison, which was another very evil thing.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 18 With many other exhortations also, he preached good news to the people.  
+\v 19 John also rebuked Herod the tetrarch for marrying his brother’s wife, Herodias, and for all the other evil things that Herod had done. 
+\v 20 But then Herod did another very evil thing. He had John locked up in prison.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:exhort]]
+    * [[en:obe:other:preach]]
+    * [[en:obe:kt:goodnews]]
+    * [[en:obe:other:johnthebaptist]]
+    * [[en:obe:other:herodantipas]]
+    * [[en:obe:other:tetrarch]]
+    * [[en:obe:other:herodias]]
+    * [[en:obe:kt:evil]]
+    * [[en:obe:other:prison]]
+===== Translation Notes: =====
+
+    * **With many other exhortations** - "With many other strong urgings"
+    * **rebuked Herod the tetrarch** - "reproached Herod the tetrarch" or AT: "told Herod the tetrarch that he had sinned." Herod was a tetrarch, not a king. He had only limited rule over the region of Galilee.
+    * **for marrying his brother's wife** - "because Herod married his own brother's wife"
+    * **He had John locked up in prison** - "He told his soldiers to put John in jail"
+
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:03:17|<<]] | [[:en:bible:notes:luk:03:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish exhort  herodantipas }}
+
+~~NOCACHE~~

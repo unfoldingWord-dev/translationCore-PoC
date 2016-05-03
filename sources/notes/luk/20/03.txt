@@ -1,0 +1,52 @@
+====== Luke 20:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 He replied, "I will also ask you a question. Tell me,
+\v 4 where did John \add the Baptizer\add* get \add his authority to\add* baptize \add those who came to him\add*? \add Did he get it\add* from God [MTY\f + \ft Or: EUP \f*] or from people?"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 He replied, "I will also ask you a question. Tell me,
+\v 4 about John baptizing people: did God command him to baptize or did humans command him?"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 He answered and said to them, "I also will ask you a question. Tell me about
+\v 4 the baptism of John. Was it from heaven or from men?"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:baptize]]
+  * [[:en:obe:other:johnthebaptist]]
+  * [[:en:obe:kt:heaven]]
+
+
+===== Translation Notes: =====
+
+  * **He answered and said to them**  - "Jesus replied"
+  * **Was it from heaven or from men?**  - This can be translated as "Was John's authority to baptize people from heaven or from men?" or "Did God tell John to baptize people, or did people tell him to do it?"
+  * **from heaven**  - “from God.” Jewish people avoided referring to God by his name “Yahweh.” Often they used the word “heaven” to refer to him. (See: [[en:ta:vol2:translate:figs_metonymy]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/20/01|<<]] | [[en/bible/notes/luk/20/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

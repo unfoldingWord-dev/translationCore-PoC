@@ -1,0 +1,59 @@
+====== Luke 04:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Then the devil took \add Jesus\add* to Jerusalem. He set him on the highest part of the Temple and said to him, "Because you \add claim that you\add* \add have a relationship with God as a son has with his father\add* \f + \ft metaphor \f*\f + \ft Or: are the man who is both God and man \f*, \add prove it by\add* jumping down from here.
+\v 10 \add You will not be hurt\add*, because it is written \f + \ft Or:the \add Psalmist\add* wrote \f* \add in the Scriptures\add*, 'God will command his angels to protect you\add \f + \ft singular \f*\add*.
+\v 11 They will lift you up in their hands \add when you are falling\add*, so that \add you will not get hurt\add*. You will not \add even\add* strike your foot on a stone.'"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then the devil took Jesus to Jerusalem. He set him on the highest part of the temple and said to him, " If you really are the Son of God, jump down from here.
+\v 10 You will not be hurt, because it is written in the scriptures, 
+\q1 'God will command his angels to protect you.’
+\v 11 And it also says, 
+\q1 ‘They will lift you up in their hands when you are falling, so that you will not get hurt. You will not even strike your foot on a stone.'”
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Next the devil led Jesus to Jerusalem and put him on the very highest point of the temple building, and said to him, "If you are the Son of God, throw yourself down from here. 
+\v 10 For it is written,  
+\q1 'He will command his angels to take care of you, to protect you.' 
+\v 11 and,  
+\q1 'They will lift you up in their hands, 
+\q1 so that you will not hit your foot against a stone.'"
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:jerusalem]]
+    * [[en:obe:kt:temple]]
+    * [[en:obe:kt:sonofgod]]
+    * [[en:obe:other:written]]
+    * [[en:obe:other:command]]
+    * [[en:obe:kt:angel]]
+
+===== Translation Notes: =====
+
+    * **the very highest point**  - This was the corner of the temple roof. If someone slipped or jumped from there, they would be seriously injured or die.
+    * **If you are the Son of God** - The devil was probably challenging Jesus to prove that he was the Son of God. Since Jesus was the only, unique Son of God ([[:en/bible/notes/jhn/03/16|John 3:16]]), Satan personally confronted Jesus and tried to cause Jesus to sin. It is important to translate "Son of God" in your language with words that make it clear that Jesus was the actual Son of God. Satan challenged Jesus because Jesus clearly claimed to be the literal "Son of God."
+    * **throw yourself down**- "jump down to the ground"
+    * **it is written** - AT: "the Psalmist has written.” The devil partially quoted Psalm [[:en:bible:notes:psa:091:010|91:11-12]] in an effort to persuade Jesus to jump off the building. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **He will command** -  "He" refers to God.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:luk:04:08|<<]] | [[:en:bible:notes:luk:04:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

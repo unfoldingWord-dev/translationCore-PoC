@@ -1,0 +1,72 @@
+====== Luke 04:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 The Spirit of the Lord\f + \ft Or: of God \f* is upon me.
+\q He has appointed \f + \ft metonymy \f* me to declare God's good news to the poor.
+\q He has sent me \add here\add* to proclaim that God will deliver those whom \add Satan\add* has captured, and
+\q he will \add enable me to\add* enable those who are blind to see.
+\q He will enable me to free people who have been oppressed \f + \ft Or:whom \add others\add* have oppressed \f*.
+\q
+\v 19 And he sent me to declare that now is the time when the Lord\f + \ft Or: God \f* will \add act\add* favorably \add toward people\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 “The Spirit of the Lord is in me.
+\q1 He has appointed me to declare God's good news to people who are poor.
+\q1 He has sent me here to proclaim that the captives will go free,
+\q1 And will tell those who are blind that they will see again. 
+\q1 I will free people who have been oppressed.
+\q1
+\v 19 He sent me here to declare that now is the time when the Lord will act favorably toward people.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1 \v 18 "The Spirit of the Lord is upon me,
+\q1 Because he anointed me to preach good news to the poor.
+\q1 He has sent me to proclaim freedom to the captives,
+\q1 And recovery of sight to the blind,
+\q1 To set free those who are oppressed,
+\q1 \v 19 To proclaim the favorable year of the Lord."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:holyspirit]]
+    * [[en:obe:kt:anoint]]
+    * [[en:obe:other:preach]]
+    * [[en:obe:kt:goodnews]]
+    * [[en:obe:other:proclaim]]
+    * [[en:obe:kt:free]]
+    * [[en:obe:other:captive]]
+    * [[en:obe:kt:oppress]]
+    * [[en:obe:kt:favor]]
+
+===== Translation Notes: =====
+This is what Jesus read on the scroll from Isaiah. (See: [[:en:bible:notes:isa:61:01|61:1-2]])
+    * **The Spirit of the Lord is upon me**  - "God is with me in a special way." Someone saying this is claiming to speak the words of God.
+    * **to proclaim freedom to the captives** - AT: "to tell people who are being held captive that they can go free" or "to set free the prisoners of war."
+    * **recovery of sight to the blind** - "to proclaim that the blind shall see" or "to give sight to the blind" or "to make the blind be able to see again"
+    * **To set free those who are oppressed**  - "to set free  those who are treated harshly"
+    * **To proclaim the favorable year of the Lord**  - AT: "To announce that this is the year that the Lord will show his kindness" or "To tell everyone that the Lord is ready to bless his people."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:luk:04:16|<<]] | [[:en:bible:notes:luk:04:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

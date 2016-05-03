@@ -1,0 +1,54 @@
+====== Luke 07:46-47 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 46 You did not \add follow our custom of welcoming guests by\add* anointing my head with \add olive\add* oil, but she has anointed my feet with fragrant perfume.
+\v 47 So I will tell you that even though she has sinned very much, she has been forgiven \f + \ft Or:\add I\add* have forgiven her \f*. \add By what she has done she has shown that\add* she loves \add me\add* very much. But a person who has \add sinned\add* just a little bit, but whom \add I\add* have forgiven, will love \add me just a little bit\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 46 You did not anoint my head with olive oil, but she has anointed my feet with fragrant perfume.
+\v 47 So I tell you that she has been forgiven for her many sins and that is why she loves me very much. But a person who thinks he has only a few sins, and has been forgiven, will love me only a little bit."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 46 You did not anoint my head with oil, but she has anointed my feet with perfume.
+\v 47 On account of this, I say to you that she who had many sins and has been forgiven much, has also loved much. But he who is forgiven only a little, loves only a little."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:anoint]]
+    * [[en:obe:other:oil]]
+    * [[en:obe:kt:sin]]
+    * [[en:obe:kt:forgive]]
+    * [[en:obe:kt:love]]
+
+===== Translation Notes: =====
+Jesus continues speaking to Simon.
+
+    * **anoint my head with oil** - "put oil on my head." This was a way of welcoming an honored guest. AT: "welcome me by anointing my head with oil."
+    * **anointed my feet**  - Though this was probably not a common practice, the woman greatly honored Jesus by doing this.
+    * **has been forgiven much** - AT: "who has received much forgiveness" or "whom God has forgiven much."
+    * **has also loved much** - "has also loved much the one who forgave her" or "has also love God much." Some languages require that the object of "love" be stated. 
+    * **he who is forgiven only a little** - "anyone who is forgiven little." In this sentence Jesus states a general principle. However, Simon was expected to understand that Jesus was saying that Simon had loved little.
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:44|<<]] | [[:en:bible:notes:luk:07:48|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

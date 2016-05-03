@@ -1,0 +1,50 @@
+====== Luke 02:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6-7 When they arrived \add in Bethlehem\add*, there was no place for them to stay in the house where travelers stay. \add So they stayed in a cattle shed\add*. When the time for Mary to give birth arrived, she gave birth to her first son there. She wrapped him in strips of cloth and placed him in a trough where \add people\add* put food for the animals.
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6-7 When they arrived in Bethlehem, there was no place for them to stay in a place where visitors usually stayed. So they had to stay in a place where animals slept overnight. While they were there the time came for Mary to give birth and she gave birth to her first child, a son. She wrapped him in wide strips of cloth and placed him in the feeding place for the animals.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6 Now it came about that while they were there, the time came for her to deliver her baby.  
+\v 7 She gave birth to a son, her firstborn child, and she wrapped him snugly in strips of cloth. Then she put him in an animal feeding trough, because there was no room for them in a guest room.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:firstborn]]
+
+===== Translation Notes: =====
+
+  * **while they were there**  - "while Mary and Joseph were in Bethlehem"
+  * **the time came**  - "it was time"
+  * **to deliver her baby**  - "to give birth to her baby." Use a common expression that will not embarrass people.
+  * **wrapped him snugly in strips of cloth**  - This act was an expression of love and concern for the newborn baby.  AT: "wrapped a blanket firmly around him" or "wrapped him comfortably in a blanket."
+  * **an animal feeding trough** - This was some kind of box or frame that people put hay or other food in for animals to eat. It was most likely clean and may have had something soft and dry like hay in it as a cushion for the baby. Animals were often kept near the home to keep them secure and to feed them easily. Apparently Mary and Joseph stayed in a room that was used for animals.
+  * **there was no room for them in a guest room**  - "there was no space for them to stay in the guest room." This was probably because so many people went to Bethlehem to register.
+  * **because there was no room** - If it is not clear why Mary put her son in a feeding trough, you could explicitly state the implied information that they had to stay in a place for animals, and you could change the order of the information in verse 7. AT: "There was no room for them in a guest room, so they stayed in a place for animals. When she gave birth to a son, her firstborn child, she wrapped him snugly in strips of cloth. Then she put him in an animal feeding trough." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **guest room** - This is a separate area for guests or travelers.
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:04|<<]] | [[:en:bible:notes:luk:02:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish firstborn}}
+
+~~NOCACHE~~

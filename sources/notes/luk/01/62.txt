@@ -1,0 +1,49 @@
+====== Luke 01:62-63 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 62 Then they made motions with their hands to his father, \add for him\add* to indicate what name \add he\add* wanted to be given \f + \ft Or:to give \f* to his son.
+\v 63 \add So\add* he signaled that they \add should give him\add* a tablet \add to write on. When they gave him one\add*, he wrote \add on it\add*, "His name is John." All those \add who were there\add* were surprised!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 62 Then they made motions with their hands to his father, for him to indicate what name he wanted to be given to his son.
+\v 63 So he signaled that they should give him a tablet to write on. When they gave him one, he wrote on it, "His name is John." All those who were there were surprised!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 62 They gestured to his father to find out what name he wanted him to be called.
+\v 63 So he asked for a writing tablet and wrote on it, "His name is John." They all were very surprised.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:johnthebaptist]]
+
+
+===== Translation Notes: =====
+
+  * **They gestured** - "They" refers to the people who were there for the circumcision ceremony.
+  * **to his father** - "to the baby's father"
+  * **what name he wanted him to be called** - "what he wanted his son to be named" AT: "what name Zechariah wanted the baby to have."
+  * **So he asked for a writing tablet** - He must have used gestures in order to ask for the writing tablet.  AT: "So Zechariah signaled."  
+  * **writing tablet** - "something on which to write" 
+  * **very surprised** - "amazed"
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:59|<<]] | [[:en:bible:notes:luk:01:64|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

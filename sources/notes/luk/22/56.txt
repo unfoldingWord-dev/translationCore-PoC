@@ -1,0 +1,54 @@
+====== Luke 22:56-58 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 56 As the light \add from the fire\add* shone \add on his face, a\add* female servant saw him and looked intently at him. She said, "This man was also with \add the man whom they have arrested\add*!"
+\v 57 But he denied it, saying, "Woman, I do not know him!"
+\v 58 A little later someone else saw Peter and said, "You\add \f + \ft singular \f*\add* also are one of those who \add were with\add* the man \add they arrested\add*!" But Peter said, "Man, I am not \add one of them\add*!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 56 A female servant saw Peter sitting there as the fire shone upon him. She looked at him carefully and said, "This man was also with the one whom they have arrested!"
+\v 57 But he denied it, saying, "Woman, I do not know him!"
+\v 58 A little later someone else saw Peter and said, "You also are one of those who were with the man they arrested!" But Peter said, "Man, I am not one of them!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 56 A certain female servant saw him as he sat in the light of the fire, and looked straight at him and said, "This man also was with him."
+\v 57 But Peter denied it, saying, "Woman, I do not know him."
+\v 58 After a little while someone else saw him, and said, "You are also one of them." But Peter said, "Man, I am not."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:servant]]
+  * [[en:obe:other:peter]]
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **looked straight at him and said**  - "looked straight at Peter and said to the other people in the courtyard"
+    * **This man also was with him**  - The woman was telling the people about Peter being with Jesus. She probably did not know Peter's name.
+    * **But Peter denied it**  - "But Peter said that it was not true"
+    * **Woman, I do not know him** - Peter did not know the woman's name. He was not insulting her by calling her "woman." If people would think he was insulting her, you could use a culturally acceptable way for a man to address a woman he does not know, or you could leave out the word.
+    * **Man, I am not** - See the note above about "woman."
+
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:54|<<]] | [[:en:bible:notes:luk:22:59|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

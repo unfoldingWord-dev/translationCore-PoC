@@ -1,0 +1,51 @@
+====== Luke 08:49-50 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 49 While he was still talking \add to her\add*, a man from Jairus' house came and said to him, "Your daughter has died. So it is useless that you bother the teacher any longer \add by urging him to go to your house\add*!\f + \ft Or: why do you bother the teacher any longer \add by urging him to go to your house\add*? \f* \f + \ft rhetorical question \f*"
+\v 50 But when Jesus heard that, he said to Jairus, "Do not think that there is nothing more that can be done. Just believe that \add I can help her. If you\f + \ft singular \f* do that\add*, she will live again."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 49 While he was still speaking to her, a man from Jairus' house came and said to Jairus, "Your daughter has died. So do not bother the teacher anymore!"
+\v 50 But when Jesus heard that, he said to Jairus, "Do not be afraid. Just believe in me and she will live again."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 49 While he was still speaking, someone came from the synagogue leader's house, saying, "Your daughter is dead. Do not trouble the teacher."
+\v 50 But when Jesus heard that, he answered him, "Do not be afraid. Just believe, and she will be saved."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:synagogue]]
+    * [[en:obe:kt:teacher]]
+    * [[en:obe:kt:believe]]
+    * [[en:obe:kt:save]]
+
+===== Translation Notes: =====
+A messenger arrives from Jairus' house as Jesus finishes speaking to the woman that he healed.
+
+    * **While he was still speaking** - "While Jesus was still speaking to the woman"
+    * **synagogue leader**  - This refers to Jairus. He was one of the leaders at the local synagogue.
+    * **he answered him** - "Jesus answered Jairus." Jesus was speaking to the synagogue ruler, and not to the messenger.
+    * **she will be saved** - "she will well" or "she will live again" (UDB)
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:47|<<]] | [[:en:bible:notes:luk:08:51|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

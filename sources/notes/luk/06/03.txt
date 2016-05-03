@@ -1,0 +1,60 @@
+====== Luke 06:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add Jesus wanted to show them that the record in Scriptures indicated that God permitted people to disobey certain religious laws when they needed food\add*. \add So\add* he replied, "\add It is written in the Scriptures\add* what \add our revered ancestor, King\add* David did when he and the men with him were hungry. You have read about that, \add but you do not think about what it implies\f + \ft Or: so why do you not think about what it implies\add*? \f* \f + \ft rhetorical question \f*
+\v 4 David entered God's big worship tent \add and asked for some food\add*. \add The high priest gave him\add* the bread that the priests had presented to God. It was permitted \add in\add* one of \add Moses' laws\add* that only the priests could eat that bread. But \add even though David was not a priest\add*, he ate some, and gave some to the men who were with him. \add And God did not consider that what David did was wrong\add*!"
+\v 5 Jesus also said to them, "\add I am\add* the one who came from heaven, so \add I\add* have the authority \add to determine what is right for my disciples to do on\add* the day of rest!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Jesus replied to the Pharisees, "Certainly you have read what is written in the scriptures about what King David did when he and the men with him were hungry!
+\v 4 As you know, David entered the tabernacle and asked for some food. The priest gave him the bread that had been on display before God. In one of Moses' laws God had said that only the priests were permitted to eat that bread. But even though David and his men were not priests, he ate some of the bread, and also gave some to the men who were with him!"
+\v 5 Jesus also said to them, "In the same way, the Son of Man has the authority to determine what is right for people to do on the Sabbath!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 Jesus, answering them, said, "Have you not even read what David did when he was hungry, he and the men who were with him?
+\v 4 He went into the house of God, and took the bread of the presence and ate some of it, and also gave some to the men who were with him to eat, even though it was only lawful for the priests to eat it."
+\v 5 Then he said to them, "The Son of Man is Lord of the Sabbath."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:david]]
+    * [[en:obe:kt:houseofgod]]
+    * [[en:obe:other:bread]]
+    * [[en:obe:other:lawful]]
+    * [[en:obe:kt:priest]]
+    * [[en:obe:kt:sonofman]]
+    * [[en:obe:kt:lord]]
+
+
+===== Translation Notes: =====
+
+
+    * **Have you not even read** - This is the beginning of a rhetorical question. Jesus is mildly rebuking them for not learning from it. AT: "Certainly you have read." (UDB) or "You should learn from what you have read" (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **the bread of the presence**  - "the holy bread" or "the bread that was offered to God"
+    * **Son of Man** - AT: "I, the Son of Man." Jesus was referring to himself. 
+    * **Lord of the Sabbath**  -  "owner of the Sabbath." AT: "has the authority to determine what is right for people to do on the Sabbath!" (UDB)
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:01|<<]] | [[:en:bible:notes:luk:06:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish sonofman}}
+
+~~NOCACHE~~

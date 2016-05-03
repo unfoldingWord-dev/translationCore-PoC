@@ -1,0 +1,52 @@
+====== Luke 22:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 When it was time \f + \ft metonymy \f* \add to eat the meal\add*, Jesus \add came and\add* sat down with the \add twelve\add* apostles.
+\v 15 He said to them, "I have greatly desired to eat this Passover \add meal\add* with you before I suffer \add and die\add*.
+\v 16 I want you to know that I will not eat \add the Passover meal\add* again until all those whose lives God rules completely realize \add what it represents\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 When it was time to eat the meal, Jesus came and sat down with the apostles.
+\v 15 He said to them, "I have wanted very much to eat this Passover meal with you before I suffer and die.
+\v 16 I tell you, I will not eat it again until I do so when God rules everyone everywhere, when he finishes what he started to do in the Passover."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 When the time came, he sat down with the apostles.
+\v 15 Then he said to them, "I have greatly desired to eat this Passover Festival with you before I suffer.
+\v 16 For I say to you, I will not eat it again, until it is fulfilled in the kingdom of God."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:apostle]]
+  * [[en:obe:kt:passover]]
+  * [[en:obe:kt:suffer]]
+  * [[en:obe:kt:fulfill]]
+  * [[en:obe:kt:kingdomofgod]]
+ 
+
+===== Translation Notes: =====
+
+  * **I have greatly desired**  - "I have wanted very much" (UDB)
+  * **For I say to you**  - This phrase is used to emphasize the importance of what Jesus will say next.
+  * **until it is fulfilled**  - Possible meanings are 1) "until the purpose of the Passover Festival is accomplished" or 2) "until we eat celebrate the final Passover Festival." This can be translated with an active verb: "until God fulfills it" or "until God completes the purpose of the Passover Festival." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:12|<<]] | [[:en:bible:notes:luk:22:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

@@ -1,0 +1,46 @@
+====== Luke 24:41-43 ======
+
+===== TFT: =====
+
+<usfm>
+\v 41 They were joyful and amazed, \add but\add* they still did not believe \add that he was really alive\add* \f + \ft Or: \add that he was the one that they were seeing\add* \f*. \add So\add* he said to them, "Do you have anything here to eat?"
+\v 42 \add So\add* they gave him a piece of broiled fish.
+\v 43 While they were watching, he took it and ate it.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 41 They were joyful and amazed, but they still could hardly believe that he was really alive. So he said to them, "Do you have anything here to eat?"
+\v 42 So they gave him a piece of broiled fish.
+\v 43 While they were watching, he took it and ate it.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 41 While they were still incredulous with joy, and wondered, Jesus said to them, "Do you have anything to eat?"
+\v 42 They gave him a piece of a broiled fish.
+\v 43 Jesus took it, and ate it before them.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:joy]]
+  * [[en:obe:other:amazed]]
+
+===== Translation Notes: =====
+
+  * **were still incredulous with joy**  - "still could not believe that it was really true!" They were very excited, but at the same time, it was difficult for them to believe that it had really happened.
+  * **and wondered**  - "and were amazed" (UDB) or "and wondered how this could be"
+  * **before them**  - "in front of them" or "while they were watching" (UDB)
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:38|<<]] | [[:en:bible:notes:luk:24:44|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

@@ -1,0 +1,49 @@
+====== Luke 22:35-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 Then \add Jesus\add* asked all of them, "After I sent you out \add to other villages, and you went\add* without taking any money or a \add traveling\add* bag or \add extra\add* sandals, you did not lack anything, did you?" They replied, "\add That's right\add*, \add we\f + \ft exclusive \f* did\add* not \add lack\add* anything."
+\v 36 Then, \add to show them that now many people would oppose them\add*, \f + \ft Or: \add to show them that they needed to be prepared to protect themselves\add*, \f* he said to them, "Now \add things will be different. So\add* whoever among you has some money should take it with him. Likewise, he should take a carrying bag. Whoever does not have a sword should sell his coat and buy a sword.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 Then Jesus asked the disciples, "When I sent you out to the villages, and you went  without any money, food, or sandals, was there anything you needed but could not get?" They replied, "Nothing!"
+\v 36 And he said, "But, now, if anyone among you has some money, he should take it with him. Also, whoever has food should take it with him, and whoever does not have a sword should sell his coat and buy one!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 35 Then Jesus said to them, "When I sent you out without a purse, a bag of provisions, or shoes, did you lack anything?" And they answered, "Nothing."
+\v 36 Then he said to them, "But now, the one who has a purse, let him take it, and also a bag of provisions. The one who does not have a sword should sell his cloak and buy one.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:sword]]
+
+
+===== Translation Notes: =====
+
+  * **When I sent you out** - Jesus was talking to his apostles. So languages that have different forms of "you" should use the plural form. (See: [[en:ta:vol1:translate:figs_you]])
+  * **purse**  - A purse is a bag for holding money. Here it is used to refer to "money." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **a bag of provisions** - This can be translated as "travelers' bag"  or "food," which would have been in the bag if they had taken one.
+  * **did you lack anything?** - "did you need anything that you did not have?" This is a rhetorical question to help the apostles remember how well the people they went to provided for them. (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **Nothing** - "We did not lack anything"
+  * **The one who does not have a sword should sell his cloak** - Jesus was not referring to a specific person who did not have a sword. It can also be translated as "If anyone does not have a sword, he should sell his cloak."
+  * **cloak**  - "coat" or "outer garment"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:33|<<]] | [[:en:bible:notes:luk:22:37|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

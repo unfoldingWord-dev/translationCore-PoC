@@ -1,0 +1,55 @@
+====== Luke 08:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 They woke him up. They said \add to him\add*, "Master! Master! We\add \f + \ft inclusive \f*\add* are going to drown!" He got up and rebuked the wind and told the waves to be calm. The wind stopped blowing and the waves calmed down. \add The lake\add* became calm.
+\v 25 He said to them, "I \add am disappointed that\add* you did not trust me \add to help you\add*!\f + \ft Or: Why did you not trust me \add to help you\add*? \f*" \f + \ft rhetorical question \f* They were afraid. They were also amazed. They said to each other, "What kind of man is this?\f + \ft Or: This man is not like ordinary men! \f* \f + \ft rhetorical question \f* He \add not only commands people, but\add* when he commands the wind and the water, they also obey him!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 So Jesus' disciples came to him and woke him up. They said to him, "Master! Master! We are going to die!" He then woke up and commanded the wind and the violent waves to be still and they became still. Everything became calm.
+\v 25 Then he said to them, "Why is your faith so weak?" The disciples were alarmed and amazed because of what had just happened. They kept saying to one another, "Who is this, that he is able to command even the winds and the water, and they obey him?"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 24 Then Jesus' disciples came over to him and woke him up, saying, "Master, master, we are about to die!" He awoke, and rebuked the wind and the raging of the water and they ceased, and there was a calm.
+\v 25 Then he said to them, "Where is your faith?" Being afraid, they were very amazed, saying one to another, "Who then is this, that he commands even the winds and the water, and they obey him?"
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:rebuke]]
+    * [[en:obe:kt:faith]]
+    * [[en:obe:other:amazed]]
+    * [[en:obe:other:command]]
+    * [[en:obe:other:obey]]
+
+===== Translation Notes: =====
+
+  * **Master**  - The Greek word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to  someone who owns someone else. AT: "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
+  * **rebuked**  - "spoke sharply to"
+  * **they ceased** - "the wind and the waves stopped"
+  * **Where is your faith?** - This is a rhetorical question. Jesus was rebuking them mildly because they did not trust him to take care of them. AT: "You should have had faith" or "You should have trusted me." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **Who then is this** - AT: "What kind of man is this."
+  * **that he commands** - This can be the beginning of a new sentence: "He commands."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:22|<<]] | [[:en:bible:notes:luk:08:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

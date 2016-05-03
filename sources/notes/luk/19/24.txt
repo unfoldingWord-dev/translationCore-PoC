@@ -1,0 +1,51 @@
+====== Luke 19:24-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 Then \add the king\add* said to those who were standing near, 'Take the coin from him and give it to \add the servant\add* who has ten coins!'
+\v 25 They protested, 'But Sir, he already has ten \add coins\add*!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 Then the king said to those who were standing near, 'Take the money from him and give it to the servant who made ten times as much!'
+\v 25 They protested, 'But sir, he already has a lot of money!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 24 The nobleman said to them that stood by, 'Take away from him the mina, and give it to him that has the ten minas.'
+\v 25 They said to him, 'Lord, he has ten minas.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:lord]]
+
+ 
+===== Translation Notes: =====
+Jesus continues telling his parable.
+  * **The nobleman** - The nobleman had become king. Translate this with a word that will make this clear to your readers.
+  * **them that stood by** - "the people who were standing near them"
+  * **mina** - See how you translated this in [[:en:bible:notes:luk:19:13|19:13]].
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/22|<<]] | [[en/bible/notes/luk/19/26|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

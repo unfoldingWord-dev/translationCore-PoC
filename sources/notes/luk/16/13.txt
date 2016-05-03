@@ -1,0 +1,58 @@
+====== Luke 16:13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 No servant is able to serve two \add different\add* bosses \add at the same time. If he tried to do that\add*, he would hate one of them and love the other one, or he would be loyal to one of them and despise the other one. \add Similarly\add*, you cannot \add devote your life\add* to worshipping God and \add worshipping\add* money and material goods \add at the same time\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 No servant is able to serve two different masters at the same time. If he tried to do that, he would hate one of them and love the other one, or he would be loyal to one of them and despise the other one. Similarly, you cannot devote your life to serving God if you are devoting your life to acquiring money and other material possessions."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 No servant can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You cannot serve God and wealth."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:servant]]
+  * [[:en:obe:kt:lord]]
+  * [[en:obe:kt:god]]
+
+
+===== Translation Notes: =====
+Jesus continues to teach the people.
+  * **No servant can**  - This can also be translated as, "A servant cannot."
+  * **he will hate**  - "the servant will hate"
+  * **devoted**  - "dedicated" or "loyal"
+  * **despise the other**  - "hold the other in contempt" or "sneer at at other" or "hate the other"
+  * **You cannot serve**  - Jesus was talking to a group of people, so languages that have a plural form of "you" would use that. (See: [[en:ta:vol1:translate:figs_you]])
+  * **serve**  - "be a slave to"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/16/10|<<]] | [[en/bible/notes/luk/16/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish lord}}
+~~NOCACHE~~

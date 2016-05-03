@@ -1,0 +1,65 @@
+====== Luke 01:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 He will \add persuade\add* many people in Israel to turn away \add from their sins and please\add* the Lord their God.
+\v 17 As \add God's\add* Spirit enables him \add to preach\add* powerfully as \add the prophet\add* Elijah did, he will precede \add the Messiah\add*. He will cause parents \f + \ft synecdoche \f* to act \add peacefully\add* toward their children \add again\add*. He will cause \add many\add* people who do not obey \add God to hear and obey\add* the wise things that righteous people \add tell them\add*. He will do this in order to make \add many\add* people to be ready when the Lord \add comes\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 He will persuade many descendants of Israel to stop sinning and start obeying the Lord their God again.
+\v 17 Your son will go in advance of the Lord as his forerunner and will be powerful in his spirit like the prophet Elijah was. He will cause parents to love their children again. He will cause many people who do not obey God to live wisely and to obey him as righteous people do. He will do this in order to cause many people to be ready when the Lord comes."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 He will cause many of the sons of Israel to turn back to the Lord their God.
+\v 17 He will go in advance of him in the spirit and power of Elijah. He will turn the hearts of the fathers to the children, and cause the disobedient to walk according to the wisdom of the righteous. He will do this in order to make ready a people prepared for the Lord."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:son]]
+    * [[en:obe:other:Jacob]]
+    * [[en:obe:kt:turn]]
+    * [[en:obe:kt:lordgod]]
+    * [[en:obe:kt:spirit]]
+    * [[en:obe:kt:power]]
+    * [[en:obe:other:elijah]]
+    * [[en:obe:other:heart]]
+    * [[en:obe:other:disobey]]
+    * [[en:obe:kt:wise]]
+    * [[en:obe:kt:righteous]]
+
+===== Translation Notes: =====
+
+The angel finishes speaking to Zechariah. 
+
+  * **many of the sons of Israel**  - If it sounds as though Zechariah is not included, this phrase could be translated as "many of you descendants of Israel" or "many of you who are God's people, Israel." If this change is made, make sure that "their God" is also changed to "your (plural your) God."
+  * **in advance of him** - He would go to announce to the people that the Lord would come to them.
+  * **in the spirit and power of Elijah** - "with the same spirit and power that Elijah had." The word "spirit" either refers to God's Holy Spirit or to Elijah's attitude or way of thinking. Make sure that the word "spirit" does not mean ghost or evil spirit.
+  * **turn the hearts of the fathers to the children**  - AT: "persuade fathers to care about their children again" or "cause fathers to restore their relationships with their children." This would also apply to mothers, but only father's are named.
+  * **the disobedient to walk** - "the disobedient to act" or "the disobedient to live" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **prepared for the Lord** - AT: "ready to believe the Lord's message" or "ready to obey the Lord"
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:14|<<]] | [[:en:bible:notes:luk:01:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish power elijah turn}}
+
+~~NOCACHE~~

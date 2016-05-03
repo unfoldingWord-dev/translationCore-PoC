@@ -1,0 +1,59 @@
+====== Luke 02:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 That night, there were \add some\add* shepherds who were taking care of their sheep \add as usual\add* in the fields near \add Bethlehem\add*.
+\v 9 An angel from God appeared to them. A great light from the Lord\f + \ft Or: from God \f* shone on them and around them. \add So\add* they became very afraid.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 That night, there were some shepherds who were taking care of their sheep in the fields near Bethlehem.
+\v 9 Suddenly an angel of the Lord God appeared to them. A bright light shone all around them, showing the Lord's glory. So they became very afraid.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 8 In that same region, there were shepherds who were living out in the fields and were keeping watch over their flocks of sheep at night.  
+\v 9 Suddenly, an angel of the Lord appeared to them, and the glory of the Lord was shining all around them, and they were very afraid.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:shepherd]]
+  * [[en:obe:other:flock]]
+  * [[en:obe:other:sheep]]
+  * [[en:obe:kt:angel]]
+  * [[en:obe:kt:lordgod]]
+  * [[en:obe:kt:glory]]
+  * [[en:obe:kt:fear]]
+
+===== Translation Notes: =====
+
+Shepherds hear the news about Jesus' birth.
+
+    * **In that same region** - "In that area" or AT: "Near Bethlehem"
+    * **keeping watch over their flocks** - "taking care of their flocks" or "guarding their flocks in order to keep them safe"
+    * **flocks of sheep** - "groups of sheep"
+    * **at night** - AT: "after the sun had set and it was dark"
+    * **an angel of the Lord** - AT: "an angel from the Lord" or "an angel who served the Lord"
+    * **appeared to them** - "came to them"
+    * **the glory of the Lord** - This means the bright light that is all around the Lord was also around the angel.
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:06|<<]] | [[:en:bible:notes:luk:02:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish shepherd  glory}}
+
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Luke 14:18-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 But \add when the servant did that\add*, all of the people \add whom he had invited\add* began to say why they did not want to come. The first \add man the servant went to\add* said, 'I have just bought a field, and I must go there and see it. Please \add ask your master to\add* forgive me for not coming!'
+\v 19 Another person said, 'I have just bought five pair of oxen, and I must go to examine them. Please \add ask your master to\add* forgive me for not coming!'
+\v 20 Another person said, 'I have just been married. So I cannot come.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 But when the servant did that, all of the people whom he had invited began to say why they could not come. The first man that the servant went to said, 'I have just bought a field, and I must go there and see it. Please ask your master to forgive me for not coming!'
+\v 19 Another person said, 'I have just bought five pairs of oxen, and I must go to examine them. Please ask your master to forgive me for not coming!'
+\v 20 Another person said, 'I have just been married, so I cannot come.'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 They all alike began to make excuses. The first said to him, 'I have bought a field, and I must go out and see it. Please excuse me.'
+\v 19 And another said, 'I have bought five pairs of oxen, and I am going to try them out. Please excuse me.'
+\v 20 And another man said, 'I have married a wife, and therefore I cannot come.'
+</usfm>
+
+
+===== translationWords: =====
+  * [[en:obe:other:ox]]
+
+
+===== Translation Notes: =====
+
+Jesus continues telling his parable.
+    * **to make excuses** - Here it means "to say why they could not come to the dinner."
+    * **Please excuse me**  - "Please forgive me" or "Please accept my apology"
+    * **five pairs of oxen** -  Oxen are cows or bulls that people use to pull heavy loads or do other hard work. Oxen usually work in pairs. 
+    * **married a wife**  - Use an expression that is natural in your language. Some languages may say "gotten married" or "taken a wife."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/14/15|<<]] | [[en/bible/notes/luk/14/21|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish }}
+
+
+~~NOCACHE~~

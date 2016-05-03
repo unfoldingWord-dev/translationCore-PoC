@@ -1,0 +1,54 @@
+====== Luke 20:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 He said to them, "In that case, give to the government \f + \ft metonymy \f* what they \add require\add*, and give to God what he \add requires\add*."
+\v 26 While the people were there, the \add spies\add* were unable to find fault with him for what he said. They were amazed at his answer. So they said nothing.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 He said to them, "In that case, give to the government what belongs to them, and give to God what belongs to him."
+\v 26 The spies were amazed at his answer, so much that they could not answer him. There was nothing that Jesus said before the people standing around him that the spies could find anything wrong with.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 He said to them, "Then give to Caesar the things that are Caesar’s, and to God, the things that are God’s."
+\v 26 The scribes and chief priests were not able to criticize what he had said in front of the people. They marveled at his answer and they said nothing.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:caesar]]
+  * [[:en:obe:kt:god]]
+  * [[en:obe:other:amazed]]
+ 
+
+===== Translation Notes: =====
+
+  * **He said to them**  - "Then Jesus said to them"
+  * **Caesar** - "Caesar" refers to the Roman government. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **were not able to criticize what he had said**  - "could not find anything wrong with what he said"
+  * **They marveled**  - "They were surprised" or "They were amazed" (UDB)
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+**[[:en:bible:notes:luk:20:23|<<]] | [[:en:bible:notes:luk:20:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish caesar }}
+
+~~NOCACHE~~

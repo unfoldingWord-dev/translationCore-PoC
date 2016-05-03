@@ -1,0 +1,65 @@
+====== Luke 07:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 He is the one about whom \add these words\add* that God said to the Messiah have been written \f + \ft Or:\add the prophet Malachi\add* wrote \add these words\add* \f* \add in the Scriptures\add*: 'Listen! I am going to send my messenger ahead of you\add \f + \ft singular \f*\add* \f + \ft synecdoche \f*. He will prepare \add people\add* for your coming.'
+\p
+\v 28 I tell you that from among all the people who have ever lived, \add God considers that\add* no one is greater than John. However, \add God considers\add* everyone who has let God rule their \add lives\add* \f + \ft metaphor \f* to be greater than \add John\add*, \add even if they are\add* insignificant \add people\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 He is the one about whom the prophets wrote long ago: 'See, I am sending my messenger ahead of you. He will prepare people for your coming.'
+\p
+\v 28 I tell you that from among all the people who have ever lived, there is no one who is greater than John. However, God considers even the most insignificant people whom he has agreed to rule over to be greater than John."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 27 This is he of whom it is written, 
+\q 'See, I am sending my messenger before your face,
+\q Who will prepare your way before you.'
+\m
+\v 28 I say to you, among those born of women, no one is greater than John, yet the least important person in the kingdom of God is greater than he is."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:written]]
+    * [[en:obe:other:messenger]]
+    * [[en:obe:kt:face]]
+    * [[en:obe:other:johnthebaptist]]
+    * [[en:obe:kt:kingdomofgod]]
+
+===== Translation Notes: =====
+Jesus continues to talk to the people about John the Baptizer.
+
+  * **This is he of whom it is written**  - "That prophet is the one the prophets wrote about" or "John is the one the prophets wrote about long ago"
+  * **See, I am sending...**  - In this verse, Jesus is quoting the prophet Malachi and saying that John is the messenger that Malachi spoke of.
+  * **before your face**  - "in front of you" or "to go ahead of you." The word "you" is singular, because God was speaking to the Messiah in the quotation. (See: [[en:ta:vol1:translate:figs_you]])
+  * **I say to you**  - Jesus was speaking to the crowd, so "you" is plural. Jesus said this to emphasize the truth of the surprising thing he was about to say next. (See: [[en:ta:vol1:translate:figs_you]])
+  * **among those born of women**  - "among those to whom a woman has given birth." This is a figure of speech referring to all people. AT: "of all the people who have ever lived."
+  * **no one is greater than John**  - AT: "John is the greatest."
+  * **the least important person in the kingdom of God**  - This refers to a person who will be part of the kingdom that God will establish." AT: "who has entered into the kingdom of God."
+  * **greater than he is**  - "higher spiritual status than John"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:24|<<]] | [[:en:bible:notes:luk:07:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish  johnthebaptist}}
+
+~~NOCACHE~~

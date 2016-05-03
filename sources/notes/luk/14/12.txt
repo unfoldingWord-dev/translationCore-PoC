@@ -1,0 +1,48 @@
+====== Luke 14:12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add Jesus\add* also said to \add the Pharisee\add* who had invited him to the meal, "When you\add \f + \ft singular \f*\add* invite people to a midday or evening meal, do not invite your friends or your family or your other relatives or your rich neighbors. They can later invite you\add \f + \ft singular \f* for a meal\add*. In that way they will repay you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 Jesus also said to the Pharisee who had invited him to the meal, "When you invite people to a midday or evening meal, do not only invite your friends, relatives or rich neighbors, since they will later repay you by inviting you for a meal.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 Jesus also said to the man who had invited him, "When you give a luncheon or a dinner, do not invite your friends or your brothers or your relatives or your rich neighbors, as they may also invite you in return, and you will be repaid.
+</usfm>
+
+
+===== translationWords: =====
+ 
+
+===== Translation Notes: =====
+
+
+    * **as they may**  - "because they might"
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+
+
+**[[en/bible/notes/luk/14/10|<<]] | [[en/bible/notes/luk/14/13|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

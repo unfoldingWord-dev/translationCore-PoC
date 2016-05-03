@@ -1,0 +1,49 @@
+====== Luke 03:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 \add So\add* John went all over the area close to the Jordan \add River\add*. He kept telling people, "If you want \add God\add* to forgive you for your sins, you must repent\f + \ft Or: turn away from your sinful behavior \f* \add before you ask me\add* to baptize \add you\add*!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 John was traveling all around the area near the Jordan River. He kept telling people, "If you want God to forgive your sins, you must repent; then I will baptize you!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 He traveled throughout the region around the Jordan River, preaching a baptism of repentance for the forgiveness of sins.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:jordanriver]]
+    * [[en:obe:other:preach]]
+    * [[en:obe:kt:baptize]]
+    * [[en:obe:kt:repent]]
+    * [[en:obe:kt:forgive]]
+    * [[en:obe:kt:sin]]
+===== Translation Notes: =====
+
+  * **He traveled **- "John traveled"
+  * **preaching a baptism of repentance** - AT: "preached that people should be baptized to show that they were repenting."
+  * **for the forgiveness of sins** - "so that their sins would be forgiven" or "so that God would forgive their sins." The repentance was for the forgiveness of sins.
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:03:01|<<]] | [[:en:bible:notes:luk:03:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish jordanriver repent }}
+
+~~NOCACHE~~

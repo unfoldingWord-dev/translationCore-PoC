@@ -1,0 +1,45 @@
+====== Luke 03:30-32 ======
+
+===== TFT: =====
+
+<usfm>
+\v 30 \add Levi was the son\add* of Simeon. \add Simeon was the son\add* of Judah. \add Judah was the son\add* of Joseph. \add Joseph was the son\add* of Jonam. \add Jonam was the son\add* of Eliakim.
+\v 31 \add Eliakim was the son\add* of Melea. \add Melea was the son\add* of Menna. \add Menna was the son\add* of Mattatha. \add Mattatha was the son\add* of Nathan. \add Nathan was the son\add* of David.
+\v 32 \add David was the son\add* of Jesse. \add Jesse was the son\add* of Obed. \add Obed was the son\add* of Boaz. \add Boaz was the son\add* of Sala. \add Sala was the son\add* of Nahshon.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 30 Levi was the son of Simeon. Simeon was the son of Judah. Judah was the son of Joseph. Joseph was the son of Jonam. Jonam was the son of Eliakim.
+\v 31 Eliakim was the son of Melea. Melea was the son of Menna. Menna was the son of Mattatha. Mattatha was the son of Nathan. Nathan was the son of David.
+\v 32 David was the son of Jesse. Jesse was the son of Obed. Obed was the son of Boaz. Boaz was the son of Salmon. Salmon was the son of Nahshon.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 30 the son of Simeon, the son of Judah, the son of Joseph, the son of Jonam, the son of Eliakim,  
+\v 31 the son of Melea, the son of Menna, the son of Mattatha, the son of Nathan, the son of David,  
+\v 32 the son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon,
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:david]]
+  * [[en:obe:other:jesse]]
+  * [[en:obe:other:boaz]]
+
+===== Translation Notes: =====
+This is a continuation of the list of Jesus' ancestors. (See: [[:en:ta:vol1:translate:translate_names]])
+
+  * **the son of Simeon, the son of Judah…**  - Use the same wording as you used in the previous verses.  AT: “who was the son of Simeon, who was the son of Judah…” or “Levi was the son of Simeon, Simeon was the son of Judah…” or “Levi's father was Simeon, Simeon's father was Judah….” 
+
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:03:27|<<]] | [[:en:bible:notes:luk:03:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish  jesse boaz}}

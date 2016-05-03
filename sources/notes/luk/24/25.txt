@@ -1,0 +1,60 @@
+====== Luke 24:25-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 He said to them, "\add You two\add* foolish \add men\add*! \add You are so\add* slow to believe all that the prophets have written \add about the Messiah!\add*
+\v 26 \add You should certainly have known that\add* it was necessary that the Messiah should suffer all those things \add and die\add*, and then enter his glorious \add home in heaven\add*!\f + \ft Or: Was it not necessary that the Messiah should suffer all those things \add and die\add*, and then enter his glorious \add home in heaven\add*? \f* \f + \ft rhetorical question \f*"
+\v 27 Then he explained to them all the things that \add the prophets\add* had written in the Scriptures about himself. He started with what Moses \f + \ft metonymy \f* \add wrote\add* and then explained to them what all the \add other\add* prophets \add wrote\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 He said to them, "You two foolish men! You are so slow to believe all that the prophets have written about the Messiah!
+\v 26 You should certainly have known that it was necessary that the Messiah should suffer all those things and die, and then enter his glorious home in heaven!"
+\v 27 Then he explained to them all the things that the prophets had written in the Scriptures about himself. He started with what Moses wrote and then explained to them what all the other prophets wrote.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 Jesus said to them, "Oh foolish men and slow of heart to believe in all that the prophets have spoken!
+\v 26 Was it not necessary for the Christ to suffer these things, and to enter into his glory?"
+\v 27 Then beginning from Moses and through all the prophets, Jesus interpreted to them the things concerning himself in all the scriptures.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:foolish]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:kt:believe]]
+  * [[en:obe:kt:prophet]]
+  * [[en:obe:kt:christ]]
+  * [[en:obe:kt:suffer]]
+  * [[en:obe:kt:glory]]
+  * [[en:obe:other:moses]]
+  * [[en:obe:kt:wordofgod]]
+
+===== Translation Notes: =====
+
+    * **Jesus said to them**  - Use the dual form of "them."
+    * **slow of heart to believe** - AT: "your minds are slow to believe" or "you are slow to believe" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+    * **Was it not necessary**  - This is a rhetorical question that means "It was necessary." (See: [[en:ta:vol1:translate:figs_rquestion]]) Jesus did right by suffering and would have done wrong by not suffering.
+    * **to enter into his glory** - This refers to the time Jesus will show everyone his beauty and greatness and receive honor and worship.
+    * **Jesus interpreted to them**  - Use the dual form of "them." 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:22|<<]] | [[:en:bible:notes:luk:24:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

@@ -1,0 +1,80 @@
+====== Luke 01:69-71======
+
+
+===== TFT: =====
+
+<usfm>
+\v 69 He is sending us someone who will powerfully \f + \ft metonymy \f* save us,
+\q1 someone who is descended from \f + \ft metonymy \f* King David,
+\q1 who served God well.
+\q1
+\v 70 Long ago God caused his prophets to say that he would do that.
+\q1
+\v 71 He will rescue us from our enemies,
+\q1 and he will save us from the power of all those who hate us.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 69 He is sending us someone who will powerfully save us, 
+\q someone who is descended from his servant, King David. 
+\q
+\v 70 Long ago God caused his prophets to say that he would do that.  
+\q
+\v 71 This powerful Savior will rescue us from our enemies, 
+\q and he will save us from the power of all those who hate us.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q \v 69 He has provided for us a powerful Savior
+\q from among the descendants of his servant David, 
+\q \v 70 just as God spoke through his holy prophets long ago. 
+\q \v 71 He promised to provide for us salvation from our enemies,
+\q and from the hand of everyone who hates us.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:power]]
+    * [[en:obe:kt:Savior]]
+    * [[en:obe:other:descendant]]
+    * [[en:obe:other:servant]]
+    * [[en:obe:other:david]]
+    * [[en:obe:kt:holy]]
+    * [[en:obe:kt:prophet]]
+    * [[en:obe:kt:promise]]
+    * [[en:obe:kt:salvation]]
+    * [[en:obe:other:adversary]]
+    * [[en:obe:other:hand]]
+
+
+===== Translation Notes: =====
+
+Zechariah prophesies after he is able to speak again.
+
+  * **his servant David** - AT: "King David, who served him"
+  * **just as God** - AT: "That is what God promised he would do when he"
+  * **spoke through his holy prophets** - When God spoke through the prophets, they used their own voices, but God enabled them to speak the words he wanted them to speak.  AT: "caused his holy prophets to say." 
+  * **from our enemies, and from the hand of everyone who hates us** - These two phrases mean basically the same thing and are repeated for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **and from the hand** - AT: "and salvation from the hand" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **hand** - "power" or "control." The word "hand" is associated with the power or control that is being used to harm God's people. (See: [[en:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:67|<<]] | [[:en:bible:notes:luk:01:72|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

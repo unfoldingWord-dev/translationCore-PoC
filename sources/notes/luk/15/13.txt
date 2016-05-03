@@ -1,0 +1,52 @@
+====== Luke 15:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 A few days later, the younger son \add sold his share\add*. He gathered his money and other things together and went to a country far away. There he spent all his money foolishly in reckless\f + \ft Or: wild \f* living.
+\v 14 After he had spent all his money, there was a great famine throughout that country. And soon he did not have enough \add food to\add* eat.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Only a few days later, the younger son gathered together all that he owned and traveled to a country far away. There in that country he spent all his money foolishly in wasteful, immoral living.
+\v 14 After he had spent all his money, there was a severe famine throughout that country. And soon he did not have anything left to live on.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 Not many days later, the younger son packed up and journeyed into a far country, and there he wasted his money with wildly extravagant living.
+\v 14 Now when he had spent it all, a great famine happened in that country, and he began to be in need.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:famine]]
+
+
+===== Translation Notes: =====
+Jesus continues telling his parable.
+    * **packed up**  - "packed his things" or "put his things in his bag"
+    * **with wildly extravagant living**  - This can be translated as  "by spending all his money on things he did not need."
+    * **a great famine happened**  - "there was a severe famine" (UDB) or "there was not enough food"
+    * **famine**  - A famine is a time when there is little food. Often it is the result of little rain and the failure of crops to grow well.
+    * **to be in need** - "to lack what he needed" or "to not have enough"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/15/11|<<]] | [[en/bible/notes/luk/15/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish text}}
+~~NOCACHE~~

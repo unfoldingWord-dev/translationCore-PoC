@@ -1,0 +1,58 @@
+====== Luke 09:54-56 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 54 When two of his disciples, James and John, heard about that, they said, "Lord, do you\add \f + \ft singular \f*\add* want us\add \f + \ft exclusive \f*\add* to pray that \add God\add* will send fire down from heaven, \add as the prophet Elijah did long ago\add*, and destroy those people?"
+\v 55 But Jesus turned and rebuked them \add for saying that\add*.
+\v 56 So they went to a different village.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 54 When two of his disciples, James and John, heard that, they said, "Lord, do you want us to ask God to send fire down from heaven to destroy those people?"
+\v 55 But Jesus turned to them and sternly told them they were wrong to say that.
+\v 56 So they went to a different village.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 54 Then when his disciples James and John saw this, they said, "Lord, do you want us to command fire to come down from heaven and destroy them?"
+\v 55 But he turned and rebuked them.
+\v 56 Then they went on to another village.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:jamessonofzebedee]]
+    * [[en:obe:other:johntheapostle]]
+    * [[en:obe:other:command]]
+    * [[en:obe:kt:heaven]]
+    * [[en:obe:other:rebuke]]
+ 
+===== Translation Notes: =====
+
+  * **saw this** - "saw that the Samaritans did not receive Jesus"
+  * **command fire to come down from heaven and destroy them** - James and John suggested this method of judgment because they knew that this was how the prophets such as Elijah had judged people who rejected God. (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **he turned and rebuked them** - "Jesus turned and rebuked James and John." Jesus did not condemn the Samaritans, as the disciples expected.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:51|<<]] | [[:en:bible:notes:luk:09:57|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

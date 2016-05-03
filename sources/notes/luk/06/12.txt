@@ -1,0 +1,46 @@
+====== Luke 06:12-13 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 About that time \add Jesus\add* went up into the hills to pray. He prayed to God all night.
+\v 13 The next day he summoned all his disciples to come near him. From them he chose twelve men, whom he called apostles.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 One day, some time after that, Jesus went up into the hills to pray. He prayed to God all night there.
+\v 13 The next day he summoned all his disciples to come near him. From them he chose twelve men, whom he also called apostles.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 12 It happened in those days that he went out to the mountain to pray. He continued all night in prayer to God.
+\v 13 When it was day, he called his disciples to him, and he chose twelve of them, whom he also named "apostles."
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:pray]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:apostle]]
+
+===== Translation Notes: =====
+
+  * **It happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **in those days**  - "around that time" or "not long after that" or "one day around then"
+  * **he went out**  - "Jesus went out"
+  * **he chose twelve of them**  - "he chose twelve of the disciples"
+  * **whom he also named "apostles."**  - "and he also called them 'apostles'" or "whom he also appointed to be apostles" or "whom he also made apostles"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:09|<<]] | [[:en:bible:notes:luk:06:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

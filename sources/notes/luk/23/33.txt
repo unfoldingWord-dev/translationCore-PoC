@@ -1,0 +1,54 @@
+====== Luke 23:33-34 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 When they came to the place which is called 'The Skull', they nailed \add Jesus\add* to a cross\add after removing his clothes\add*. They did the same thing to the two criminals. They put one at the right \add side of Jesus\add* and one at his left \add side\add*.
+\v 34 Jesus said, "\add My\add* Father, forgive them, because they do not realize \add whom\add* they are doing \add this to\add*." Then \add the soldiers\add* divided his clothing by gambling with something like dice, \add to decide which piece of clothing each one would get\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 When they came to the place named 'The Skull', there they crucified Jesus by nailing him to a cross. They did the same thing to the two criminals. They put one at the right side of Jesus and one at his left side.
+\v 34 But Jesus said, "Father, forgive these people who did this, because they do not really know whom they are doing this to." Then the soldiers divided his clothes by gambling with something like dice, to decide which piece of clothing each one would get.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 33 When they came to the place which is called The Skull, there they crucified him and the criminals, one on the right of him and the other on the left.
+\v 34 Jesus said, "Father, forgive them, for they do not know what they are doing." And they cast lots, dividing up his garments.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:crucify]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:godthefather]]
+  * [[en:obe:kt:forgive]]
+  * [[en:obe:other:lots]]
+ 
+ 
+
+===== Translation Notes: =====
+
+  * **When they came**  - The word "they" includes the soldiers, the criminals, and Jesus.
+  * **they crucified him**  - "the soldiers crucified Jesus"
+  * **one on the right**  - "one of the criminals was crucified on a cross located at the right side of Jesus"
+  * **the other on the left**  - "the other criminal was crucified on a cross located at the left side of Jesus" 
+  * **forgive them** - The word "them" refers to those who were crucifying Jesus.
+  * **for they do not know what they are doing**  - "because they do not understand what they are doing." The soldiers did not understand that they were crucifying the Son of God. This can also be translated as "for they do not really know who they are doing this do."
+  * **they cast lots**  - The soldiers participated in a type of gambling. It can be translated as "they gambled."
+  * **dividing up his garments**  - "to decide who among the soldiers would take home each piece of Jesus' clothing"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:32|<<]] | [[:en:bible:notes:luk:23:35|>>]]**
+
+~~DISCUSSION~~{{tag>publish crucify}}

@@ -1,0 +1,52 @@
+====== Luke 11:53-54 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 53 After Jesus finished saying those things, he left there. Then the men who taught the \add Jewish\add* laws and the Pharisees began to act in a very hostile way toward him. They tried to make him say what he thought about many things.
+\v 54 They kept waiting for him to say something \add wrong\add* for which they could accuse him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 53 After Jesus finished saying those things, he left there. Then the men who taught the Jewish laws and the Pharisees began to act in a very hostile way toward him. They intensely questioned him about many things.
+\v 54 They kept waiting for him to say something wrong for which they could accuse him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 53 After Jesus left there, the scribes and the Pharisees opposed him and argued with him about many things,
+\v 54 trying to trap him in his own words.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:scribe]]
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:kt:word]]
+
+===== Translation Notes: =====
+
+  * **After Jesus left there** - "After Jesus left the Pharisee's house"
+  * **trying to trap him in his own words** - This is a metaphor. They wanted Jesus to say something wrong so that they could accuse him. It can be translated without the metaphor as in the UDB. (See: [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/11/52|<<]] | [[en/bible/notes/luk/12/01|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

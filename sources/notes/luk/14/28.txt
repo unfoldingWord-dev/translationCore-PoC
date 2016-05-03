@@ -1,0 +1,60 @@
+====== Luke 14:28-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 \add I will illustrate\add* \f + \ft metaphor \f*. If one of you desired to build a tower\f + \ft Or: big house \f*, you would surely first sit down and determine how much it would cost!\f + \ft Or: would you not first sit down and determine how much it would cost? \f* \f + \ft rhetorical question \f* Then you would determine whether you had enough money to complete it.
+\v 29 \add If you did not do that\add*, if you laid the foundation and were not able to finish \add the rest of the tower\add*, everyone who saw it would make fun of you.
+\v 30 They would say, 'This man started to build \add a tower\add*, but he was not able to finish it!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 If one of you desired to build a tower, would you not first sit down and determine how much it would cost? Then you would be able to determine whether you had enough money to complete it.
+\v 29 Otherwise, if you laid the foundation and were not able to finish the rest of the tower, everyone who saw it would make fun of you.
+\v 30 They would say, 'This man started to build a tower, but he was not able to finish it!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 For which of you, who desires to build a tower, does not first sit down and count the cost to calculate if he has what he needs to complete it?
+\v 29 Otherwise, when he has laid a foundation and is not able to finish, all who see it will begin to mock him,
+\v 30 saying, 'This man began to build and was not able to finish.'
+</usfm>
+
+
+===== translationWords: =====
+  * [[en:obe:other:watchtower]]
+  * [[en:obe:other:foundation]]
+  * [[en:obe:other:mock]]
+ 
+===== Translation Notes: =====
+
+Jesus continues speaking to the crowds.
+  * **For which of you**  - This is the beginning of a rhetorical question. Jesus used it to get people to think about what they would do in a particular situation. It can also be translated as a statement: If one of you wanted to build a tower, you would certainly first sit down and count the cost." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **tower**  - This may have been a watchtower in a vineyard. Some languages might translate it as "a tall building" or "a high lookout platform."
+  * **Otherwise**  - "If he does not first count the cost"
+  * **when he has laid a foundation**  - "when he has built a base." It can also be translated as "when he started building."
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/14/25|<<]] | [[en/bible/notes/luk/14/31|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+
+~~NOCACHE~~

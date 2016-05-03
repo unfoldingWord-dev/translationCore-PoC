@@ -1,0 +1,53 @@
+====== Luke 01:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 He will cause you to be very happy, and many other people will also be happy because he is born.
+\v 15 God will consider him to be very important. He must never drink wine or any other alcoholic drink, \add in order that he will be completely dedicated to God\add*. He will be controlled by the Holy Spirit \f + \ft Or:The Holy Spirit will control him \f* from before he is born.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 You will be very happy, and many other people will also be happy because he is born.
+\v 15 God will consider him to be very important. He must never drink wine or any other alcoholic drink. He will be empowered by the Holy Spirit even before he is born.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 You will have joy and gladness because of him, and many people will rejoice at his birth.
+\v 15 For he will be great in the sight of the Lord, and he will not drink wine or strong drink. He will be filled with the Holy Spirit, even while in his mother’s womb.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:joy]]
+    * [[en:obe:other:wine]]
+    * [[en:obe:other:strongdrink]]
+    * [[en:obe:kt:filled]]
+    * [[en:obe:other:womb]]
+   
+===== Translation Notes: =====
+
+The angel continues to speak to Zechariah. 
+
+    * **For** - "Because" or "In addition to this"
+    * **he will be great in the sight of the Lord** - AT:  "he will do very important things for the Lord"
+    * **He will be filled with the Holy Spirit** - “The Holy Spirit will empower him” or “The Holy Spirit will guide him” Make sure it does not sound similar to what an evil spirit might do to a person. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **even while in his mother's womb** - The word “even” here indicates that this is especially surprising news. People had been filled with the Holy Spirit before, but no one had heard of an unborn baby's being filled with the Holy Spirit.
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:11|<<]] | [[:en:bible:notes:luk:01:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish filled }}
+
+~~NOCACHE~~

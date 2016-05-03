@@ -1,0 +1,63 @@
+====== Luke 20:29-33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 Well, there were seven boys in one family. The oldest one married a woman, but he and his wife did not bear any children. Later he died.
+\v 30 The second \add brother followed this law and married the widow, but the same thing happened to him\add*.
+\v 31 Then the third \add brother\add* married her, \add but the same thing happened again\add*. All seven \add brothers, one by one, married that woman\add*, \add but\add* they had no children, and \add one by one\add* they died.
+\v 32 Afterwards, the woman died, too.
+\v 33 Therefore, \add if it is true that there will be a time\add* when dead people will become alive again, whose wife \add do you think that woman\add* will be \add then\add*? \add Keep in mind that she was married to all seven brothers!\f + \ft Or: It will be impossible to decide because\add* she was married to all seven brothers! \f* \f + \ft rhetorical question \f*"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 Well, there were seven brothers in one family. The oldest one married a woman, but he and his wife did not bear any children. Later he died.
+\v 30 The second brother followed this law and married the widow, but the same thing happened to him.
+\v 31 Then the third brother married her, but the same thing happened again. All seven brothers, one by one, married that woman, but they had no children, and one by one they died.
+\v 32 Afterwards, the woman died, too.
+\v 33 Therefore, if it is true that there will be a time when dead people will become alive again, whose wife do you think that woman will be then? Keep in mind that she was married to all seven brothers!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 29 There were seven brothers and the first took a wife, and died childless,
+\v 30 and the second as well. 
+\v 31 The third took her, and likewise the seven also left no children, and died.
+\v 32 Afterward the woman also died.
+\v 33 In the resurrection then, whose wife will she be? For the seven had her as their wife."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:resurrection]]
+ 
+
+===== Translation Notes: =====
+The Sadducees continue speaking and tell Jesus a story.
+  * **There were seven brothers** - This may have happened, but it is probably a story that they made up to test Jesus.
+  * **died childless** - "died without having any children" or "died, but did not have any children"
+  * **the second as well** - This can be translated as "the second married her and the same thing happened" or "the second brother married her and died without having any children."
+  * **The third took her**  - "the third married her"
+  * **likewise the seven also left no children, and died** - This can be translated as "in the same way the rest of the seven brothers married her and had no children and died."
+  * **In the resurrection**  - "when people are raised from the dead" or "when dead people will become alive again" (UDB). Some languages have a way of showing that the Sadducees did not believe that there would be a resurrection, such as "In the supposed resurrection" or "When dead people are supposedly raised from the dead."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/20/27|<<]] | [[en/bible/notes/luk/20/34|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

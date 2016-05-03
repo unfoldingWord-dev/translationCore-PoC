@@ -1,0 +1,63 @@
+====== Luke 15:28-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 \add But\add* the older brother was angry. He refused to enter \add the house\add*. So his father came out and pleaded with him \add to come in\add*.
+\v 29 But he replied to his father, 'Listen to me! For many years I have worked for you like a slave. I always obeyed everything you told me to do. But you never even gave me a young goat, so that I could \add kill it and cook it and\add* celebrate with my friends.
+\v 30 But this son of yours spent all the \add money he got from\add* what you gave him. He spent it \add to pay for sleeping with\add* prostitutes! Now he has returned home, \add but it is not fair that\add* you have told your \add servants\add* to kill the fat calf \add and cook it\add* for him!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 But the older brother was angry and did not want to go into the house. So his father came out and pleaded with him to come in.
+\v 29 But he replied to his father, 'Listen! For all these years I have worked for you as hard as a slave. I always obeyed everything you told me to do. But you never gave me even a young goat to eat so that I could give a feast with my friends.
+\v 30 But now that this son of yours has come back home, after wasting all your money on prostitutes, you have told your servants to kill the fattened calf for a celebration!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 The elder son was angry, and would not go in, and his father came out, and begged him.
+\v 29 But the elder son answered and said to his father, 'Look, these many years I slaved for you, and I never broke a rule of yours, and yet you never gave me a young goat that I might have a feast with my friends,
+\v 30 but when your son came, who has devoured your living with prostitutes, you killed for him the fattened calf.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:angry]]
+  * [[en:obe:other:beg]]
+  * [[en:obe:other:goat]]
+  * [[en:obe:other:devour]]
+  * [[:en:obe:other:prostitute]]
+ 
+ 
+===== Translation Notes: =====
+
+Jesus continues telling his parable.
+
+    * **never broke a rule of yours**  - "never disobeyed any of your commands" or "always obeyed everything you told me to do" (UDB).
+    * **have a feast** - This can also be translated as "celebrate."
+    * **your son**  - "that son of yours." The older son refers to his brother this way in order to show how angry he is.
+    * **devoured your living with prostitutes**  - This can be translated as "wasted all your wealth on prostitutes" or "thrown away all your money by paying prostitutes."
+    * **fattened calf** - This can be translated as “the best calf” or “the young bull we have been been giving lots of food to” or “the young animal we have been making fat.”
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/15/25|<<]] | [[en/bible/notes/luk/15/31|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish prostitute}}
+
+~~NOCACHE~~

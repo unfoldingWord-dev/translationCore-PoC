@@ -1,0 +1,56 @@
+====== Luke 17:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 As \add Jesus and his disciples\add* were walking along the road to Jerusalem, they were going through \add the region\add* between Samaria and Galilee \add districts\add*.
+\v 12 As they entered one village, ten lepers came near the road. \add Because lepers were not permitted to come near other people\add*, they stood at some distance
+\v 13 and called out, "Jesus, Master, pity us \add and heal us\add*!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 As Jesus and his disciples were walking along the road to Jerusalem, they were going through the area between the regions of Samaria and Galilee.
+\v 12 As Jesus entered a village, ten lepers came toward him, but stood at some distance away.
+\v 13 They called out, "Jesus, Master, please have pity on us!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 It came about that as they were on the way to Jerusalem, he was traveling through the borderlands of Samaria and Galilee.
+\v 12 As he entered into a certain village, there he was met by ten men who were lepers. They stood far away from him
+\v 13 and they lifted up their voices, saying, "Jesus, Master, have mercy on us."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:samaria]]
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:other:leprosy]]
+  * [[en:obe:other:voice]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:mercy]]
+ 
+
+===== Translation Notes: =====
+
+  * **It came about that**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **as they were on the way to Jerusalem**  - "as they were traveling to Jerusalem"
+  * **there he was met by ten men who were lepers**  - This can be translated with an active verb: "ten men who were lepers met him" or "ten men who had leprosy met him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **they lifted up their voices**  - This means "they called with a loud voice" or "they called aloud."
+  * **Master**  - The word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to someone who owns someone else. You could also translate it as "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
+  * **have mercy on us**  - This can be translated as "please show us mercy by healing us." (See: [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:09|<<]] | [[:en:bible:notes:luk:17:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish leprosy  galilee }}

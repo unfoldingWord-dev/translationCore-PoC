@@ -1,0 +1,52 @@
+====== Luke 21:36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 So be ready at all times. Pray that you will be able to endure without being afraid of all these \add difficult\add* things that will happen, so that you will then stand \add confidently\add* before me, the one who came from heaven."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 So you must be always ready for my coming. And always pray that you may be able to go through all these hard things in safety, and that I, the Son of Man, declare you innocent when I come to judge the world."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 But be alert at all times, praying that you may be strong enough to escape all these things that will take place, and to stand before the Son of Man."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:kt:sonofman]]
+ 
+
+===== Translation Notes: =====
+
+  * **strong enough to escape all these things**  - Possible meanings are 1) "strong enough to endure these things" or 2) "able to avoid these things."
+  * **these things that will take place** - "these things that will happen." Jesus had just told them about terrible things that would happen such as persecution, war, and captivity.
+  * **to stand before the Son of Man**  - "to stand with confidence before the Son of Man." This probably refers to when the Son of Man judges everyone. A person who is not ready will be afraid of the Son of Man and will not stand with confidence.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/21/34|<<]] | [[en/bible/notes/luk/21/37|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

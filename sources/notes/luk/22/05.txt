@@ -1,0 +1,51 @@
+====== Luke 22:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 They were pleased \add that he wanted to do that\add*. They offered to give him money \add for doing it\add*.
+\v 6 So he agreed, \add and they gave him the money\add*. Then he tried to find an opportunity to enable them to seize \add Jesus\add* when there was no crowd around him.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 They were very pleased that he wanted to do that. They offered to pay him money for doing this.
+\v 6 So Judas agreed, and then he started looking for a way to help them arrest Jesus when there was no crowd around him.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 They were glad, and agreed to give him money.
+\v 6 He consented, and looked for an opportunity to deliver him to them away from the crowd.
+</usfm>
+
+
+===== translationWords: =====
+
+ 
+
+===== Translation Notes: =====
+
+  * **They** - "The chief priests and captains"
+  * **to give him money** - The word "him" refers to Judas.
+  * **consented**  - "agreed" even though it is repetitious
+  * **to deliver him**  - "to help them arrest Jesus"
+  * **away from the crowd**  - "privately" or "when there was no crowd around him" (UDB)
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:03|<<]] | [[:en:bible:notes:luk:22:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

@@ -1,0 +1,60 @@
+====== Luke 06:41-42 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 41 Why do you notice\add someone else's small faults\add*?\f + \ft Or: None \f* of you should be concerned about \add someone else's small faults\add* \f + \ft metaphor, rhetorical question \f*. \add That would be like\add* noticing a speck in that person's eye. But you should be concerned about \add your own big faults. They are like\add* planks in your own eye, \add which you do not notice\add*.
+\v 42 You\add \f + \ft singular \f*\add* should not say, 'Friend, let me take out that speck in your eye!' when you do not notice the log in your own eye!\f + \ft Or: Why do you say, 'Friend, let me take out that speck in your eye!' when you do not notice the log in your own eye? \f* \f + \ft rhetorical question \f* \add If you do that\add*, you are a hypocrite! You should first \add stop committing your own sins. That will be like\add* removing the plank from your own eye. Then, as a result, you will have the spiritual insight you need to help others get rid of the \add faults that are like\add* specks in their eyes."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 41 Why do you notice someone else's faults but ignore your own faults? That is like noticing a speck in that person's eye while not noticing a huge plank in your own eye.
+\v 42 If you do that, you are a hypocrite! You should first remove the plank out of your own eye before trying to get the speck out of someone else's eye. That is, stop committing your own sins and then you will have the spiritual insight to help others get rid of their sins.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 41 And why do you look at the tiny piece of straw that is in your brother’s eye, but you do not notice the log that is in your own eye?
+\v 42 How can you say to your brother, 'Brother, let me take out the piece of straw that is in your eye,' when you yourself do not even see the log that is in your own eye? You hypocrite! First take the log out of your own eye, and then you will see clearly to take out the piece of straw that is in your brother’s eye.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:brother]]
+  * [[en:obe:kt:hypocrite]]
+ 
+
+===== Translation Notes: =====
+Jesus continues to teach the crowd not to judge people.
+
+  * **why do you look** - This is a metaphor about noticing or judging others. It can be translated as a simile as it is in the UDB. "why do you notice...That is like..."  (See: [[en:ta:vol1:translate:figs_metaphor]], [[en:ta:vol1:translate:figs_simile]])
+  * **tiny piece of straw**  - AT: "splinter" or "speck" (UDB).
+  * **brother** - Here it could refer to a fellow Jew or a fellow believer in Jesus.
+  * **log**  - AT: "beam" or "plank."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/06/39|<<]] | [[en/bible/notes/luk/06/43|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish hypocrite}}
+~~NOCACHE~~

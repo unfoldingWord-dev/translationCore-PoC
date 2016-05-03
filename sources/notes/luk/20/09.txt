@@ -1,0 +1,54 @@
+====== Luke 20:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Then Jesus told the people this parable \add to illustrate what God would do to the Jews who rejected the former prophets and himself\add*: "A \add certain\add* man planted a vineyard. He rented the vineyard to some men \add to care for it and to give him some of the grapes in return\add*. Then he went to another country and stayed there several years.
+\v 10 When it was \add time to\add* harvest the grapes, he sent a servant to the men who were taking care of the vineyard. He expected that they would give him some of the grapes that the vineyard had produced. But \add after the servant arrived\add*, they beat him and they did not give him any grapes. They \add just\add* sent him away.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then Jesus told the people this parable, "A man planted a vineyard. He rented the vineyard to some men to care for it. Then he went to another country and stayed there for a long time.
+\v 10 When it was time to harvest the grapes, he sent a servant to the men who were taking care of the vineyard, so they would give him his share  of the grapes that the vineyard had produced. But after the servant arrived, they beat him and sent him away without any grapes.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 He told the people this parable, "A man planted a vineyard, rented it out to vine growers, and went into another country for a long time.
+\v 10 At the appointed time he sent a servant to the vine growers, that they should give him of the fruit of the vineyard. But the vine growers beat him, and sent him away empty-handed.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:other:vineyard]]
+  * [[en:obe:kt:appoint]]
+  * [[:en:obe:other:servant]]
+===== Translation Notes: =====
+
+  * **rented it out to vine growers**  - "allowed some vine growers to use it in exchange for money" or "allowed some vine growers to use it and pay him later"
+  * **vine growers**  - These are people who tend grape vines and grow grapes. It can be translated as "grape farmers."
+  * **of the fruit of the vineyard**  - "some of the grapes" or "some of what they produced in the vineyard." It could also refer to things made from grapes or the money they earned by selling the grapes.
+  * **sent him away empty-handed**  - This can be translated as "sent him away without paying him" or "sent him away without the grapes."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/20/07|<<]] | [[en/bible/notes/luk/20/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

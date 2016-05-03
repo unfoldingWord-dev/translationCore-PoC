@@ -1,0 +1,51 @@
+====== Luke 17:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 \add One day\add* the apostles said to the Lord, "Help us to trust \add in you\add* (OR\add , in God\add*) more strongly!"
+\v 6 The Lord replied, "Mustard \add seeds are very small, but in this area they grow and produce large\add* \f + \ft metaphor \f* \add plants\add*. \add Similarly\add*, if your faith grows until you truly believe that God \add will do what you ask him to, you will be able to do anything\add*. You could \add even\add* say to this mulberry tree, 'Pull yourself out \add with your roots\add* and plant yourself in the sea!' and it would obey you!"
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 Then the apostles said to the Lord, "Give us more faith!"
+\v 6 The Lord replied, "Even if you had faith that was no bigger than this tiny mustard seed, you could say to this mulberry tree, 'Pull yourself with your roots out of the ground and plant yourself in the sea' and it would obey you!"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 5 The apostles said to the Lord, "Increase our faith."
+\v 6 The Lord said, "If you had faith as a mustard seed, you would say to this sycamore tree, 'Be uprooted, and be planted in the sea,' and it would obey you.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:apostle]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:other:obey]]
+
+===== Translation Notes: =====
+
+  * **Increase our faith**  - "Please give us more faith" or "Please add more faith to our faith"
+  * **If you had faith as a mustard seed**  - This could be translated as "If you had faith that was even as small as mustard seed" or "If only your faith was as big as a mustard seed, but it isn't." The construction of the phrase implies that they did not, in fact, have faith that was even the size of a mustard seed.
+  * **this sycamore tree** - “this sycamore fig tree.” It produces small round fruit about 2.5 centimeters across. This can be translated simply as “a fig tree” or “a tree.”
+  * **Be uprooted, and be planted in the sea**  - This could be translated as "Uproot yourself and plant yourself in the sea" or "Take your roots out of the ground, and put your roots down into the ocean."
+  * **it would obey you**  - "the tree would obey you" This result is conditional. It would happen only if they had faith.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:03|<<]] | [[:en:bible:notes:luk:17:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

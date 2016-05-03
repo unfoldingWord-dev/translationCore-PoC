@@ -1,0 +1,52 @@
+====== Luke 18:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 \add The Jews thought that God favored rich people, so they thought that if God did not save rich people he would not save others, either\add*. So \add one of the disciples\add* who heard him say that replied, "If that is so, it seems that no one will be saved \f + \ft Or:\add that God\add* will not save anyone \f* \f + \ft rhetorical question \f*!"
+\v 27 But he said, "It is impossible for people \add to save themselves\add*. But \add God can save them, because\add* God can do anything!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Those who heard Jesus say that replied, "Then it seems that no one can be saved!"
+\v 27 But Jesus said, "What is impossible for people is possible for God."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 26 Those hearing it said, "Then who can be saved?"
+\v 27 Jesus answered, "The things which are impossible with people are possible with God."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:save]]
+
+
+===== Translation Notes: =====
+
+
+    * **Those hearing it** - This can also be translated as "The people who heard what Jesus said.
+    * **Then who can be saved?** - It is possible that they were asking for an answer. But it is more likely that this is a rhetorical question that means "Then no one can be saved!" (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **be saved** - "to be saved from sin"
+    * **possible with God** - "possible for God to do"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/18/24|<<]] | [[en/bible/notes/luk/18/28|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

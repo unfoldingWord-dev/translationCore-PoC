@@ -1,0 +1,64 @@
+====== Luke 01:64-66 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 64 Immediately Zechariah was able to speak again \f + \ft metonymy \f*, and he praised God.
+\v 65 All their neighbors were amazed\f + \ft Or: awestruck \f*! They told other people who lived all over the highlands of Judea about what had happened.
+\v 66 Everyone who heard about it kept thinking about it. They were saying, "We wonder what work \add the child\add* will do \add for God when\add* he \add grows up\add* \f + \ft rhetorical question \f*!" They wondered that because \add from what had happened they were sure that\add* God would be helping him \f + \ft synecdoche \f* \add in a powerful way\add*.
+
+
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 64 Immediately Zechariah was able to speak again, and he began praising God.
+\v 65 Everyone who lived nearby was completely awed by what God had done. They told many other people about what had happened and the news spread all over the highlands of Judea.
+\v 66 Everyone who heard it kept thinking about it. They were saying, “We wonder what work this child will do when he grows up!” Because of everything that had happened, they were sure that God would be helping him in a powerful way.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 64 Immediately his mouth was opened and his tongue was freed, and he began to speak, praising God. 
+\v 65 Then fear came on everyone who lived around them and everything that happened was being talked about throughout all the hill country of Judea. 
+\v 66 Everyone who heard about this kept thinking about what had happened and said, “So then, what will this child become?” For they realized that the hand of the Lord was with him.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:praise]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:other:judea]]
+  * [[en:obe:other:hand]]
+  * [[en:obe:kt:lordgod]]
+
+
+===== Translation Notes: =====
+
+  * **his mouth was opened...his tongue was freed** - These are word pictures meaning that now Zechariah was able to speak. (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **Then fear came on everyone who lived around them** - They saw that God is powerful. "All who lived around Zechariah and Elizabeth were afraid" or AT: "All who lived around them were in awe of God." 
+  * **everyone** - "Everyone" does not refer only to their immediate neighbors but to all who lived in that area. (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **who heard about this** - The word "this" here refers to the things that had happened.
+  * **thinking** - "wondering"
+  * **and said** - "and asked"
+  * **what will this child become?** - This question shows the people's surprise. Because of what they had heard about the baby, they realized that he would grow up to be an important man.  AT: "what kind of great person will this baby grow up to be?" or "what a great man this child will be!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the hand of the Lord was with him** - The phrase "the hand of the Lord" refers to the Lord's power.  "The Lord's power was with him" or "The Lord was working in him powerfully" (See: [[en:ta:vol2:translate:figs_metonymy]])
+
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:59|<<]] | [[:en:bible:notes:luk:01:67|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

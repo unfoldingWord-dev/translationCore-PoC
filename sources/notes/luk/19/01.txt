@@ -1,0 +1,45 @@
+====== Luke 19:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 They entered Jericho and were going through the \add city\add*.
+\v 2 There was a man \add there\add* named Zacchaeus. He was a chief tax collector, who was rich.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Jesus entered Jericho and was going through the city.
+\v 2 There was a man there named Zacchaeus. He was in charge of collecting taxes and was very rich.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 19
+\p
+\v 1 Jesus entered and was passing through Jericho.
+\v 2 Behold, there was a man there named Zacchaeus. He was a chief tax collector and was rich.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:jericho]]
+  * [[:en:obe:other:zacchaeus]]
+  * [[en:obe:other:chief]]
+  * [[:en:obe:other:taxcollector]]
+
+===== Translation Notes: =====
+
+
+  * **Behold, there was a man there**  - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There was a man who was…”
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+**[[:en:bible:notes:luk:18:42|<<]] | [[:en:bible:notes:luk:19:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish zacchaeus}}

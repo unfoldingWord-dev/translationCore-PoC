@@ -1,0 +1,52 @@
+====== Luke 13:22-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 \add Jesus\add* continued traveling, along \add with the disciples\add*, through various towns and villages on the way to Jerusalem. As they went, he was teaching \add the people\add*.
+\v 23 Someone asked him, "Lord, will there be only a few people who are saved \f + \ft Or:whom \add God\add* saves \f*?" He replied to them, "\add There will not be many, because\add* the way \add to heaven\add* \f + \ft metaphor \f* is \add like\add* a narrow door.
+\v 24 \add Therefore, try hard\add* to enter that narrow doorway, because I tell you that many people will try to enter \add heaven by some other way\add*, but they will not be able to get in.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Jesus continued traveling toward Jerusalem. He stopped in all the towns and villages along the way and taught the people.
+\v 23 Someone asked him, "Lord, will God only save a few people?” Jesus replied,
+\v 24 "You need to try hard to enter the narrow doorway. I tell you that many people will try some other way, but they will not be able to get in.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 Jesus visited each town and village on the way to Jerusalem and taught them.
+\v 23 Someone said to him, "Lord, are only a few people to be saved?" So he said to them,
+\v 24 "Struggle to enter through the narrow door, because many will try and will not be able to enter.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:jerusalem]]
+    * [[en:obe:kt:lord]]
+    * [[en:obe:kt:save]]
+
+
+===== Translation Notes: =====
+
+  * **Struggle to enter through the narrow door**  - "Work hard to go through the narrow doorway." This is part of a metaphor about God's kingdom . In this metaphor, God's kingdom is represented by a house. Jesus was speaking to a group of people. So the "you" implied in this command is plural. (See: [[en:ta:vol1:translate:figs_metaphor]], [[en:obe:kt:kingdomofgod]], [[en:ta:vol1:translate:figs_you]])
+  * **the narrow door**  - Becoming part of the kingdom is represented by entering the narrow door. The fact that the door is narrow implies that only a few people at a time can go through it. Translate it in a way to keep this restrictive meaning. (See: [[en:ta:vol1:translate:figs_explicit]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:en:bible:notes:luk:13:20|<<]] | [[:en:bible:notes:luk:13:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

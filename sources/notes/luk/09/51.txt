@@ -1,0 +1,66 @@
+====== Luke 09:51-53 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 51 When it was almost time for \add God\add* to take him up to heaven, \add Jesus\add* firmly resolved to go to Jerusalem.
+\v 52 He sent some messengers to go ahead of him, and they entered a village in Samaria \add district\add* to prepare for him \f + \ft synecdoche \f* \add to go there\add*.
+\v 53 But \add the Samaritans did not like the Jews because of their insisting that it was necessary to go to Jerusalem to worship God. So\add*, because Jesus had firmly resolved to go to Jerusalem, they would not let him come \add to their village\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 51 When it was getting close to the day when God would take him back up to heaven, Jesus firmly resolved to go to Jerusalem.
+\v 52 He sent some messengers to go ahead of him, and they entered a village in the region of Samaria to prepare for him to go there.
+\v 53 But the Samaritans would not let Jesus come to their village because he was on his way to Jerusalem.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 51 It happened that, as the days were approaching for him to go up to heaven, he resolutely set his face to go to Jerusalem.
+\v 52 He sent messengers ahead of him, and they went and entered into a Samaritan village to prepare for him.
+\v 53 But the people there did not receive him, because he had set his face to go to Jerusalem.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:heaven]]
+    * [[en:obe:kt:face]]
+    * [[en:obe:other:jerusalem]]
+    * [[en:obe:other:messenger]]
+    * [[en:obe:other:samaria]]
+    * [[en:obe:kt:receive]]
+
+
+===== Translation Notes: =====
+
+  * **It happened that**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **the days were approaching for him to go up**  - "the time was coming for him to go up" or "it was almost time for him to go up"
+  * **resolutely**  - "determinedly" or "deliberately"
+  * **set his face**  - This is an idiom meaning "made up his mind" or "decided" or "firmly resolved" (UDB). (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **to prepare for him**  - This means to make arrangements for his arrival in the area, possibly including a place to speak, a place to stay, and food.
+  * **did not receive him**  - "did not welcome him" or "did not want him to stay"
+
+===== Links: =====
+
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/09/49|<<]] | [[en/bible/notes/luk/09/54|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

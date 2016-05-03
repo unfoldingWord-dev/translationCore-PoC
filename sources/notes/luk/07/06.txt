@@ -1,0 +1,55 @@
+====== Luke 07:6-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 So Jesus went with them. When he was near the \add officer's\add* house, the officer \add decided that it was not necessary for Jesus to come to his house. So he\add* summoned some friends. He \add told them to\add* go to Jesus and tell him this: "Lord\f + \ft Or: Sir \f*, do not bother to come. \add Because I am a non-Jew\add*, I am not worthy for you\add \f + \ft singular \f*\add*, \add a Jew\add*, to come into my house \f + \ft metonymy \f* \add and associate with me\add*.
+\v 7 I did not feel worthy to come to you, \add either\add*. But \add please\add* command \add that\add* my servant\add be healed\add*, and he will become well!
+\v 8 \add I believe this\add* because, as for me, there are people who have authority over me \add and I obey them\add*. I also have soldiers under my \add authority\add*. When I say to one of them, 'Go!' he goes. When I say to another 'Come!' he comes. When I say to my slave, 'Do this!' he does it. \add And I believe that you speak with a similar kind of authority\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 So Jesus started going to the officer's house with them. When he was almost there, the officer sent some friends to give this message to  Jesus: "Lord, do not trouble yourself any further, since I am not worthy that you should come into my house.
+\v 7 That is why I do not think that I am worthy to come to you myself. But you can heal my slave if you say just one word.
+\v 8  I know that you can do this because I am a man who must obey the orders of my superiors, and I also have soldiers who must obey my orders. When I say to one of them, 'Go!', he goes, and when I say to another, 'Come!', he comes. When I say to my slave, 'Do this!', he does it."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 6 So Jesus continued on his way with them. But when he was not far from the house, the centurion sent friends to say to him, "Lord, do not trouble yourself, because I am not worthy that you should enter under my roof.
+\v 7 For this reason I did not even consider myself to be worthy enough to come to you, but just say a word and my servant will be healed.
+\v 8 For I also am a man who is placed under authority and I have soldiers under me. I say to this one, 'Go,'  and he goes, and to another one, 'Come,' and he comes, and to my servant, 'Do this,' and he does it."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:lord]]
+    * [[en:obe:other:servant]]
+    * [[en:obe:kt:word]]
+    * [[en:obe:other:heal]]
+    * [[en:obe:kt:authority]]
+    * [[en:obe:other:warrior]]
+===== Translation Notes: =====
+
+  * **not far from the house** - "not far" is a double negative and means "near." (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **do not trouble yourself**  - "don't trouble yourself by coming to my house." The centurion was speaking politely to Jesus. AT: "I don't wish to bother you." 
+  * **enter under my roof**  - "come into my house". "Enter under my roof" is an idiom. If you language has an idiom meaning "come into my house," think about whether it would be good to use here. (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **just say a word**  - The servant understood that Jesus could heal the servant just by speaking. AT: "just give the order." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **my servant will be healed**  - The word that is translated here as "servant" is normally translated as "boy." It may indicate that the servant was very young, or show the centurion's affection for him. 
+  * **to my servant**  - The word that is translated here as "servant" is the typical word for a servant.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:02|<<]] | [[:en:bible:notes:luk:07:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

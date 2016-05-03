@@ -1,0 +1,61 @@
+====== Luke 06:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 \add God\add* is pleased with you when \add other\add* people hate you, when they will not let you join with them, when they insult you, when they say that you are evil because \add you believe in\add* me, the one who came from heaven.
+\v 23 When that happens, rejoice! Jump up and down because you are so happy! \add God will give\add* you a great reward in heaven! \add When they do these things to you, it will prove that you are God's servants\add*. \f + \ft Or: \add People have always treated God's servants like that\add*. \f* Do not forget that their ancestors did the same things to the prophets \add who served God faithfully\add*!
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 It is very good when other people hate you, when they reject you, when they insult you and say that you are evil because you follow me, the Son of Man.
+\v 23 When that happens, rejoice! Jump up and down because you are so happy! God will give you a great reward in heaven! Do not forget that their ancestors did similar things to God's prophets long ago!
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 Blessed are you when people hate you and when they separate you from their company, they hate you, and they reject your name as being evil, for the sake of the Son of Man.
+\v 23 Rejoice in that day and leap for joy, because you will surely have a great reward in heaven, for their ancestors treated the prophets in the same way.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:reproach]]
+    * [[en:obe:other:reject]]
+    * [[en:obe:kt:name]]
+    * [[en:obe:kt:evil]]
+    * [[en:obe:kt:sonofman]]
+    * [[en:obe:other:rejoice]]
+    * [[en:obe:kt:joy]]
+    * [[en:obe:kt:heaven]]
+    * [[en:obe:kt:prophet]]
+
+===== Translation Notes: =====
+Jesus continues to teach his disciples.
+
+    * **Blessed are you**- “You receive God's favor” or “You benefit” or “How good it is for you”
+    * **separate you from their company** - "exclude you" or "reject you"
+    * **reject your name** - AT: "reject you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+    * **for the sake of the Son of Man**  - "because of the Son of Man" or "because you associate with the Son of Man" or "because they reject the Son of Man"
+    * **in that day** - "when they do those things" or "when that happens"
+    * **a great reward** -  "a good payment" or "good gifts because of it"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:20|<<]] | [[:en:bible:notes:luk:06:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish evil }}
+
+~~NOCACHE~~

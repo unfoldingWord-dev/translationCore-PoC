@@ -1,0 +1,56 @@
+====== Luke 23:39-41 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 One of the criminals who was hanging \add on a cross\add* began to insult him, saying, "You\add \f + \ft singular \f* said that you\add* are the Messiah, so \add you must be powerful!\add* So save yourself, and save us, too!"
+\v 40 But the other \add criminal\add* rebuked him, saying, "You\add \f + \ft singular \f*\add* should be afraid of God \add punishing you\add*!\f + \ft Or: Are you not afraid of God \add punishing you\add*? \f* \f + \ft rhetorical question \f* They are punishing him \add and us\add* similarly.
+\v 41 They have justly decided that we\add \f + \ft inclusive \f* two\add* must die. They are punishing us as we deserve \add for the evil things that we did\add*. But this man has done nothing wrong!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 One of the criminals who was hanging on a cross also insulted Jesus; he said, "You are the Messiah, are you not? So save yourself, and save us too!"
+\v 40 But the other criminal stopped him from speaking; he said, "You should be afraid of God punishing you! They are punishing him and us in the same way.
+\v 41 We two deserve to die. They are punishing us as we deserve for the evil things that we did. But this man has done nothing wrong!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 39 One of the criminals who was crucified, insulted him, saying, "Are you not the Christ? Save yourself and us."
+\v 40 But the other answered, rebuking him said, "Do you not fear God, since you are under the same sentence?
+\v 41 We indeed are here justly, for we are receiving what we deserve for our deeds. But this man did nothing wrong."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:christ]]
+  * [[en:obe:kt:save]]
+  * [[en:obe:other:rebuke]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:kt:justice]]
+
+===== Translation Notes: =====
+
+  * **insulted him** - "insulted Jesus"
+  * **Are you not the Christ?** - This question is intended not to gather information but to express doubt that Jesus really was the Christ. (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **the other answered ** - "the other criminal answered"
+  * **rebuking him said ** - "rebuked that criminal by saying"
+  * **you are under the same sentence** - "you have been judged worthy of the same punishment (death on the cross)"
+  * **We indeed are here justly** - "Truly we deserve this punishment"
+  * **this man** - The criminal is using these words to refer to Jesus.
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:36|<<]] | [[:en:bible:notes:luk:23:42|>>]]**
+
+~~DISCUSSION~~{{tag>publish justice }}

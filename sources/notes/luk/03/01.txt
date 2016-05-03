@@ -1,0 +1,63 @@
+====== Luke 03:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 When the Emperor Tiberius had been ruling \add the Roman Empire\add* for fifteen years, and while Pontius Pilate was the governor of Judea \add district\add*, and Herod \add Antipas\add* was ruling Galilee \add district\add*, and his brother Philip was ruling Iturea and Trachonitis \add districts\add*, and Lysanius was ruling Abilene \add district\add*,
+\v 2 and while Annas and Caiaphas were the high priests \add in Jerusalem\add*, God gave messages to Zechariah's son John while he was living in the desolate region.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 When Tiberius Caesar had been ruling the Roman Empire for about fifteen years, Pontius Pilate was the governor of the province of Judea, Herod Antipas was ruling the district of Galilee, his brother Philip was ruling the regions of Iturea and Trachonitis, and Lysanius was ruling the region of Abilene.
+\v 2 During that time, when Annas and Caiaphas were the high priests in Jerusalem, God spoke to Zechariah's son John while he was living out in the wilderness.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 3
+\p 
+\v 1 Now in the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod was tetrarch of Galilee, his brother Philip was tetrarch of the region of Ituraea and Trachonitis, and Lysanias was tetrarch of Abilene,  
+\v 2 and during the high priesthood of Annas and Caiaphas, the word of God came to John, the son of Zechariah, in the wilderness.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:caesar]]
+    * [[en:obe:other:pilate]]
+    * [[en:obe:other:governor]]
+    * [[en:obe:other:judea]]
+    * [[en:obe:other:herodantipas]]
+    * [[en:obe:other:tetrarch]]
+    * [[en:obe:other:galilee]]
+    * [[en:obe:kt:highpriest]]
+    * [[en:obe:other:annas]]
+    * [[en:obe:other:caiaphas]]
+    * [[en:obe:kt:wordofgod]]
+    * [[en:obe:other:johnthebaptist]]
+    * [[en:obe:other:zechariahnt]]
+    * [[en:obe:other:desert]]
+===== Translation Notes: =====
+
+  * **Now** - This marks a new section of the story.
+  * **fifteenth year** - See [[en:obe:other:biblicaltimeyear]].
+  * **Philip...Lysanias** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Ituraea and Trachonitis...Abilene** - These are names of territories. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **during the high priesthood of Annas and Caiaphas**  - They were serving together as high priests.
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:51|<<]] | [[:en:bible:notes:luk:03:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish herodantipas tetrarch caiaphas  highpriest}}
+
+~~NOCACHE~~

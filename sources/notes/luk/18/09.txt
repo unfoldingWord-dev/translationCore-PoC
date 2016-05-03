@@ -1,0 +1,51 @@
+====== Luke 18:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 \add Jesus\add* also told a parable \add to warn\add* people who mistakenly thought that they were doing things that made them acceptable to God. Besides, they also despised other people.
+\v 10 \add He said this\add*: "Two men went up to the Temple \add in Jerusalem\add* to pray. One was a Pharisee. The other was a tax collector.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then Jesus also told the following story to some people who thought they were righteous and who looked down on other people.
+\v 10 He said, "Two men went up to the temple in Jerusalem to pray. One of the men was a Pharisee. The other was someone who collected taxes from the people for the Roman government.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 Then he also spoke this parable to some who were persuaded in themselves that they were righteous and who despised other people, 
+\v 10 "Two men went up into the temple to pray—the one was a Pharisee and the other was a tax collector.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:parable]]
+  * [[en:obe:kt:righteous]]
+  * [[en:obe:kt:temple]]
+  * [[en:obe:other:pray]]
+  * [[en:obe:other:pharisee]]
+  * [[en:obe:other:taxcollector]]
+ 
+===== Translation Notes: =====
+
+  * **Then he** - "Then Jesus"
+  * **some**  - "some people"
+  * **who were persuaded in themselves that they were righteous**  - "who were self-righteous" or "who thought they were righteous" (UDB)
+  * **despised**  - "devalued" or "thought they were better than"
+  * **into the temple** - "into the temple courtyard"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+**[[:en:bible:notes:luk:18:06|<<]] | [[:en:bible:notes:luk:18:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

@@ -1,0 +1,47 @@
+====== Luke 06:38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 38 Give \add good things to others\add*, and then \add God\add* will give \add good\add* things to you. It will be \add as though\add* \f + \ft metaphor \f* \add God is putting things in a basket\add* for you. He will give you a full amount, pressed down in the basket, which he will shake \add so that he can put more in\add*, and it will spill over the sides! \add Remember that\add* the way you act \add toward others\add* will be the way that \add God\add* will act toward you!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 38 Give good things to others, and then God will give good things to you. It will be like he is giving you a generous amount of grain, pressing it down in a basket and shaking the basket to make sure it is completely full, to the point that some of the grain even spills over the sides! Remember that the standard you use to judge or bless others will be the standard God uses to judge or bless you!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 38 Give to others, and it will be given to you. A generous amount—pressed down, shaken together and spilling over—they will pour into your lap. For with whatever standard of measure you use to measure with, that same standard will be used to measure for you."
+</usfm>
+
+
+===== translationWords: =====
+
+
+
+===== Translation Notes: =====
+Jesus continues to teach the crowd not to judge people.
+
+    * **and it will be given to you** -  Jesus did not say explicitly who would give. Possible meanings are 1) “someone will give it to you” or 2) "God will give it to you." Both of these translations make the giver explicit.(See: [[en:ta:vol1:translate:figs_explicit]], [[en:ta:vol2:translate:figs_activepassive]])
+    * **A generous amount** - "A large amount"
+    * **A generous amount ... your lap** - The order of this sentence can be reversed and active verbs can be used. "They will pour into your lap a generous amount that they have pressed down and shaken together and that is spilling over." Jesus used the metaphor of a grain merchant giving a generous amount. It could be translated as a simile "Like a grain merchant who presses down the grain and shakes it together and pours in so much grain that it spills over, they will give generously to you." (See: [[en:ta:vol1:translate:figs_metaphor]],  [[en:ta:vol1:translate:figs_simile]])
+    * **that same standard will be used to measure for you** - AT: "They will use that same size measure to measure things for you" or "They will measure things for you by that same standard."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:37|<<]] | [[:en:bible:notes:luk:06:39|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

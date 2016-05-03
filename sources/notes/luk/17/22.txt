@@ -1,0 +1,54 @@
+====== Luke 17:22-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 \add Jesus\add* said to his disciples, "There will be a time when you will want to see \add me\add* \f + \ft metonymy \f*, the one who came from heaven, \add ruling powerfully\add*. But you will not see that.
+\v 23 \add Some\add* people will say to you, 'Look, \add the Messiah\add* is over there!' or \add they will say\add* 'Look, he is here!' When they say that, do not believe them. Do not follow them \add to go see the Messiah\add*.
+\v 24 Because when the lightning flashes and lights up the sky from one side to the other, \add everyone can see it. Similarly\add* \f + \ft simile \f*, at the time \f + \ft metonymy \f* when \add I\add*, the one who came from heaven, come back again, \add everyone will see me\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Jesus said to his disciples, "There will be a time when you will want to see me, the Son of Man, ruling powerfully. But you will not see that.
+\v 23 People will say to you, 'Look, the Messiah is over there!' or they will say 'Look, he is here!' When they say that, do not follow them.
+\v 24 Because when the lightning flashes and lights up the sky from one side to the other, everyone can see it. Similarly  when I, the Son of Man, come back again, everyone will see me.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22 Jesus said to the disciples, "The days will come when you will desire to see one of the days of the Son of Man, but you will not see it.
+\v 23 They will say to you, 'Look, there! Look, here!' But do not go looking, nor follow after them,
+\v 24 for as the lightning appears when it flashes from one part of the sky to another part of the sky, so will the Son of Man be in his day.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:sonofman]]
+
+
+===== Translation Notes: =====
+
+
+    * **The days will come**  - This can be translated as "A time will come" or "Someday."
+    * **you will desire to see** - "You will want very much to see" or "you will wish to experience." His disciples already wanted to see him reign. But times of persecution would come and they would wish that he was already reigning.
+    * **one of the days of the Son of Man** - This can be translated as "one of the days when the the Son of Man will rule as king."
+    * **nor follow after them**  -  "and don't follow after them"
+    * **for as the lightning appears**  - This is a simile. It can be translated as "for as the lightning is visible to everyone when it appears and" or "for as the lightning appears suddenly." (See [[en:ta:vol1:translate:figs_simile]])
+    * **so will the Son of Man be in his day**  - This can be translated as "it will be like that on the day when the Son of Man comes to reign."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:20|<<]] | [[:en:bible:notes:luk:17:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

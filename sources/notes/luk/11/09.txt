@@ -1,0 +1,51 @@
+====== Luke 11:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 So I tell you this: Keep asking \add God for what you need\add*. If you do that, \add he\add* will give it to you\add \f + \ft plural \f*\add*. Confidently keep expecting \add God to give you the things that you need\add*, and \add he\add* will give them to you \f + \ft metaphor \f*. \add It will be like\add* looking for what you need and finding it. Keep on \add praying urgently to God. Then God will answer you. It will be like\add* knocking \add on a door\add*. And \add God\add* will open \add the way\add* for you \add to get what you pray for\add*.
+\v 10 Remember that \add God\add* will give things to everyone who continues to ask \add him for them\add*. \add He\add* will give things to whoever confidently keeps asking\add . He\add* will open \add the way\add* for people \add to get the things that they keep urgently praying for\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 So I tell you this: Keep asking God for what you need, and he will give it to you. Keep seeking his will and he will show it to you. Keep on praying urgently to God, like someone knocking on a door, and he will open the way for you to receive what you pray for.
+\v 10 Remember that anyone who asks will receive and anyone who seeks will find, and anyone who knocks will have the door opened for him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 I also say to you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
+\v 10 For every asking person receives; and the seeking person finds; and to the person who knocks, it will be opened.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:seek]]
+===== Translation Notes: =====
+Jesus continues to teach his disciples about prayer.
+  * **ask … seek … knock**  - Jesus gave these commands to encourage his disciples to pray continually. Use the form of "you" that would be most appropriate in this context. AT: "keep asking … keep seeking … keep knocking". (See: [[en:ta:vol1:translate:figs_you]])
+  * **ask**  - Some languages may require more information with this verb. AT: "Ask God for what you need." "Seek what you need from God" and "Knock on the door."
+  * **it will be given to you**  - AT: "God will give it to you" or "you will receive it." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **knock**  - To knock at a door is to hit it a few times to let a person inside the house know you are standing outside. It can also be translated using the way people in your culture show that they have arrived, such as "call out" or "cough" or "clap."
+  * **it will be opened to you**  - AT: "God will open the door for you" or "God will welcome you inside."  (See: [[en:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/11/05|<<]] | [[en/bible/notes/luk/11/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

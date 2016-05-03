@@ -1,0 +1,35 @@
+====== Luke 24:21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 We\add \f + \ft exclusive \f*\add* were hoping that he was the one who would free \add us\add* Israelites \add from our enemies\add*! But \add this does not seem possible now, because\add* three days have \add already\add* passed since that happened.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 We were hoping that he was the one who would free us Israelites from our enemies! But this does not seem possible now, because three days have already passed since he was killed.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 21 But we hoped that it was he who would free Israel. Yes, and besides all this, it is now the third day since these things came to pass.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:free]]
+  * [[en:obe:other:israel]]
+
+===== Translation Notes: =====
+
+  * **he who would free Israel**  - The Jews were ruled by the Romans. The disciples meant "The one who would free Israel from their Roman enemies." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **since these things came to pass**  - "since he was killed" (UDB)
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:19|<<]] | [[:en:bible:notes:luk:24:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

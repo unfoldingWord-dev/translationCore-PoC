@@ -1,0 +1,58 @@
+====== Luke 21:34-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 "But be on guard. Do not be getting drunk with carousing or let yourselves be distracted by worries \add concerning\add* your lives \f + \ft synecdoche \f* \f + \ft Or:or let worries \add concerning\add* your lives \f + \ft synecdoche \f* distract you \f*. \add If you do wrong things like these, you may be suddenly surprised by my return\add* \f + \ft metonymy \f*, like a trap \add suddenly catches an animal in it\add*.
+\v 35 \add You need to know that my return will surprise\add* everyone all over the earth.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 "Be very careful to control yourselves. Do not go to wild parties or get drunk or become discouraged by the problems of life. If you do, you will not wait for me any longer, and I will suddenly surprise you by returning, like a trap that catches an animal.
+\v 35 Indeed, I will return without warning, like a trap that will catch everyone alive on all the earth.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 But pay attention to yourselves, so that your hearts are not burdened with debauchery, drunkenness, and the worries of life. For that day will come on you suddenly
+\v 35 as a trap. For it will come upon everyone living on the face of the whole earth.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:heart]]
+  * [[en:obe:other:burden]]
+  * [[en:obe:other:drunk]]
+  * [[en:obe:other:snare]]
+ 
+
+===== Translation Notes: =====
+
+  * **so that your hearts are not burdened**  - "so that you are not occupied with"
+  * **debauchery**  - "unrestrained self-indulgence" or "indulging too much in things that make you feel good." This can also be translated with specific examples such as "too much feasting."
+  * **the worries of life**  - "worrying too much about this life"
+  * **For that day will come on you suddenly**  - Some may need to add the implicit information: "For if you are not careful, that day will come on you suddenly." The coming of the day will appear to be sudden and unexpected to those who are not ready and watching for it. (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **that day**  - This can be translated more specifically as "the day when the Son of Man will come."
+  * **suddenly as a trap**  - This is a simile that means "when you are not expecting it, as a trap closes suddenly on an animal." (See: [[en:ta:vol1:translate:figs_simile]])
+  * **it will come upon everyone**  - "It will affect everyone" or "the events of that day will affect everyone"
+  * **on the face of the whole earth**  - "on the surface of the whole earth" or "on the entire earth"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/21/32|<<]] | [[en/bible/notes/luk/21/36|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

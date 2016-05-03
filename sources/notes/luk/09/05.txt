@@ -1,0 +1,55 @@
+====== Luke 09:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 \add In towns\add* where the people do not welcome you, \add you should not continue to stay there. Just\add* leave those towns. And as you leave, shake off the dust from your feet. \add Do that to\add* warn them\add that God will punish them for rejecting your message\add*."
+\v 6 Then they left and traveled through many villages. Everywhere \add they went\add*, they told people God's good message and healed sick people.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 In any town where the people do not welcome you, you should not continue to stay there. As you leave that town, shake off the dust from your feet. Do that as a warning against them for rejecting you."
+\v 6 Then Jesus' disciples left and traveled through many villages. Everywhere they went, they talked to people about the good news from God and healed sick people.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 As for those who do not receive you, when you depart from that city, shake off the dust from your feet for a testimony against them."
+\v 6 Then they departed and went through the villages, proclaiming the good news and healing people everywhere.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:receive]]
+    * [[en:obe:kt:testimony]]
+    * [[en:obe:other:proclaim]]
+    * [[en:obe:kt:goodnews]]
+    * [[en:obe:other:heal]]
+
+===== Translation Notes: =====
+Jesus continues to give directions to his twelve apostles.
+    * **As for those who do not receive you**  - AT: "Here is what you should do about the people who do not receive you."
+    * **they departed** - "they left the place were Jesus was" 
+    * **everywhere** - "everywhere they went"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:03|<<]] | [[:en:bible:notes:luk:09:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish  receive}}
+
+~~NOCACHE~~

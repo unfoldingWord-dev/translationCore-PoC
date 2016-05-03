@@ -1,0 +1,60 @@
+====== Luke 13:17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 After he said that, all the people \add there\add* who opposed him were ashamed. But all the \add other\add* people \add there\add* were happy about all the wonderful things he was doing.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 After he said that, his enemies were ashamed of themselves. But all the other people were happy about all the wonderful things he was doing.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 As he said these things, all those who opposed him were ashamed, but the whole crowd was rejoicing over all the glorious things he did.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:shame]]
+  * [[:en:obe:other:rejoice]]
+  * [[:en:obe:kt:glory]]
+
+ 
+
+===== Translation Notes: =====
+
+
+    * **As he said these things**  - "When Jesus said these things"
+    * **the glorious things he did** - "the glorious things Jesus was doing"
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/13/15|<<]] | [[en/bible/notes/luk/13/18|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

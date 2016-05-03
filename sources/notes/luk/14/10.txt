@@ -1,0 +1,59 @@
+====== Luke 14:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 Instead, when you are invited \f + \ft Or:\add someone\add* invites one of you \f* \add to a feast\add*, go and sit in the most undesirable seat. Then when the man who invited everyone comes, he will say to you\add \f + \ft singular \f*\add*, 'Friend, sit in a better seat!' Then all the people who are eating with you\add \f + \ft singular \f*\add* will see that he is honoring you.
+\v 11 Also, \add remember this\add*: \add God\add* will humble those who exalt themselves. And \add he\add* will exalt those who humble themselves."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Instead, when you are invited to a feast, go and sit in the least important seat. Then when the man who invited everyone comes, he will say to you, ‘Friend, come sit in a better seat!’ Then all the people who are eating with you will see that he is honoring you.
+\v 11 For God will humble those who exalt themselves, and he will exalt those who humble themselves."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 But when you are invited, go and sit down in the lowest place, so that when the one who has invited you comes, he may say to you, 'Friend, go up higher.' Then you will be honored in the presence of all who sit at the table with you.
+\v 11 For everyone who exalts himself will be humbled, and he who humbles himself will be exalted."
+</usfm>
+
+
+===== translationWords: =====
+  * [[en:obe:kt:exalt]]
+  * [[en:obe:other:humble]]
+
+
+===== Translation Notes: =====
+Jesus continues speaking to the people at the Pharisee's house.
+    * **the lowest place**  - "the seat meant for the least important person"
+    * **go up higher**  - "Move to a seat higher honor"
+    * **who exalts himself**  - "tries to look important" or "who takes an important position"
+    * **will be humbled** - "will be shown to be unimportant" or "will be give an unimportant position"
+    * **humbles himself**  - "who chooses to look unimportant" or "who takes an unimportant position"
+    * **will be exalted**  - "will be shown to be important" or "will be given an important position"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/14/07|<<]] | [[en/bible/notes/luk/14/12|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish humble}}
+~~NOCACHE~~

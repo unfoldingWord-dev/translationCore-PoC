@@ -1,0 +1,51 @@
+====== Luke 08:32-33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 32 There was a large herd of pigs grazing\f + \ft Or: rooting for food \f* on the hillside. The demons begged Jesus that he allow them to enter the pigs. So he did.
+\v 33 The demons left the man and entered the pigs. Then the herd \add of pigs\add* rushed down the steep bank into the lake and drowned.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 32 There was a large herd of pigs grazing on the hillside nearby. The demons begged Jesus to allow them to enter the pigs, and he allowed them.
+\v 33 So the demons left the man and entered the pigs, and the herd of pigs rushed down the steep bank into the lake and drowned.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 32 Now a herd of many pigs was there feeding on the hill, and the demons implored him to permit them to enter into the pigs. He permitted them to do that.
+\v 33 So the demons came out of the man and entered into the pigs, and the herd rushed down the steep hill into the lake and were drowned.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:flock]]
+    * [[en:obe:other:pig]]
+    * [[en:obe:kt:demon]]
+
+
+===== Translation Notes: =====
+
+    * **a herd of many pigs was there feeding on the hill** - "a herd of many pigs was nearby eating grass on a hill" 
+    * **rushed** - "ran very fast"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:30|<<]] | [[:en:bible:notes:luk:08:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

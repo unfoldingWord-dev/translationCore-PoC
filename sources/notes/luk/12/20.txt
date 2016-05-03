@@ -1,0 +1,64 @@
+====== Luke 12:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 But God said to him, 'You foolish \add man\add*! Tonight you will die! Then all \add the goods\add* you have saved up \add for yourself\add* will \add belong to someone else, not to\add* you!\f + \ft Or: Do you think that you \add will benefit from\add* all that you have stored up for yourself? \f* \f + \ft rhetorical question \f*'"
+\p
+\v 21 \add Then Jesus ended this illustration by saying\add*, "That is what will happen to those who store up goods just for themselves, but who do not value the things \add that\add* God \add considers\add* valuable."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 But God said to him, 'You foolish man! Tonight you will die! Then all the things you have saved up for yourself will belong to someone else, not to you!"'
+\p
+\v 21 Then Jesus ended this illustration by saying, "That is what will happen to those who store up things just for themselves, but who do not value the things that God considers valuable."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 But God said to him, 'Foolish man, tonight your soul is required of you, and the things you have prepared, whose will they be?'
+\v 21 That is what someone is like who stores up treasure for himself and is not rich toward God."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:god]]
+    * [[en:obe:kt:foolish]]
+    * [[en:obe:kt:soul]]
+  
+===== Translation Notes: =====
+Jesus continues telling the parable of the rich man.
+
+    * **tonight your soul is required of you** - AT: "you will die tonight" or "your life is to be taken back from you tonight"
+    * **whose will they be?** - "who will own what you have stored up?" or "who will have what you prepared?" This is a rhetorical questions intended to make the man realize that he would not longer possess those things.  (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **stores up treasure** - "saves up valuable things"
+    * **not rich** - "poor" or "stingy" or "not generous"
+    * **toward God** - The meaning is that this person has not invested in the things that are important to God, or that God will reward. AT: "in the view of God" or "in relation to God." 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/12/16|<<]] | [[en/bible/notes/luk/12/22|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

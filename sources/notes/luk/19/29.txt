@@ -1,0 +1,57 @@
+====== Luke 19:29-31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 When they got near Bethphage and Bethany \add villages\add*, near the hill that is called \f + \ft Or:that they call \f* Olive \add Tree\add* Hill,
+\v 30 he said to two of \add his\add* disciples, "Go to the village just ahead \add of you\add*. As you \add two\add* enter \add it\add*, you will see a young animal that no one has ever ridden that has been \f + \ft Or:someone has \f* tied up. Untie it and bring it \add to me\add*.
+\v 31 If anyone asks you, 'Why are you untying it?' say \add to him\add*, 'The Lord needs it.'"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 When they got close to the villages of Bethphage and Bethany, near the Mount of Olives,
+\v 30 he said to two of his disciples, "Go to the village just ahead of you. As you enter it, you will see a young donkey tied up there that no one has ever ridden. Untie it and bring it to me.
+\v 31 If anyone asks you, 'Why are you untying the donkey?' say to him, 'The Lord needs it.'"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 29 It came about that when he drew near to Bethphage and Bethany, at the mount that is called Olivet, he sent two of the disciples,
+\v 30 saying, "Go into the next village. As you enter, you will find a colt that has never been ridden. Untie it and bring it to me.
+ \v 31 If any one asks you, 'Why are you untying it?' say, 'The Lord has need of it.'"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:bethany]]
+  * [[en:obe:other:mountofolives]]
+  * [[en:obe:kt:disciple]]
+  * [[en:obe:kt:lord]]
+
+===== Translation Notes: =====
+
+  * **It came about that** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **when he drew near** - The word "he" refers to Jesus. His disciples were traveling with him.
+  * **Bethphage**  - Bethphage was a village on the Mount of Olives, which is across the Kidron Valley from Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the mount that is called Olivet**  - "the hill that is called the Mount of Olives" or "the hill that is called "Olive Tree Mountain."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/28|<<]] | [[en/bible/notes/luk/19/32|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mountofolives}}
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== Luke 11:42 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 42 But there will be terrible punishment for you Pharisees! You give to God a tenth of \add all you produce, even\add* the various herbs that you grow, but you do not \add remember that you must act\add* justly \add toward others\add* and love God! It is good to \add give a tenth of your income to God\add*, but you ought to do these other things also!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 42 But how terrible it will be for you Pharisees! You carefully give to God a tenth of all you have, including even the herbs that you grow in your gardens.  But then you do not love God or act justly toward others. You should make sure that you love God and act justly toward others in addition to giving to God.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 42 But woe to you Pharisees, because you tithe the mint and rue and every other garden herb, but you neglect justice and the love of God. It is necessary to act justly and love God, without failing to do the other things also.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:woe]]
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:other:tenth]]
+    * [[en:obe:kt:justice]]
+    * [[en:obe:kt:love]]
+    * [[en:obe:kt:god]]
+
+===== Translation Notes: =====
+Jesus continues to speak to the Pharisees.
+
+    * **you tithe the mint and rue and every other garden herb**  - "you give God one tenth of your mint and rue and other herbs from your garden."  Jesus was giving an example of how extreme the Pharisees were in giving a tenth of their income.
+    * **mint and rue** - These are herbs. People put just a little bit of these leaves into their other food to give it flavor.  If people do not know what mint and rue are, you can use the name of herbs they know or a general expression such as "herbs." 
+    * **every other garden herb** - Possible meanings are 1) "every other vegetable" 2) "every other garden herb" or 3) "every other garden plant." 
+    * **without failing to do the other things also** - AT: "and to always do the other good things as well." 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/11/39|<<]] | [[en/bible/notes/luk/11/43|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish tenth}}
+~~NOCACHE~~

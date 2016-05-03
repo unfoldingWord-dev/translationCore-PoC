@@ -1,0 +1,64 @@
+====== Luke 18:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 \add One day when many people were coming to Jesus\add*, they were also bringing small children. They wanted him to put his hands on \add the children and bless them\add*. When the disciples saw that, they rebuked \add those who were bringing them\add*.
+\v 16 But Jesus called the children \add to come to him\add*. He said, "Let the children come to me! Do not stop them! It is people who are\add humble and trusting\add* like they are who can experience God ruling \add their lives\add*.
+\v 17 Note this: Those who do not \add trustingly\add* allow God to direct \add their lives\add*, as children \add do\add*, will not enter the \f + \ft metaphor \f* place where God rules."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 One day people were bringing even their babies to  Jesus so that he would put his hands on them and bless them. When the disciples saw this, they told them not to do that.
+\v 16 But Jesus called for the children to  be brought to him. He said, "Let the little children come to me! Do not stop them! It is humble and trusting people like these children over whom God will agree to rule.
+\v 17 Indeed I say to you that whoever does not accept with humility like a child for God to rule over them, he will not rule them at all."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 15 The people were also bringing to him their infants, so that he might touch them, but when the disciples saw it, they rebuked them.
+\v 16 But Jesus called them to him, saying, "Permit the little children to come to me, and do not forbid them. For the kingdom of God belongs to such ones.
+\v 17 Truly I say to you, whoever will not receive the kingdom of God as a child will definitely not enter it."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:disciple]]
+  * [[en:obe:other:rebuke]]
+  * [[en:obe:kt:amen]]
+  * [[en:obe:kt:kingdomofgod]]
+
+
+===== Translation Notes: =====
+
+
+    * **touch them, but** - This could also be translated as separate sentences: "touch them. But."
+    * **rebuked**  - The disciples expressed strong disapproval of the parents who were bringing their babies to Jesus.
+    * **"Permit the little children to come to me, and do not forbid them.** - These two sentences have similar meaning, said twice for emphasis. Some languages emphasize in a different way. AT: Be sure to allow the children to come to me. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+    * **Permit**  - "Allow"
+    * **little children** - This is a different word than "infants" which was used for the babies that the people were bringing. "Little children" were somewhat older than "infants."
+    * **do not forbid them**  - This is a double negative and means "allow them" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+    * **belongs to such ones**  - This could also be translated "belongs to people who are like these little children."
+    * **Truly I say to you**  - "Surely I say to you." Jesus used this expression to emphasize the importance of what he was about to say.
+    * **as a child**  - This is a simile that compares the attitude of a child to people who are entering the kingdom of God. The points of similarity are humility and trust. The simile means "they will humbly receive God's kingdom just as a child is humble and trusting." (See: [[en:ta:vol1:translate:figs_simile]])
+    * **enter it**  - This could also be translated as "enter into God's kingdom" (UDB). 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+**[[:en:bible:notes:luk:18:13|<<]] | [[:en:bible:notes:luk:18:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

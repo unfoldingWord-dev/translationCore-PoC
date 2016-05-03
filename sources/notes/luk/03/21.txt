@@ -1,0 +1,55 @@
+====== Luke 03:21-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 \add But before John was put in prison\add*, when many people were being baptized \f + \ft Or:when he was baptizing many people \f*, after Jesus was baptized and \f + \ft Or:he baptized Jesus \f* and Jesus was praying, the sky opened.
+\v 22 Then the Holy Spirit, resembling a dove, descended upon \add Jesus\add*. And \add God\add* [SYN\f + \ft Or: EUP \f*] spoke to Jesus from heaven, saying, "You\add \f + \ft singular \f*\add* are my Son, the one whom I love dearly. I am very pleased with you!"
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 But before John was put in prison, when many people were being baptized, Jesus also was baptized. Afterwards, while he was praying, the sky opened.
+\v 22 Then the Holy Spirit, resembling a dove, came down and landed on Jesus. And God spoke to Jesus from heaven, saying, "You are my Son, the one whom I love dearly. I am very pleased with you!"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 21 Now it came about, while all the people were being baptized by John, that Jesus also was baptized. While he was praying, the heavens opened up.  
+\v 22 The Holy Spirit came down on him in bodily form like a dove, while a voice came out of heaven, "You are my beloved Son. I am very pleased with you."
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:baptize]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:pray]]
+  * [[en:obe:kt:heaven]]
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:other:dove]]
+  * [[en:obe:other:voice]]
+  * [[en:obe:kt:beloved]]
+  * [[en:obe:kt:sonofgod]]
+
+===== Translation Notes: =====
+
+  * **Now it came about**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **while all the people were being baptized by John**  - "while John was baptizing all the people." The phrase "all the people" refers to the people present with John. (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Jesus also was baptized** - AT: "John baptized Jesus, too" (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **the heavens opened up** - "the sky opened" or "the sky became open." This is more than a simple clearing of clouds, but it's not clear what it means. It possibly means that a hole appeared in the sky.
+  * **The Holy Spirit came down on him** - "The Holy Spirit came down onto Jesus"
+  * **in bodily form like a dove** - "in physical form looking like a dove"
+  * **You are my beloved Son.** - God the Father speaks to his "beloved Son" Jesus, God the Son, while God the Spirit descends upon Jesus. The Persons of God love one another and work together as Father, Son, and Spirit.
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:03:18|<<]] | [[:en:bible:notes:luk:03:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

@@ -1,0 +1,60 @@
+====== Luke 01:39-41 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 Very soon after that, Mary got ready and went quickly to a town in the highlands of Judea \add district\add* where Zechariah lived.
+\v 40 She entered his house and greeted \add his wife\add* Elizabeth.
+\v 41 As soon as Elizabeth heard Mary greet her, the baby leaped inside \add Elizabeth's\add* womb. The Holy Spirit took complete control of Elizabeth,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 Very soon after that, Mary got ready and went quickly to the highlands of Judea, to the city where Zechariah lived.
+\v 40 She entered his house and greeted his wife Elizabeth.
+\v 41 As soon as Elizabeth heard Mary greet her, the baby leaped inside Elizabeth's womb. Immediately the Holy Spirit guided Elizabeth to start praising God.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 39 Now in those days Mary got up and hurried to the hill country, to a city in Judea, 
+\v 40 where she went into Zechariah's house and greeted Elizabeth. 
+.\v 41 As Elizabeth heard Mary's greeting, the baby in her womb leaped; and Elizabeth was filled with the Holy Spirit.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:mary]]
+  * [[en:obe:other:judea]]
+  * [[en:obe:other:zechariahnt]]
+  * [[en:obe:other:elizabeth]]
+  * [[en:obe:other:womb]]
+  * [[en:obe:kt:filled]]
+
+
+===== Translation Notes: =====
+
+Mary goes to visit Elizabeth. 
+
+  * **Now** - This word introduces a new part of the story. Consider how your language does this. Some translations might not use an introductory word here.
+  * **got up** -  AT: "started out" or "got ready"
+  * **the hill country** - "the hilly area" or "the mountainous part of Israel" 
+  * **where she went** -  "and she went" or AT: "when she arrived, she went"
+  * **leaped** - "moved suddenly"
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:36|<<]] | [[:en:bible:notes:luk:01:42|>>]]**
+
+~~DISCUSSION~~{{tag>publish Elizabeth filled }}
+
+~~NOCACHE~~

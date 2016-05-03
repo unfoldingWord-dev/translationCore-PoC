@@ -1,0 +1,60 @@
+====== Luke 01:30-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 30 Then the angel said to her, "Mary, God is very pleased with you\add \f + \ft singular \f*\add*, so do not be afraid.
+\v 31 You will become pregnant and bear a son, and you must name him Jesus.
+\v 32 He will become great. He will be called \f + \ft Or:\add People will\add* call him \f* the Son of God\f + \ft Or: the man who is also God \f*. God, the Lord, will make him a king \f + \ft metonymy \f* as his ancestor \add King\add* David was.
+\v 33 He will be the King of \add the\add* Jews, the descendants \f + \ft metonymy \f* of \add your ancestor\add* Jacob, forever. He will rule as king forever!"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 30 Then the angel said to her, "Do not be afraid, Mary, for you have received favor from God!
+\v 31 You will become pregnant and give birth to a son, and you must name him Jesus.
+\v 32 He will be great and will be called the Son of the Most High God. The Lord God will make him a king over his people as his ancestor David was.
+\v 33 He will rule forever over the the descendants of Jacob. He will rule forever!"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 30 The angel said to her, "Do not be afraid, Mary, for you have found favor with God.
+\v 31 See, you will become pregnant and bear a son, and you will name him Jesus.
+\v 32 He will be great, and will be called the Son of the Most High. The Lord God will give him the throne of his father, David.
+\v 33 He will reign over the descendants of Jacob forever, and there will be no end to his kingdom."
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:sonofgod]]
+  * [[:en:obe:kt:mosthigh]]
+  * [[:en:obe:other:throne]]
+  * [[en:obe:other:father]]
+  * [[:en:obe:other:david]]
+  * [[en:obe:other:reign]]
+  * [[:en:obe:other:jacob]]
+  * [[en:obe:kt:forever]]
+  * [[:en:obe:other:kingdom]]
+
+===== Translation Notes: =====
+
+  * **for you have found favor with God**  - AT:"God has decided to give you his grace” or “God is showing you his kindness”
+  * **you will become pregnant and bear a son, and you will name him Jesus. He will be great, and will be called the Son of the Most High** - Mary, Jesus' mother, will have a __son__ who will be called "__the Son of the Most High__." Here the Scripture clearly describes Jesus as a human son born of a human mother, but he is also "the Son of the Most High," meaning the Son of God. Christ's human sonship of Mary and his divine Sonship of God are both made very clear in this passage. Translators must maintain that clarity and translate it in their language as precisely as possible.
+  * **will be called** -  Possible meanings are 1) “people will call him” or 2) “God will call him.” (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **give him the throne of his father, David** -  The throne represents the king's authority to rule. AT:  "give him authority to rule as king as his ancestor David did." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **his father** - The Bible often uses the word "fathers" to refer to ancestors and uses the word "sons" to refer to descendants. The word "his" refers to Mary's son.
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:26|<<]] | [[:en:bible:notes:luk:01:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish  mosthigh lordgod david}}

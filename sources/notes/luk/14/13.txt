@@ -1,0 +1,54 @@
+====== Luke 14:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 Instead, when you\add \f + \ft singular \f*\add* give a feast, invite poor \add people\add*, crippled \add people\add*, lame \add people\add*, or blind \add people\add*.
+\v 14 They will be unable to repay you. \add But God will bless you! He\add* will repay you \add at the time\add* when \add he causes\add* righteous people to become alive again."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Instead, when you give a feast, invite poor people, crippled people, lame people or blind people.
+\v 14 They will be unable to repay you. But God will bless you! He will repay you at the resurrection of the righteous."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 But when you give a banquet, invite the poor, the crippled, the lame, and the blind,
+\v 14 and you will be blessed, because they cannot repay you. For you will be repaid in the resurrection of the just."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:resurrection]]
+  * [[:en:obe:kt:justice]]
+ 
+
+===== Translation Notes: =====
+Jesus continues speaking to the Pharisee who had invited him to his home.
+    * **they cannot repay you**  - AT: "they cannot invite you to a banquet in return"
+    * **in the resurrection of the just**  - "when God brings the righteous people back to life"
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+**[[:en:bible:notes:luk:14:12|<<]] | [[:en:bible:notes:luk:14:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

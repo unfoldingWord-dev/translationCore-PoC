@@ -1,0 +1,57 @@
+====== Luke 11:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 When the group of people around \add Jesus\add* got larger, he said, "\add Many of\add* you people who have been observing my ministry are evil. You want \add me to perform\add* a miracle \add to prove that I have come from God\add*, but the only miracle that \add I\add* will perform for you is one \add like happened to\add* Jonah.
+\v 30 \add After Jonah was inside a huge fish for three days, God performed\add* a miracle \add to bring\add* Jonah \add back to life again. Jonah went and testified about that\add* to the people in Nineveh \add city. God will perform\add* a similar miracle \add for me\add*, the one who came from heaven\add . When you people have seen that miracle, you will believe my message\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 As more and more people were coming to join the crowd around Jesus, he said, "The people living at this time are evil people. Many of you want me to perform a miracle as proof that I have come from God. But the only proof that you will receive is a miracle like what happened to Jonah.
+\v 30 Just as the miracle that God did for Jonah long ago was a testimony to the people from the city of Nineveh, so God will do a similar miracle for the Son of Man that will be a testimony to you people living now.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 29  As the crowds were gathering even more people, he began to say, "This generation is an evil generation. It seeks a sign, though no sign will be given to it except the sign of Jonah.
+\v 30  For just as Jonah became a sign to the Ninevites, so too the Son of Man will be a sign to this generation.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:generation]]
+    * [[en:obe:kt:evil]]
+    * [[en:obe:kt:sign]]
+    * [[en:obe:other:jonah]]
+    * [[en:obe:other:Nineveh]]
+    * [[en:obe:kt:sonofman]]
+
+===== Translation Notes: =====
+
+
+    * **This generation** - "The people living at this time" (UDB)
+    * **It seeks a sign** - "They want me to give them a sign" or "Many of you want me to give you a sign." The information about what kind of sign they wanted can be made explicit as in the UDB. (See:  [[en:ta:vol1:translate:figs_explicit]])
+    * **no sign will be given to it** - "God will not give them a sign" (See: [[en:ta:vol2:translate:figs_activepassive]])
+    * **the sign of Jonah** - This could be translated as "what happened to Jonah" or "the miracle that God did for Jonah" (UDB).
+    * **For just as Jonah became a sign...so too** - This means that Jesus will serve as a sign from God for the the Jews of that day in exactly the same way as Jonah served as a sign from God to the people of Nineveh.
+    * **Son of Man** - Jesus is referring to himself.
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:27|<<]] | [[:en:bible:notes:luk:11:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish generation  jonah}}
+
+~~NOCACHE~~

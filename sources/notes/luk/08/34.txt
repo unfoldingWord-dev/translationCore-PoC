@@ -1,0 +1,51 @@
+====== Luke 08:34-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 When the men who were taking care of the pigs saw what happened, they ran! They told people inside the town and outside the town what had happened.
+\v 35 So people went out to see what had happened. When they came to where Jesus was, they saw that the man from whom Jesus had \add expelled\add* the demons was sitting at the feet of Jesus, \add listening to him\add*. He had clothes on, and his mind was normal again. Then those people became afraid \add because they thought that he would destroy more of their property\add* \f + \ft Or: \add because they realized that he must be very powerful\add* \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 When the men who were taking care of the pigs saw what happened, they ran away! They reported what they had seen to people in the town and in the countryside.
+\v 35 Then the people went out to see what had happened. When they came to where Jesus was, they saw that the man from whom the demons had gone out was sitting at the feet of Jesus, listening to him. They saw that he had clothes on, and that his mind was normal again, and they became afraid.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 When the men who were tending the pigs saw what had happened, they fled and reported it in the city and out in the countryside.
+\v 35 So the people who heard about it went out to see what had happened, and they came to Jesus and found the man from whom the demons had gone out. He was clothed and in his right mind, sitting at the feet of Jesus, and they were afraid.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:demon]]
+
+
+===== Translation Notes: =====
+
+
+    * **they fled**  - "they quickly ran away"
+    * **found the man from whom the demons had gone out** - "saw the man whom the demons had left"
+    * **He was clothed**  - "He was wearing clothes"
+    * **in his right mind**  - "he was sane"  or "he was behaving normally"
+    * **sitting at the feet of Jesus**  -  AT: "sitting on the ground, listening to Jesus."
+    * **they were afraid**  - "they were afraid of Jesus"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:32|<<]] | [[:en:bible:notes:luk:08:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish  report}}
+
+~~NOCACHE~~

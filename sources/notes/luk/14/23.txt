@@ -1,0 +1,57 @@
+====== Luke 14:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 \add So\add* his master said to him, 'Then go \add outside the city\add*. Search for people along the highways. Search also along the narrow roads with hedges beside them \add where homeless people may be staying\add*. Strongly urge the people in those places to come to \add my house\add*. I want it to be full of\add people\add*!'"
+\v 24 \add Then Jesus said\add*, "I tell you\add \f + \ft plural \f*\add* this: Very few of you \add Jewish\add* people will enjoy my feast, even though \add I\add* invited you \add first to eat it with me when I become king\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 So his master said to him, 'Then go outside the city. Search for people along the highways. Search also along the narrow roads with hedges. Strongly urge the people in those places to come to my house. I want it to be full of people!
+\v 24 Moreover I tell you this, the ones who were invited first will not get to enjoy my feast because they refused to come.'"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 23 The master said to the servant, 'Go out into the highways and hedges and compel them to come in, that my house may be filled.
+\v 24 For I say to you, none of those men who were first invited will taste my dinner.'"
+</usfm>
+
+
+===== translationWords: =====
+
+
+
+===== Translation Notes: =====
+Jesus continues telling his parable.
+  * **the highways and hedges**  - This refers to roads and paths outside of the city. It can be translated as "the main roads and paths outside of the city."
+  * **those men**  - The word here for "men" means "male adults" and not just people in general.
+  * **who were first invited **- "whom I first invited"
+  * **will taste my dinner**  - "will enjoy the dinner I have prepared"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/14/21|<<]] | [[en/bible/notes/luk/14/25|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

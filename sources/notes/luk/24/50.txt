@@ -1,0 +1,51 @@
+====== Luke 24:50-51 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 50 Then \add Jesus\add* led them outside \add the city\add* until they came near Bethany \add village\add*. There he lifted up his hands and blessed them.
+\v 51 As he was doing that, he left them \add and went up to heaven\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 50 Then Jesus led them outside the city until they came near the village of Bethany. There he lifted up his hands and blessed them.
+\v 51 As he was doing that, he left them and went up to heaven.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 50 Then Jesus led them out until they were near Bethany. He lifted up his hands, and blessed them.
+\v 51 It happened that, while he was blessing them, he left them and was carried up into heaven.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:bethany]]
+  * [[en:obe:kt:bless]]
+  * [[en:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+    * **It happened**  - "It came about"
+    * **while he was blessing them** - "While Jesus was asking God to do good to them"
+    * **was carried**  - Since Luke does not specify who **carried** Jesus up, we don't know if it was God himself or one or more angels. If your language has to specify who did the carrying, it would be best to go with the UDB "went." 
+ 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:48|<<]] | [[:en:bible:notes:luk:24:52|>>]]**
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish bethany}}

@@ -1,0 +1,60 @@
+====== Luke 08:4-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 A great crowd of people came to Jesus from many towns. Then he told them this parable:
+\v 5 "A man went out \add to his field\add* to sow \add some\add* seeds. As he was scattering them over the soil, some \add of the seeds\add* fell on the path. Then \add people\add* walked on those seeds, and birds ate them.
+\v 6 Some \add of the seeds\add* fell on rock \add on which there was a thin layer of\add* moist \add soil\add*. As soon as the seeds grew, the plants dried up because they had no moisture.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 One day a very large crowd was gathering, because people were traveling to see Jesus from many different towns. Then he told them this story:
+\v 5 "A man went out to his field to plant some grain seeds. As he was scattering them over the soil, some of the seeds fell on the hard pathway. Then people walked on those seeds, and birds ate them.
+\v 6 Some of the seeds fell on rocky ground which had very little soil. Therefore, as soon as the seeds grew, the plants dried up because there was no moisture.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 4 Now, when a large crowd of people had gathered together, including people who were coming to him from many different cities, he spoke to them using a parable.
+\v 5 "A sower went out to sow some seeds. As he sowed, some of the seeds fell by the wayside and they were trampled underfoot, and the birds of the sky devoured them.
+\v 6 Other seeds fell on rocky soil and as soon as they grew into plants, they withered away, because they had no moisture.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:parable]]
+    * [[en:obe:other:sow]]
+
+
+===== Translation Notes: =====
+
+    * **A sower went out to sow some seeds** - AT: “A farmer went out to scatter some seeds in a field.” 
+    * **wayside**  - "road" or "path." The ground would have been hard from the people walking on it.
+    * **they were trampled underfoot**  - AT: "They were stepped on too often for them to grow" or with an active verb as in the UDB. (See: [[en:ta:vol2:translate:figs_activepassive]])
+    * **devoured them**  - "ate them all"
+    * **they withered**  - "the plants became dry and shriveled up"
+    * **they had no moisture**  - AT: "the ground was too dry."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/08/01|<<]] | [[en/bible/notes/luk/08/07|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish parable sow}}
+~~NOCACHE~~

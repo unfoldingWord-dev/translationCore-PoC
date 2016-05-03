@@ -1,0 +1,59 @@
+====== Luke 21:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 But before all these things happen, \add some of\add* you will be persecuted and arrested \f + \ft Or:people will persecute you and arrest you \f* \f + \ft metonymy \f*. \add Some of\add* you will be put \f + \ft Or:They will put \add some of\add* you \f* \add on trial\add* in the places where you gather to worship, and \add you will be thrown\add* into prison. You will be put on trial \f + \ft Or:\add They\add* will put you on trial \f* in front of high government authorities because you are my \f + \ft metonymy \f* \add disciples\add*.
+\v 13 That will be a time for you to tell \add them about me\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 But before all these things happen, they will arrest you, treat you badly and hand you over to the synagogues for trial and hand you over to the prisons. They will put you on trial in the presence of kings and high government authorities because you follow me.
+\v 13 That will be a time for you to tell them the truth about me.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 But before all of these things, they will lay their hands on you and will persecute you, delivering you over to the synagogues and prisons, bringing you before kings and governors because of my name.
+\v 13 It will lead to an opportunity for your testimony.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:persecute]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:prison]]
+  * [[:en:obe:other:king]]
+  * [[:en:obe:other:governor]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:kt:testimony]]
+ 
+
+===== Translation Notes: =====
+Jesus continues speaking to his disciples about the future.
+  * **these things**  - This refers to the terrible things that Jesus had said would happen.
+  * **they will lay their hands on you**  - "they will arrest you" or "they will grab you." Some languages will need to say who will do these things: "people will lay their hands on you" or "enemies will lay their hands on you."
+  * **you**  - Jesus was talking to his disciples. The word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
+  * **delivering you over to the synagogues**  - "handing you over to the leaders of the synagogues." The leaders of the synagogues could forbid all the other Jews from interacting with the disciples because they follow Jesus.
+  * **and prisons**  - "and delivering you over to the prisons" or "and putting you in prisons." 
+  * **for your testimony**  - "for you to tell them your testimony about me"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/21/10|<<]] | [[en/bible/notes/luk/21/14|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

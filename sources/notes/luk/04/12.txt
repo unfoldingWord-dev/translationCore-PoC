@@ -1,0 +1,55 @@
+====== Luke 04:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 But Jesus replied, "\add No, I\add* will not \add do that, because\add* it is written \f + \ft Or:\add Moses\add* wrote \f* \add in the Scriptures\add*: 'Do not try to test the Lord your God \add to see if he will prevent something bad from happening to you when you do something foolish\add*'."
+\p
+\v 13 Then, after the devil had finished trying to tempt \add Jesus\add* in many ways, he left him. He wanted to try to tempt him later at an appropriate time.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 But Jesus replied, "No, I will not do that, because it is written in the scriptures: 'Do not try to test the Lord your God'." 
+\p
+\v 13 Then, after the devil had finished trying to tempt Jesus in many ways, he left him until a later time. 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 12 Jesus answering said to him, "It is said, 'You must not test the Lord your God.'" 
+\p 
+\v 13 When the devil had finished tempting Jesus, he went away and left him until another time.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:test]]
+    * [[en:obe:kt:lordgod]]
+    * [[en:obe:kt:tempt]]
+===== Translation Notes: =====
+
+    * **It is said**  - Jesus quotes Deuteronomy. AT: "Moses has said" or "Moses has said in the scriptures."  [[:en:bible:notes:deu:06:16|6:16]]. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **You must not test the Lord your God** - Jesus quoted this Scripture to say why he would not put God to the test by jumping down from the temple. This command is for God's people.  AT: "Do not test the Lord your God." 
+    * **until another time**  - "until another occasion"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:luk:04:09|<<]] | [[:en:bible:notes:luk:04:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

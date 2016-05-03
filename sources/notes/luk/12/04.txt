@@ -1,0 +1,55 @@
+====== Luke 12:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 "My friends, listen \add carefully\add*! Do not be afraid of people who \add are able to\add* kill you, but after they kill you, there is nothing more that they can do \add to hurt you\add*!
+\v 5 But I will warn you about the one that you should truly be afraid of. You should be afraid of \add God\add*, because he not only has \add the power to\add* cause people to die, he has the power to throw them into hell afterward! Yes, he is truly the one that you should be afraid of!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 "My friends, listen carefully! Do not be afraid of people; they can kill you, but they cannot do anything more to you after that!
+\v 5 But I will warn you about the one that you should truly be afraid of. You should be afraid of God, because he not only has the right to cause people to die, he also has the right to throw them into hell afterward! Yes, he is truly the one that you should be afraid of!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 I say to you my friends, do not be afraid of those who kill the body, and after that they have no more that they can do.
+\v 5 But I will warn you about whom to fear. Fear the one who, after he has killed, has authority to throw you into hell. Yes, I say to you, fear him.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:fear]]
+    * [[en:obe:kt:authority]]
+    * [[en:obe:kt:hell]]
+===== Translation Notes: =====
+
+Jesus continues speaking to his disciples.
+
+  * **they have no more that they can do**  - "they cannot do anything else" or "they cannot cause any more harm" or "they cannot hurt you anymore"
+  * **Fear the one who**  - AT: "Fear God who" or "Fear God, because."
+  * **after he has killed**  - "after he kills you" or "after he kills someone"
+  * **has authority to throw you into hell**  - AT: "has authority to throw people into hell."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+
+ 
+**[[en/bible/notes/luk/12/02|<<]] | [[en/bible/notes/luk/12/06|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish authority fear hell}}
+
+~~NOCACHE~~

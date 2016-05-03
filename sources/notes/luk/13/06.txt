@@ -1,0 +1,47 @@
+====== Luke 13:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 Then Jesus told them this illustration \add to show how God would treat the Jews, whom he continually blessed, but who did not do things that please him\add*: "A man planted a fig tree on his farmland. Each year\add \f + \ft Or: Many times\add* \f* he came to it looking for figs, but there were no figs.
+\v 7 Then he said to the gardener, 'Look \add here\add*! I have been looking for fruit on this fig tree every year for the past three years, but there have been no figs. Cut it down! It is just using up the nutrients in the soil for nothing!\f + \ft Or: Why should it continue using up the \add nutrients in\add* the soil \add for nothing\add*? \f* \f + \ft rhetorical question \f*'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 Then Jesus told them this story: "A man planted a fig tree in his garden. Each year he came to pick the figs, but there were never any on it.
+\v 7 Then he said to the gardener, 'Look at this tree! I have been looking for fruit on it every year for the past three years, but there have been no figs. Cut it down! It is just using up the nutrients in the soil for nothing!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 Jesus told this parable, "Someone had a fig tree planted in his vineyard and he came and looked for fruit on it but found none.
+\v 7 The man said to the gardener, 'Look, for three years I came and tried to find fruit on this fig tree and found none. Cut it down. Why let it waste the ground?'
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[:en:obe:other:parable]]
+    * [[:en:obe:other:fig]]
+    * [[:en:obe:other:vineyard]]
+
+
+===== Translation Notes: =====
+Jesus continues speaking to the crowd.
+    * **Jesus told this parable** - He spoke the parable to explain his statement in the previous verse that they should repent or perish. 
+    * **Why let it waste the ground** - This is a rhetorical question. It can be translated as a statement as it is in the UDB or as a command: "Do not let it waste the ground." (See: [[en:ta:vol1:translate:figs_rquestion]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:en:bible:notes:luk:13:04|<<]] | [[:en:bible:notes:luk:13:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish fig vineyard}}
+
+~~NOCACHE~~

@@ -1,0 +1,54 @@
+====== Luke 06:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 If someone \add insults one of you by\add* striking you on one of your cheeks, turn your face \add so that he can strike\add* the other cheek \add also\add*. If \add a bandit\add* wants to take away your\add \f + \ft singular \f*\add* coat, let him also have your shirt.
+\v 30 Give something to everyone who asks you\add \f + \ft singular \f* for something\add*. If someone takes away things that belong to you\add \f + \ft singular \f*\add*, do not ask him to return them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 If someone insults you by striking you on one of your cheeks, turn your face so that he can strike the other cheek also. If someone wants to take away your tunic, let him also have your shirt.
+\v 30 Give something to everyone who asks you. If someone asks you to give him things that belong to you, do not ask him to return them.
+</usfm>
+
+
+===== ULB: =====
+
+
+<usfm>
+\v 29 To him who strikes you on the one cheek, offer him also the other. If someone takes away your coat, do not withhold your tunic either.
+\v 30 Give to everyone who asks you. If someone takes away something that belongs to you, do not ask him to give it back to you.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:tunic]]
+
+===== Translation Notes: =====
+Jesus continues to teach the crowd to love their enemies.
+
+    * **To him who strikes you** - "If anyone hits you"
+    * **on the one cheek**  - "on one side of your face"
+    * **offer him also the other**  - AT: "turn your face so that he can hit the other side, too."
+    * **do not withhold** - "do not prevent him from taking"
+    * **Give to everyone who asks you** - AT: "If anyone asks you for something, give it to him." 
+    * **do not ask him** - "do not require him" or "do not demand"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/06/27|<<]] | [[en/bible/notes/luk/06/31|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

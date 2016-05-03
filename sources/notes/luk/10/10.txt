@@ -1,0 +1,61 @@
+====== Luke 10:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 But if you enter a town whose \add people\add* do not welcome you, go into its \add main\add* streets and say,
+\v 11 '\add Because you have refused to hear our message, we\f + \ft exclusive \f* will not only leave\add*, we will also shake off the dust of your town that clings to our sandals, to warn you \add that God will reject\f + \ft Or: punish \f* you\add*. But \add we want you to know that\add* it is almost \add the time when\add* God will start to rule!'
+\v 12 I will tell you this: On the \f + \ft metonymy \f* \add final\add* day when \add God judges everyone\add*, he will punish the wicked people \f + \ft metonymy \f* who long ago lived in Sodom, \add the city that he destroyed because its people were so wicked\add*. But he will punish \add even\add* more severely the people \f + \ft metonymy \f* of that town \add who refused to hear your message\add*!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 But if you enter a town whose people do not welcome you, go into its main streets and say,
+\v 11 'As a warning against you, we will wipe off even the dust that sticks to our feet as we are leaving your town. Yet be sure of this; God will soon rule everything as king.'
+\v 12 I tell you that on the final day when God judges everyone, the people of that town will be punished even more severely than the wicked people who lived long ago in the city of  Sodom!
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 But into whatever city you enter, and they do not receive you, go out into its streets and say,
+\v 11 'Even the dust from your city that clings to our feet we wipe off against you! But know this, that the kingdom of God has drawn near.' 
+\v 12 I say to you that on the judgment day it will be more tolerable for Sodom than for that city.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:kingdomofgod]]
+    * [[en:obe:kt:judgmentday]]
+    * [[en:obe:other:sodom]]
+
+===== Translation Notes: =====
+Jesus continues to give directions to the 70 people he was sending out.
+
+    * **and they do not receive you** - "if they reject you"
+    * **Even the dust from your city that clings to our feet we wipe off against you!**  - Since Jesus was sending these people out in groups of two, it would be two people saying this. So languages that have a dual form of 'we' would use it. AT: "Just as you rejected us, we thoroughly reject you. We even reject the dust from your city that clings to our feet." (See: [[en:ta:vol2:translate:figs_pluralpronouns]])
+    * **But know this, that the kingdom of God has drawn near** - This phrase introduces a warning. It means "Even though you reject us, it does not change the fact that the kingdom of God is here!"
+    * **the kingdom of God has drawn near**  - "the kingdom of God is all around you."
+    * **I say to you**  - Jesus was saying this to the 70 people he was sending out. He said this to show that he was about to say something very important.
+    * **the judgment day** - The phrase simply says "that day." But the disciples would have understood that this refers to the time of final judgment of sinners. (See: [[en:ta:vol1:translate:figs_explicit]])
+    * **it will be more tolerable for Sodom than for that city**  - "Sodom will not be judged as severely as that city will be judged." This means "that city will be judged more severely than Sodom."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:luk:10:08|<<]] | [[:en:bible:notes:luk:10:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish judgmentday}}
+
+~~NOCACHE~~

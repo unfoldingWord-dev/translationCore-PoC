@@ -1,0 +1,56 @@
+====== Luke 07:36-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 \add One day\add* one of the Pharisees \add named Simon\add* invited Jesus to eat a meal with him. So Jesus went to the man's house and reclined \add to eat\add*.
+\v 37 There was a woman in that city \add who many people knew had been\add* a prostitute \f + \ft euphemism \f*. She heard that Jesus was eating in the Pharisee's house. So she went there, taking a stone jar that contained perfume.
+\v 38 \add As they were reclining to eat\add*, the woman stood behind \add Jesus, at his\add* feet. As she was crying \add because she was sorry for her sins, her tears fell on Jesus' feet\add*. Then she wiped his feet with her hair, and kissed his feet, and anointed them with the perfume.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 One day a certain Pharisee named Simon invited Jesus to eat a meal with him. So Jesus went to the man's house and reclined at a table to eat.
+\v 37 There was also a woman in that city whom many people knew had been a prostitute. When she heard that Jesus was eating in the Pharisee's house, she went there, taking a stone jar that contained perfume.
+\v 38 As Jesus was reclining to eat, the woman stood behind him at his feet. She was crying, and her tears fell on Jesus' feet. She continually wiped his feet with her hair, and  kept kissing them and anointing them with the perfume.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 36 Now a certain Pharisee was requesting that Jesus eat with him. So after Jesus entered into the Pharisee’s house, he reclined at the table to eat. 
+\v 37 Behold, there was a certain woman in the city who was a sinner. She found out that he was reclining in the Pharisee’s house, and she brought an alabaster flask of perfume. 
+\v 38 She stood behind him near his feet and wept. Then she began to wet his feet with her tears, and was wiping them with the hairs of her head, kissing his feet, and anointing them with perfume.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:sin]]
+    * [[en:obe:kt:anoint]]
+
+===== Translation Notes: =====
+
+  * **Now a certain Pharisee**  - This is the beginning of a new account.
+  * **reclined at the table to eat**  - "sat down at the table for the meal." It was the custom for a relaxed meal such as this dinner for men to eat while lying down comfortably around the table.
+  * **who was a sinner**  - "who lived a sinful lifestyle" or "who had a reputation for living a sinful life." She may have been a prostitute.
+  * **an alabaster flask**  - "a jar made of soft stone." Alabaster is a soft, white rock. People stored precious things in alabaster jars.
+  * **of perfume**  - "with perfume in it." The perfume was an oil that held good smells in it. People rubbed it on themselves or sprinkled their clothing with it in order to smell nice.
+  * **with the hairs of her head**  - "with her hair"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:33|<<]] | [[:en:bible:notes:luk:07:39|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

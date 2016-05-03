@@ -1,0 +1,54 @@
+====== Luke 05:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 Immediately the man \add was healed\add*! He got up in front of them. He picked up the \add sleeping pad\add* on which he had been lying, and he went home, praising God.
+\v 26 All the people \add there\add* were amazed! They praised God and were completely awestruck. They kept saying, "We\add \f + \ft inclusive \f*\add* have seen wonderful things today!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 Immediately the man was healed! He got up in front of them all. He picked up the sleeping pad on which he had been lying, and he went home, praising God.
+\v 26 All the people there were astonished! They praised God and were completely awestruck. They kept saying, "We have seen wonderful things today!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 Immediately he got up in front of them and picked up the mat he was lying on; then he went back to his house, glorifying God.
+\v 26 Everyone was amazed and they glorified God. They were filled with fear, saying, "We have seen extraordinary things today."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:glorify]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:amazed]]
+  * [[en:obe:kt:fear]]
+ 
+
+===== Translation Notes: =====
+
+    * **Immediately**  - "At once" or "Right away"
+    * **filled with fear**  - "very afraid" or "filled with awe"
+    * **extraordinary things** - "amazing things" or "strange things"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:luk:05:22|<<]] | [[:en:bible:notes:luk:05:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

@@ -1,0 +1,58 @@
+====== Luke 10:22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 \add Jesus also said to the 72 disciples\add*, "\add God\add*, my Father, has revealed to me all \add I need to know and the power I need for my work\add*. Only my Father knows who I \add really\add* am. Furthermore, only I and those \add people\add* to whom I wish to reveal him know what \add God\add* my Father is \add like\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Jesus also said to the disciples, "God, my Father, has given everything to me. Only my Father really knows me, his Son. Furthermore, only I, the Son, really know who the Father is—that is, only I and those people to whom I choose to reveal him really know him."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 "All things have been entrusted to me from my Father, and no one knows who the Son is except the Father, and no one knows who the Father is except the Son, and anyone to whom the Son desires to reveal him."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:godthefather]]
+    * [[en:obe:kt:sonofgod]]
+
+
+===== Translation Notes: =====
+Jesus now speaks to his disciples. You may need to add an introductory comment such as "Jesus also said to his disciples" (UDB).
+
+  * **All things have been entrusted to me from my Father** - AT: "My Father has handed everything over to me." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **the Son** - Jesus was referring to himself in the third person. (See: [[en:ta:vol2:translate:figs_123person]])
+  * **knows who the Son is** - The word that is translated as "knows" means to know from personal experience. God the Father knew Jesus to this degree.
+  * **except the Father**  - This means "Only the Father knows who the Son is."
+  * **knows who the Father is** - The word that is translated as "knows" means to know from personal experience. Jesus knew God his Father in that way
+  * **except the Son**  - This means "Only the Son knows who the Father is." As the Son of God, Jesus has always known the Father intimately, and always will.
+  * **and anyone to whom the Son desires to reveal him**  - AT: "people know who the Father is only if the Son wants to reveal the Father to them."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/10/21|<<]] | [[en/bible/notes/luk/10/23|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish sonofgod godthefather}}
+~~NOCACHE~~

@@ -1,0 +1,74 @@
+====== Luke 01:78-79 ======
+
+===== TFT: =====
+
+<usfm>
+\v 78 Our God will do that because he is very kind to us.
+\q1 Just like a new day begins when the sun rises \f + \ft metaphor \f*,
+\q1 God will do that new thing for us when the Messiah comes to us from heaven.
+\q1
+\v 79 People who do not know God \f + \ft metaphor \f* are like those who sit in the darkness.
+\q1 They are afraid \f + \ft metonymy \f* that they will soon die.
+\q1 But when the Messiah tells us God's message,
+\q1 it will be like causing such people to see a bright light.
+\q1 He will guide us \f + \ft synecdoche \f* so that we will be living peacefully.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 78 God will forgive us because he is kind and merciful to us. 
+\q And because of that, this Savior, who is like the rising sun, 
+\q will come to us from heaven to help us. 
+\q
+\v 79 His message will shine on people who live in spiritual darkness and in the fear of death. 
+\q He will guide us so that we will live peacefully.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q \v 78 Our God will forgive us because of his tender mercy. 
+\q By this mercy, the Savior, who is like the morning sun, will come from heaven to help us.
+\q \v 79 He will shine upon people who sit in darkness and the shadow of death; 
+\q he will guide our feet into the path of peace."
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:kt:mercy]]
+  * [[:en:obe:kt:savior]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:darkness]]
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:other:peace]]
+
+===== Translation Notes: =====
+
+Zechariah finishes his prophecy.
+
+  * **Our God**  - Throughout these verses "us" and "our" are inclusive. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **because of his tender mercy** - AT: "because he is compassionate and merciful to us"
+  * **like the morning sun** - "like the sunrise" or "like the dawn" (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **He will shine upon** - AT: "He will give knowledge to" or "He will give spiritual light to" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **people who sit in darkness** - AT: "people who do not know the truth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the shadow of death** - AT: "who are about to die" or "who are afraid that they will soon die" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **guide** - "direct." or AT: "teach." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **our feet**  - AT: "us" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **into the path of peace** - "into the way of peace." Make sure your translation of this fits with how you translate "our feet."  AT: "into a peaceful life" or "to walk along a path that leads to peace"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * [[:en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:76|<<]] | [[:en:bible:notes:luk:01:80|>>]]**
+
+~~DISCUSSION~~{{tag>publish savior }}
+
+~~NOCACHE~~

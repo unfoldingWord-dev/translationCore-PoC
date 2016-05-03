@@ -1,0 +1,65 @@
+====== Luke 21:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add Later\add* they asked him, "Teacher, when will that happen? What will happen to indicate that the things \add you\f + \ft singular \f* just told us\add* are about to happen?"
+\v 8 He said, "\add All that I will say is\add*, be sure that you are not deceived \f + \ft Or:that they do not deceive \add you\add* \f* \add about these things\add*! Many \add people\add* will come and say that I \add sent them\add*\f + \ft Or: that they have my authority \f* \f + \ft metonymy \f*. They will say, 'I am \add the Messiah\add*!' They will also \add say\add* 'It is now the time \add when God will begin to rule\add*!' Do not follow them \add to become their disciples\add*!
+\v 9 Also, whenever you hear about wars and riots, do not be terrified. Keep in mind that\add God has said that\add* those things must happen. But \add when they happen\add*, it will not mean that \add the world\add* will end right away!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Then they asked him, "Teacher, when will these things happen? And what will happen to show that these things are about to take place?"
+\v 8 Jesus replied, "Be careful that no one deceives you. For many people will come and each will claim to be me. Each will say about himself, 'I am the Messiah!' They will also say, 'The time is almost here, when God will rule as king!' Do not follow after them to become their disciples!
+\v 9 Also, whenever you hear about wars and people fighting each other, do not be terrified. For these things must happen before the end of the world comes."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 So they asked him, saying, "Teacher, when will these things happen? And what will be the sign when these things are about to happen?"
+\v 8 Jesus answered, "Be careful that you are not deceived. For many will come in my name, saying, 'I am he,' and, 'The time is near.'  Do not go after them.
+\v 9 When you hear of wars and riots, do not be terrified, for these things must happen first, but the end will not happen immediately."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:teacher]]
+  * [[en:obe:kt:sign]]
+  * [[en:obe:kt:deceive]]
+  * [[en:obe:kt:name]]
+  * [[en:obe:other:terror]]
+
+ 
+
+===== Translation Notes: =====
+
+  * **they asked him**  - "the disciples asked Jesus" or "Jesus' disciples asked him"
+  * **these things** - the things Jesus had just spoken about. Jesus had just spoken about the temple being destroyed.
+  * **that you are not deceived**  - "that you do not believe lies." or "that you have true belief" (See: [[:en:ta:vol2:translate:figs_doublenegatives]]) Jesus was talking to his disciples. The word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
+  * **in my name** - AT: "claiming to be me" or "claiming to have my authority" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the end will not happen immediately**  - "the end of the world will not happen immediately after the wars and riots". The noun "the end" can also be translated as a verb: "the world will not end immediately after those things happen." (See: [[en:ta:vol2:translate:figs_partsofspeech]])
+  * **the end**  - "the end of the world" or "the end of everything"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/21/05|<<]] | [[en/bible/notes/luk/21/10|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

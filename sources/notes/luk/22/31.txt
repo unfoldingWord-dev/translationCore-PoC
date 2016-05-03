@@ -1,0 +1,54 @@
+====== Luke 22:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 "Simon, Simon, listen! Satan has asked \add God to let him test you, and God has permitted him to do it. Satan wants to cause you to suffer distress\add* \f + \ft Or: \add distress you\add* \f* \add so that you will not believe\f + \ft Or: trust \f* in me anymore\f + \ft Or: longer \f*. He wants to shake you, just like a man shakes wheat in a sieve\add* \f + \ft metaphor \f*.
+\v 32 But I have prayed for you, Simon, that you will not completely stop believing in me. So when you\add \f + \ft singular \f*\add* restore your relationship with me, help your fellow apostles \add to trust in me more\add*!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 "Simon, Simon, listen! Satan has asked God to let him test you, like someone shakes grain in a sieve, and God has permitted him to do it.
+\v 32 But I have prayed for you, Simon, that you will not completely stop believing in me. So when you come back to me,  give courage again to these men, your brothers.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 31 Simon, Simon, be aware, Satan asked to have you, that he might sift you as wheat.
+\v 32 But I have prayed for you, that your faith may not fail. After you have turned back again, strengthen your brothers."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:peter]]
+  * [[en:obe:kt:Satan]]
+  * [[en:obe:other:winnow]]
+  * [[en:obe:other:wheat]]
+  * [[en:obe:other:pray]]
+  * [[en:obe:kt:faith]]
+  * [[en:obe:kt:turn]]
+  * [[en:obe:kt:brother]]
+ 
+===== Translation Notes: =====
+Jesus speaks directly to Simon.
+  * **Simon, Simon** - Jesus said his name twice to show that what he was about to say to him was very important.
+  * **to have you, that he might sift you** - The word "you" refers to all of the apostles. Languages that have different forms of "you" should use the plural form. (See: [[en:ta:vol1:translate:figs_you]])
+  * **sift you as wheat**  - This is a metaphor that means "test you to find something wrong." The meaning can be made clear as in the UDB: "test you." And it can be translated as a simile: "like someone shakes grain in a sieve" as in the UDB. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **But I have prayed for you**  - The word "you" here refers specifically to Simon. Languages that have different forms of you should use the singular form. (See: [[en:ta:vol1:translate:figs_you]])
+  * **that your faith may not fail** - This can be expressed positively as "that you will continue to have faith" or "that you will continue to trust me." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **After you have turned back again** - "After you start following me again" or "After you start serving me again"
+  * **your brothers** - This refers to the other disciples. This can be translated as "your fellow believers" or "your brothers in the faith" or "the other disciples."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:28|<<]] | [[:en:bible:notes:luk:22:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish  winnow}}

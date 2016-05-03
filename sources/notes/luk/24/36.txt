@@ -1,0 +1,50 @@
+====== Luke 24:36-37 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 As they were saying that, Jesus himself \add suddenly\add* appeared among them. He said to them, "\add May God give\add* you \add inner\add* peace!"
+\v 37 They were startled and afraid, \add because\add* they thought that they were seeing a ghost!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 As they were saying that, Jesus himself suddenly appeared among them. He said to them, "May God give you peace!"
+\v 37 They were startled and afraid, because they thought that they were seeing a ghost!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 36 As they spoke these things, Jesus himself stood in the midst of them, and said to them, "Peace be to you."
+\v 37 But they were terrified and filled with fear, and supposed that they saw a spirit.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:peace]]
+  * [[en:obe:other:terror]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:kt:spirit]]
+  
+
+===== Translation Notes: =====
+
+    * **Jesus himself** - The word “himself” focuses on Jesus and the surprise of Jesus actually appearing to them. Most of them had not seen him after his resurrection.
+    * **in the midst of them**  - This can be translated as "where they could all see him."
+    * **Peace be to you** - "May you have peace" or "May God give you peace!" (UDB) The word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
+    * **they were terrified and filled with fear** - "they were startled and afraid" (UDB)
+    * **supposed that they saw a spirit** - They did not yet truly understand that Jesus was really alive.
+    * **a spirit** - Here it refers to the spirit of a dead person.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:33|<<]] | [[:en:bible:notes:luk:24:38|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

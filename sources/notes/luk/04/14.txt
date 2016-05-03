@@ -1,0 +1,55 @@
+====== Luke 04:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 As the Spirit empowered him, Jesus returned to Galilee\add district. People\add* throughout all that region heard about what he \add was doing\add*.
+\v 15 He taught \add people\add* in their synagogues\f + \ft Or: meeting places \f*. \add As a result\add*, he was praised by everyone \f + \ft Or:everyone praised him \f*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 After this, Jesus left the wilderness and returned to the district of Galilee. The Holy Spirit was empowering him. Throughout that region, people heard about Jesus and told others about him.
+\v 15 He taught people in their synagogues and they all spoke highly of him because of his teaching. 
+ 
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 14 Then Jesus returned to Galilee with the power of the Spirit, and news about him spread throughout the entire surrounding region. 
+\v 15 He taught in their synagogues, and everyone praised him.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:galilee]]
+    * [[en:obe:kt:power]]
+    * [[en:obe:kt:holyspirit]]
+    * [[en:obe:other:synagogue]]
+    * [[en:obe:other:praise]]
+===== Translation Notes: =====
+
+    * **with the power of the Spirit **- God was with Jesus in a special way, enabling him to do things that humans usually couldn't. AT: "and the Spirit was giving him power."
+    * **news about him spread**  - Those who heard Jesus told other people about him, and then those other people told even more people about him. AT: "people spread the news about Jesus" or "people told other people about Jesus" or "knowledge about him was passed on from person to person."
+    * **throughout the entire surrounding region** - This refers to the areas or places around Galilee.
+    * **everyone praised him** - "everyone said great things about him" or "all the people spoke about him in a good way" 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:luk:04:12|<<]] | [[:en:bible:notes:luk:04:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish power }}
+
+~~NOCACHE~~

@@ -1,0 +1,67 @@
+====== Luke 07:11-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Soon after that, Jesus went to a town called Nain. His disciples and a large crowd \add of other people\add* went with him.
+\v 12 As they approached the town gate, the corpse of a young man who had just died was being carried out \add on a stretcher\add* \f + \ft Or:\add people\add* were carrying out \add on a stretcher\add* the corpse of a young man who had just died \f*. His mother was a widow, and he was her only son. A large group of people from the town were accompanying them.
+\v 13 When the Lord saw her, he pitied her. He said to her, "Do not cry!"
+\v 14 Then, \add ignoring the Jewish laws about not coming near a corpse\add*, he came close and touched the stretcher \add on which the body was lying\add*. So the men carrying it stood still. He said, "Young man, I say to you, get up!"
+\v 15 The man sat up and began to talk! Jesus returned him to his mother \add to care for her\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Soon after that, Jesus traveled to the town of Nain. His disciples and a large crowd went with him.
+\v 12 As Jesus came near to the town gate, he saw a large crowd coming out of the town, carrying a man who had just died. Now his mother was a widow, and he was her only son. She was with the crowd, and they were going to bury her son.
+\v 13 When the Lord saw her, he had compassion for her and said to her, "Do not cry!"
+\v 14 Then he came close to them and touched the stretcher on which the body was lying. The men carrying it stood still. He said, "Young man, I say to you, get up!"
+\v 15 The man sat up and began to talk! Then Jesus led him back to his mother.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 Some time after that, it happened that Jesus was traveling to a city called Nain. His disciples were going with him, along with a large crowd of people. 
+\v 12 As he came near to the city gate, behold, a dead man was being carried out, an only son to his mother. She was a widow, and a sizeable crowd from the city was with her.
+\v 13 Seeing her, the Lord was deeply moved with compassion for her and said to her, "Do not cry."
+\v 14 Then he came forward and touched the funeral couch, and those carrying it stood still. He said, "Young man, I say to you, arise."
+\v 15 The dead man sat up and began to speak. Then  Jesus gave him to his mother.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:disciple]]
+    * [[en:obe:kt:gate]]
+    * [[en:obe:kt:death]]
+    * [[en:obe:kt:lord]]
+    * [[en:obe:kt:compassion]]
+
+===== Translation Notes: =====
+
+  * **it happened that** -  This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **Nain** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **behold, a dead man**  - The word "behold" alerts us to the introduction of the dead man into the story. Your language may have a way of doing this. English uses "There was a dead man who was...”
+  * **the city gate**  - AT: "the entrance to the city."
+  * **an only son to his mother**  - "a woman's only son"
+  * **widow**  - This is a woman whose husband has died.
+  * **was deeply moved with compassion for her**  -  "felt very sorry for her"
+  * **he came forward**  - Some languages would say "he went forward" or "he approached the group."
+  * **funeral couch** - This was a stretcher or bed used to move the body to the burial place. It did not have to be something the body was buried in.
+  * **I say to you** - Jesus said this to emphasize his authority. It means "Listen to me!"
+  * **The dead man** - "The man who had been dead." The man was not still dead; he was alive.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:09|<<]] | [[:en:bible:notes:luk:07:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

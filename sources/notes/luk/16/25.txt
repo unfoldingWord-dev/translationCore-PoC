@@ -1,0 +1,53 @@
+====== Luke 16:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 But Abraham replied, 'Son, remember that while you\add \f + \ft singular \f*\add* were alive \add on earth\add* you enjoyed \add many\add* good things. But Lazarus was miserable. Now \add it is fair that\add* he is happy here, and you are suffering.
+\v 26 Besides that, there is a huge ravine between you\add \f + \ft singular \f*\add* and us. So those who want to go from here to where you\add \f + \ft singular \f*\add* are, are not able to. Furthermore, no one can cross from there to where we\add \f + \ft exclusive \f*\add* are.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 But Abraham replied, 'Child, remember that while you were alive on earth you enjoyed many good things. But Lazarus was miserable. Now he is happy here, and you are suffering.
+\v 26 Besides that, God has placed a huge ravine between you and us. So those who want to go from here to where you are, are not able to. Furthermore, no one can cross from there to where we are, either.’
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 But Abraham said, 'Child, remember that in your lifetime you received your good things, and Lazarus in like manner evil things. But now he is comforted here, and you are in agony.
+\v 26 And besides all this, a great chasm has been firmly placed, so that those who want to cross over from here to you will not be able to, and no one will be able to come across from there to us.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:abraham]]
+  * [[en:obe:kt:children]]
+  * [[en:obe:kt:evil]]
+  * [[en:obe:other:comfort]]
+
+
+===== Translation Notes: =====
+Jesus continues telling his story.
+    * **Child**  - The rich man was also one of Abraham's descendants.
+    * **good things** - "fine things" or "pleasant things"
+    * **in like manner evil things** - This can also be translated as "received evil things" or "received things that caused him to suffer."
+    * **agony** - "acute pain"
+    * **And besides all this** - "in addition to this reason"
+    * **a great chasm has been firmly placed** - This can also be translated as "God has placed a huge ravine between you and us" (UDB).
+    * **a great chasm**  - "a steep, deep and wide valley" or "a big separation" or "a huge ravine" (UDB)
+    * **those who want to cross over** - "those people who want to cross over the chasm" or "if anyone wants to cross over"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+**[[:en:bible:notes:luk:16:24|<<]] | [[:en:bible:notes:luk:16:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

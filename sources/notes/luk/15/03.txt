@@ -1,0 +1,54 @@
+====== Luke 15:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 So Jesus told them this parable:
+\v 4 "Suppose that one of you had a hundred sheep. If one of them were lost, you\add \f + \ft singular \f*\add* would certainly leave the ninety-nine sheep in the pastureland, and go and search for the one lost sheep until you found it.\f + \ft Or: would you not leave the ninety-nine sheep in the pastureland, and go and search for the one lost sheep until you found it? \f* \f + \ft rhetorical question \f*
+\v 5 When you\add \f + \ft singular \f*\add* found it, you would lay it on your shoulders and be happy.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 So Jesus told them this parable:
+\v 4 "Suppose that one of you has a hundred sheep and you lose one of them.  Certainly you will leave the ninety-nine other sheep in the wilderness and go search for the lost sheep until you have found it.
+\v 5 And when you find it, you will joyfully put it on your shoulders to carry it home.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 3 Jesus spoke this parable to them, saying,
+\v 4 "Which one of you, if he has a hundred sheep and then loses one of them, will not leave the ninety-nine in the wilderness, and go after the lost one until he finds it?
+\v 5 Then when he has found it, he lays it across his shoulders and rejoices.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:parable]]
+    * [[en:obe:other:sheep]]
+    * [[en:obe:other:desert]]
+    * [[en:obe:other:rejoice]]
+
+
+===== Translation Notes: =====
+
+  * **Jesus spoke this parable to them**  - "To them" refers to the religious leaders.
+  * **Which one of you...will not leave the ninety-nine...and go after...until he finds it?**  - This is a rhetorical question. Jesus was reminding the people that if any of them lost one of their sheep, they would certainly go looking for it. This can be translated as a statement as in the UDB.  Some languages have ways of showing that this is a hypothetical situation and not a story about a particular person who has lost a sheep. (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol1:translate:figs_hypo]])
+  * **Which one of you, if he has a hundred sheep**  - Since the parable starts with "Which one of you," some languages would continue the parable in the second person "if you have a hundred sheep." (See: [[en:ta:vol2:translate:figs_123person]])
+  * **hundred...ninety-nine** - "100...99" (See: [[en:ta:vol2:translate:translate_numbers]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+**[[:en:bible:notes:luk:15:01|<<]] | [[:en:bible:notes:luk:15:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish  sheep}}
+
+~~NOCACHE~~

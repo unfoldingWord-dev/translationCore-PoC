@@ -1,0 +1,50 @@
+====== Luke 21:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 "There will also be strange things that will \add happen to\add* the sun, the moon, and the stars. In \add many\add* nations on the earth, \add people\add* will be very frightened, and they will be anxious \add when they hear\add* the ocean roaring and \add see the huge\add* waves.
+\v 26 People will faint because they will be afraid as they wait for what will happen in the world. \add They will be afraid\add* because the powerful \add objects\add* in the sky will be shaken \f + \ft Or:shake \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 "At this time, strange things will happen to the sun, the moon, and the stars. And on earth, people groups will become very frightened, and they will become confused because of the roaring ocean and its huge waves.
+\v 26 People will be so afraid that they will faint, because they are waiting for what will happen next in the world. The stars in the sky will have to leave from their usual places.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 There will be signs in the sun, in the moon, and in the stars.  And on the earth, there will be distress of the nations, in despair from the roar of the sea and waves.
+\v 26 There will be men fainting from fear and from expectation of the things which are coming upon the world. For the powers of the heavens will be shaken.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:sign]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:kt:power]]
+  * [[en:obe:kt:heaven]]
+ 
+
+===== Translation Notes: =====
+Jesus continues speaking to his disciples about the future.
+    * **there will be distress of the nations**  - This can be translated as "the people of the nations will be distressed" or "the people of the nations will be very anxious."
+    * **in despair from the roar of the sea and waves**  - "because they will be confused by the roar of the sea and its waves" or "and they will be frightened by the very loud noise of the sea and its rough movement." This seems to refer to unusual storms or disasters involving the seas.
+    * **the things which are coming upon the world**  - "the things that will happen in the world" or "the things that will happen to the world"
+    * **the powers of the heavens will be shaken**  - "the powerful things in the heavens will be shaken." Possible meanings are 1) The things in the sky like the sun, moon, and stars will not move in their normal way or 2) the powerful spirits in the heavens will be distressed. The first is recommended.
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+**[[:en:bible:notes:luk:21:23|<<]] | [[:en:bible:notes:luk:21:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,52 @@
+====== Luke 23:20-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Because Pilate wanted to release Jesus, he tried to persuade the crowd again.
+\v 21 But they kept shouting, "\add Command your soldiers to\add* kill him by nailing him to a cross!" Have him crucified!"
+\v 22 He \add spoke to them\add* a third time and asked them, "Why? What crime has he committed? I have concluded that he has done nothing for which he deserves to die. So I will \add have my soldiers\add* whip him and then release him."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 But Pilate wanted very much to set Jesus free, so he tried to speak to the crowd again.
+\v 21 But they kept on shouting, saying, "Crucify him! Crucify him!"
+\v 22 Pilate spoke to them a third time and asked them, "Why? What crime has he committed? He has done nothing for which he deserves to die. So I will have my soldiers whip him and then set him free."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 Pilate addressed them again, desiring to release Jesus.
+\v 21 But they shouted, saying, "Crucify him, crucify him."
+\v 22 He said to them a third time, "Why, what evil has this man done? I have found nothing deserving the death penalty in him. Therefore after punishing him, I will release him."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:pilate]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:crucify]]
+  * [[en:obe:kt:evil]]
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:other:punish]]
+ 
+
+===== Translation Notes: =====
+
+  * **addressed them again** - "spoke to them again" or "spoke again to the people in the crowd"
+  * **desiring to release Jesus** - "because he wanted to release Jesus"
+  * **He said to them a third time** - "Pilate said to the crowd again, for the third time"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:18|<<]] | [[:en:bible:notes:luk:23:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish crucify punish}}

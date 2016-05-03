@@ -1,0 +1,48 @@
+====== Luke 19:28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 After \add Jesus\add* said those things, he \add continued on the road\add* up to Jerusalem, going ahead of the disciples.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 After Jesus said those things, he continued on the road up to Jerusalem, going ahead of the disciples.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 28 When he had said these things, he went on ahead, going up to Jerusalem.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:jerusalem]]
+
+
+===== Translation Notes: =====
+
+  * **When he had said these things** - The word "he" refers to Jesus, not to the king in the previous parable. Some versions make this clear by translating it as "When Jesus had said these things."
+  * **going up to Jerusalem** - Jerusalem is about 975 meters higher in elevation then Jericho.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/26|<<]] | [[en/bible/notes/luk/19/29|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

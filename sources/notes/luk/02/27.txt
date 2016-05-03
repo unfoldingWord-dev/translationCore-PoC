@@ -1,0 +1,65 @@
+====== Luke 02:27-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 When Joseph and Mary brought their baby Jesus \add to the Temple\add* in order to perform the rituals that \add God had commanded\add* in his laws, the Spirit led Simeon to enter the Temple \add courtyard, and revealed to him that Jesus was the Messiah\add*.
+\v 28 So he took Jesus up in his arms and praised God, saying,
+\q1
+\v 29-32 Lord, you promised me that I would see the one \f + \ft metonymy \f* who would enable you to save people of all people-groups from the guilt of their sins. He will be \f + \ft metaphor \f* like a light that will reveal your truth to non-Jews, and he will cause people to think highly of your people, the Israelite people. Since I \f + \ft synecdoche \f* have now seen this one that you promised to send, now let me die peacefully.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 When Joseph and Mary brought their baby, Jesus, to the temple in order to perform the rituals that God had commanded in his laws, the Spirit led Simeon to enter the temple courtyard.
+\v 28 Then he took Jesus up in his arms and praised God, saying,
+\q1
+\v 29 Lord, you have made me content and I can now die in peace according to your promise.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 27 One day he came into the temple, led by the Holy Spirit. When the parents brought in the child, Jesus, to do for him what the custom of the law required,  
+\v 28 then Simeon received him into his arms, and praised God and said,  
+\q1 \v 29 "Now let your servant depart in peace, Lord, according to your word.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:temple]]
+    * [[en:obe:kt:lawofmoses]]
+    * [[en:obe:other:praise]]
+    * [[en:obe:other:servant]]
+    * [[en:obe:other:peace]]
+    * [[en:obe:kt:wordofgod]]
+
+===== Translation Notes: =====
+
+    * **came** - AT: "went"
+    * **led by the Holy Spirit** - "directed by God." AT: "the Holy Spirit directed him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **the parents** - "Jesus' parents"
+    * **the custom of the law required** - "the law of God required"
+    * **received him** - "took him"
+    * **Now let your servant depart in peace**  - Simeon was referring to himself.  AT: "I am your servant; let me depart in peace." 
+    * **depart** -  "die" (See: [[en:ta:vol2:translate:figs_euphemism]])
+    * **according to your word** - AT: "as you have said" or "because you said you would"
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:25|<<]] | [[:en:bible:notes:luk:02:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

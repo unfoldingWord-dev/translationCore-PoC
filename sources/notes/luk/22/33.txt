@@ -1,0 +1,53 @@
+====== Luke 22:33-34 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 Peter said to him, "Lord, I am ready to go with you\add \f + \ft singular \f*\add* if they put you in prison, or even to die with you!"
+\v 34 Jesus replied, "Peter, I want you\add \f + \ft singular \f*\add* to know that this night, before the rooster crows, you will say three times that you do not know me!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 Peter said to him, "Lord, I am ready to go with you to prison; I am willing to die with you!"
+\v 34 Jesus replied, "Peter, I want you to know that this night, before the rooster crows, you will say three times that you do not know me!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 Peter said to him, "Lord, I am ready to go with you both to prison and to death."
+\v 34 Jesus replied, "I tell you, Peter, the rooster will not crow this day, before you deny three times that you know me."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:peter]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:prison]]
+  * [[en:obe:kt:death]]
+
+ 
+
+===== Translation Notes: =====
+Simon Peter reacts to Jesus' statement that Satan will test Peter.
+  * **the rooster will not crow** - Here, the crowing of the rooster is used as a metonym for that time of day." Roosters often crow before the sun appears in the morning. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  *  **the rooster will not crow…before you deny…** - This can be stated positively: "the rooster will crow…only after you deny." The order of the parts of the verse can also be reversed: "You will deny three times that you know me before the rooster crows this day" 
+  * **this day** - The Jewish day begins at sunset. Jesus was speaking after the sun had set. The rooster would crow just before morning. The morning was part of "this day." It can also be translated as "tonight" or "in the morning." 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:31|<<]] | [[:en:bible:notes:luk:22:35|>>]]**
+
+~~DISCUSSION~~{{tag>publish prison }}

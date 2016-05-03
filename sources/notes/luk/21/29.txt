@@ -1,0 +1,57 @@
+====== Luke 21:29-31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 \add Then\add* he told them this parable: "Think about the fig tree, and all the \add other\add* trees.
+\v 30 As soon as you see their leaves beginning to sprout, you know that summer is near.
+\v 31 Similarly, when you see these things that \add I have just described\add* happening, you will know that it is almost time for God to \add truly\add* rule as king.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 Then Jesus told them a parable: "Think about the fig trees, and even all the trees.
+\v 30 Whenever you see that their leaves are sprouting, you know that summer is near.
+\v 31 In the same way, when you see these things that I have just described happening, you will know then that God will soon show himself as king.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 29 Jesus told them a parable, "Look at the fig tree, and all the trees.
+\v 30 When they sprout buds, you see for yourselves and know that summer is already near. 
+\v 31 So also, when you see these things happening, you know that the kingdom of God is near.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:other:fig]]
+  * [[:en:obe:kt:kingdomofgod]]
+ 
+
+===== Translation Notes: =====
+
+  * **When they sprout buds** - "When new leaves start to grow"
+  * **you see for yourselves and know**  - This can also be translated as "people see for themselves and know."
+  * **summer is already near**  - "summer is about to start." Summer in Israel is very dry, so crops are harvested at the beginning of summer. The meaning is "harvest time is ready to start." This is implied information that they would see and know. (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **the kingdom of God is near**  - "the kingdom of God will soon be established" or "God will reign over his kingdom"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/21/27|<<]] | [[en/bible/notes/luk/21/32|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

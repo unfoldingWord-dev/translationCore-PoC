@@ -1,0 +1,53 @@
+====== Luke 03:12-13 ======
+
+
+===== TFT: =====
+
+
+<usfm>
+\v 12 \add Some\add* tax collectors came \add and asked\add* to be baptized \f + \ft Or:\add asked him\add* to baptize them \f*. They asked him, "Teacher, what shall we\add \f + \ft exclusive \f*\add* do \add to please God\add*?"
+\v 13 He said to them, "Do not take from the people any more money than \add the Roman government\add* tells you to take!"
+</usfm>
+
+
+===== UDB: =====
+
+
+<usfm>
+\v 12 Some tax collectors also came to John to be baptized. They asked him, "Teacher, what must we do?"
+\v 13 He said to them, "Do not collect from the people more money than the Roman government tells you to collect!"
+</usfm>
+
+
+===== ULB: =====
+
+
+<usfm>
+\v 12 Then some tax collectors also came to be baptized, and they said to him, "Teacher, what must we do?"  
+\v 13 He said to them, "Do not collect more money than you are supposed to."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:taxcollector]]
+    * [[en:obe:kt:baptize]]
+    * [[en:obe:kt:teacher]]
+
+===== Translation Notes: =====
+
+
+    * **to be baptized** - "for John to baptize them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **Do not collect more money** - "Do not ask for more money." The tax collectors were collecting more money than they should have been. They should stop doing that.
+    * **than you are supposed to** - "than you have been given authority to take"
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:03:10|<<]] | [[:en:bible:notes:luk:03:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish taxcollector p2review }}
+
+~~NOCACHE~~

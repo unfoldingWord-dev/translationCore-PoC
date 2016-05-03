@@ -1,0 +1,54 @@
+====== Luke 10:16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 \add Jesus also said to the disciples, "God will consider that\add* those who listen to your \add message\add* are listening to me, and that those who reject your \add message\add* are rejecting me. And \add he will consider that\add* those who reject me are rejecting \add God\add*, the one who sent me."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Jesus also said to the disciples, "Whoever listens to your message is listening to me, and whoever rejects your message is rejecting me. And whoever rejects me is rejecting God, the one who sent me."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 The one who listens to you listens to me, and the one who rejects you rejects me, and the one who rejects me rejects the one who sent me."
+</usfm>
+
+
+===== translationWords: =====
+ 
+  * [[en:obe:other:reject]]
+  * [[en:obe:other:send]]
+===== Translation Notes: =====
+Jesus finishes teaching the 70 people he was sending out.
+
+    * **The one who listens to you listens to me** - AT: "When someone listens to you, it is as if they are listening to me."
+    * **the one who rejects you rejects me** - AT: "When someone rejects you, it is as if they are rejecting me."
+    * **the one who rejects me rejects the one who sent me** - AT: "When someone rejects me, it is as if they are rejecting the one who sent me."
+    * **the one who sent me** - This refers to God the Father who appointed Jesus for this special task. AT: "God, who sent me" (UDB).
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/10/13|<<]] | [[en/bible/notes/luk/10/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

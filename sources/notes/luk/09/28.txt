@@ -1,0 +1,53 @@
+====== Luke 09:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 About a week after \add Jesus\add* said those things, he took Peter, James, and \add James' brother\add* John and led them up a mountain so that he could pray \add there\add*.
+\v 29 As he was praying, his face appeared very different to them. His clothes became as bright as lightning.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 About eight days after Jesus said those words, he took with him Peter, John and James, and went up onto a mountain to pray there.
+\v 29 While he was praying, the appearance of his face became very different and his clothes became dazzling white and shining like lightning.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 28 It came about around eight days after Jesus said these words that he took with him Peter, John, and James, and went up into the mountain to pray.
+\v 29 As he was praying, the appearance of his face changed, and his clothing became white and dazzling.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:other:peter]]
+    * [[en:obe:other:johntheapostle]]
+    * [[en:obe:other:jamessonofzebedee]]
+    * [[en:obe:other:pray]]
+
+
+===== Translation Notes: =====
+
+  * **It came about**  - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+  * **these words**  - This refers to what Jesus said to his disciples in the preceding verses.
+  * **into the mountain**  - It is unclear how far up the mountain they went. AT: "on the side of a mountain." 
+  * **white and dazzling**  - "shining white and brilliant" or "brilliant white and shining" or "dazzling white and shining like lightening" (UDB).
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:26|<<]] | [[:en:bible:notes:luk:09:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish pray jamessonofzebedee}}
+
+~~NOCACHE~~

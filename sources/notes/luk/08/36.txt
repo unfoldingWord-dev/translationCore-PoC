@@ -1,0 +1,46 @@
+====== Luke 08:36-37 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 The people who had seen what happened told those \add who had just arrived\add* how \add Jesus\add* had healed the man whom demons were controlling \add before\add*.
+\v 37 Then \add those people and\add* many other people \f + \ft hyperbole \f* from the area near Gerasa asked Jesus to leave their area. They were very afraid of \add what else Jesus would do to them\add*. So \add Jesus and the disciples\add* got into the boat to go back across the lake.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 The men who had seen what had happened told the people who had just arrived how Jesus had healed the man who had been controlled by demons.
+\v 37 Then many people from the surrounding  region of the Gerasenes asked Jesus to leave their area because they were very afraid. So Jesus and the disciples got into the boat to go back across the lake.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 Then the ones who had seen what happened told the others how the man who was controlled by demons had been saved.
+\v 37 All the people of the region of the Gerasenes and the surrounding area asked Jesus to depart from them, for they were gripped with great fear. So he entered into the boat to return.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:save]]
+
+===== Translation Notes: =====
+
+    * **the ones who had seen what happened told**  -  These were the people who had been with the man when Jesus made the demons leave him.
+    * **had been saved** - "had been rescued" or "had been set free" or "had been healed"
+    * **region of the Gerasenes**  -  "that area" or "the area where the Gerasene people lived"
+    * **gripped with great fear**  -  "had become very fearful"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:34|<<]] | [[:en:bible:notes:luk:08:38|>>]]**
+
+~~DISCUSSION~~{{tag>publish save }}
+
+~~NOCACHE~~

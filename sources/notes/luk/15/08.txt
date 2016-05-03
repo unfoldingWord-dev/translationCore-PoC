@@ -1,0 +1,58 @@
+====== Luke 15:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Or, suppose that a woman has ten \add very valuable\add* silver coins. If she loses one of them, she will certainly light a lamp and sweep the floor and search carefully until she finds it!\f + \ft Or: will she not light a lamp and sweep the floor and search carefully until she finds it? \f* \f + \ft rhetorical question \f*
+\v 9 When she finds it, she will call together her friends and neighbors and say, 'Be happy with me, \add because\add* I have found the coin that I lost!'
+\v 10 I tell you that similarly the angels will be happy about \add even just\add* one sinner who turns from doing evil."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Or, suppose that a woman has ten very valuable silver coins and then she loses one of them. Certainly she will light a lamp and sweep the floor and search carefully until she finds it.
+\v 9 And when she finds it, she will call together her friends and neighbors and say to them, "Be very happy with me, because I have found the coin that I lost!'
+\v 10 I tell you that, in a similar way, there is much joy among the angels of God because of one sinner who repents from his sins ."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 Or what woman who has ten silver coins, if she were to lose one coin, would not light a lamp, sweep the house, and seek diligently until she has found it?
+\v 9 And when she has found it, she calls together her friends and neighbors, saying, 'Rejoice with me, for I have found the coin which I lost.'
+\v 10 Even so, I say to you, there is joy in the presence of the angels of God over one sinner who repents."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:lamp]]
+    * [[en:obe:kt:angel]]
+    * [[en:obe:kt:God]]
+
+
+===== Translation Notes: =====
+Jesus continues speaking to the religious leaders.
+    * **Or what woman...would not light a lamp...and seek diligently until she has found it?**  - This is a rhetorical question. Jesus was reminding the people that if any of them lost a silver coin, they would certainly look for it diligently. This sentence can be translated as “You know that if a woman had ten silver coins and lost one, she would light a lamp, sweep the floor and search carefully until she has found it.” (See: [[en:ta:vol1:translate:figs_rquestion]]) 
+    * **what woman** - This is a hypothetical situation and not a story about a real woman. Some languages have ways of showing this. (See: [[en:ta:vol1:translate:figs_hypo]])
+    * **Even so**  - "In the same way" or "Just as people would rejoice with the woman"
+    * **over one sinner who repents**  - This can be translated as "when one sinner repents."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+**[[:en:bible:notes:luk:15:06|<<]] | [[:en:bible:notes:luk:15:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

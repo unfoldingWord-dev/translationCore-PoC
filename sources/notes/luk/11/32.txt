@@ -1,0 +1,56 @@
+====== Luke 11:32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 32 The people who lived in Nineveh \add city\add* turned from their sinful ways when Jonah preached to them. But now I, who am greater than Jonah, have come \add and preached to you\add*, \add but you have not turned from your sinful ways\add*. Therefore, at the time when God judges \add all people\add*, the people who lived in Nineveh will stand there with you and condemn you."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 32 The men who lived in the ancient city of Nineveh turned from their sinful ways when Jonah preached to them. And now I, who am greater than Jonah, have come and preached to you, but you have not turned from your sinful ways. Therefore, at the time when God judges all people, the men who lived in Nineveh long ago will stand there and condemn the people alive now. "
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 32  The men of Nineveh will stand up at the judgment with this generation of people and will condemn it, for they repented at the preaching of Jonah, and see, someone greater than Jonah is here.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:Nineveh]]
+  * [[en:obe:kt:judgmentday]]
+  * [[en:obe:other:generation]]
+  * [[en:obe:kt:condemn]]
+  * [[en:obe:kt:repent]]
+  * [[en:obe:other:preach]]
+  * [[en:obe:other:Jonah]]
+ 
+
+===== Translation Notes: =====
+
+
+
+  * **for they repented** - The men of Nineveh repented.
+  * **someone greater**  - When Jesus said this, he was talking about himself.
+  * **someone greater than Jonah is here** - The rebuke Jesus wanted them to understand was “but you have not repented.” 
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:31|<<]] | [[:en:bible:notes:luk:11:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish judgmentday jonah nineveh}}
+
+~~NOCACHE~~

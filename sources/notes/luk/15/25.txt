@@ -1,0 +1,48 @@
+====== Luke 15:25-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 While all that was happening, his older son was out \add working\add* in the field. When he came near to the house, he heard \add people playing\add* music and dancing.
+\v 26 He called one of the servants and asked what was happening.
+\v 27 The servant said to him, 'Your \add younger\add* brother has come \add home\add*! Your father has \add told us to\add* kill the fat calf \add to celebrate\add* because your brother has returned safe and healthy.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 While all that was happening, the father's older son was out working in the fields. After he finished working and was getting close to the house, he heard people playing music and dancing.
+\v 26 He called for one of the servants and asked what was happening.
+\v 27 The servant said to him, 'Your brother has come home. Your father has told us to kill the fattened calf to celebrate because your brother has returned safe and healthy.'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 Now his elder son was out in the field. As he came and drew near to the house, he heard music and dancing.
+\v 26 He called to one of the servants and asked what these things might be.
+\v 27 The servant said to him, 'Your brother has come home and your father has killed the fattened calf, because he has returned safely.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:servant]]
+ 
+
+===== Translation Notes: =====
+Jesus continues telling his parable.
+    * **servant**  - The word that is translated here as “servant” is normally translated as “boy.” It may indicate that the servant was very young.
+    * **what these things might be** - "what was happening" (UDB)
+    * **the fattened calf** - This can be translated as “the best calf” or “the young bull we have been been giving lots of food to” or “the young animal we have been making fat.”
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+**[[:en:bible:notes:luk:15:22|<<]] | [[:en:bible:notes:luk:15:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

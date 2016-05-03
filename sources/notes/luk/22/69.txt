@@ -1,0 +1,58 @@
+====== Luke 22:69-71 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 69 But some day you will see \add me\add*, the one who came from heaven, sitting next to almighty God and ruling \f + \ft metonymy \f*!"
+\v 70 Then they all said, "If that is so, are \add you\f + \ft singular \f* saying that\add* you are the Son of God\f + \ft Or: the Man who is also God \f*?" He said to them, "\add Yes\add*, it is just like you say \f + \ft metonymy \f*."
+\v 71 Then they said \add to each other\add*, "We\add \f + \ft inclusive \f*\add* certainly do not need any more people to testify \add against him\add*!\f + \ft Or: Why should we ask for any more people to testify \add against him\add*? \f* \f + \ft rhetorical question \f*" We ourselves have heard him say \f + \ft metonymy \f* \add that he is equal with God!\add*
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 69 But from now on, I, the Son of Man, will be sitting next to almighty God and ruling!"
+\v 70 Then they all asked, "If that is so, are you saying that you are the Son of God?” He answered, “Yes, it is just like you say."
+\v 71 Then they said to each other, "We certainly do not need any more people to testify against him! We ourselves have heard him say that he is equal to God!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 69 But from now on, the Son of Man will be seated at the right hand of the power of God."
+\v 70 They all said, "Then you are the Son of God?" And Jesus said to them, "You say that I am."
+\v 71 They said, "Why do we still need a witness? For we ourselves have heard from his own mouth."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:sonofman]]
+  * [[en:obe:kt:righthand]]
+  * [[en:obe:kt:power]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:sonofgod]]
+  * [[en:obe:kt:witness]]
+ 
+
+===== Translation Notes: =====
+Jesus continues speaking to the council of elders.
+
+  * **from now on**  - "from this day" or "starting from today"
+  * **the Son of Man**  - Jesus used this phrase to refer to the Christ. He was implying that he was talking about himself, but the elders would have to ask to see if that's what he was really saying.
+  * **seated at the right hand of the power of God**  - The Jews understood that no one could sit there. They considered this equal to saying "will be with God as God."
+  * **the power of God**  - "the all-powerful God." Here "power" refers to his supreme authority.
+  * **Then you are the Son of God?**  - The Council asked this question because they wanted Jesus to explicitly confirm their understanding that he was saying he was the Son of God. This could be translated, "So when you said that, did you mean that you are the Son of God?" (See: [[en:ta:vol1:translate:figs_explicit]]) The Council condemns Jesus to be crucified because he affirmed that he was "the Son of God," knowing the Council would condemn him to death. Translators must retain Jesus' title, "Son of God," in their language to honor Jesus' own words, which sent him to the cross, the words contained in the original Greek of Luke's Gospel.
+  * **You say that I am**  - "Yes, it is just like you say" (UDB) 
+  * **Why do we still need a witness?**  - This is a rhetorical question. It means "We have no further need for witnesses!" (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **from his own mouth**  - This idiom uses a body part (the mouth) to refer to the person. It means "directly from him." It emphasizes the fact that Jesus himself said the things that they were accusing him of saying. (See: [[en:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:66|<<]] | [[:en:bible:notes:luk:23:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

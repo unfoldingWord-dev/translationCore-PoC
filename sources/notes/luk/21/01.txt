@@ -1,0 +1,54 @@
+====== Luke 21:1-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add Jesus\add* looked up \add from where he was sitting\add* and saw rich people putting their gifts into the \add offering\add* boxes \add in the Temple courtyard\add*.
+\v 2 He also saw a poor widow putting in two \add small\add* copper coins.
+\v 3-4 He said \add to his disciples\add*, "The truth is that these rich people have a lot of money, \add but\add* they gave \add only a small part of it\add*. But this woman, who is very poor, has put in all the money that she had to pay for the things she needs! So \add God considers that\add* \f + \ft hyperbole \f* this poor widow has put more money into the box than all the others."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Jesus looked up from where he was sitting and saw rich people putting their gifts into the temple offering box.
+\v 2 He also saw a poor widow put in two small coins of very little value.
+\v 3 And he said to his disciples, "The truth is that this poor widow has put into the offering box more money than all these rich people.
+\v 4  For they all have a lot of money, but they gave only a small part of it. But this widow, who is very poor, has given all the money that she had to buy what she needed.  
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 21
+\p
+\v 1 Jesus looked up and saw the rich men who were putting their gifts into the treasury.
+\v 2 He saw a certain poor widow putting in two mites.
+\v 3 So he said, "Truly I say to you, this poor widow put in more than all of them.
+\v 4 All of these gave gifts out of their abundance. But this widow, out of her poverty, put in all of the money which she had to live on."
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:Jesus]]
+===== Translation Notes: =====
+
+  * **gifts**  - "gifts of money"
+  * **treasury**  - "collection box" or "money box" or "temple offering box" (UDB). This was one of the boxes at the temple where people put money as a gift to God.
+  * **two mites**  - "two small coins" or "two tiny copper coins." These were the least valuable of the coins people used then. This can be translated as the least valuable coin in your local money system, such as "two pennies." (See: [[en:obe:other:biblicalmoney]])
+  * **I say to you**  - Jesus was talking to his disciples. The word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
+  * **gave gifts out of their abundance**  - This can be translated as "have a lot of money and gave some of it."
+  * **out of her poverty, put in all**  - This can be translated as "has very little, yet she put in all."
+  * **out of her poverty**  - "from what she needed" or "from the little she has"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+**[[:en:bible:notes:luk:20:45|<<]] | [[:en:bible:notes:luk:21:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

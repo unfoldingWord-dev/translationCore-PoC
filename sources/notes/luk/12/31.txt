@@ -1,0 +1,51 @@
+====== Luke 12:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 Instead, be concerned about letting \add God\add* completely direct \add your life\add*. Then \add he\add* will also give you enough of the things \add you need\add*.
+\p
+\v 32 \add You who are my disciples are like a\add* small flock of sheep, \add and I am like your shepherd\add*. So you should not be afraid. Your Father \add in heaven\add* wants to let you rule with him \add in heaven\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 Instead, make it the most important thing in your life to accept God when he rules over you. Then he will also give you everything you need.
+\p
+\v 32 So you should not be afraid, little flock. Your Father in heaven wants to give you all the benefits he plans to when he rules everything completely.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 31 But seek his kingdom, and these things will be added to you.
+\v 32 Do not fear, little flock, because your Father is very pleased to give you the kingdom.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:seek]]
+    * [[:en:obe:other:kingdom]]
+    * [[en:obe:other:flock]]
+    * [[:en:obe:kt:godthefather]]
+
+===== Translation Notes: =====
+Jesus continues to teach his disciples.
+  * **seek his kingdom**  - "focus on God's kingdom" or "greatly desire God's kingdom"
+  * **these things will be added to you **  - "these things also will be given to you." "These things" refers to food and clothing.
+  * **little flock**  - Jesus was calling his disciples a flock. A flock is a group of sheep or goats that a shepherd cares for. As a shepherd cares for his sheep, God would care for Jesus' disciples. AT: "small group" or "dear group." (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:29|<<]] | [[:en:bible:notes:luk:12:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish kingdomofgod }}
+
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Luke 17:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Be careful \add how you act\add*. If you \add know about\add* a fellow believer who sins, you\add \f + \ft singular \f*\add* should rebuke him. If he \add says that he\add* is sorry for having sinned \add and asks you to forgive him\add*, forgive him.
+\v 4 Even if he sins against you\add \f + \ft singular \f*\add* seven times in one day, if he comes to you each time and says, 'I am sorry for what I did', you must continue forgiving him."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Be careful how you act. If one of your brothers sins, you should rebuke him. If he says that he is sorry for having sinned and asks you to forgive him, then you should forgive him.
+\v 4 Even if he sins against you seven times in one day, if he comes to you each time and says, 'I am sorry for what I did,' you must continue forgiving him."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3  Watch yourselves. If your brother sins, rebuke him, and if he repents, forgive him.
+\v 4 If he sins against you seven times in the day, and seven times returns to you, saying, 'I repent,' you must forgive him!"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:brother]]
+  * [[:en:obe:kt:sin]]
+  * [[en:obe:other:rebuke]]
+  * [[:en:obe:kt:repent]]
+  * [[:en:obe:kt:forgive]]
+ 
+
+===== Translation Notes: =====
+
+  * **If your brother sins**  - This is a conditional statement that talks about an event that will probably happen in the future.
+  * **your brother**  - This normally includes "your fellow-believer" as well as actual "brothers" who were born to the same mother and father.
+  * **rebuke him**  - "warn him strongly" or "tell him strongly that what he did was wrong" or "correct him"
+  * **If he sins against you seven times**  - This is a hypothetical future situation. It may never happen, but even if it does, Jesus tells people to forgive.
+  * **seven times in the day**  - This could be translated as "many times in a day." The number seven in the Bible is a symbol for completeness.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:01|<<]] | [[:en:bible:notes:luk:17:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

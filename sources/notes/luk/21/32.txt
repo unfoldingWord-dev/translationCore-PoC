@@ -1,0 +1,62 @@
+====== Luke 21:32-33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 32 Keep this in mind: All the things that \add I have just now described\add* will happen before all the people who have observed the things that I have done have died.
+\v 33 \add You can be certain that these things\add* that I have told \add you\add* about will happen. That they will happen is more\add certain\add* than that the earth and sky will continue to exist."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 32 I am telling you the truth: this generation of people will not come to an end before all these things that I have just now described happen.
+\v 33 The sky and the earth will come to an end, but what I tell you will never come to an end. 
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 32 Truly, I say to you, this generation will not pass away, until all of these things occur.
+\v 33 Heaven and earth will pass away, but my words will never pass away.
+\p
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:amen]]
+  * [[:en:obe:other:generation]]
+  * [[:en:obe:kt:heaven]]
+  * [[en:obe:other:earth]]
+  * [[:en:obe:kt:word]]
+ 
+
+===== Translation Notes: =====
+
+  * **this generation** - Possible meanings are 1) the generation that will see the first of the signs Jesus spoke of or 2) the generation Jesus was speaking to. The first is more likely.
+  * **will not pass away, until** - This is a double negative. AT: "will still be alive when" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **Heaven and earth will pass away** - "Heaven and earth will cease to exist." The word "heaven" here refers to the sky and the universe beyond it.
+  * **my words will never pass away**  - "my words will never cease to exist" or "my words will never fail." This can also be translated as "my words will certainly be fulfilled" or "what I say will surely happen."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/21/29|<<]] | [[en/bible/notes/luk/21/34|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

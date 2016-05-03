@@ -1,0 +1,75 @@
+====== Luke 05:29-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 Afterwards, Levi prepared a big feast in his own house \add for Jesus and his disciples\add*. There was a large group of tax collectors and others eating together with them.
+\v 30 The men who were there who taught the \add Jewish\add* laws, ones who belonged to the Pharisee \add sect\add*, complained to Jesus' disciples, saying, "\add It is disgusting that\add* you are eating with tax collectors and\add others who we\f + \ft exclusive \f* consider to be\add* sinners!\f + \ft Or: Why are you eating with tax collectors \add and others who we( exclusive ) consider to be\add* sinners? \f*" \f + \ft rhetorical question \f*
+\v 31 Then, \add to indicate that it was those who knew that they had sinned who were coming to him for help\add*, Jesus said to them, "\add It is\add* people who are sick who need a doctor, not those who are well \f + \ft metaphor \f*.
+\v 32 \add Similarly\add*, I did not come \add from heaven\add* to invite \add those who think they are\add* righteous \add to come to me\add*. On the contrary, \add I came to invite those who know that they are\add* sinners to turn from their sinful behavior\add and come to me\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 Later on, Levi prepared a big feast in his own house for Jesus and his disciples. There was a large group of tax collectors and others eating together with them.
+\v 30 Some men who belonged to the Pharisee sect, including those of them who taught Jewish laws, complained to Jesus' disciples, saying, "You should not be eating with tax collectors and other terrible sinners.
+\v 31 Then Jesus said to them, "It is people who are sick who know they need a doctor, not those who think they are well.
+\v 32 Similarly, I did not come from heaven to invite those who think they are righteous to come to me. On the contrary, I came to invite those who know that they are sinners, to turn from their sinful behavior and come to me."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 29 Then Levi prepared a big banquet for Jesus in his house, and there were many tax collectors there, and other people who were reclining at the table and eating with them.
+\v 30 But the Pharisees and their scribes were complaining to his disciples, saying, "Why do you eat and drink with tax collectors and other sinful people?"
+\v 31 Jesus answered them, "People who are in good health do not need a physician, only people who are sick need one.
+\v 32 I did not come to call righteous people to repentance, but to call sinners to repentance."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:banquet]]
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:other:scribe]]
+    * [[en:obe:kt:disciple]]
+    * [[en:obe:kt:sin]]
+    * [[en:obe:kt:righteous]]
+    * [[en:obe:kt:repent]]
+
+
+===== Translation Notes: =====
+
+    * **in his house** - "in Levi's house"
+    * **reclining at the table** - The Greek style of eating at a feast was to lie on a couch and prop oneself up with the left arm on some pillows.  AT: "at the table" or "sitting at the table." 
+    * **to his disciples** - "to Jesus' disciples"
+    * **Why do you eat**  - The Pharisees and scribes used this rhetorical question to express their disapproval that Jesus' disciples were eating with sinners. The word "you" is plural. AT: "You should not eat with sinners!" (See: [[en:ta:vol1:translate:figs_you]])
+    * **physician**  - "medical doctor" or "doctor"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/05/27|<<]] | [[en/bible/notes/luk/05/33|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish repent}}
+
+~~NOCACHE~~

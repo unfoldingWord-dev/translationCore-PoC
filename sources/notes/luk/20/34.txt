@@ -1,0 +1,67 @@
+====== Luke 20:34-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 Jesus replied to them, "Men who live here in this world take wives, or are given wives \add by their parents\add* \f + \ft Or:their \add parents\add* choose wives \add for them\add* \f*.
+\v 35 But the men whom God considers worthy of \add being in heaven after\add* they become alive again will not be married.
+\v 36 \add You need to know also that\add* they cannot die anymore, because they will be \add immortal\add* \f + \ft simile \f* like angels. \add The fact that God has caused\add* them to be alive again \add will show\add* that they are God's children.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 Jesus replied to them, "In this world, men take wives, and people give their daughters in marriage to men.
+\v 35 But the people whom God considers worthy of being in heaven after they rise from the dead will not marry.
+\v 36 Also, they cannot die anymore, because they will be immortal like angels. The fact that God has caused them to rise again will show that they are his children.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 Jesus said to them, "The sons of this world marry, and are given in marriage.
+\v 35 But they who are judged to be worthy to receive the resurrection from the dead and to enter eternity neither marry, nor are given in marriage.
+\v 36 Neither can they die anymore, for they are equal to the angels and are sons of God, being sons of the resurrection.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:son]]
+  * [[en:obe:kt:world]]
+  * [[:en:obe:kt:judge]]
+  * [[en:obe:kt:worthy]]
+  * [[:en:obe:kt:resurrection]]
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:eternity]]
+  * [[:en:obe:kt:angel]]
+  * [[en:obe:kt:sonsofgod]]
+
+
+===== Translation Notes: =====
+
+  * **The sons of this world**  - "The people of this world" or "The people of this time." This is in contrast with those in heaven or the people who live after the resurrection.
+  * **marry, and are given in marriage**  - In that culture they spoke of men marrying women and women being given in marriage to their husband. This can also be translated as "get married."
+  * **they who are judged to be worthy** - "the people whom God has considered to be worthy"
+  * **to receive the resurrection** - "to be raised from the dead" or "to rise from the dead"
+  * **neither marry, nor are given in marriage** - "will not get married." This is after the resurrection.
+  * **Neither can they die anymore** - This can be translated as "They will not be able to die anymore." This is after the resurrection.
+  * **and are sons of God, being sons of the resurrection** - This can be translated as "will be shown to be sons of God, when they have been raised from the dead."
+  * **sons of God**  - "children of God"
+  * **sons of the resurrection**  - "people who have been raised from the dead"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/20/29|<<]] | [[en/bible/notes/luk/20/37|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish resurrection eternity }}
+~~NOCACHE~~

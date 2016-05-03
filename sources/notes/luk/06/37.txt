@@ -1,0 +1,43 @@
+====== Luke 06:37 ======
+
+===== TFT: =====
+
+<usfm>
+\v 37 "Do not say how sinfully others have acted, and then \add God\add* will not say how sinfully you have acted. Do not condemn others, and then \add he\add* will not condemn you \f + \ft doublet \f*. Forgive others \add for the evil things that they have done to you\add*, and then \add God\add* will forgive you.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 37 Do not harshly criticize people and then God will not harshly criticize you. Do not condemn other people, and then he will not condemn you. Forgive others for the evil things that they have done, and then God will forgive you.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 37 Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive others, and you will be forgiven.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:judge]]
+  * [[:en:obe:kt:condemn]]
+  * [[:en:obe:kt:forgive]]
+
+===== Translation Notes: =====
+Jesus teaches the crowd not to judge people.
+
+  * **Do not judge**  - "Do not judge people" or "Do not criticize people"
+  * **and**  - AT: "and as a result"
+  * **you will not be judged**  - Jesus did not say who would not judge. Possible meanings are 1) "God will not judge you" or 2) "no one will judge you." Both of these translations make it explicit who will not judge. (See: [[en:ta:vol1:translate:figs_explicit]], [[en:ta:vol2:translate:figs_activepassive]])
+  * **Do not condemn**  - "Do not condemn people"
+  * **you will not be condemned**  - Jesus did not say who would not condemn. Possible meanings are 1) "God will not condemn you" or 2) "no one will condemn you." Both of these translations make it explicit who will not condemn. (See: [[en:ta:vol1:translate:figs_explicit]] and [[en:ta:vol2:translate:figs_activepassive]])
+  * **you will be forgiven**  - Jesus did not say who would forgive. Possible meanings are 1) "God will forgive you" or 2) "they will forgive you." The first translation makes it explicit who will forgive. (See: [[en:ta:vol1:translate:figs_explicit]], [[en:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:35|<<]] | [[:en:bible:notes:luk:06:38|>>]]**
+
+~~DISCUSSION~~{{tag>publish judge condemn }}
+
+~~NOCACHE~~

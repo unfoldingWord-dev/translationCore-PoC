@@ -1,0 +1,55 @@
+====== Luke 09:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 \add One day\add* Jesus was praying in a place where only the disciples were with him. He asked them, "The crowds \add of people\add*, who do they say that I \add really\add* am?"
+\v 19 They replied, "\add Some people say that you are\add* John the Baptizer, \add who has come back to life again\add*. Others say that you are \add the prophet\add* Elijah, \add who has returned from heaven as God promised\add*. Others say that you are one of the \add other\add* prophets who lived long ago, who has come back to life again."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 One day while Jesus was praying in private, his disciples came to him and he asked them, "Who do the crowds say that I am?"
+\v 19 They replied, "Some people say that you are John the Baptizer,  but others say that you are the prophet Elijah, and still others say that you are one of the other prophets from long ago who has come back to life again."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 It came about that, as he was praying alone, the disciples were with him, and he questioned them, saying, "Who do the multitudes say that I am?"
+\v 19 Answering, they said, "John the Baptist, but others say Elijah, and others say that one of the prophets from ancient times has risen again."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:pray]]
+    * [[en:obe:other:johnthebaptist]]
+    * [[en:obe:other:elijah]]
+    * [[en:obe:kt:prophet]]
+    * [[en:obe:kt:raise]]
+
+
+===== Translation Notes: =====
+
+  * **It came about that**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **as he was praying**  - This refers to Jesus.
+  * **praying alone**  - The disciples were with Jesus, but he was praying personally and privately by himself. 
+  * **Answering, they said**  - "They answered him by saying"
+  * **John the Baptist**  - Some languages may prefer to add "Some say you are John the Baptist."
+  * **from ancient times**  - "who lived a very long time ago"
+  * **has risen again**  - "has come back to life"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:15|<<]] | [[:en:bible:notes:luk:09:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

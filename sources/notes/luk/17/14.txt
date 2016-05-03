@@ -1,0 +1,55 @@
+====== Luke 17:14-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 When he saw them, he said \add to them\add*, "Each of you should go and show yourself to a priest \add in Jerusalem so that he can see if you are healed\add*." As they were going \add there\add*, they were healed.
+\v 15 Then one of them, when he saw that he was healed, turned back, praising God loudly.
+\v 16 He \add came to Jesus\add*, prostrated himself at Jesus' feet, and thanked him. This man was a Samaritan, \add not a Jew\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 When he saw them, he said to them, "Go and show yourselves to the priests." So they went, and as they were going, they were healed.
+\v 15 Then one of them, when he saw that he was healed, turned back, praising God loudly.
+\v 16 He came to Jesus and kneeled face down at Jesus' feet, and thanked him. This man was a Samaritan.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 When he saw them, he said to them, "Go and show yourselves to the priests." And it came about that, as they went, they were cleansed.
+\v 15 When one of them saw that he was healed, he turned back, with a loud voice glorifying God.
+\v 16 He bowed down at Jesus' feet, giving him thanks. He was a Samaritan.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:priest]]
+  * [[:en:obe:kt:clean]]
+  * [[:en:obe:other:heal]]
+  * [[:en:obe:kt:glorify]]
+  * [[en:obe:kt:bow]]
+  * [[en:obe:other:samaria]]
+ 
+
+===== Translation Notes: =====
+
+  * **Go and show yourselves to the priests**  - The implicit information, "so they can examine you" can be stated clearly. (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **And it came about that** -  This phrase is used here to mark an important event in the story. If your language has a way of doing this, you could consider using it here.
+  * **they were cleansed**  - This is the important event marked by "It came about." It can be translated as "they became clean when they were healed of their leprosy" or "they were cured of their leprosy."
+  * **saw that he was healed**  - "realized that he was healed" or "realized that Jesus had  healed him"
+  * **he turned back** - "he went back to Jesus"
+  * **with a loud voice glorifying God** - "and glorified God loudly"
+  * **He bowed down at Jesus' feet**  - "he knelt down and put his face close to Jesus feet." He did this to honor Jesus.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:11|<<]] | [[:en:bible:notes:luk:17:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

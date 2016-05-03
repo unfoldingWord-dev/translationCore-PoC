@@ -1,0 +1,55 @@
+====== Luke 08:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Jesus' disciples \add later\add* asked him about the meaning of the parable \add he had just told\add*.
+\v 10 He said, "God is revealing to you what he did not reveal before, about \add how he wants to\add* rule \f + \ft metaphor \f* \add over people's lives\add*. But when I am telling other people about \add these things, I tell them\add* only in parables. The result will be \add like a prophet predicted long ago:\add*
+\q They will see \add what I am doing\add*, but will not perceive \add what it means\add*. They will hear \add what I am saying\add*, but will not understand \add it\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then Jesus' disciples asked him to tell them the meaning of the story.
+\v 10 And he said, "To you has been granted the privilege of knowing the hidden things about how God will rule as king. But I speak to everyone else only in parables, so that,
+\q 'Although they see, they may not perceive, and although they hear, they may not understand.'
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 Then his disciples asked him what this parable might mean. 
+\v 10 Jesus said to them, "You have been given the privilege of understanding the mysteries of the kingdom of God, but the rest of the people will only be taught with parables, so that 'seeing they will not really see, and hearing they will not really understand.'
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:disciple]]
+    * [[en:obe:other:understand]]
+    * [[en:obe:other:mystery]]
+    * [[en:obe:kt:kingdomofgod]]
+
+===== Translation Notes: =====
+
+  * **You have been given the privilege of understanding**  - AT: "God has given you the gift of understanding" or "God has made you able to understand." (See: [[en:ta:vol2:translate:figs_activepassive]], [[en:ta:vol1:translate:figs_explicit]])
+  * **the mysteries of the kingdom of God**  - These are truths that had been kept hidden but Jesus was revealing them.
+  * **seeing they will not really see**  - "though they see, they will not perceive." AT: "though they see things, they will not understand them" or "though they see things happen, they will not understand what they mean." (See: the section about Verbs and Objects on [[en:ta:vol2:translate:figs_verbs]])
+  * **hearing they will not really understand**  - "though they hear, they will not understand." AT: "though they hear instruction, they will not understand the truth." (See: the section about Verbs and Objects on [[en:ta:vol2:translate:figs_verbs]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:07|<<]] | [[:en:bible:notes:luk:08:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish parable}}

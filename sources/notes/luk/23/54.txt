@@ -1,0 +1,57 @@
+====== Luke 23:54-56 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 54 \add They had to do it quickly because\add* that was \add Friday\add*, the day when \add people\add* prepared \add things for the Jewish day of rest\add*. The Sabbath\f + \ft Or: The day of rest \f* was about to start \add at sunset, so they had to finish burying his body before sunset\add*.
+\v 55 The women who had come with \add Jesus\add* from Galilee \add district\add* followed \add Joseph and the men who were with him\add*. They saw the tomb, and they saw how the men laid \add Jesus'\add* body \add inside it, and saw the men roll a huge stone across the entrance\add*.
+\v 56 Then the women returned to the houses \add where they were staying. The following evening\add* they prepared spices and ointments to put \add on Jesus' body\add*, but on the Sabbath\f + \ft Or: on the Jewish rest day \f* they rested, according to what \add Moses\add* had commanded.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 54 It was the day when people got ready for the Jewish day of rest called the Sabbath. It was soon going to be sunset, the start of the Sabbath.
+\v 55 The women who had come with Jesus from the district of Galilee followed Joseph and the men who were with him. They saw the burial chamber, and they saw how the men laid Jesus' body inside it.
+\v 56 Then the women went back to where they were staying in order to get spices and ointments to put on Jesus' body. However, they did no work on the Sabbath, just as the Jewish law required.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 54 It was the Day of the Preparation, and the Sabbath was dawning.
+\v 55 The women, who had come with him out of Galilee, followed after, and saw the tomb and how his body was laid.
+\v 56 They returned, and prepared spices and ointments.
+\p Then on the Sabbath they rested according to the commandment.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:sabbath]]
+  * [[en:obe:other:galilee]]
+  * [[en:obe:other:command]]
+ 
+
+===== Translation Notes: =====
+
+  * **the Day of the Preparation** - "the day when people got ready for the Jewish day of rest called the Sabbath" (UDB)
+  * **the Sabbath was dawning** - "It was soon going to be sunset, the start of the Sabbath" (UDB). The dawn here is a metaphor for the beginning of a day. For the Jews, the day began at sunset. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **who had come with him out of Galilee** - "who had traveled with Jesus from the region of Galilee"
+  * **followed after** - "followed behind Joseph and the men who were with him"
+  * **saw the tomb** - "the women saw the tomb"
+  * **how his body was laid** - "the women saw how the men laid Jesus' body inside the tomb"
+  * **They returned** - "The women went to the houses where the women were staying" (UDB)
+  * **prepared spices and ointments** - "prepared spices and ointments to prepare Jesus' body for burial"
+  * **they rested** - "the women did no work"
+  * **according to the commandment** - "according to the Jewish law" or "as the Jewish law required" or "as required by the law given through Moses"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:52|<<]] | [[:en:bible:notes:luk:24:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

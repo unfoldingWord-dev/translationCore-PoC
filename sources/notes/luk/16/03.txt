@@ -1,0 +1,49 @@
+====== Luke 16:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Then the manager said to himself, 'My master is going to dismiss me from my work, so I do not know what to do.\f + \ft Or: what shall I do ( rhetorical question )? \f* I am not strong enough to \add work by\add* digging ditches, and I am ashamed to beg \add for money\add*.'
+\v 4 \add Suddenly he had an idea\add*. 'I know what I will do, so that people will take me into their houses \add and provide for me\add* after I am dismissed \f + \ft Or:after my master dismisses me \f* from my work!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Then the manager said to himself, 'My master is going to dismiss me from being his manager, so I have to think of what to do. I am not strong enough to work by digging ditches, and I am ashamed to beg for money.
+\v 4 I know what I will do, so that people will take me into their houses and provide for me after I am dismissed from my management work!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 The manager said to himself, 'What should I do, since my master is taking away my management job? I do not have strength to dig, and I am ashamed to beg.
+\v 4 I know what I will do, so that when I am removed from my management job, people will welcome me into their houses.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:manager]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:shame]]
+  * [[en:obe:other:beg]]
+ 
+===== Translation Notes: =====
+Jesus continues telling his story.
+    * **What should I do?**  - The manager asks this of himself, as a means of reviewing his options.
+    * **my master**  - This refers to the wealthy man. It could also be translated as "my employer." The manager was not a slave.
+    * **I do not have strength to dig**  - "I am not strong enough to dig the ground" or "I am not able to dig"
+    * **when I am removed from my management job** - This could also be translated as, "when I lose my management job."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+**[[:en:bible:notes:luk:16:01|<<]] | [[:en:bible:notes:luk:16:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish manager}}
+
+~~NOCACHE~~

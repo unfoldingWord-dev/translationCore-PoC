@@ -1,0 +1,58 @@
+====== Luke 23:29-31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 I want you to know that there will soon be a time when people will say, 'Women \f + \ft synecdoche \f* who have never borne children or nursed babies are fortunate!'
+\v 30 Then, \add in order that they will not have to suffer greatly when their enemies destroy this city\add*, people who are left in the city will say to the mountains, 'Fall down on us!' And people will say to the hills, 'Cover us!'
+\v 31 \add I am innocent\add* \f + \ft metaphor \f*. \add I am like\add* a living tree \add that people do not try to burn. But the people of Jerusalem deserve that their enemies punish them. They are like\add* dry wood that is ready to \add burn\add*. So if they \add nail me to the cross\add*, \add their enemies\add* will certainly do much worse things to them!\f + \ft Or: what worse things will God do to them? \f* \f + \ft rhetorical question \f*"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 For I want you to know that there will soon be a time when people will say, 'How fortunate are the women who have never given birth to children or nursed babies!'
+\v 30 Then the people in this city will say, 'We wish that the mountains would fall on top of us and that the hills would cover us up!'
+\v 31 If I have to die, even though I have nothing wrong, terrible things will certainly happen to people who deserve to die.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 29 For see, the days are coming in which they will say, 'Blessed are the barren and the wombs that did not bear, and the breasts that did not nurse.'
+\v 30 Then they will begin to say to the mountains, 'Fall on us,' and to the hills, 'Cover us.'
+\v 31 For if they do these things while the tree is green, what will happen when it is dry?"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:bless]]
+  * [[en:obe:kt:barren]]
+  * [[en:obe:other:womb]]
+
+===== Translation Notes: =====
+
+  * **in which they will say**  - "when people will say"
+  * **the barren**  - "women who have not given birth to children"
+  * **Then**  - "At that time"
+  * **to the hills**  - "they will say to the hills"
+  * **For if they do these things while the tree is green, what will happen when it is dry?**  - This is a rhetorical question. It can be translated as a statement: "You can see that they are doing these bad things while the tree is green, so you can be sure that they will do worse things when the tree is dry." The meaning is "You see that they are doing bad things now in good times, so you can be sure they will do worse things in the bad times in the future." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **the tree is green**  - The green tree is a metaphor for something good in the present. If your language has a similar metaphor, you should use it here. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **it is dry**  - The dry wood is a metaphor for something bad in the future.  (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **they**  - This can refer to either the Romans or the Jewish leaders or no one in particular.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:27|<<]] | [[:en:bible:notes:luk:23:32|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

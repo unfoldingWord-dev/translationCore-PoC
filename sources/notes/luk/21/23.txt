@@ -1,0 +1,66 @@
+====== Luke 21:23-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 \add I feel\add* very sorry for women \add in this city\add* who will be pregnant, and women who will be nursing \add their babies\add* in those days, \add because it will be very difficult for them to run away! I\add* feel sorry \add because\add* the people in this \add land\add* will suffer greatly \f + \ft metonymy \f* \add when God punishes them\add*.
+\v 24 Many of them will be killed \f + \ft Or:Their enemies will kill many of them \f* with swords. \add Others will be captured\add* and taken \f + \ft Or:They will capture \add others\add* and take them \f* to \f + \ft hyperbole \f* \add other\add* countries. Non-Jewish people will trample over Jerusalem until the time \add that God has determined for them to rule the city\add* is ended."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 How terrible it will be the for the pregnant women and those nursing their babies in those days, because there will be great suffering in the land, and its people will suffer enormously because God will be angry with them.
+\v 24 Many of them will die because of the soldiers attacking them. Others will become prisoners and will have to go all over the earth. The Gentiles will keep trampling through Jerusalem for as long as God allows."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 23 Woe to them who are pregnant and to them who are nursing in those days! For there will be great distress upon the land, and wrath to this people.
+\v 24 And they will fall by the edge of the sword and they will be led captive into all the nations, and Jerusalem will be trampled by the Gentiles, until the times of the Gentiles are fulfilled.
+\p
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:woe]]
+  * [[:en:obe:kt:wrath]]
+  * [[en:obe:other:sword]]
+  * [[en:obe:other:captive]]
+  * [[en:obe:other:nation]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:kt:fulfill]]
+ 
+
+===== Translation Notes: =====
+Jesus continues speaking to his disciples about the future.
+  * **there will be great distress upon the land**  - Possible meanings are 1) the people of the land will be distressed and 2) there will be physical disasters in the land.
+  * **wrath to this people**  - "there will be wrath to this people." This can be translated as "this people will experience God's anger" or "God will be very angry with this people." The implied information about punishment can be made clear: "this people will be punished" or "God will punish this people." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **they will fall by the edge of the sword**  - "they will be killed by the edge of the sword." This refers to being killed by enemy soldiers. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **they will be led captive into all the nations** - This can be translated with an active clause: "Their enemies will capture them and take them to other countries." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Jerusalem will be trampled by the Gentiles**  - Possible meanings are 1) the Gentiles will conquer Jerusalem and occupy it or 2) the Gentiles will destroy the city of Jerusalem or 3) the Gentiles will destroy the people of Jerusalem.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/21/20|<<]] | [[en/bible/notes/luk/21/25|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish gentile wrath}}
+~~NOCACHE~~

@@ -1,0 +1,43 @@
+====== Luke 05:14 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Then Jesus told him, "Make sure that you do not report \add your healing immediately. First, go to a priest in Jerusalem\add* and show yourself to him \add so that he can examine you and verify that you no longer have leprosy\add*. After the priest tells\add the local people\add*, they will know that \add you have been healed, and you will be able to associate with them again\add*. Also take to the priest \add the offering\add* that Moses commanded \add that people who have been healed from leprosy should offer\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Then Jesus told him, "Make sure that you do not tell people about your healing immediately. First, go to a priest in Jerusalem and show yourself to him so that he can examine you and see that you no longer have leprosy. Also take to the priest the offering that Moses commanded that people who have been healed from leprosy should offer."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 14 He instructed him to tell no one, but told him, "Go on your way, and show yourself to the priest and offer a sacrifice for your cleansing, according to what Moses commanded, for a testimony to them."
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:instruct]]
+  * [[:en:obe:kt:priest]]
+  * [[:en:obe:other:sacrifice]]
+  * [[:en:obe:kt:clean]]
+  * [[:en:obe:other:moses]]
+  * [[en:obe:other:command]]
+  * [[:en:obe:kt:testimony]]
+
+===== Translation Notes: =====
+
+  * **to tell no one**  - This is an indirect quote. The implied information is "that you have been healed." AT: "Do not tell anyone." (See: [[en:ta:vol2:translate:figs_quotations]], [[en:ta:vol1:translate:figs_explicit]])
+  * **sacrifice for your cleansing**  - The law required a person to make a specific sacrifice after they were cleansed. This allowed the person to be ceremonially clean, and able to again participate in religious rituals.
+  * **for a testimony to them**  - "for a testimony to the priests" or "so that the priests will know that you have truly been healed." The priests in the temple would be confronted with the fact that Jesus had healed the man's leprosy.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:luk:05:12|<<]] | [[:en:bible:notes:luk:05:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

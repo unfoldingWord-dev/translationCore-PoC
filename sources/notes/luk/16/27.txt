@@ -1,0 +1,48 @@
+====== Luke 16:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 Then the rich man said, 'If that is so, father \add Abraham\add*, I ask you\add \f + \ft singular \f*\add* to send \add Lazarus\add* to my father's house.
+\v 28 I have five brothers \add who live there\add*. Tell him to warn them \add to turn away from their sinful behavior so that\add* they do not also come to this place, where \add we\f + \ft exclusive \f*\add* suffer great pain!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 Then the rich man said, 'If that is so, Father Abraham, I ask you to send Lazarus to my father's house.
+\v 28 I have five brothers who live there. Tell him to warn them so that they do not also come to this place, where we suffer great pain!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 27 The rich man said, 'I beg you, Father Abraham, that you would send him to my fatherâ€™s houseâ€x22
+\v 28 for I have five brothersâ€x22in order that he may warn them, for fear that they also come into this place of torment.'
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[:en:obe:other:beg]]
+    * [[en:obe:other:house]]
+
+===== Translation Notes: =====
+Jesus continues telling his story.
+  * **that you would send him to my father's house**  - This could be translated as "that you would tell Lazarus to go to my father's house" or "Please, send him to my father's house."
+  * **my father's house** - "my family." This probably does not refer to a physical house. The rich man wants Lazarus to warn his family members, even if they do not live in the same house as his father.
+  * **in order that he may warn them**  - This could be translated as "Tell Lazarus to warn them."
+  * **for fear that they also come**  - This could be translated as "so that they do not also come" (UDB) or "If they are not warned, they might come." Since it is implied that the way they would avoid going there is by repenting, this implied information could be made clear, as in "so that they might repent and not come." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **this place of torment**  - This could be translated as "this place where we suffer torment" or "this place where we suffer terrible pain" or "this place where we are tortured." (See: [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+**[[:en:bible:notes:luk:16:25|<<]] | [[:en:bible:notes:luk:16:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish beg }}
+
+~~NOCACHE~~

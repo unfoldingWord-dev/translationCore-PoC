@@ -1,0 +1,60 @@
+====== Luke 16:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 When his master \add heard what the manager had done\add*, he admired the dishonest manager for the clever thing he had done. \add The truth\add* is that the ungodly people in this world act more wisely toward other people than godly people \f + \ft metaphor \f* act.
+\v 9 \add So\add* I tell you\add \f + \ft plural \f*\add* this: Use the money that you have \add here\add* on earth to help others so that they will become your friends. Then when \add you die and\add* you cannot \add take\add* any money with you, \add God and his angels\add* will welcome you into a home \add in heaven\add* that will last forever.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 When his master heard what the manager had done, he admired the dishonest manager for the clever thing he had done. The truth is that the ungodly people in this world act more cleverly toward other people than godly people act.
+\v 9 So I tell you this: Use the money that you have here on earth to help others so that they will become your friends. Then when you die, they will welcome you into an eternal home.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 The master then commended the unrighteous manager because he had acted shrewdly, since the sons of this world are more shrewd concerning their own people than the sons of the light are.
+\v 9 I say to you, make friends for yourselves by means of worldly wealth, so that when it is gone, they may welcome you into the eternal dwellings.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:unrighteous]]
+  * [[en:obe:other:manager]]
+  * [[en:obe:kt:son]]
+  * [[en:obe:kt:world]]
+  * [[en:obe:kt:light]]
+  * [[en:obe:kt:eternity]]
+ 
+
+===== Translation Notes: =====
+Jesus continues telling his story.
+    * **The master then commended** - The debtors whose debts the manager had lowered would probably have thought that the master had ordered the manager to lower them, so they would have praised the master for being generous.
+    * **commended**  - "praised" or "spoke well of" or "approved of"
+    *  **he had acted shrewdly**  - "he had acted cleverly" or "he had done a sensible thing"
+    * **the sons of this world** - This refers to those like the unrighteous manager who do not know or care about God. It could also be translated as "the people of this world" or "worldly people."
+    * **the sons of the light** - This refers to righteous people who have nothing to hide. It can also be translated as "the people of the light" or  "the people who live in the light.
+    * **I say to you**  - "I" refers to Jesus. Jesus has finished telling his story. The phrase "I say to you" marks his change to telling the people how to apply it to their lives.
+    * **worldly wealth**  - This refers to physical wealth. It includes clothing, food, money, precious items. 
+    * **eternal dwellings**  - This refers to heaven, where God lives.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+**[[:en:bible:notes:luk:16:05|<<]] | [[:en:bible:notes:luk:16:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

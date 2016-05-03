@@ -1,0 +1,38 @@
+====== Luke 24:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 \add Jesus\add* said to them, "What have you two been talking about while you were walking?" They stopped, and their faces looked very sad.
+\v 18 One of them, whose name was Cleopas, said, "You\add \f + \ft singular \f*\add* must be the only person who is visiting Jerusalem \add for the Passover festival\add* who does not know the events that have happened there in recent days!\f + \ft Or: Are you the only person who is visiting Jerusalem \add for the Passover festival\add* who does not know the events that have happened there in recent days? \f* \f + \ft rhetorical question \f*"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 Jesus said to them, "What have you two been talking about while you were walking?" They stopped, and their faces looked very sad.
+\v 18 One of them, whose name was Cleopas, said, "You must be the only person who is visiting Jerusalem who does not know the events that have happened there in recent days!"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 17 Jesus said to them, "What are the two of you talking about as you walk?" They stood there looking sad.
+\v 18 One of them, named Cleopas, answered him, "Are you the only person in Jerusalem who does not know the things which have happened there these days?"
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:jerusalem]]
+
+===== Translation Notes: =====
+
+  * **Cleopas** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Are you the only person**  - "You" refers to Jesus, use you (singular). This is the beginning of a rhetorical question. Cleopas showed his surprise that Jesus appeared not to know about the things that had happened in Jerusalem. It can also be translated as "You must be the only person." (See: [[en:ta:vol1:translate:figs_you]],  [[en:ta:vol1:translate:figs_rquestion]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:15|<<]] | [[:en:bible:notes:luk:24:19|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

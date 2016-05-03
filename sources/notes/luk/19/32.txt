@@ -1,0 +1,62 @@
+====== Luke 19:32-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 32 \add So\add* the \add two disciples\add* went \add to the village\add* and found the \add animal\add*, just like he had told them.
+\v 33 As they were untying it, its owners said to them, "Why are you two untying that young animal?"
+\v 34 They replied, "The Lord needs it." \add So the owners said that they could take it\add*.
+\v 35 The \add two disciples\add* brought \add the animal\add* to Jesus. They threw their cloaks on the animal's back \add for him to sit on\add* and helped Jesus get on it.
+\v 36 Then as he rode along, \add others\add* spread their cloaks on the road \add to honor him\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 32 So the two disciples went to the village and found the donkey, just like Jesus had told them.
+\v 33 As they were untying it, its owners said to them, "Why are you untying our donkey?"
+\v 34 They replied, "The Lord needs it."
+\v 35 Then the disciples brought the donkey to Jesus. They threw their cloaks on the donkey's back for him to sit on and helped Jesus get on it.
+\v 36 Then as he rode along, others spread their cloaks on the road in front of him to honor him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 32 Those who were sent went and found the colt just as Jesus had told them.
+\v 33 As they were untying the colt, the owners said to them, "Why are you untying the colt?"
+\v 34 They said, "The Lord has need of it."
+\v 35 They brought it to Jesus, and they threw their garments upon the colt and set Jesus on it.
+\v 36 As he went, they spread their garments on the road.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:jesus]]
+ 
+
+===== Translation Notes: =====
+
+
+  * **Those who were sent** - This can be translated with an active verb: "Those Jesus had sent" or "The two disciples that Jesus sent" (See: [[en:ta:vol2:translate:figs_activepassive]]). 
+  * **threw their garments upon the colt**  - "put their robes on the young donkey." Garments are clothes. In this case it refers to their outer robes or cloaks.
+  * **they spread their garments**  - This can be translated as "people spread their garments" or "others spread their cloaks" (UDB).
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/29|<<]] | [[en/bible/notes/luk/19/37|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

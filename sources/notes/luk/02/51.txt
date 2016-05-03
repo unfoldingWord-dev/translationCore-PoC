@@ -1,0 +1,58 @@
+====== Luke 02:51-52 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 51 Then he returned with them down to Nazareth. He always obeyed them. But his mother kept thinking about all those things.
+\p
+\v 52 \add As the years passed\add*, Jesus continued to become wiser and he grew taller. God and people continued to approve of him more and more.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 51 Then he returned with them to Nazareth and he always obeyed them. His mother kept thinking deeply about all those things. 
+\p
+\v 52 As the years passed, Jesus continued to become wiser and he grew taller. God and people continued to approve of him more and more.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 51 Then he went back home with them to Nazareth and was obedient to them. His mother treasured all these things in her heart.  
+\p 
+\v 52 But Jesus continued to grow in wisdom and stature, and increased in favor with God and people.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:nazareth]]
+  * [[en:obe:other:obey]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:kt:wise]]
+  * [[en:obe:kt:favor]]
+  * [[en:obe:kt:god]]
+
+===== Translation Notes: =====
+
+This is the end of the account of Jesus' birth and childhood. 
+
+    * **he went back home with them** - "Jesus went back home with Mary and Joseph"
+    * **was obedient to them** - "obeyed them" or "was always obeying them"
+    * **treasured all these things in her heart** - "carefully remembered all these things" or "joyfully thought about all these things." A treasure is something that is very valuable or precious. Mary considered the things her son did and said to be very precious. (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **grow in wisdom and stature** - "become more wise and strong" (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **increased in favor with God and people** - AT: "God blessed him more and more, and people liked him more and more."
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:48|<<]] | [[:en:bible:notes:luk:03:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

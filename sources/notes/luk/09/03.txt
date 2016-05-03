@@ -1,0 +1,58 @@
+====== Luke 09:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 he said to them, "Do not take things for your journey. Do not take a walking stick or a \add traveler's\add* bag or food or money. Do not take an extra shirt\f + \ft Or: extra clothes \f*.
+\v 4 Whenever you enter some house \add to lodge there\add*, stay in that house until you leave that town.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Before they left, he said to them, "Do not take anything with you for your journey. Do not take a walking stick or a traveler's bag or food or money. Do not even take an extra tunic.
+\v 4  Whatever house you enter, stay in that house until you leave that area.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 He said to them, "Take nothing for your journey—neither staff, nor wallet, nor bread, nor money—neither take two tunics.
+\v 4 Whatever house you enter into, stay there until you leave from that place.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:staff]]
+    * [[en:obe:other:bread]]
+    * [[en:obe:other:tunic]]
+
+
+===== Translation Notes: =====
+
+    * **He said to them**  - "Jesus said to the twelve"
+    * **Take nothing **- AT: "Do not take anything with you" or "Do not bring anything with you."
+    * **for your journey**  - "for your trip" or "when you travel." They are to take nothing for their entire trip, as they move from village to village, and until they come back to Jesus.
+    * **staff **- "rod" or "walking stick." A staff was a large stick that was a used for balance when climbing or on uneven ground. It could also be used for defense against attackers.
+    * **Whatever house you enter into**  - "Any house you enter"
+    * **stay there** - "remain there" or "temporarily live in that house as a guest"
+    * **from that place** - "from that town" or "from that area"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/09/01|<<]] | [[en/bible/notes/luk/09/05|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

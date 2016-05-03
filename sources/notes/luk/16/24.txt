@@ -1,0 +1,48 @@
+====== Luke 16:24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 So he shouted, 'Father Abraham, I am suffering very much in this fire! So \add please\add* pity me, and send Lazarus \add here\add* so that he can dip his finger in water \add and touch\add* my tongue to cool it!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 So the rich man shouted, 'Father Abraham, I am suffering very much in this fire! So please pity me, and send Lazarus here so that he can dip his finger in water and touch my tongue to cool it!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 24 And he cried out and said, 'Father Abraham, have mercy on me and send Lazarus, that he may dip the tip of his finger in water and cool my tongue, for I am in anguish in this flame.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:father]]
+  * [[:en:obe:other:abraham]]
+  * [[:en:obe:kt:mercy]]
+  * [[en:obe:other:anguish]]
+ 
+
+===== Translation Notes: =====
+Jesus continues telling his story.
+    * **And he cried out and said**  - "and the rich man called out to say" or "he yelled out to Abraham"
+    * **Father Abraham** - Abraham was the rich man's ancestor.
+    * **have mercy on me** - This can be translated as "please have pity on me," or "please be merciful to me."
+    * **and send Lazarus** - This can be translated as "by sending Lazarus" or "Please send Lazarus to me" or "and tell Lazarus to come to me." 
+    * **he may dip the tip of his finger** - This indicates the smallness of the amount requested. This can be translated as "he may wet the tip of his finger."
+    * **I am in anguish in this flame** - "I am in terrible pain in this flame" or "I am suffering terribly in this fire"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+**[[:en:bible:notes:luk:16:22|<<]] | [[:en:bible:notes:luk:16:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

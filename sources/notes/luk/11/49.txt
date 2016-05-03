@@ -1,0 +1,58 @@
+====== Luke 11:49-51 ======
+
+===== TFT: =====
+
+<usfm>
+\v 49 So God, who is very wise \f + \ft personification \f*, said, 'I will send prophets and apostles \add to you Jews\add*. \add You\add* will kill some of them and cause some of them to suffer greatly.
+\v 50 \add As a result, I\add* will consider that many of you people \add who have observed my Son's ministry\add* will be guilty \f + \ft metonymy \f* \add of murder, as if you had\add* killed all the prophets that other people have killed, from the time I created the world,
+\v 51 starting from \add Adam's son Cain\add* killing \add his brother\add* Abel and continuing until they killed the prophet Zechariah \add in the holy place\add* between the altar and the temple.' Yes, what I am saying \add is true\add* \f + \ft metonymy \f*. \add God\add* will punish you people who have observed my ministry whom \add he\add* considers to be guilty \f + \ft metonymy \f* for \add killing\add* all those prophets!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 49 So God, who is very wise, had said, 'I will send prophets and apostles to guide my people. But they will cause them to suffer greatly and will even kill some of them.'
+\v 50 As a result, many of the people living now at this time will be considered guilty of the murder of all God's prophets from the time the world was created,
+\v 51 starting from when Abel was killed by his brother and continuing until the prophet Zechariah was killed in the temple between the altar and the holy place. Yes, the people living at this time will be considered guilty for all those murders of the prophets!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 49 For this reason also, God's wisdom said, 'I will send to them prophets and apostles, and they will persecute and kill some of them.'
+\v 50 This generation, then, will be held responsible for all the blood of the prophets shed since the world began,
+\v 51 from Abel's blood to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I say to you, this generation will be held responsible.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:wise]]
+  * [[en:obe:other:send]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:apostle]]
+  * [[:en:obe:other:persecute]]
+  * [[:en:obe:other:generation]]
+  * [[:en:obe:kt:blood]]
+  * [[:en:obe:other:abel]]
+  * [[en:obe:other:zechariahot]]
+  * [[en:obe:other:altar]]
+  * [[en:obe:kt:sanctuary]]
+
+===== Translation Notes: =====
+Jesus continues to speak to the religious leaders.
+
+  * **For this reason**  - This refers the statement that follows. God will send more prophets to demonstrate that the current generation would kill them, just as their fathers did.
+  * **God's wisdom said**  - "God in his wisdom said" or "God wisely said"
+  * **I will send to them prophets and apostles**  - "I will send prophets and apostles to my people"
+  * **they will persecute and kill some of them**  - "my people will persecute and kill some of the prophets and apostles"
+  * **will be held responsible for all the blood of the prophets shed**  - The blood that was shed refers to the murder of the prophets. AT: "will be held responsible for all the deaths of the prophets that were killed." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Zechariah**  - This was probably the priest referred to in 2 Chronicles [[en:bible:notes:2ch:24:20|24:20-22]]. This was not the Father of John the Baptist.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:47|<<]] | [[:en:bible:notes:luk:11:52|>>]]**
+
+~~DISCUSSION~~{{tag>publish abel sanctuary}}
+
+~~NOCACHE~~

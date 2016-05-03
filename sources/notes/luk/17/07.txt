@@ -1,0 +1,43 @@
+====== Luke 17:7-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 7 \add Jesus also said\add*, "Suppose that one of you had a servant who was plowing \add your fields\add* or taking care of your sheep. After he comes into the house from the field, you\add \f + \ft singular \f*\add* would not say \f + \ft rhetorical question \f*, 'Sit down and eat immediately!'
+\v 8 Instead, you would say to him, 'Put on your apron and prepare a meal for me! Then serve it to me so that I can eat and drink it! Afterwards you\add \f + \ft singular \f*\add* can eat and drink.'
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 7 Jesus also said, "Suppose that one of you had a servant who was plowing your fields or taking care of your sheep. After he comes into the house from the field, you would not say, 'Come sit down immediately and eat!'
+\v 8 Instead, you would say to him, 'Prepare a meal for me! Then put on your serving clothes and serve it to me so that I can eat and drink! Afterwards you can eat and drink.'
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 7 But which of you, who has a servant plowing or keeping sheep, will say to him when he has come in from the field, 'Come immediately and sit down to eat.'
+\v 8 Will he not say to him, 'Prepare something for me to eat, and put a belt around your clothes and serve me until I have finished eating and drinking. Then afterward you will eat and drink'?
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:servant]]
+  * [[en:obe:other:plow]]
+  * [[:en:obe:other:sheep]]
+
+===== Translation Notes: =====
+Jesus continues to teach his disciples.
+  * **But which of you**  - "But who among you" or "But which one of you" This is the beginning of a rhetorical question. It could be translated as a statement starting with "If one of you" or "Suppose that one of you." See the UDB for an example of how to do this. (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **which of you, who has a servant**  - Jesus was asking a group of people about what one of them might do if a certain situation were to come up. It could be translated as "But which of you, if you have servant."
+  * **a servant plowing or keeping sheep**  - "a servant that plows your field or takes care of your sheep"
+  * **Will he not say to him**  - This is a rhetorical question. It can be translated as "Instead you would say to him" or "Instead, this is what you will say to him." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **put a belt around your clothes and serve me**  - "tie your clothes at your waist and serve me" or "dress up properly and take care of me" People would tie their clothes closely around their waist so that their clothes would not get in their way while they worked.
+  * **Then afterward**  - "Then after you serve me"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:05|<<]] | [[:en:bible:notes:luk:17:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

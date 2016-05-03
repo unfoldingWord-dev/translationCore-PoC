@@ -1,0 +1,56 @@
+====== Luke 12:16-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 Then he told them this illustration: "There was a certain rich man in whose fields abundant crops grew.
+\v 17 \add So\add* he said \add to himself\add*, 'I do not know what to do, because I do not have any place \add big enough\add* to store all my crops!'
+\v 18 Then he said to himself, '\add I know\add* what I will do! I will tear down my grain bins and then build larger ones! Then I will store all my wheat and other goods in \add the big new bins\add*.
+\v 19 \add Then\add* I will say to myself \f + \ft synecdoche \f*, "Now I have plenty of things stored up. \add They will last\add* for many years. \add So now\add* I will take life easy. I will eat and drink \add all that I want to\add* and be happy \add for a long time\add*!"'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Then he told them this illustration: "The fields of a certain rich man produced abundant crops.
+\v 17 So he thought to himself, 'I do not know what to do, because I do not have any place big enough to store all my crops!'
+\v 18 Then he thought to himself, 'I know what I will do! I will tear down my grain bins and build larger ones! Then I will store all my grain and other things in the big new bins.
+\v 19 Then I will say to myself, "Now I have enough things stored up to last many years. So now I will take life easy. I will eat and drink and be happy!"'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 Then Jesus told them a parable, saying, "The field of a rich man yielded abundantly,
+\v 17 and he reasoned with himself, saying, 'What will I do, because I do not have a place to store my crops?'
+\v 18 He said, 'This is what I will do. I will pull down my barns and build bigger ones, and there I will store all of my grain and other goods.
+\v 19 I will say to my soul, "Soul, you have many goods stored up for many years.Rest easy, eat, drink, be merry."'
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:parable]]
+    * [[en:obe:other:grain]]
+    * [[en:obe:kt:soul]]
+
+===== Translation Notes: =====
+
+  * **Then Jesus told them**  - Jesus was probably still speaking to the entire crowd.
+  * **yielded abundantly**  - "grew a very good harvest"
+  * **barns**  - Barns are buildings where farmers store the crops and food that they grow after it is harvested.
+  * **goods**  - "possessions"
+  * **I will say to my soul**  - "I will say to myself" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:13|<<]] | [[:en:bible:notes:luk:12:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

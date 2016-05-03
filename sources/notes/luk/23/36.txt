@@ -1,0 +1,53 @@
+====== Luke 23:36-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 The soldiers also ridiculed him because he \add claimed to be a king\add*. They came up to him and offered him some sour wine.
+\v 37 They said to him, "If you\add \f + \ft singular \f*\add* are the King of the Jews, save yourself!"
+\v 38 \add They\add* also \add fastened on the cross\add* above his head a sign \add that stated\add* why \add they\add* were nailing him to the cross. \add But all it said was\add*, 'This is the King of the Jews'.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 The soldiers also mocked him. They came up to him and offered him some sour wine.
+\v 37 They kept saying to him, "If you are the King of the Jews, save yourself!"
+\v 38 They also fastened on the cross above his head a sign that stated, 'This is the King of the Jews.'
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 The soldiers also ridiculed him, approaching him, offering him vinegar,
+\v 37 and saying, "If you are the King of the Jews, save yourself."
+\v 38 There was also a sign over him, "THIS IS THE KING OF THE JEWS."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:warrior]]
+  * [[en:obe:kt:kingofthejews]]
+  * [[en:obe:kt:save]]
+
+===== Translation Notes: =====
+
+  * **him** - "Jesus"
+  * **approaching him** - "coming close to Jesus"
+  * **offering him vinegar** - "offering Jesus vinegar to drink." Many Bible students believe the soldiers did this to mock him: they knew he was thirsty, so they would put the vinegar near his lips but not let him drink it.
+  * **a sign over him** - "a placard hung above Jesus' head on which was written"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:35|<<]] | [[:en:bible:notes:luk:23:39|>>]]**
+
+~~DISCUSSION~~{{tag>publish kingofthejews}}

@@ -1,0 +1,47 @@
+====== Luke 24:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 They came near to the village to \add which the two men\add* were going. He indicated that he would go further,
+\v 29 but they urged him \add to not do that\add*. They said, "Stay with us \add tonight\add*, because it is late in the afternoon and it will soon be dark." So he went in \add the house\add* to stay with them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 They came near to the village to which the two men were going. He indicated that he would go further,
+\v 29 but they urged him not to do that. They said, "Stay with us tonight, because it is late in the afternoon and it will soon be dark." So he went in the house to stay with them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 As they drew near to the village, where they were going, Jesus acted as though he would go further.
+\v 29 But they compelled him, saying, "Stay with us, for it is toward evening and the day is almost over." So Jesus went in to stay with them.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:jesus]]
+ 
+
+===== Translation Notes: =====
+
+  * **As they drew near** - "As they came near" (UDB)
+  * **Jesus acted as though he would go further**  - The two men understood from his actions that he was going on to another destination. Perhaps he kept walking on the road when they turned off to enter the gate into the village. There is no indication that Jesus deceived them with words.
+  * **they compelled him** - "They strongly urged him." The Greek word means to use physical force over an extended time, but it seems to be hyperbole. It took them some time and effort to persuade him. (See: [[en:ta:vol2:translate:figs_hyperbole]])
+  * **Jesus went in** - "Jesus entered the house"
+  * **stay with them** - Use the dual form of "them."
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:25|<<]] | [[:en:bible:notes:luk:24:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

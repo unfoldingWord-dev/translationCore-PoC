@@ -1,0 +1,65 @@
+====== Luke 01:52-53 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 52 He sends mighty kings away and does not let them rule \f + \ft metonymy \f* anymore, but he honors the people who are oppressed \f + \ft Or: humble \f*.
+\q1
+\v 53 He gives good things to eat to those who are hungry, but he sends away the rich people without giving them anything.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 52 He has stopped kings from ruling, 
+\q and he has honored people who are oppressed. 
+\q
+\v 53 He has given good things to eat to those who are hungry, 
+\q and he has sent away rich people without giving them anything.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q \v 52 He has pulled down rulers from their thrones, 
+\q and has raised up lowly people.
+\q \v 53  He has given good things to hungry people, 
+\q and has sent away rich people without anything.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:ruler]]
+    * [[en:obe:other:throne]]
+    * [[en:obe:kt:raise]]
+    * [[en:obe:other:lowly]]
+
+===== Translation Notes: =====
+
+    * **He has pulled down rulers from their thrones**  - A throne is a chair that a king sits on, and it is a symbol of his authority. If a king is brought down from his throne, it means he no longer has the authority to reign as king.  AT: "He has taken away the authority of kings" or "He has made rulers stop ruling." 
+    * **has raised up lowly people** - In this word picture, people who are important are higher than people who are less important. AT: "has made humble people important" or "has given honor to people whom others have not honored." (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **given good things** - AT: "given good food"
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+
+
+**[[en/bible/notes:luk/01/50|<<]] | [[en/bible/notes:luk/01/54|>>]]** 
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

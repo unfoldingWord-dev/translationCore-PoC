@@ -1,0 +1,54 @@
+====== Luke 15:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 So he went to one of the landowners in that area and asked for work. The man sent him to work taking care of the pigs in his field.
+\v 16 \add Because he was very hungry\add*, he would have been glad to eat the bean pods that the pigs ate. But no one gave him anything.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 So he went to a man who lived in that country and asked him to hire him. So the man sent him out to his fields to feed his pigs.
+\v 16 After awhile he became so hungry that he kept longing to eat the bean pods that the pigs ate, yet no one gave him anything.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 He went and hired himself out to one of the citizens of that country, who sent him into his fields to feed pigs.
+\v 16 And he would gladly have eaten the bean pods that the pigs ate because no one gave him anything to eat.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:citizen]]
+    * [[:en:obe:other:pig]]
+ 
+===== Translation Notes: =====
+Jesus continues telling his parable.
+
+    * **He went** - The word "he" refers to the younger son.
+    * **hired himself out to**  - This can be translated as  "took a job with" or "began to work for."
+    * **one of the citizens of that country** - "a man of that country"
+    * **to feed pigs**  - "to give food to his pigs"
+    * **would gladly have eaten** - "wished very much that he could eat"
+    * **bean pods** - These are the husks of beans that grow on the carob tree. This can be translated as "carob pods" or "pods" or "bean husks."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/15/13|<<]] | [[en/bible/notes/luk/15/17|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

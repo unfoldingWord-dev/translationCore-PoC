@@ -1,0 +1,56 @@
+====== Luke 09:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add One day\add* Jesus summoned his twelve \add apostles\add*, and gave them power to expel all \add kinds of\add* demons and to heal \add people with\add* diseases. He gave them authority to do that.
+\v 2 \add Before\add* he sent them out to heal people and to tell people \add what it meant to let\add* God rule\f + \ft Or: have complete control \add over\add* \f* \add their lives\add*,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Jesus called together his twelve disciples and gave them the right and power to drive out all kinds of demons and to heal people's diseases.
+\v 2 He sent them out to heal people and to teach them about how God was going to show himself as king.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 9
+\p
+\v 1 He called the twelve together, and gave them power and authority over all the demons and to cure diseases.
+\v 2 He sent them out to preach the kingdom of God and to heal the sick.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:thetwelve]]
+    * [[en:obe:kt:power]]
+    * [[en:obe:kt:authority]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:other:heal]]
+    * [[en:obe:other:send]]
+    * [[en:obe:other:preach]]
+    * [[en:obe:kt:kingdomofgod]]
+
+
+===== Translation Notes: =====
+
+  * **power and authority**- These two terms are used together to show that the twelve had both the ability and the right to heal people. Translate this phrase with a combination of words that include both of these ideas.
+  * **diseases**  - "sicknesses." This refers to what makes a person sick.
+  * **sent them out**  - AT: "sent them to various places" or "told them to go."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:54|<<]] | [[:en:bible:notes:luk:09:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish thetwelve}}
+
+~~NOCACHE~~

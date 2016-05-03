@@ -1,0 +1,54 @@
+====== Luke 22:49-51 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 49 When the \add disciples\add* who were around Jesus realized what was going to happen, they said, "Lord, shall we\add \f + \ft exclusive \f*\add* strike \add them\add* with our swords?"
+\v 50 One of them \add drew his sword and\add* struck the servant of the high priest \add to kill him, but only\add* cut off his right ear.
+\v 51 But Jesus said, "Do not \add do\add* any more of that!" He touched the \add servant's\add* ear and healed him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 49 When the disciples realized what was happening, they said, "Lord, shall we strike them with our swords?"
+\v 50 One of them struck the servant of the high priest, but only cut off his right ear.
+\v 51 But Jesus said, "Do not do any more of that."  Then he touched the servant's ear and healed him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 49 When those who were around Jesus saw what was happening, they said, "Lord, should we strike with the sword?"
+\v 50 Then one of them struck the servant of the high priest, and cut off his right ear.
+\v 51 Jesus said, "Let this be enough." And he touched his ear, and healed him.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:sword]]
+  * [[en:obe:other:servant]]
+  * [[en:obe:kt:highpriest]]
+
+ 
+
+===== Translation Notes: =====
+
+    * **those who were around Jesus** - This refers to Jesus' disciples.
+    * **what was happening**  - This could be translated as "that the priests and soldiers had some to arrest Jesus."
+    * **struck the servant of the high priest**  - "struck the servant of the high priest with a sword"
+    * **touched his ear**  - This could be translated as "touched him where his ear had been cut off."
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:47|<<]] | [[:en:bible:notes:luk:22:52|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

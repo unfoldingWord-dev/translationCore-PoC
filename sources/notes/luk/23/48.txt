@@ -1,0 +1,56 @@
+====== Luke 23:48-49 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 48 When the crowd of people who had gathered to see those events saw what happened, they returned \add to their homes\add*, beating their breasts \add to show that they were sorrowful\add*.
+\v 49 All of Jesus' friends, including the women who had come with him from Galilee \add district\add*, stood at a distance and saw all that happened.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 48 When the crowd of people who had gathered to see these men die saw what actually happened, they returned to their homes, hitting their own chests to show that they were sorrowful.
+\v 49 All of Jesus' acquaintances, including the women who had come with him from the region of Galilee, stood at a little distance away and watched everything happen.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 48 When all the multitudes who came together to witness this sight saw the things that were done, they returned beating their breasts.
+\v 49 But all of his acquaintances, and the women who followed him from Galilee, stood at a distance, watching these things.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:witness]]
+  * [[en:obe:other:galilee]]
+
+===== Translation Notes: =====
+
+  * **multitudes**  - "crowds of people"
+  * **sight**  - "event" or "what was happening"
+  * **who came together**  - "who gathered together"
+  * **things that were done **  - "what had happened"
+  * **returned**  - "returned to their homes" (UDB)
+  * **beating their breasts**  - This means "hitting their own chests to show that they were sorrowful" (UDB). (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **his acquaintances**  - “those who knew Jesus” or “those who had met Jesus”
+  * **followed him**  - "followed Jesus"
+  * **at a distance**  - "some distance away from Jesus"
+  * **these things**  - "what happened"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:46|<<]] | [[:en:bible:notes:luk:23:50|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

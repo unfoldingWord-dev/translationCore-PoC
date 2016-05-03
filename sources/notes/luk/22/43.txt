@@ -1,0 +1,46 @@
+====== Luke 22:43-44 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 43 Then an angel from heaven appeared to him and caused him to become stronger.
+\v 44 He was greatly distressed. So he prayed more earnestly. His sweat fell down on the ground as though it was large drops of blood.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 43 Then an angel from heaven came and and gave him courage.
+\v 44 He was suffering greatly. So he prayed more intensely. His sweat was falling to the ground like large drops of blood.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 43 Then an angel from heaven appeared to him, strengthening him.
+\v 44 Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:angel]]
+  * [[en:obe:kt:heaven]]
+  * [[en:obe:other:pray]]
+  * [[en:obe:kt:blood]]
+ 
+
+===== Translation Notes: =====
+
+  * **appeared to him**  - "appeared to Jesus"
+  * **strengthening him**  - "encouraging him"
+  * **Being in agony, he prayed**  - "He was in agony, and he prayed"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:41|<<]] | [[:en:bible:notes:luk:22:45|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

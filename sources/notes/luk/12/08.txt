@@ -1,0 +1,68 @@
+====== Luke 12:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 I want to tell you also that if people, \add without being afraid, are willing to\add* tell others \add that they are my disciples\add*, \add I\add*, the one who came from heaven, will acknowledge before \add God that they are my disciples\add*. \add I will do that while\add* God's angels listen.
+\v 9 But if they \add are\add* afraid to say in front of others that they are \add my disciples\add*, \add I\add* will say while God's angels listen, that they are not \add my disciples\add*.
+\v 10 \add I will tell you\add* also that \add God is willing to\add* forgive people who say bad things about me, the one who came from heaven, but \add he\add* will not forgive anyone who says evil things about what the Holy Spirit \add does\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 I tell you also, that if people tell others that they are my disciples, then I, the Son of Man, will say that they are my disciples to God's angels.
+\v 9 But if they tell others that they are not my disciples, then I will say to God's angels that they are not my disciples.
+\v 10 I also tell you that if people say evil things about me, the Son of Man, God will forgive them for that. But if people say evil things about the Holy Spirit, God will not forgive them for that.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 I say to you, everyone who confesses me before men, the Son of Man will also confess before the angels of God,
+\v 9 but he who denies me before men will be denied before the angels of God.
+\v 10 Everyone who speaks a word against the Son of Man, it will be forgiven him, but to him who blasphemes against the Holy Spirit, it will not be forgiven.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:confess]]
+    * [[en:obe:kt:sonofman]]
+    * [[en:obe:kt:angel]]
+    * [[en:obe:kt:god]]
+    * [[en:obe:kt:word]]
+    * [[en:obe:kt:forgive]]
+    * [[en:obe:kt:blasphemy]]
+    * [[en:obe:kt:holyspirit]]
+
+===== Translation Notes: =====
+Jesus continues to speak to his disciples.
+
+  * **everyone who confesses me before men**  - "whoever tells others that he is my disciple" or "anyone who acknowledges before others that he is loyal to me"
+  * **the Son of Man**  - Jesus was referring to himself. AT: "I, the Son of Man."
+  * **he who denies me before men**  - "he who disowns me before people." AT: "whoever refuses to acknowledge to others that he is my disciple" or "if anyone refuses to say that he is loyal to me."
+  * **will be denied**  - "will be disowned." AT: "The Son of Man will deny him " or "I will deny that he is my disciple."
+  * **Everyone who speaks a word against the Son of Man**  - "Everyone who says something bad about the Son of Man"
+  * **it will be forgiven him**  - "he will be forgiven" or "God will forgive him for that"
+  * **blasphemes against the Holy Spirit** - AT: "speaks evil against the Holy Spirit" or "says that the Holy Spirit is evil."
+  * **it will not be forgiven** - AT: God will consider his guilty forever" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
+ 
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/12/06|<<]] | [[en/bible/notes/luk/12/11|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish blasphemy}}
+~~NOCACHE~~

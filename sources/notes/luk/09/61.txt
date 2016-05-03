@@ -1,0 +1,45 @@
+====== Luke 09:61-62 ======
+
+===== TFT: =====
+
+<usfm>
+\v 61 Someone else said, "Lord, I will come with you and be your disciple, but first let me go home to say goodbye to my relatives."
+\v 62 Jesus said to him, "Anyone who is plowing his field should not look back \add to see what he has done. He must look forward to what is ahead. Similarly\add*, \add anyone who continues to be concerned about his family and other things he has left behind\add* is not fit \add to serve me and tell others about how\add* God wants to rule \f + \ft metonymy \f* \add people's lives\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 61 Someone else said, "Lord, I will come with you and be your disciple, but first let me go home to say goodbye to my people."
+\v 62 Jesus said to him, "Anyone who starts plowing his field and then looks behind him is not able to serve God when he rules everything as king."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 61 Another person also said, "I will follow you, Lord, but first allow me to say farewell to them who are at my house."
+\v 62 But Jesus said to him, "No one, having put his hand to the plow and looking back, is fit for the kingdom of God."
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:plow]]
+  * [[en:obe:kt:kingdomofgod]]
+
+===== Translation Notes: =====
+
+  * **I will follow you **- "I will join you as a disciple" or "I am ready to follow you" or "I promise to follow you"
+  * **first allow me to say farewell**  - AT: "before I do that, let me say goodbye" or "let me first tell them that I am leaving."
+  * **them who are at my house**  - "my household" or "the people at my home"
+  * **No one…fit for the kingdom of God**  - Jesus states this as a general principle that applies to every person. The implied meaning to the man, however is "You will not be fit for my kingdom if you focus on the people in your past instead of on following me." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **having put his hand to the plow**  - "having started to plow his field." Farmers use a plow to prepare their field so they can put seeds in it. Communities that do not know about plows could translate this in a general way: "having started to prepare his field." (See: [[en:ta:vol1:translate:translate_unknown]])
+  * **looking back**  - A person who is looking back while plowing cannot guide the plow where it needs to go. They must focus on looking forward in order to plow well.
+  * **fit for**  - "useful for" or "suitable for"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:59|<<]] | [[:en:bible:notes:luk:10:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

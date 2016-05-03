@@ -1,0 +1,53 @@
+====== Luke 20:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 \add Later\add*, \add the owner\add* sent another servant. But they beat him and mistreated him \add also\add*. They sent him away without giving him any grapes.
+\v 12 \add Still later, the owner\add* sent another servant. That one they wounded and threw him out \add of the vineyard\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Later, the owner sent another servant. But they beat and shamed him also. They sent him away without any grapes.
+\v 12 Still later, the owner sent another servant. This third servant they wounded and threw out of the vineyard.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 He then sent yet another servant and they also beat him, treated him shamefully, and sent him away empty-handed.
+\v 12 He also sent yet a third and they also wounded him, and threw him out.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:servant]]
+  * [[en:obe:other:shame]]
+ 
+
+===== Translation Notes: =====
+
+Jesus continues telling his parable.
+  * **treated him shamefully**  - "humiliated him"
+  * **wounded him**  - "injured him" 
+  * **yet a third**  - "even a third servant." The word "yet" hints at the fact that the landowner should not have had to send the second servant, but he went beyond that and sent a third servant.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/20/09|<<]] | [[en/bible/notes/luk/20/13|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

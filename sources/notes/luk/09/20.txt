@@ -1,0 +1,64 @@
+====== Luke 09:20-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 He asked them, "What about you\add \f + \ft plural \f*\add*? Who do you say that I am?" Peter replied, "You\add \f + \ft singular \f*\add* are the Messiah, who \add has come from\add* God."
+\v 21 Then Jesus warned them strongly not to tell that to anyone \add yet\add*.
+\v 22 Then he said, "\add Even though I am\add* the one who came from heaven, it is necessary that I suffer very much. It is also necessary that I be rejected by the elders and the chief priests and the men who teach the\add Jewish\add* laws \f + \ft Or:that the \add Jewish\add* elders and the chief priests and the men who teach the \add Jewish\add* laws will reject me \f*. It is necessary that I be killed \f + \ft Or:that \add people\add* will kill me \f*. Then on the third day \add after that\add*, I will become alive again."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 He asked them, "What about you? Who do you say that I am?" Peter replied, "You are the Messiah, who has come from God."
+\v 21 Then Jesus warned them strongly to not tell that to anyone yet.
+\v 22 Then he said, "I, the Son of Man, must suffer many things: I will be rejected by the elders, chief priests and teachers of the Jewish laws and then I will be killed. Then, on the third day after that, I will come back to life again."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 He said to them, "But who do you say that I am?" Answering, Peter said, "The Christ from God."
+\v 21 But warning them, Jesus instructed them to tell this to no one,
+\v 22 saying that the Son of Man must suffer many things and be rejected by the elders and chief priests and scribes, and he will be killed, and on the third day be raised back to life.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:peter]]
+    * [[en:obe:kt:christ]]
+    * [[en:obe:kt:god]]
+    * [[en:obe:kt:sonofman]]
+    * [[en:obe:kt:suffer]]
+    * [[en:obe:other:reject]]
+    * [[en:obe:other:elder]]
+    * [[en:obe:other:chiefpriests]]
+    * [[en:obe:other:scribe]]
+    * [[en:obe:kt:raise]]
+===== Translation Notes: =====
+
+  * **He said to them**  - "Jesus said to his disciples"
+  * **Answering, Peter said**  - "Peter answered and said" or "Peter answered by saying"
+  * **But warning them, Jesus instructed them**  - AT: "But Jesus warned and instructed them" or "Then Jesus warned them strongly" (UDB).
+  * **to tell this to no one** - "not to tell anyone" or "that they should not tell anyone." This is an indirect quote. AT: "But warning them, Jesus told them, 'Do not tell anyone.'" (See: [[en:ta:vol2:translate:figs_quotations]])
+  * **that the Son of Man must suffer many things**  - AT: "that people would cause the Son of Man to suffer greatly." Verse 22 can also be translated as a direct quote as it is in the UDB. (See: [[en:ta:vol2:translate:figs_quotations]])
+  * **be raised back to life**  - "be made alive again"
+  * **on the third day**  - "three days after dying" or "on the third day after his death"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:18|<<]] | [[:en:bible:notes:luk:09:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

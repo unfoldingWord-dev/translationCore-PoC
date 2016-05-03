@@ -1,0 +1,63 @@
+====== Luke 01:42-45 ======
+
+===== TFT: =====
+
+<usfm>
+\v 42 and she said loudly \add to Mary\add*, "\add God\add* has blessed you \add more than\add* he has blessed \add any other\add* woman, and \add he has\add* blessed the child you will bear!
+\v 43 I am not worthy that \add God would allow you\add* to visit me!\f + \ft Or: Why is \add God allowing you\add* to visit me? \f* \f + \ft rhetorical question \f* You will be the mother of my Lord!
+\v 44 \add I realize this because\add* as soon as I heard you greet me, the baby inside my womb leaped because he was so happy \add that you had come\add*!
+\v 45 \add God\add* is pleased with you \add because\add* you believed that what the Lord\f + \ft Or: God \f* told you would come true."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 42 She exclaimed loudly to Mary, "God has blessed you more than he has blessed other women, and he has blessed the baby you will bear!
+\v 43 How wonderful it is that you, the mother of my Lord, should come to me!
+\v 44 As soon as I heard you greet me, the baby in my womb leaped because he was so happy that you had come!
+\v 45 You are blessed because you believed that what the Lord told you would come true."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 42 She raised her voice with a loud exclamation, and said, "You are blessed among women, and the fruit of your womb is blessed.
+\v 43 How is it that the mother of my Lord should come to me?
+\v 44 For when the sound of your greeting came to my ears, the baby in my womb leaped for joy.
+\v 45 She who has believed is blessed, for the things which have been spoken to her from the Lord will be fulfilled."
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:voice]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:fruit]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:kt:believe]]
+  * [[:en:obe:kt:fulfill]]
+
+===== Translation Notes: =====
+
+  * **She**  - Here "she" refers to Elizabeth.
+  * **the fruit of your womb** - AT: "the baby in your womb" or "the baby you will bear" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **How is it that the mother of my Lord should come to me?** - Elizabeth was not asking for information--rather, she was showing how surprised and happy she was that the mother of the Lord had come to her. AT: "How wonderful it is that the mother of my Lord has come to me!"  (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the mother of my Lord**  - This refers to Mary. AT: "you, the mother of my Lord" 
+  * **leaped** - "moved suddenly" or "turned forcefully"
+  * **She who has believed is blessed** - AT: "You who have believed are blessed" or "Because you believed, you will be glad"
+  * **the things which have been spoken to her from the Lord** - AT: "the message that the Lord gave to her" or "the things that the Lord told you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * [[:en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:39|<<]] | [[:en:bible:notes:luk:01:46|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

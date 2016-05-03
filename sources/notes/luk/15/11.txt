@@ -1,0 +1,45 @@
+====== Luke 15:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 Then \add he told them this parable to compare what the Pharisees and teachers of the Jewish law thought about those who turn from their sinful behavior with what God thinks about such people\add*. He said, "A certain man had two sons.
+\v 12 One day the younger son said to his father, 'Father, \add I do not want to wait until you\f + \ft singular \f* die\add*. Give me now the share of your property that belongs to me!' So the man divided his property between his two sons.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Then Jesus continued and said, "There once was a man who had two sons.
+\v 12 And one day the younger son said to his father, 'Father, give me now the share of your property that would normally be given to me when you die.' So the father divided his property between his two sons.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 11 Then Jesus said, "A certain man had two sons,
+\v 12 and the younger of them said to his father, 'Father, give me now the property I am due to inherit.' So he divided his wealth between them.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:inherit]]
+ 
+===== Translation Notes: =====
+
+    * **A certain man**  - This is the beginning of a parable. Introduce it in a way that is natural in your language. Some languages might say "There was a man who."
+    * **give me now**  - The son wanted his father to give it to him immediately. Languages that have a command form that means that they want it done immediately should use that form.
+    * **the property I am due to inherit**  -  "the part of your wealth that you planned to give to me when you die"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+**[[:en:bible:notes:luk:15:08|<<]] | [[:en:bible:notes:luk:15:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish  inherit}}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== Luke 19:5-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 When Jesus got there, he looked up and said to him, "Zacchaeus, come down quickly, because \add God wants\add* me to go \add with you\f + \ft singular \f*\add* to your house and stay there \add tonight!\add*"
+\v 6 So he came down quickly. \add He took Jesus to his house\add* and welcomed him joyfully.
+\v 7 The people \add who saw Jesus go there\add* grumbled saying, "He has gone to be the guest of a man who is a sinner!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 When Jesus got there, he looked up and said to him, "Zacchaeus, come down quickly, I have to stay at your house tonight!"
+\v 6 So he came down quickly. He was glad to welcome Jesus into his home.
+\v 7 But the people who saw Jesus go there grumbled saying, "He has gone to be the guest of a real sinner!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 When Jesus came to the place, he looked up and said to him, "Zacchaeus, come down quickly, for today I must stay at your house."
+\v 6 So he hurried, came down and welcomed him joyfully.
+\v 7 When everyone saw this, they all complained, saying, "He has gone in to visit a man who is a sinner."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:zacchaeus]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:kt:sin]]
+ 
+
+===== Translation Notes: =====
+
+  * **the place**  - "the tree" or "where Zacchaeus was"
+  * **He has gone in to visit a man who is a sinner**  - "Jesus has gone into the house of a sinner to visit him"
+  * **a sinner** - "an obvious sinner" or "a real sinner" (UDB) or "clearly a sinner"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/03|<<]] | [[en/bible/notes/luk/19/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish zacchaeus}}
+~~NOCACHE~~

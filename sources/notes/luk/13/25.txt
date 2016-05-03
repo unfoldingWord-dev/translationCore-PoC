@@ -1,0 +1,51 @@
+====== Luke 13:25-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 \add God is like\add* the owner of a house. \add Some day\add* he will lock the door. Then \add some of\add* you will begin to stand outside the door and knock. You will say, 'Lord, open the door for us!' But he will reply, '\add No, I will not open it, because\add* I do not know you, and I do not know where you are from!'
+\v 26 Then you will say, '\add You must have forgotten that\f + \ft Or: Surely you know us, because\add* \f* \f + \ft rhetorical question \f* we\add \f + \ft exclusive \f*\add* ate \add meals\add* with you\add \f + \ft singular \f*\add*, and you taught \add people\add* in the streets of our \add towns!\add*'
+\v 27 But he will say, '\add I tell you again\add*, I do not know you, and I do not know where you are from. You \add are\add* wicked people! Get away from here!'"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 God is like the owner of a house. Some day he will lock the door. Then some of you will stand outside the door and begin to knock. You will say, 'Lord, open the door for us!' But he will reply, 'No, I will not open it, because I do not know you, and I do not know where you are from!'
+\v 26 Then you will say, 'You must have forgotten that we ate meals with you, and you taught us in the streets of our towns!'
+\v 27 But he will say, 'I tell you again, I do not know you, and I do not know where you are from. You are wicked people! Get away from here!'"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 Once the owner of the house gets up and locks the door, then you will stand outside and pound the door and say, ‘Lord, Lord, let us in.’ And he will answer and say to you, 'I do not know you or where you are from.'
+\v 26 Then you will say, 'We ate and drank in front of you and you taught in our streets.'
+\v 27 But he will reply, 'I say to you, I do not know where you are from. Get away from me, you evildoers!'
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:lord]]
+    * [[en:obe:other:evildoer]]
+
+
+===== Translation Notes: =====
+Jesus continues talking about entering into God's kingdom.
+    * **the owner of the house** - This refers to God and can be translated as “God.”
+    * **you will stand outside** - Jesus was talking to a crowd. The form of "you" is plural (See: [[en:ta:vol1:translate:figs_you]]). He is addressing them as if they will not enter through the door into the kingdom.
+    * **Get away from me**  - "Go away from me"
+    * **evildoers** - "people who do evil"
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:en:bible:notes:luk:13:22|<<]] | [[:en:bible:notes:luk:13:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

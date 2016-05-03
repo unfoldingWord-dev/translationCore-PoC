@@ -1,0 +1,51 @@
+====== Luke 09:57-58 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 57 As Jesus and the disciples were walking along the road, one man said to him, "I will go with you\add \f + \ft singular \f*\add* wherever you go!"
+\v 58 \add In order that the man might know what he could expect if he went with him\add*, Jesus said to him, "Foxes have holes \add in the ground in which to live\add*, and birds have nests, but \add even though I am\add* the one who came from heaven, I do not have a home where I can sleep!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 57 As Jesus and the disciples were walking along the road, someone said to him, "I will go with you wherever you go!"
+\v 58 Jesus replied, "Foxes have holes in the ground to live in, and birds have nests, but I, the Son of Man, do not have a home to sleep in!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 57 As they were going on their way, someone said to him, "I will follow you wherever you go."
+\v 58 Jesus said to him, "Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:sonofman]]
+
+===== Translation Notes: =====
+
+  * **someone**  - This was not one of the disciples.
+  * **Foxes have holes…nowhere to lay his head**  - Jesus was implying that if the the man were to follow him, that man too might not have a home. The implied information can be made explicit: "So do not expect that you will have a home." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **Foxes**  - These are land animals similar to small dogs. They sleep in a den or a burrow in the ground.
+  * **birds of the sky**  - "birds that fly in the air"
+  * **Son of Man**  - Jesus is speaking about himself in the third person. AT: "I, the Son of Man." (See: [[en:ta:vol2:translate:figs_123person]])
+  * **nowhere to lay his head**  - "nowhere to rest my head" or "nowhere to sleep." This is a hyperbole. Jesus is exaggerating in order to get across the point that he was not welcome anywhere to live. (See: [[en:ta:vol2:translate:figs_hyperbole]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:54|<<]] | [[:en:bible:notes:luk:09:59|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

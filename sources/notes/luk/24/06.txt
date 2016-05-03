@@ -1,0 +1,46 @@
+====== Luke 24:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 He is not here; he has become alive again\f + \ft Or: risen from the dead \f*! Remember that while he was still with you in Galilee \add district\add* he said to you,
+\v 7 '\add Even though I\add* am the one who came from heaven, \add someone\add* will enable sinful men to seize \f + \ft metonymy \f* me. They will \add kill me by\add* nailing me to a cross. But on the third day \add after that\add*, I will become alive \add again\add*.'"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 He is not here; he has become alive again! Remember that while he was still with you in Galilee, he said to you,
+\v 7 'They will have to hand me, The Son of Man, over to sinful men. They will kill me by nailing me to a cross. But on the third day after that, I will become alive again.'"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6 He is not here, but is risen! Remember how he spoke to you when he was still in Galilee,
+\v 7 saying that the Son of Man must be delivered up into the hands of sinful men and be crucified, and on the third day, rise again."
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:raise]]
+  * [[en:obe:other:galilee]]
+  * [[en:obe:kt:sonofman]]
+  * [[en:obe:other:hand]]
+  * [[en:obe:kt:sin]]
+  * [[en:obe:kt:crucify]]
+
+===== Translation Notes: =====
+The angels continue talking to the women.
+  * **Remember how**  - "Remember what"
+  * **he spoke to you**  - Jesus had said this at least a week earlier.
+  * **to you** - The word "you" is plural. It refers to the women and the other disciples. (See: [[en:ta:vol1:translate:figs_you]])
+  * **that the Son of Man**  - This is the beginning of an indirect quote. It can also be translated with a direct quote as in the UDB. (See: [[en:ta:vol2:translate:figs_quotations]])
+  * **the Son of Man must be**  - "it was necessary for the Son of Man to be." This is something that would certainly happen because God had already decided that it would happen.
+  * **delivered up into the hands of**  - "handed over to" or "given over to." Here "hand" refers to power or control. The sentence can also be translated with an active verb: "They will have to hand me, the Son of Man, over to sinful men" (UDB) or "Someone will certainly enable sinful men to seize the Son of Man. (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[en:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:04|<<]] | [[:en:bible:notes:luk:24:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

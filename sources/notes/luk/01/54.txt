@@ -1,0 +1,66 @@
+====== Luke 01:54-55 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 54-55 He promised to Abraham and all our other ancestors who descended from him that he would act mercifully toward them forever.
+\q1 And now he has remembered what he promised.
+\q1 So he has helped me and all the other people of \f + \ft metonymy \f* Israel who serve him.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 54-55 He has helped Israel, the people who serve him.
+\q Long ago he promised our ancestors that he would be merciful to them.
+\q He has kept that promise and has always acted mercifully toward Abraham and all who descended from him."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q \v 54 He has helped his servant Israel,
+\q  in order to be merciful
+\q \v 55 to Abraham and his descendants forever, 
+\q just as he promised to our ancestors he would do."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:servant]]
+    * [[en:obe:other:israel]]
+    * [[en:obe:kt:mercy]]
+    * [[en:obe:other:abraham]]
+    * [[en:obe:other:descendant]]
+    * [[en:obe:kt:forever]]
+    * [[en:obe:kt:promise]]
+
+===== Translation Notes: =====
+
+Mary finishes praising God for what he has done.
+
+    * **He has helped** - AT: "The Lord has helped" 
+    * **his servant Israel** - If readers confuse this with the the man named Israel, it could be translated as AT: "his servant, the nation of Israel" or "Israel, his servants." 
+    * **his descendants** - "Abraham's descendants"
+    * **just as he promised to our ancestors he would do** - AT: "because he promised our ancestors he would be merciful"
+
+
+
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:52|<<]] | [[:en:bible:notes:luk:01:56|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,47 @@
+====== Luke 06:49 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 49 But some people hear my messages but do not obey them. They are like a man who built a house on top of the ground without \add digging\add* a foundation. When the river flooded, the house collapsed immediately and was completely ruined. \add So it is important for you to obey what I teach you\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 49 But some people who hear my teachings do not obey them. They are like a man who built a house on top of the ground without building a foundation. When the river flooded, the house collapsed immediately and was completely ruined."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 49 But the person who hears my words and does not obey them, he is like a man who built a house on top of the ground without a foundation. When the torrent of water flowed against that house, it immediately collapsed, and the ruin of that house was complete.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:word]]
+    * [[en:obe:other:obey]]
+
+===== Translation Notes: =====
+Jesus continues to teach the crowd about the importance of obeying him.
+
+    * **a man who built a house...** - This metaphor now compares a man building a house without a foundation to a person who does not obey the teachings of Jesus. (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **foundation** - "base" or "support" (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **without a foundation** - AT: "but he did not dig down and build a foundation first." 
+    * **torrent of water** - "fast-moving water" or "river" (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **flowed against** - "crashed against" (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **collapsed** - "fell down" or "came apart" (See: [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:46|<<]] | [[:en:bible:notes:luk:07:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish disobey}}
+
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Luke 11:39-41 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 The Lord \add Jesus\add* said to Him, "You Pharisees are \add concerned about things that are outside your bodies, not with what is in your\add* \add inner beings\f + \ft Or: hearts\add* \f* \f + \ft metaphor \f*. You wash the outside of cups and dishes \add before you eat because you think that doing that will make you acceptable to God\add*, but within yourselves you are very greedy and wicked.
+\v 40 You foolish people! \add God\add* is concerned about things that are outside \add our bodies\add*, but he is certainly also concerned about our inner \add beings\add*!\f + \ft Or: isn't he also concerned about our hearts? \f* \f + \ft rhetorical question \f*
+\v 41 Give \add money\add* to those who are poor. \add Give according to what you know within\add* your inner beings\add \f + \ft Or: hearts\add* \f* \add that you should give\add*. Then you \add will be surprised to realize that\add* you will be acceptable \add to God without having to perform all those rituals about washing\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 The Lord Jesus said to Him, "You Pharisees wash the outside of cups and dishes before you eat, but within yourselves you are very greedy and wicked.
+\v 40 You foolish people! Surely you know that God not only made the outside, but he also made the inside!
+\v 41 Instead of worrying about dishes being ritually clean, be merciful and give whatever is inside the dishes to those in need, and then both the inside and outside of you will be clean.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 39 But the Lord said to him, "Now then, you Pharisees clean the outside of cups and bowls, but the inside of you is filled with greed and evil.
+\v 40 You senseless men! Did not the one who made the outside also make the inside?
+\v 41 Give to the poor what is inside, and then all things will be clean for you.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:lord]]
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:kt:evil]]
+
+===== Translation Notes: =====
+
+    * **the outside of cups and bowls** - Washing of the outside of containers was a part of the ritual practices of the Pharisees. 
+    * **but the inside of you is filled with greed and evil** - This is a metaphor that compares the way they ignore the inside of the container to how they ignore their own internal condition. (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **Did not the one who made the outside also make the inside?** - This is a rhetorical question. Jesus was rebuking the Pharisees for not understanding that what is in their hearts matters to God. It can be translated as a statement as it is in the UDB. (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **Give to the poor what is inside**  - "Give what is inside to poor people." The meaning is "Focus on using the inside for God instead of only cleaning the outside."
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:37|<<]] | [[:en:bible:notes:luk:11:42|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

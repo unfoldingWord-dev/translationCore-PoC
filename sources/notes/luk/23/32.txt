@@ -1,0 +1,42 @@
+====== Luke 23:32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 32 Two other men who were criminals were also being led away \f + \ft Or:\add The soldiers\add* also led away two other men who were criminals \f*. They were going to be executed \f + \ft Or:\add The soldiers\add* were going to execute them \f* \add with Jesus\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 32 Two other men who were criminals were also walking to the place where they would die with Jesus.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 32 Other men, two criminals, were led away with him to be put to death.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:criminal]]
+  * [[en:obe:kt:death]]
+
+===== Translation Notes: =====
+
+  * **Other men, two criminals** - "Two other men who were criminals" (UDB)
+  * **were led away with him** - "were led away with Jesus" or "The soldiers led away with Jesus two other men who were criminals"
+  * **to be put to death** - "to kill them" or "to execute them"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:29|<<]] | [[:en:bible:notes:luk:23:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

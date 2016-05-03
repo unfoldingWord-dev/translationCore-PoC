@@ -1,0 +1,49 @@
+====== Luke 23:52-53 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 52 He went to Pilate and asked \add Pilate to permit him\add* to \add take\add* Jesus' body \add and bury it. After Pilate allowed him to do that\add*,
+\v 53 he \add and some others\add* took \add Jesus' body\add* down \add from the cross\add*. They wrapped it in a linen cloth. Then they put his body in a tomb that he had \add hired others to\add* dig out of a rock \add cliff\add*. No one had ever put a body in it before.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 52 Joseph went to Pilate and asked Pilate to permit him to take Jesus' body to bury it. Pilate gave him permission,
+\v 53 so he took Jesus' body down from the cross. He wrapped it in a linen cloth. Then he put his body in a burial chamber that someone had cut in a rock cliff. No one had ever put a body in it before.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 52 This man, approaching Pilate, asked for the body of Jesus.
+\v 53 He took it down, and wrapped it in fine linen, and laid him in a tomb that was cut in stone, where no one had ever been laid.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:pilate]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:tomb]]
+
+===== Translation Notes: =====
+
+  * **This man** - "Joseph"
+  * **approaching Pilate, asked** - "went to Pilate and requested"
+  * **He took it down** - "Joseph took Jesus' body from the cross"
+  * **wrapped it in fine linen** - "wrapped the body in a fine linen cloth"
+  * **laid him in a tomb** - "placed Jesus' body in a tomb" or "placed Jesus' body in a burial room"
+  * **that was cut in stone** - "a tomb which someone had cut in a rock cliff"
+  * **where no one had ever been laid ** - "No one had ever before put a body in that tomb" (UDB)
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:50|<<]] | [[:en:bible:notes:luk:23:54|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

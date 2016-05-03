@@ -1,0 +1,52 @@
+====== Luke 04:8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 But Jesus replied, "\add No, I\add* will not \add worship you, because\add* it is written \f + \ft Or:\add the Psalmist\add* wrote \f* \add in the Scriptures\add*, 'It is the Lord, your God, whom you must worship, and you must serve only him!'"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 But Jesus replied, "No, I will not worship you, because it is written in the scriptures, 'You must only worship the Lord, your God. He is the only one you may serve!'"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 But Jesus answered and said to him, "It is written, 'You must worship the Lord your God, and you must serve him only.'"
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:written]]
+    * [[en:obe:kt:worship]]
+    * [[en:obe:kt:lordgod]]
+    * [[en:obe:kt:god]]
+    * [[en:obe:other:serve]]
+===== Translation Notes: =====
+
+
+    * **answered and said to him** - "responded to him" or "replied to him"
+    * **It is written** - AT: "Moses has written in the scriptures" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **You must worship the Lord your God** - Jesus was quoting a law from the scriptures to say why he would not worship the devil.
+    * **you** - This refers to the people in the Old Testament who received God's Law. You could use the singular form of 'you' because each person was to obey it, or you could use the plural form of 'you' because all of the people were to obey it.  (See: [[en:ta:vol1:translate:figs_you]])
+    * **him** - The word "him" refers to the Lord God.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:luk:04:05|<<]] | [[:en:bible:notes:luk:04:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish  serve}}
+
+~~NOCACHE~~

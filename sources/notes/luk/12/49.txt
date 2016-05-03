@@ -1,0 +1,51 @@
+====== Luke 12:49-50 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 49 "I came to earth to bring \add trials\add* \f + \ft metaphor \f*, \add which will separate and purify you as\add* fire \add purifies metal\add* \f + \ft Or: to cause judgment( Or: divisions ) \f*. I wish that the time when \add you\add* will be purified \f + \ft Or:when \add God\add* will purify you \f* \f + \ft Or: when divisions will be caused ( Or:to cause divisions among people ) \f* had already begun.
+\v 50 I must soon suffer \f + \ft idiom \f* greatly. I am distressed, and I will continue to be distressed until my suffering is finished.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 49 "I came to earth to purify you like fire purifies metal. I wish this had already begun.
+\v 50 Soon I must go through a baptism of terrible suffering. I will continue to be distressed until my suffering is finished.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 49 I came to cast fire upon the earth, and how I wish that it was already kindled.
+\v 50 But I have a baptism to be baptized with, and how I am distressed until it is completed!
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:fire]]
+    * [[en:obe:kt:baptize]]
+
+===== Translation Notes: =====
+Jesus continues to teach his disciples.
+    * **I came to cast fire upon the earth**  - "I came to throw fire on the earth" or "I came to set the earth on fire."  Possible meanings for this metaphor are 1) judgment or 2) purification or 3) division. 
+    * **how I wish that it was already kindled** - This is an exclamation emphasizing how much he wants this to happen. It can be translated as "I wish very much that it was already lit" or more generally as "How I wish that it had already begun." (See the section on Sentence Types in [[en:ta:vol2:translate:figs_sentences]].)
+    * **But I have a baptism to be baptized with** - Baptism is used here as a metaphor for suffering. Just as water covers a person during baptism, suffering will overwhelm Jesus. This can be translated as "I will be baptized with suffering" or as a simile: "I must be overwhelmed in suffering as a person being baptized is covered by water." (See: [[en:ta:vol1:translate:figs_metaphor]], [[en:ta:vol1:translate:figs_simile]])
+    * **But** - The word "but" is used to show that he cannot cast the fire on the earth until after he is baptized.
+    * **how I am distressed until it is completed!** - This exclamation emphasizes how distressed he was. It can be translated as “I am terribly distressed and will be so until this suffering is completed!” (See the section on Sentence Types in [[en:ta:vol2:translate:figs_sentences]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:47|<<]] | [[:en:bible:notes:luk:12:51|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

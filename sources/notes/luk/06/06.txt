@@ -1,0 +1,56 @@
+====== Luke 06:6-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 Another Sabbath\f + \ft Or: Jewish day of rest \f* Jesus entered a synagogue\f + \ft Or: Jewish meeting place \f* and taught the people. There was a man there whose right hand was shriveled.
+\v 7 The men who taught the \add Jewish\add* laws and the Pharisees \add who were there\add* watched Jesus, to see if he would heal the man on the Sabbath\f + \ft Or: on the Jewish rest day \f*. They did this so that, \add if he healed the man\add*, they would accuse him \add of disobeying their laws by working on the day of rest\add*.
+\v 8 But Jesus knew what they were thinking. So he said to the man with the shriveled hand, "Come and stand here \add in front of everyone\add*!" So the man got up and stood there.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 On another Sabbath day, Jesus was teaching the people in the synagogue and a man was there whose right hand was shriveled.
+\v 7 The men who taught the Jewish laws and the Pharisees who were there were watching Jesus closely. They wanted to see if he would heal the man and then they would accuse him of disobeying their laws about not working on the Sabbath.
+\v 8 But Jesus knew what they were thinking. So he said to the man with the shriveled hand, "Come and stand here in front of everyone!" So the man got up and stood there.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 It happened on another Sabbath that he went into the synagogue and taught the people there. A man was there whose right hand was shriveled.
+\v 7 The scribes and the Pharisees were watching him closely to see whether he would heal someone on the Sabbath, so that they might find a reason to accuse him of doing something wrong.
+\v 8 But he knew what they were thinking and he said to the man whose hand was shriveled, "Get up, and stand here in the middle of everyone." So the man got up and stood there.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:sabbath]]
+    * [[en:obe:other:synagogue]]
+    * [[en:obe:other:scribe]]
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:other:heal]]
+    * [[en:obe:other:accuse]]
+
+===== Translation Notes: =====
+
+  * **It happened** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **hand was shriveled**  - The man's hand was damaged in such a way that he could not stretch it. It was probably bent into almost a fist, making it look smaller and wrinkled.
+  * **were watching him closely** - "were watching Jesus carefully"
+  * **so that they might find** - AT: "because they wanted to find."
+  * **in the middle of everyone** - Jesus wanted the man to stand where everyone there could see him. AT: "in front of everyone" (UDB). 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:03|<<]] | [[:en:bible:notes:luk:06:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

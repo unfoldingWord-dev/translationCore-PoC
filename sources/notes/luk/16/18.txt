@@ -1,0 +1,55 @@
+====== Luke 16:18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 \add For example, because God considers that a marriage lasts until either the husband or the wife dies, he considers that\add* any man who divorces his wife and marries another woman is committing adultery. He also \add considers that\add* any man who marries a woman who has been divorced by her husband \f + \ft Or:whose husband has divorced her \f* is \add also\add* committing adultery."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Any man who divorces his wife and marries another woman is committing adultery, and any man who marries a woman who is divorced from her husband is also committing adultery."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 Everyone who divorces his wife and marries another commits adultery, and he who marries one who is divorced from her husband commits adultery.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:divorce]]
+  * [[:en:obe:kt:adultery]]
+ 
+
+===== Translation Notes: =====
+Jesus continues speaking to the people.Since this is an example of a law that has not changed, this verse could also start with "For example."
+    * **Everyone who divorces his wife**  - "Anyone who divorces his wife" or "Any man who divorces his wife" or "If a man divorces his wife"
+    * **commits adultery**  - "Is guilty of adultery"
+    * **he who marries one**  - "any man who marries a woman" or "if a man marries a woman"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/16/16|<<]] | [[en/bible/notes/luk/16/19|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish divorce adultery}}
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Luke 13:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 Then the Lord replied to him, "You\add \f + \ft singular \f* and your fellow religious leaders are\add* hypocrites! On the Sabbath\f + \ft Or: On the our Jewish day of rest \f*, \add just like on every other day\add*, each of you unties his ox or donkey, and then leads it from the food trough to where it can drink water.\f + \ft Or: does not each of you untie his ox or donkey, and then lead it from the food trough to where it can drink water? \f* \f + \ft rhetorical question \f* \add That is work, too!\add*
+\v 16 This woman \add is more important than an animal; she is a Jew\add*, descended from Abraham! But Satan has \add kept her\add* \f + \ft metaphor \f* \add crippled\add* for eighteen years, \add as though\add* he had tied her \add and not let her escape!\add* So it is certainly right that she be freed \f + \ft Or:that \add I\add* free her \f*, \add even if this\add* is a Sabbath day!\f + \ft Or: was it not right that she be freed \f + \ft Or:that \add I\add* free her \f*, \add even if this\add* is a Jewish rest day? \f* \f + \ft rhetorical question \f*"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 Then the Lord replied to him, "You and your fellow religious leaders are hypocrites! Each of you also works on the day of rest sometimes! Would you not untie your ox or donkey to lead it from the food trough to where it can drink water?
+\v 16 This woman is a Jew, descended from Abraham! But Satan has kept her crippled for eighteen years, as though he had tied her up! Certainly you would agree that it is right that I free her from Satan, even if I do it on a day of rest!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 The Lord answered him and said, "Hypocrites! Does not each of you untie your donkey or cow from its stall and lead it to drink on the Sabbath?
+\v 16 So too this daughter of Abraham, whom Satan bound for eighteen long years, should her bonds not be untied on the Sabbath day?"
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[:en:obe:kt:lord]]
+    * [[:en:obe:kt:hypocrite]]
+    * [[en:obe:other:donkey]]
+    * [[en:obe:other:cow]]
+    * [[:en:obe:kt:sabbath]]
+    * [[:en:obe:other:abraham]]
+    * [[:en:obe:kt:satan]]
+    * [[en:obe:kt:bond]]
+===== Translation Notes: =====
+
+
+    * **The Lord answered him** - "the Lord responded to the synagogue ruler"
+    * **Does not each of you untie your donkey** - This starts a rhetorical question. Jesus used this to get them to think about something they already knew. It can be translated as statement: "You untie your donkey"  (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **donkey or cow** - These are animals that people care for by giving them water.
+    * **daughter of Abraham**  - "descendant of Abraham"
+    * **whom Satan bound** - This is a metaphor. It means "whom Satan kept crippled." The metaphor can be kept and the meaning can be made explicit: "whom Satan bound with this disease." (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **eighteen long years** - The word "long" here emphasizes that eighteen years was a very long time for the woman to suffer. Other languages may have other ways of emphasizing this. 
+    * **should her bonds not be untied** - This rhetorical question implies that the woman's bonds should be untied. It also contains a metaphor. It can be translated as "she should be untied from Satan" or "she should be released from bonds of this illness." (See: [[en:ta:vol1:translate:figs_rquestion]] and [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:en:bible:notes:luk:13:12|<<]] | [[:en:bible:notes:luk:13:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish hypocrite}}
+
+~~NOCACHE~~

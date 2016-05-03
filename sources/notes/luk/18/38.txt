@@ -1,0 +1,57 @@
+====== Luke 18:38-39 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 38 He shouted, "Jesus, \add you who are Messiah\add* descended from \add King\add* David, pity me!"
+\v 39 Those who were \add walking\add* at the front \add of the crowd\add* scolded him \add and\add* told him to be quiet. But he shouted more loudly, "You who are the \add Messiah\add* descended from \add King\add* David, pity me!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 38 He shouted, "Jesus, you who are descended from King David, have pity on me!"
+\v 39 Those who were walking at the front of the crowd scolded him and told him to be quiet. But he shouted even more loudly, "You who are descended from King David, have pity on me!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 38 So the blind man cried out, saying, "Jesus, son of David, have mercy on me."
+\v 39 The ones who were walking ahead rebuked the blind man, telling him to be quiet. But he cried out all the more, "Son of David, have mercy on me."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:son]]
+  * [[en:obe:other:david]]
+  * [[en:obe:kt:mercy]]
+  * [[en:obe:other:rebuke]]
+
+
+===== Translation Notes: =====
+
+  * **cried out**  - "called out" or "shouted"
+  * **son of David**  - Jesus was a descendant of David, Israel's most important king.
+  * **have mercy on me**  - "show me pity" or "show me compassion"
+  * **The ones**  - "The people"
+  * **to be quiet**  - "to be silent" or "not to shout"
+  * **cried out all the more** - This could mean that he cried out louder or that he cried out more persistently.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/18/35|<<]] | [[en/bible/notes/luk/18/40|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish david}}
+~~NOCACHE~~

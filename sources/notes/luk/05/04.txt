@@ -1,0 +1,54 @@
+====== Luke 05:4-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 After he finished speaking \add to them\add*, he said to Simon, "Push the boat out to where the water is deep. Then let your nets down \add into the water\add* to catch \add some fish\add*!"
+\v 5 Simon replied, "Master, we\add \f + \ft exclusive \f*\add* worked hard all night but we did not catch any \add fish\add*! But because you\add \f + \ft singular \f*\add* tell me to do it, I will let down the nets."
+\v 6 When Peter \add and the men with him\add* had done that, they caught so many fish that their nets were breaking.
+\v 7 They motioned to their partners in the other boat to come and help them. So they came and filled both the boats \add with fish from the net\add*. The result was that the boats were so full that they began to sink.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 After he finished teaching them, he said to Simon, "Take the boat out to deeper water and let your nets down into the water to catch some fish."
+\v 5 Simon replied, "Master, we worked hard through the whole night,  and yet we did not catch any fish. But I will let down the nets again, because you told me to."
+\v 6 So Simon and his men let down their nets and they caught so many fish that their nets began to break.
+\v 7 They motioned to their fishing partners in the other boat to come and help them. So they came and filled both boats so full with fish that they began to sink.
+</usfm>
+
+
+===== ULB: =====
+
+
+<usfm>
+\v 4 When he had finished speaking, he said to Simon, "Take the boat out into the deeper water and let down your nets for a catch."
+\v 5 Simon answered and said, "Master, we worked all night, and caught nothing, but at your word, I will let down the nets."
+\v 6 When they had done this, they gathered a very large number of fish, and their nets were breaking.
+\v 7 So they motioned to their partners in the other boat that they should come and help them. They came and filled both the boats, so that they began to sink.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:word]]
+ 
+
+===== Translation Notes: =====
+
+  * **When he had finished speaking** - "When Jesus had finished teaching the people"
+  * **Master **  - The Greek word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to  someone who owns someone else. AT: "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
+  * **at your word**  - "because of your word" or "because you have told me to do this"
+  * **motioned**  - They were too far from shore to call so they made gestures, probably waving their arms.
+  * **they began to sink** - “the boats began to sink.” AT: “the boats began to sink because the fish were so heavy." (See: [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:luk:05:01|<<]] | [[:en:bible:notes:luk:05:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

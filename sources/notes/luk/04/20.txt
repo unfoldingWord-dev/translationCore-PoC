@@ -1,0 +1,57 @@
+====== Luke 04:20-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Then he rolled up the scroll and gave it back to the attendant, and sat down \add to teach the people\add*. Everyone in the synagogue was looking intently \f + \ft metonymy \f* at him.
+\v 21 He said to them, "Today as you have been hearing \f + \ft metonymy \f* \add me speak\add*, \add I am beginning\add* to fulfill this Scripture passage."
+\v 22 \add At first\add* everyone there spoke well about him, and they were amazed at the charming words that he spoke. \add But then some of\add* them said, "He is \add only\add* Joseph's son!\f + \ft Or: Isn't he \add only\add* Joseph's son? \f* \f + \ft rhetorical question \f* \add So\add* \add it is useless for us\f + \ft exclusive \f* to listen to what he says!\f + \ft Or: why should we( exclusive ) listen to what he says\add*? \f* \f + \ft rhetorical question \f*"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Then he rolled up the scroll and gave it back to the attendant, and sat down. Everyone in the synagogue was looking intently at him.
+\v 21 He said to them, "Today this scripture passage was fulfilled as you heard it."
+\v 22 Everyone there heard what he said and marveled at him, and they were amazed at how well he spoke. But some of them said, "This man is only Joseph's son, right?"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 20 Then he closed the scroll, gave it back to the synagogue attendant, and sat down. The eyes of all the people in the synagogue were fixed on him. 
+\v 21 He began to speak to them, "Today this scripture has been fulfilled in your hearing." 
+\v 22 Everyone there witnessed what he said and all of them were amazed at the gracious words which were coming out of his mouth. They were saying, "This is only Joseph’s son, is it not?"
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:wordofgod]]
+    * [[en:obe:kt:fulfill]]
+    * [[en:obe:kt:witness]]
+    * [[en:obe:other:amazed]]
+    * [[en:obe:kt:grace]]
+    * [[en:obe:kt:word]]
+    * [[en:obe:other:Josephnt]]
+
+===== Translation Notes: =====
+
+    * **Then he closed the scroll** - "Then Jesus rolled up the scroll"
+    * **synagogue attendant**  - This refers to a synagogue worker who made sure that the scrolls containing the scriptures were brought out and put away with proper care and reverence.
+    * **were fixed on him** - "were focused on him" or "were looking at him"
+    * **this scripture has been fulfilled in your hearing** - Jesus was saying that he was fulfilling that prophecy by his actions and speech at that very time. AT: "What this scripture said would happen has happened now while you listened to it."
+    * **amazed at the gracious words which were coming out of his mouth** - "surprised about the gracious things that he was saying." Here "gracious" may refer to how well or eloquent Jesus spoke. Or, it may mean that Jesus spoke words about God's grace.
+    * **This is only Joseph's son, is it not?**  - People thought that Joseph was Jesus' father. Joseph was not a religious leader, so they were surprised that his son would preach what he did.  AT: "Isn't this just Joseph's son?" or "This is just Joseph's son!" or "His father is only Joseph!"  (See: [[en:ta:vol1:translate:figs_rquestion]]).
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:luk:04:18|<<]] | [[:en:bible:notes:luk:04:23|>>]]**
+
+~~DISCUSSION~~{{tag>publish fulfill }}

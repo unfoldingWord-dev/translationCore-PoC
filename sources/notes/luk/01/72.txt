@@ -1,0 +1,82 @@
+====== Luke 01:72-75 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 72 He will do this because he has not forgotten what he promised our ancestors;
+\q1 he made an agreement that he would act mercifully to us, their descendants.
+\q1
+\v 73 That is what he strongly promised our ancestor Abraham that he would do.
+\q1
+\v 74 God told him that we would be rescued \f + \ft Or:he would rescue us \f* from the power of our enemies,
+\q1 that he would enable us to serve him without being afraid,
+\q1
+\v 75 that he would cause us to be completely dedicated to him,
+\q1 and enable us to live righteously all of our lives.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 72 He has done this because he is merciful to our ancestors and remembers his holy covenant, 
+\q
+\v 73 which is the oath that he promised to our ancestor Abraham. 
+\q
+\v 74 God promised to rescue us from the power of our enemies, 
+\q and to enable us to serve him without being afraid, 
+\q
+\v 75 in holy and righteous ways all of our lives.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q \v 72 He has done this to show mercy towards our ancestors,
+\q And to remember his holy covenant.
+\q \v 73 That covenant is the oath which he spoke to Abraham our ancestor.
+\q \v 74 He made an oath to set us free from the hand of our enemies 
+\q and to enable us to serve him without fear,
+\q \v 75 in holiness and righteousness before him all our days.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:mercy]]
+  * [[en:obe:kt:holy]]
+  * [[en:obe:kt:covenant]]
+  * [[en:obe:other:oath]]
+  * [[en:obe:other:abraham]]
+  * [[en:obe:kt:free]]
+  * [[en:obe:other:serve]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:kt:righteous]]
+
+===== Translation Notes: =====
+
+Zechariah prophesies after he is able to speak again.
+
+    * **to show mercy towards** - "to be merciful to" or "to act according to his mercy toward"
+    * **remember** - Here the word "remember" means to keep a commitment or fulfill something.
+    * **from the hand of our enemies** -  "Hand" refers to the harmful control or power a person has over another person. AT: "from the control of our enemies" (See: [[en:ta:vol2:translate:figs_metonymy]])
+    * **without fear** - AT: "without being afraid of our enemies"
+    * **in holiness and righteousness** - AT: "while we live in a holy and righteous way" or "to live holy lives and do what is right"
+    * **before him** - "in his presence." AT:  "according to his will."
+    * **all our days** - "our entire life"
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:69|<<]] | [[:en:bible:notes:luk:01:76|>>]]**
+
+~~DISCUSSION~~{{tag>publish covenant }}
+
+~~NOCACHE~~

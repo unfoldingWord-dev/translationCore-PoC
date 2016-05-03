@@ -1,0 +1,51 @@
+====== Luke 17:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 Similarly, when Lot \add lived in Sodom city, people there\add* ate and drank \add as usual\add*. They bought things and they sold things. They planted \add crops\add* and they built \add houses as usual\add*.
+\v 29 But on the day that Lot \add and his family\add* left Sodom, fire and \add burning\add* sulfur came down from the sky and destroyed all those \add who stayed in the city\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 Similarly, when Lot lived in the city of Sodom, people there ate and drank as usual. They bought things and they sold things. They planted crops and they built houses as usual.
+\v 29 But on the day that Lot left Sodom, fire and burning sulfur came down from the sky and destroyed all those who stayed in the city.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 Likewise even as it happened in the days of Lot, they ate, drank, bought, sold, planted, and they built.
+\v 29 But in the day that Lot went out from Sodom, it rained fire and sulfur from heaven and destroyed them all.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:lot]]
+  * [[:en:obe:other:sodom]]
+  * [[:en:obe:other:sulfur]]
+  * [[:en:obe:kt:heaven]]
+
+ 
+
+===== Translation Notes: =====
+Jesus continues speaking.
+
+  * **Likewise even as it happened in the days of Lot**  - This can be translated as "Another example is how it happened in the days of Lot" or “As people were doing when Lot lived.” The “days of Lot” refers to the time just before God punished the cities of Sodom and Gomorrah.
+  * **they ate**  - "the people of Sodom ate"
+  * **it rained fire and sulfur from heaven**  - "fire and burning sulfur fell from the sky like rain"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:25|<<]] | [[:en:bible:notes:luk:17:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish sulfur}}
+
+~~NOCACHE~~

@@ -1,0 +1,53 @@
+====== Luke 13:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Some people who were \add listening to Jesus\add* at that time told him about some people from Galilee \add district who had gone to Jerusalem\add*. Pilate, \add the Roman governor\add*, had \add ordered soldiers to\add* kill them \f + \ft metonymy \f* while they were offering sacrifices \add in the Temple there\add*.
+\v 2 Jesus replied to them, "Do you think \add that this happened to those\add* people from Galilee \add because\add* they were more sinful than all the other people from Galilee?
+\v 3 I assure you, \add that was\add* not\add so!\add* But instead of \add being concerned about them, you need to remember that God\add* will similarly punish you \add eternally\add* if you do not turn from your sinful behavior.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 At that time, some people told Jesus about some Galileans whom soldiers had recently killed in Jerusalem. Pilate, the Roman governor, had ordered soldiers to kill them while they were offering sacrifices in the Temple.
+\v 2 Jesus replied to them, "Do you think that this happened to those people from Galilee because they were more sinful than all the other Galileans?
+\v 3 I assure you, that was not the reason! But you need to remember that God will similarly punish you if you do not turn from your sinful behavior.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 13
+\p
+\v 1 At that time, some people there told him about the Galileans whose blood Pilate mixed with their own sacrifices.
+\v 2 Jesus answered and said to them, "Do you think that these Galileans were more sinful than all the other Galileans because they suffered in this way?  
+\v 3 No, I tell you. But if you do not repent, all of you will perish in the same way.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:other:pilate]]
+  * [[:en:obe:other:sacrifice]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:sin]]
+  * [[en:obe:kt:suffer]]
+  * [[:en:obe:kt:repent]]
+  * [[en:obe:kt:perish]]
+
+===== Translation Notes: =====
+
+  * **At that time**  - This phrase connects this event to the end of chapter 12 when Jesus was teaching a crowd of people.
+  * **whose blood Pilate mixed with their own sacrifices**  - This is a figure of speech in which their death is spoken of in terms of their blood. It can be translated as "who were killed by Pilate when they were offering their sacrifices." Pilate probably ordered his soldiers to kill people rather than doing it himself. (See: [[en:ta:vol2:translate:figs_metonymy]], [[en:ta:vol1:translate:figs_explicit]])
+  * **Do you think that these Galileans were more sinful**  - "Were these Galileans more sinful" or "Does this prove that these Galileans were more sinful?" This is a rhetorical question. It can be translated as a statement: "You think that these Galileans were more sinful" or as a command "Do not think that these Galileans were more sinful" (See: [[en:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **No, I tell you**  - Jesus said "I tell you" here to emphasize "No." It can be translated as "Certainly not!" Possible meanings are "They certainly were not more sinful" or "Their suffering certainly does not prove that." It can be translated as "You are wrong to think that."
+  * **all of you will perish in the same way**  - "all of you also will die." The phrase "in the same way" means "with the same result," not "by the same method."
+  * **perish**  - "lose your life" or "die"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:57|<<]] | [[:en:bible:notes:luk:13:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish galilee}}

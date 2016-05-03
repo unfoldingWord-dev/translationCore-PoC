@@ -1,0 +1,64 @@
+====== Luke 06:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 \add Jesus\add* came down from the hills with his disciples and stood on a level area. There was a great crowd of his disciples there. There was also a large group of people who had come from Jerusalem and from many \add other\add* places \add in\add* Judea \add district\add*, and from the coastal areas near Tyre and Sidon \add cities\add*.
+\v 18 They came to hear Jesus talk to them and to be healed \f + \ft Or:and for him to heal them \f* from their diseases. He also healed those whom evil spirits had troubled.
+\v 19 Everyone \add in the crowd\add* tried to touch him, because he was healing everyone by \add his\f + \ft Or: God \f*'s\add* power.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Jesus came down from the hills with his disciples and stood on a level area. There was a great crowd of his disciples there. There was also a large group of people who had come from Jerusalem and from many other places in the region of Judea, and from the coastal areas near the cities of Tyre and Sidon.
+\v 18 They came to hear Jesus teach them and to be healed from their diseases. He also healed those whom evil spirits had troubled.
+\v 19 Everyone in the crowd tried to touch him, because he was healing everyone by his power.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 Then Jesus came down the mountain with them and stood on a level place. A large crowd of his disciples was there, as well as a large number of the people from Judea and Jerusalem, and from the sea coast of Tyre and Sidon.
+\v 18 They had come to listen to him and to be healed of their diseases. People who were troubled with unclean spirits were also healed.
+\v 19 Everyone in the crowd kept trying to touch him because power to heal was coming out from him, and he healed them all.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:judea]]
+    * [[en:obe:other:jerusalem]]
+    * [[en:obe:other:tyre]]
+    * [[en:obe:other:sidon]]
+    * [[en:obe:other:heal]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:kt:power]]
+
+===== Translation Notes: =====
+
+
+    * **with them** - "with the twelve he had chosen" or "with his twelve apostles"
+    * **and to be healed** - AT: "and for Jesus to heal them." or "and Jesus healed them." (See [[en:ta:vol2:translate:figs_activepassive]], [[en:ta:vol1:translate:figs_explicit]])
+    * **troubled with unclean spirits** - "bothered by unclean spirits." AT: "controlled by unclean spirits" or "held captive by unclean spirits." See the UDB for a translation using the active voice. 
+    * **were also healed** - “Jesus also healed” (See: [[:en:ta:vol1:translate:figs_explicit]])
+    * **power to heal was coming out from him** - AT: "he had power to heal people." 
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/06/14|<<]] | [[en/bible/notes/luk/06/20|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish heal}}
+
+~~NOCACHE~~

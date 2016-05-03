@@ -1,0 +1,56 @@
+====== Luke 10:21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 At that time the Holy Spirit caused \add Jesus\add* to be very happy. He said, "Father, you\add \f + \ft singular \f*\add* rule over \add everything in\add* heaven and \add on\add* the earth! Some \add people think that they are\add* wise \add because\add* they are well-educated. But I thank you that you have prevented them from \add knowing\add* these things\add . Instead\add*, you have revealed them to \add people who accept your truth as readily\add* \f + \ft metaphor \f* \add as\add* little children \add do\add*. Yes, Father, \add you have done that\add* because it seemed good to you \add to do\add* so."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 Right then, Jesus was filled with great joy from the Holy Spirit. He said, "Father, you are Lord over everything in heaven and on earth. Some people think that they are wise because they are well educated. But I praise you that you have prevented them from knowing these things. Instead, you have revealed them to people who accept your truth readily as little children do. Yes, Father, you have done that because it pleased you to do so."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 At that same time he rejoiced greatly in the Holy Spirit, and said, "I praise you, O Father, Lord of heaven and earth, because you concealed these things from the wise and understanding, and revealed them to those who are untaught, like little children. Yes, Father, for so it was well pleasing in your sight."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:holyspirit]]
+    * [[en:obe:other:praise]]
+    * [[en:obe:kt:godthefather]]
+    * [[en:obe:kt:lordgod]]
+    * [[en:obe:kt:heaven]]
+    * [[en:obe:other:earth]]
+    * [[en:obe:kt:wise]]
+    * [[en:obe:other:understand]]
+    * [[en:obe:kt:reveal]]
+
+
+===== Translation Notes: =====
+Jesus begins to speak directly to his Father in the presence of the disciples.
+
+  * **Lord of heaven and earth**  - "Master over everyone and everything in heaven and earth" (See: [[:en:ta:vol2:translate:figs_metonymy]], [[:en:ta:vol2:translate:figs_merism]])
+  * **these things**  - This refers to Jesus' previous teaching about the authority of the disciples. It may be best to simply say "these things" and let the reader determine the meaning.
+  * **the wise and understanding**  - "from people who are wise and understanding." AT: "from people who think they are wise and understanding." (See: [[en:ta:vol1:translate:figs_irony]])
+  * **untaught, like little children**  - The term in the Greek refers to a very young child. Possible meanings are 1) "untaught" (ULB) or 2) "who accept your truth readily" (UDB).
+  * **like little children**  - This is a simile for people who are not wise and knowledgeable, or people who know that they are not wise and knowledgeable. (See: [[en:ta:vol1:translate:figs_simile]])
+  * **for so it was well pleasing in your sight**  - "for you saw that it was good to do that"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:luk:10:17|<<]] | [[:en:bible:notes:luk:10:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

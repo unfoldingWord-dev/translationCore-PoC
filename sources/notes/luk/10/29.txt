@@ -1,0 +1,56 @@
+====== Luke 10:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 But the man wanted to defend \add the way\add* he \add acted toward people that he came in contact with\add* \f + \ft Or: to defend why he \add had asked a question that Jesus answered so simply\add* \f*. So he said to Jesus, "Which people that I come in contact with \add should I love\add*?"
+\v 30 Jesus replied \add by telling him this illustration\add*: "A \add Jewish\add* man was once going down along the road from Jerusalem to Jericho. Bandits attacked him. They took away \add most of\add* the man's clothes \add and everything else that he had\add*, and they beat him until he was almost dead. Then they left him.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 But the man wanted to find a reason to justify the way he treated other people. So he said to Jesus, "Which people are my neighbors that I should love?"
+\v 30 Jesus replied, "One day, a Jewish man was traveling along the road from Jerusalem to Jericho. As he was traveling, some bandits attacked him. They took away most of the man's clothes and everything else that he had, and they beat him until he was almost dead. Then they left him.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 29 But the teacher, desiring to justify himself, said to Jesus, "And who is my neighbor?"
+\v 30 Answering, Jesus said, "A certain man was going down from Jerusalem to Jericho. He fell among robbers, who stripped him of his belongings, and beat him, and left him half dead.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:justify]]
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:other:neighbor]]
+    * [[en:obe:other:jerusalem]]
+    * [[en:obe:other:jericho]]
+ 
+===== Translation Notes: =====
+
+  * **But the teacher, desiring to justify himself, said**  - AT: "But he wanted to find a way to justify himself, so he said" or "But wanting to appear righteous, he said."
+  * **Answering, Jesus said**  - AT: "In response, Jesus told him this story."
+  * **He fell among robbers**  - "He was surrounded by robbers." AT: "Some robbers attacked him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **stripped him of his belongings**  - "took everything he had" or "stole all his things"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/10/25|<<]] | [[en/bible/notes/luk/10/31|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

@@ -1,0 +1,51 @@
+====== Luke 12:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 Think about the way that flowers grow \add in the fields\add*. They do not work \add to earn money\add*, and they do not make their own clothes. But I tell you that \add even though King\add* Solomon, \add who lived long ago, wore very beautiful clothes\add*, his clothes were not as beautiful as one of those \add flowers\add*.
+\v 28 God makes the flowers beautiful, but they grow in the fields for only a short time. Then \add they are cut at the same time that the other grass\add* is cut, and thrown into an oven \add to be burned to make heat for baking\add* bread. \add So they really are not worth very much. But you are very precious to\add* God, \add and he\add* will \add care for you\add* much more \add than he cares for the grass by filling it with beautiful flowers\add*. So he will certainly provide clothes for you, who \add live much longer than the grass. Why\add* \f + \ft rhetorical question \f* \add do you\add* trust him so little?
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 Think about the way that flowers grow. They do not work to earn money and they do not make their own clothes. But I tell you that even though King Solomon, who lived long ago, wore very beautiful clothes, he was never as well dressed as one of those flowers.
+\v 28 God makes the plants beautiful even though they grow for only a short time. Then they are cut and thrown into the fire. But you are very precious to God, and he will care for you much more than he cares for the plants. Why do you trust him so little?
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 27 Consider the lilies—how they grow.They do not labor, neither do they spin. Yet I say to you, even Solomon in all his glory was not clothed like one of these.
+\v 28 If God so clothes the grass in the field, which exists today, and tomorrow is thrown into the oven, how much more will he clothe you, O you of little faith!
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:labor]]
+    * [[en:obe:other:solomon]]
+    * [[en:obe:kt:glory]]
+    * [[en:obe:kt:god]]
+    * [[en:obe:kt:faith]]
+
+===== Translation Notes: =====
+Jesus continues to teach his disciples.
+
+  * **lilies**  - Lilies are beautiful flowers that grow wild in the fields. If your language does not have a word for lily, you can use the name of another flower like that or translate it as "flowers."
+  * **neither do they spin**  - "neither do they make thread in order to make cloth" or "and they do not make yarn"
+  * **Solomon in all his glory**  - "Solomon who had great wealth" or "Solomon who wore beautiful clothes"
+  * **If God so clothes the grass in the field**  - "If God clothes the grass in the field like that" or "If God gives the grass in the field such beautiful clothing." "Clothes the grass" is a metaphor for "makes the grass beautiful." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **how much more will he clothe you**  - This is an exclamation emphasizing that he will certainly take care of people even better than he does the grass. (See the section on Sentence Types in [[en:ta:vol2:translate:figs_sentences]].)
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:24|<<]] | [[:en:bible:notes:luk:12:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish solomon}}

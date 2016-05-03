@@ -1,0 +1,53 @@
+====== Luke 17:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add One day Jesus\add* said to his disciples, "Things that will tempt \add people\add* to sin are certain to happen, but it will be terrible for anyone who causes them to happen!
+\v 2 Suppose you caused one of these people who \add do not believe in me very strongly\add* to sin. If a huge stone was fastened \f + \ft Or:someone fastened a huge stone \f* around your neck and you were thrown \f + \ft Or:and threw you \f* into the sea, \add you would consider that a severe punishment, but God will punish\add* you even more severely \add if you cause someone to sin!\add*
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Jesus said to his disciples, "Things that tempt people to sin will certainly happen, but how terrible it will be for anyone who causes those things to happen!
+\v 2  It would be better for that person if someone fastened a huge stone around his neck and threw him into the sea, than if he were to cause to sin someone who is weak in his faith.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 17
+\p
+\v 1 Jesus said to his disciples, "It is certain there will be things that can cause us to sin, but woe to that person through whom they come!
+\v 2 It would be better for him if a millstone were put around his neck and he were thrown into the sea, than that he should cause one of these little ones to stumble.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:disciple]]
+    * [[en:obe:kt:sin]]
+    * [[en:obe:kt:woe]]
+    * [[en:obe:other:stumble]]
+
+===== Translation Notes: =====
+
+  * **It is certain there will be things that can cause us to sin**  - AT "It is impossible to prevent temptation from coming" or "It is impossible to stop things that tempt people to sin."
+  * **to that person through whom they come**  - "to anyone who causes the temptations to come" or "to any person who causes people to be tempted"
+  * **if a millstone were put around his neck and he were thrown**  - This could also be translated with active clauses: "if they were to put a millstone around his neck and throw him" or "if someone were to put a heavy stone around his neck and push him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **a millstone**  - This is a very large, heavy circular stone used for grinding wheat grain into flour. It could be translated as "a heavy stone."
+  * **these little ones**  - This could be translated as "little children" or "these people whose faith is small."
+  * **to stumble**  - This could be translated as "to sin."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:16:29|<<]] | [[:en:bible:notes:luk:17:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish woe }}

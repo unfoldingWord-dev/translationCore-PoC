@@ -1,0 +1,61 @@
+====== Luke 17:17-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Then Jesus said, "\add I\add* healed ten \add lepers\add*! I am disappointed that the other nine did not come back!\f + \ft Or: Where are the other nine? \f* \f + \ft rhetorical question \f*
+\v 18 I am disappointed \f + \ft rhetorical question \f* that this non-Jewish man was the only one who returned to thank God; none of the others came back to me!"
+\v 19 Then he said to the man, "Get up and continue on your journey. \add God\add* \f + \ft personification \f* \add has saved you and\add* healed you\add \f + \ft singular \f*\add* because you trusted \add in me\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 Then Jesus said, "I healed ten lepers! Why did the other nine not come back?
+\v 18 This foreign man was the only one who returned to thank God; none of the others came back!"
+\v 19 Then he said to the man, "Get up and go on your way. God has healed you because you trusted in me."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 Jesus answering, said, "Were not the ten cleansed? Where are the nine?
+\v 18 Were there no others who returned to give glory to God, except this foreigner?"
+\v 19 He said to him, "Arise, and go. Your faith has healed you."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:glory]]
+  * [[en:obe:other:foreigner]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:other:heal]]
+ 
+
+===== Translation Notes: =====
+
+    * **Jesus answering, said** - This can be translated as "So Jesus said to the crowd." Jesus responded to what the man did, but he was speaking to the group of people around him.
+    * **Were not the ten cleansed?** - This is the first of three rhetorical questions. Jesus used them to show the people around him how surprised and disappointed he was that only one of the ten men came back to glorify God. It can be translated as "Ten men were healed" or "God healed ten men." (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol2:translate:figs_activepassive]])
+    * **Where are the nine?** - This rhetorical question can be translated as "The other nine men should have come back, too" or "Why did not the other nine come back?" (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **Were there no others who returned to give glory to God, except this foreigner?** - This rhetorical question can be translated as "No one but this foreigner came back to give glory to God" or "Ten men were healed, yet only this foreigner came back to give glory to God" or "Can it be true that no one but this foreigner came back to give glory to God?" (See: [[en:ta:vol1:translate:figs_rquestion]] )
+    * **this foreigner**  - Samaritans had non-Jewish ancestors and they did not worship God in the same way that the Jews did. (See: [[:en:obe:other:samaria]])
+    * **Your faith has healed you**  - “Because of your faith you have become well.” The idea of “faith” can be translated with a verb: “Because you believe, you are healed.”
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:14|<<]] | [[:en:bible:notes:luk:17:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

@@ -1,0 +1,48 @@
+====== Luke 15:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 So he left there and went back to his father's house. But while he was still some distance from the house, his father saw him. He pitied him. He ran to his son and embraced him and kissed him \add on the cheek\add*.
+\v 21 His son said to him, 'Father, I have sinned against God [MTY\f + \ft Or: EUP \f*] and against you. I am no longer worthy to be called \f + \ft Or:of \add you\add* calling me \f* your son.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 So he left there and started traveling back to his father's house. But while he was still a great distance from the house, his father saw him and felt deep compassion for him. He ran to his son and embraced him and kissed him on the cheek.
+\v 21 His son said to him, 'Father, I have sinned against God and against you.  So I am no longer worthy to be called your son.'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 So the young son left and came toward his father. While he was still far away, his father saw him, and was moved with compassion, and ran, and hugged and kissed him.
+\v 21 The son said to him, 'Father, I have sinned against heaven and in your sight. I am not worthy to be called your son.'
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:compassion]]
+    * [[en:obe:other:kiss]]
+ 
+===== Translation Notes: =====
+Jesus continues telling his parable.
+  * **So the young son left and came toward his father**  - "So he left that country and started going back to his father."
+  * **was moved with compassion**  - "had pity on him" or "loved him deeply from his heart"
+  * **hugged and kissed**  - The father did this to show his son that he loved him and was glad that the son was coming home. If people think that it is strange or wrong for a man to hug and kiss his son, you can substitute a way that men in your culture show affection to other men. Or you can translate it more generally as "welcomed him affectionately."
+  * **sinned against heaven**  - "sinned against God"
+  * **in your sight**  - "in your presence." It can be translated as "you have seen me sin" or "and you know about it."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+**[[:en:bible:notes:luk:15:17|<<]] | [[:en:bible:notes:luk:15:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

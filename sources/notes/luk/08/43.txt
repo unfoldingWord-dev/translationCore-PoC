@@ -1,0 +1,56 @@
+====== Luke 08:43-44 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 43 Then a woman came near. She had been suffering from constant \add vaginal\add* \f + \ft euphemism \f* bleeding for twelve years, but she could not be healed by anyone \f + \ft Or:no one could heal her \f*.
+\v 44 She came behind \add Jesus\add* and touched the edge of his robe \add in order to be healed\add*. At once her bleeding stopped.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 43 Now in the crowd there was a woman who had been suffering for twelve years from a disease that caused continual bleeding. She had spent all her money to pay doctors to help her, but none of them was able to heal her.
+\v 44 She came behind Jesus and touched the edge of his robe. At once her bleeding stopped.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 43 A woman was there who had been bleeding for twelve years and had spent all her money on physicians, but could not be healed by any of them.
+\v 44 She came behind Jesus and touched the border of his garment, and immediately her bleeding stopped.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:heal]]
+
+
+===== Translation Notes: =====
+This event happens on the way to heal Jairus' daughter.
+
+  * **had been bleeding**  - "had a flow of blood." She was probably bleeding from her womb even when it was not the normal time for it. Some cultures may have a polite way of referring to this condition. (See: [[en:ta:vol2:translate:figs_euphemism]])
+  * **but could not be healed by any of them**  - "but none of them could cure her"
+  * **touched the border of his garment**  - "touched the fringe of his robe." Jewish men wore tassels on the edges of their robes as a part of their ceremonial dress, as commanded in God's Law. This is likely what she touched.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/08/40|<<]] | [[en/bible/notes/luk/08/45|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish heal}}
+
+~~NOCACHE~~

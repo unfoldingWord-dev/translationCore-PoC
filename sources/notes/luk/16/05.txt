@@ -1,0 +1,59 @@
+====== Luke 16:5-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 So \add one by one\add* he summoned the people who owed his master money. He asked the first one, 'How much do you\add \f + \ft singular \f*\add* owe my master?'
+\v 6 The man replied, 'Eight hundred gallons of olive oil.' The manager said to him, 'Take your bill and sit down and quickly change it to 400 \add gallons!\add*'
+\v 7 He said to another man, 'How much do you owe?' The man replied, 'A thousand bushels of wheat.' The manager said to him, 'Take your bill and change it to eight hundred \add bushels\add*!' \add He did similar things for the others who owed his master money\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 So one by one he asked everyone who owed his master money to come to him. He asked the first one, 'How much do you owe my master?'
+\v 6 The man replied, 'Three thousand liters of olive oil.' The manager said to him, 'Take your bill, sit down, and quickly change it to 15 hundred liters!'
+\v 7 He said to another man, 'How much do you owe?' The man replied, 'A thousand baskets of wheat.' The manager said to him, 'Take your bill and change it to eight hundred baskets!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 5 Then the manager called for each one of his master's debtors, and he asked the first one, 'How much do you owe to my master?'
+\v 6 He said, 'A hundred measures of olive oil.' And he said to him, 'Take your bill, sit down quickly, and write fifty.'
+\v 7 Then the manager said to another, 'And how much do you owe?' He said, 'A hundred measures of wheat.' He said to him, 'Take your bill, and write eighty.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:olive]]
+  * [[en:obe:other:oil]]
+  * [[en:obe:other:wheat]]
+ 
+
+===== Translation Notes: =====
+Jesus continues telling his story.
+    * **his master's debtors**  - "the people who were in debt to his master" or "the people who owed his mater something." In this story the debtors owed olive oil and wheat.
+    * **A hundred measures of olive oil** - "Around 3400 liters of olive oil"
+    * **hundred...fifty...eighty** - "100...50...80" (See: [[en:ta:vol2:translate:translate_numbers]])
+    * **he said...And he said to him** - “the debtor said...the manager said to the debtor”
+    * **A hundred measures of wheat**  - "Around 22,000 dry liters of wheat grain"
+    * **the managers said...He said...He said to him** - “the manager said...the debtor said...the manager said to the debtor”
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/16/03|<<]] | [[en/bible/notes/luk/16/08|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish manager}}
+~~NOCACHE~~

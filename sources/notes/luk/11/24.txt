@@ -1,0 +1,57 @@
+====== Luke 11:24-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 24 \add Then Jesus said this\add*: "\add Sometimes when\add* an evil spirit leaves someone, it wanders around in desolate areas seeking \add someone in whom it can\add* rest. If it does not find anyone, it says \add to itself\add*, 'I will return to the person in whom I used to live!'
+\v 25 So it goes back and finds that \add the Spirit of God is not in control of that person's life. The person's life is like\add* a house that has been \f + \ft Or:that someone has \f* swept clean and everything put \f + \ft Or:put everything \f* in order, \add but a house that is empty\add*.
+\v 26 Then \add this evil spirit\add* goes and gets seven other spirits that are \add even\add* more evil than it is. They \add all\add* enter \add that person\add* and \add begin\add* living there. \add So\add*, \add although\add* that person's condition \add was bad\add* before, it became much worse."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 24 Then Jesus said this: "Sometimes when an evil spirit leaves someone, it wanders around in desolate areas seeking relief. If it does not find any, it says to itself, 'I will return to the person in whom I used to live!'
+\v 25 So it goes back and finds that the person is like a house that has been swept clean and put in order, but is still empty.
+\v 26 Then this evil spirit goes and gets seven other spirits that are even more evil than it is. They all enter that person and begin living there. So, although that person's condition was bad before, it became much worse."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 24 When an unclean spirit has gone away from a man, it passes through waterless places and looks for rest. Finding none, it says, 'I will return to my house from which I came.'
+\v 25 Having returned, it finds that house swept out and put in order.
+\v 26 Then it goes and takes along with it seven other spirits more evil than itself and they all come in to live there. Then the final condition of that man becomes worse than the first."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:demon]]
+    * [[en:obe:kt:spirit]]
+    * [[en:obe:kt:evil]]
+
+===== Translation Notes: =====
+Jesus continues to speak to the crowd about demons.
+
+  * **waterless places** - This refers to "desolate places" (UDB) where the evil spirits wander.
+  * **Finding none** - "If the spirit does not find any rest there"
+  * **my house from which I came** - This is a metaphor referring to the person he used to lived in. AT: "the person in whom I used to live!" (UDB) The UDB goes on to translate it as a simile in verse 26. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **finds that house swept out and put in order** - AT: "finds that someone has swept the house clean and put everything where it belongs." (See: [[en:ta:vol2:translate:figs_activepassive]], [[en:ta:vol1:translate:figs_metaphor]])
+  * **swept out** - "empty." This metaphor refers to the condition of the person who did not fill their life with God's Spirit after the demon left. (See: [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:21|<<]] | [[:en:bible:notes:luk:11:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

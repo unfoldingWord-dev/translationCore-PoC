@@ -1,0 +1,54 @@
+====== Luke 02:41-44 ======
+
+===== TFT: =====
+
+<usfm>
+\v 41 Every year Jesus' parents went to Jerusalem to \add celebrate\add* the Passover festival.
+\v 42 So when Jesus was twelve years old, they went up \add to Jerusalem\add* as they always did.
+\v 43 When the celebration ended, his parents started to return home, but Jesus stayed in Jerusalem. \add His parents\add* did not realize that \add Jesus stayed there\add*.
+\v 44 They thought that he was with the other people who were traveling with them. They walked all day. Then they started to look for him among their relatives and friends.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 41 Every year Jesus' parents went to Jerusalem to celebrate the Passover.
+\v 42 So when Jesus was twelve years old, they went up to Jerusalem for the festival as they always did.
+\v 43 When all the days for the festival had ended, his parents started to return home, but Jesus stayed behind in Jerusalem. His parents did not know he was still there.
+\v 44 They assumed that he was with the other people who were traveling with them. After walking a whole day's jouney, they started to look for him among their relatives and friends.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 41 His parents went every year to Jerusalem for the Festival of the Passover.  
+\v 42 When he was twelve years old, they again went up at the customary time for the feast.  
+\v 43 After they had stayed the full number of days for the feast, they began to return home. But the boy Jesus stayed behind in Jerusalem and his parents did not know it.  
+\v 44 They assumed that he was with the group that was traveling with them, so they traveled a day's journey. Then they started looking for him among their relatives and friends.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:kt:passover]]
+  * [[en:obe:other:feast]]
+  * [[en:obe:kt:jesus]]
+
+===== Translation Notes: =====
+
+Jesus goes to Jerusalem with his family when he is 12 years old. 
+
+  * **His parents** - "Jesus' parents"
+  * **they again went up** - Jerusalem was on a hill, so people had to go up to it.
+  * **After they had stayed the full number of days for the feast** - "When all the days of celebrating the feast were over" or "After celebrating the feast for the required number of days"
+  * **They assumed** - "They thought"
+  * **they traveled a day's journey** - "they traveled one day" or "they went as far as people walk in one day"
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:39|<<]] | [[:en:bible:notes:luk:02:45|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

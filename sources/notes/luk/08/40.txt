@@ -1,0 +1,56 @@
+====== Luke 08:40-42 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 40 When \add Jesus and the disciples\add* returned \add to Capernaum\add*, a crowd of people who had been waiting for him welcomed him.
+\v 41 Just then a man named Jairus, who was one of the leaders of the synagogue\f + \ft Or: of the Jewish meeting place \f* \add there\add*, came near and prostrated himself at Jesus' feet. He pleaded with Jesus, "Please come to my house \add and heal my daughter\add*,
+\v 42 because my only daughter, who is about twelve years old, is dying!"
+\p As Jesus went with him, many people crowded close to Jesus.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 40 Then Jesus and the disciples went back across the lake to Capernaum. A crowd of people was waiting for him there, and they welcomed him.
+\v 41 Just then a man named Jairus, who was one of the leaders of the synagogue there, came near to Jesus and prostrated himself at his feet. He pleaded with Jesus to come to his house,
+\v 42 because his only daughter, who was about twelve years old, was dying and he wanted Jesus to heal her.
+\p But as Jesus went with him, many people were crowding very closely to Jesus.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 40 As Jesus returned, the crowd welcomed him, for they were all waiting for him.
+\v 41 Behold, there came a man named Jairus, and he was one of the leaders of the synagogue. Jairus fell down at Jesus’ feet and implored him to come to his house,
+\v 42 for he had an only daughter, about twelve years of age, and she was dying. But as he was going, the crowds of people were pressing up against him.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:synagogue]]
+    * [[en:obe:other:capernaum]]
+
+
+===== Translation Notes: =====
+
+  * **the crowd welcomed him** - AT: "the crowd joyfully greeted him."
+  * **Behold, there came a man named Jairus**  - The word "Behold" alerts us to Jairus as a new person in the story. Your language may have a way of doing this. English uses "There was a man who was named Jairus.” (See: [[:en:ta:vol1:translate:translate_names]])
+  * **one of the leaders of the synagogue**  - "one of the leaders at the local synagogue" or "a leader of the people who met at the synagogue in that area"
+  * **fell down at Jesus' feet**  -  1) “bowed down at Jesus feet” or 2) “lay down on the ground at Jesus feet.” Jairus did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+  * **she was dying**  - "she was about to die" or "she was near death"
+  * **But as he was going** - Some translators may need to first say "So Jesus agreed to go with the man." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **the crowds of people were pressing up against him**  - "the people were crowding tightly around Jesus"  (See: [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:38|<<]] | [[:en:bible:notes:luk:08:43|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

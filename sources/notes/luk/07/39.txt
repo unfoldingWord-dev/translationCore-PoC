@@ -1,0 +1,45 @@
+====== Luke 07:39-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 When the Pharisee who had invited \add Jesus\add* saw that, he thought within himself, "\add Prophets know about other people's lives\add*, \add so\add* if Jesus were a prophet, he would have known who this woman is who is touching him, and what kind of a person she is. He would have known that she is a prostitute! \f + \ft euphemism \f*"
+\v 40 Jesus said to him, "Simon, there is something I want to tell you\add \f + \ft singular \f*\add*." He replied, "Teacher, what is it?"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 When the Pharisee who had invited Jesus saw what the woman was doing, he thought, "If this man were really a prophet, he would have known who this woman is who is touching him, and what kind of person she is, that she is a sinner. "
+\v 40 In response, Jesus said to him, "Simon, there is something I want to tell you." He replied, "Teacher, what is it?"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 39 When the Pharisee who had invited Jesus saw this, he thought to himself, saying, "If this man were a prophet, then he would know who and what type of woman is touching him that she is a sinner."
+\v 40 Jesus responded and said to him, "Simon, I have something to say to you." He said, "Say it, Teacher!"
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:prophet]]
+    * [[en:obe:kt:teacher]]
+
+===== Translation Notes: =====
+
+    * **he thought to himself, saying**  - "he said to himself"
+    * **If this man were a prophet, then he would know**  - The Pharisee thought that Jesus was not a prophet because he allowed the sinful woman to touch him. AT: "Apparently Jesus is not a prophet. If he were, he would know."
+    * **Simon** - This was the name of the Pharisee who invited Jesus into his home. This was not Simon Peter.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:36|<<]] | [[:en:bible:notes:luk:07:41|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

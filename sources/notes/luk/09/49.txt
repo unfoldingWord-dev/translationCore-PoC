@@ -1,0 +1,59 @@
+====== Luke 09:49-50 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 49 John replied to \add Jesus\add*, "Master, we\add \f + \ft exclusive \f*\add* saw a man who was expelling demons, \add claiming\add* that \add he had\add* authority from you \f + \ft metonymy \f* to do that. So we told him to stop doing it, because he is not one of us \add disciples\add*."
+\v 50 But Jesus said to him \add and the other disciples\add*, "Do not tell him not to \add do that\add*! Remember that those who are not opposing you are trying to \add achieve the same goals that\add* you are!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 49 John replied to Jesus, "Master, we saw a man who was using your name to command demons to come out of people. So we told him to stop doing that, because he is not following you as part of our group."
+\v 50 But Jesus said, "Do not stop him from doing that! If someone is not doing something that is harmful to you, then what he is doing is helpful to you!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 49 John answered and said, "Master, we saw someone forcing out demons in your name and we stopped him, because he does not follow with us."
+\v 50 But Jesus said to him, "Do not stop him, for he that is not against you is for you."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:johntheapostle]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:kt:name]]
+    * [[en:obe:kt:jesus]]
+
+
+===== Translation Notes: =====
+
+
+    * **John answered and said**  - "In reply, John said" or "John replied to Jesus." John was responding to what Jesus had said about being the greatest. He was not answering a question. He wanted to know what rank this man who was forcing out demons would have among the disciples. 
+    * **Master**  - The word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to  someone who owns someone else. AT: "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
+    * **in your name** - This means the person was speaking with the power and authority of Jesus. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+    * **Do not stop him** This is a double negative. In some languages it is more natural to use a positive. AT: "allow him to continue" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+    * **he that is not against you is for you** - Some modern languages have sayings that mean the same thing.  AT: "if a person does not hinder you, it is if they were helping you" or "if someone is not working contrary to you, he is working in your favor." 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:46|<<]] | [[:en:bible:notes:luk:09:51|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

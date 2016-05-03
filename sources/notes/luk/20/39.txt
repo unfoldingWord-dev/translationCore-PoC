@@ -1,0 +1,57 @@
+====== Luke 20:39-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 Some of the men who taught the \add Jewish\add* laws replied, "Teacher, you\add \f + \ft singular \f*\add* have answered very well!"
+\v 40 After that, they no longer dared to ask him any more questions \add like that to try to trap him\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 Some of the teachers of the Jewish law replied, "Teacher, you have answered very well!"
+\v 40 After that, no one dared to ask him any more questions like that to trap him.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 39 Some of the scribes answered, "Teacher, you have answered well."
+\v 40 For they did not dare ask him any more questions.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:kt:teacher]]
+
+
+===== Translation Notes: =====
+
+  * **Some of the scribes answered**  - "Some of the scribes said to Jesus"
+  * **they did not dare ask him**  - "they were afraid to ask him" or "they did not risk asking him." The implied information about the purpose of the questions and their reason for not asking can be made explicit. "They did ask him any more tricky questions because they feared that his wise answers would make them appear foolish again." (See: [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/20/37|<<]] | [[en/bible/notes/luk/20/41|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

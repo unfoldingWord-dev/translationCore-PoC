@@ -1,0 +1,64 @@
+====== Luke 19:43-44 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 43 I want you to know this: Soon \add your enemies\add* will come and will set up a barricade around your \add city\add*. They will surround \add the city\add* and attack \add it\add* on all sides.
+\v 44 They will \add break through\add* the walls \add and\add* destroy everything. They will smash you and your people\f + \ft Or: children \f*. \add When they finish destroying everything\add*, there will not be one stone left on top of another. \add All this will happen\add* because you did not recognize the time when God sent his \add Messiah\add* to \add save\add* you!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 43 I want you to know this: Soon your enemies will come and will set up a barricade around your city. They will surround the city and attack it on all sides.
+\v 44 They will break through the walls and destroy everything. They will destroy it and you and all your children. When they finish destroying everything, there will not be one stone left on top of another. All this will happen because you did not recognize the time when God came to save you!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 43 For the days will come upon you, when your enemies will build a barricade around you, and surround you, and press in on you from every side.
+\v 44 They will strike you down to the ground and your children with you. They will not leave one stone upon another, because you did not recognize it when God was trying to save you."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:adversary]]
+  * [[en:obe:kt:God]]
+  * [[en:obe:kt:save]]
+
+===== Translation Notes: =====
+
+Jesus continues speaking outside the city of Jerusalem.
+  * **For** - What follows is the reason for Jesus' sadness.
+  * **the days will come upon you**  - This indicates that they would experience hard times. Some languages do not talk about time coming. So this can be translated as "In the future these things will happen to you" or "Soon you will endure troublesome times."
+  * **you** - The word “you” is singular because Jesus was speaking to the city. But if this would be unnatural in your language, you could use a plural form of “you” to refer to the people of the city. (See: [[en:ta:vol1:translate:figs_you]])
+  * **barricade**  - A barricade is a wall to keep the people from getting out of the city.
+  * **They will strike you down to the ground** - Since Jesus was speaking to the city, this refers to the walls and buildings of the city. It can also be translated as "They will destroy your walls" or "They will destroy your city." 
+  * **and your children with you** - This refers to the people who lived in the city. If you have used the plural form of you in this passage, this could also be translated as "and they will kill you people in the city."
+  * **They will not leave one stone upon another** - This is a hyperbole to express how completely the enemies would destroy the city which was built of stones. It can be translated as "They will not leave any of the stones in place." (See: [[en:ta:vol2:translate:figs_hyperbole]])
+  * **you did not recognize it** - "you did not acknowledge"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/41|<<]] | [[en/bible/notes/luk/19/45|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

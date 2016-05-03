@@ -1,0 +1,55 @@
+====== Luke 12:45-46 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 45 But that servant might say to himself, 'My master \add has been away\add* for a long time, \add so he probably will\add* not return soon\add and find out what I am doing\add*.' \add Then he might\add* start to beat the \add other\add* servants, both male and female ones. \add He might also start\add* to eat \add a lot of food\add* and get drunk.
+\v 46 \add If he does that, and if\add* his master returns on a day that he does not know about, at a time when the servant does not expect him, then his master will cut him into two pieces\f + \ft Or: punish him severely \f* \f + \ft hyperbole \f* and put him \add in the place where he puts all\add* those who do not \add serve him\add* faithfully.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 45 But if that servant manager says to himself, 'My master has been away for a long time,' then he might start to beat the other servants, both male and female ones. He might also start to eat a lot of food and get drunk.
+\v 46 If he does that, his master might return at a time when the servant does not expect him. Then his master will punish him severely and assign him a place with those who do not serve him faithfully.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 45 But if that servant says in his heart, 'My lord delays his return,' and begins to beat the male and female servants, and to eat and drink, and to become drunk,
+\v 46 the lord of that servant will come in a day when he does not expect, and in an hour that he does not know, and will cut him in pieces and appoint a place for him with the unfaithful.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[:en:obe:other:servant]]
+    * [[:en:obe:other:heart]]
+    * [[:en:obe:kt:lord]]
+    * [[en:obe:other:drunk]]
+    * [[en:obe:kt:appoint]]
+    * [[:en:obe:kt:unfaithful]]
+
+===== Translation Notes: =====
+Jesus continues to tell his disciples a parable.
+
+    * **that servant** - This refers to the servant whose lord has put him in charge of the other servants.
+    * **says in his heart** - AT: "thinks to himself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+    * **My lord delays his return** - AT: "My master will not return soon"
+    * **male and female servants** - The words that are translated here as “male and female servants” are normally translated as “boys” and "girls". They may indicate that the servants were young or that they were dear to their master.
+    * **appoint a place for him with the unfaithful**  - "put him with the unfaithful people" or "sends him to the place where he sends those who are unfaithful"
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:41|<<]] | [[:en:bible:notes:luk:12:47|>>]]**
+
+~~DISCUSSION~~{{tag>publish  unfaithful}}
+
+~~NOCACHE~~

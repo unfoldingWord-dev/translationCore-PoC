@@ -1,0 +1,48 @@
+====== Luke 10:40-42 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 40 But Martha was very much concerned about preparing \add the meal\add*. She went to Jesus and said, "Lord, do you not care that my sister has left me to prepare everything by myself?\f + \ft Or: you do not seem to care that my sister has left me to prepare everything by myself! \f* \f + \ft rhetorical question \f* Tell her that she should help me!"
+\v 41 But the Lord replied, "Martha, Martha, you\add \f + \ft singular \f*\add* are very worried about many things.
+\v 42 But only one thing is truly necessary, and that is, \add to listen to what I am teaching\add*. Mary has decided to \add do that\add*, and that is better. \add The blessing that she is receiving from doing that\add* will not be taken away from her \f + \ft Or:No one will take away from her \add the blessing that she is receiving from doing that\add* \f*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 40 But Martha was very much concerned about preparing the meal. She went to Jesus and said, "Lord, do you not care that my sister has left me to prepare everything by myself? Please tell her that she should help me!"
+\v 41 But the Lord replied, "Martha, Martha, you are very worried about many things.
+\v 42 But the only thing that is truly necessary is to listen to what I am teaching. Mary has made the best choice. The blessing that she is receiving from doing that will not be taken away from her."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 40 But Martha was overly busy with preparing to serve a meal. She came up to Jesus, and said, "Lord, do you not care that my sister left me to serve alone? Therefore tell her to help me."
+\v 41 But the Lord answered and said to her, "Martha, Martha, you are anxious about many things,
+\v 42 but only one thing is necessary. Mary has chosen what is best, which will not be taken away from her."
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:serve]]
+    * [[en:obe:kt:lord]]
+
+
+===== Translation Notes: =====
+
+    * **do you not care** - Martha was complaining that the Lord was allowing Mary to sit listening to him when there was so much work to do. She respected the Lord, so she used a rhetorical question to soften her complaint. AT: "It seems like you do not care." (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **which will not be taken away from her**  - Possible meanings are 1) "I will not take this opportunity away from her" or 2) "She will not lose what she has gained as she listening to me." (See: [[:en:ta:vol2:translate:figs_activepassive]]) or "she will be allowed to continue" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:luk:10:36|<<]] | [[:en:bible:notes:luk:11:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

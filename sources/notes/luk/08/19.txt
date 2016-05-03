@@ -1,0 +1,59 @@
+====== Luke 08:19-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 \add One day Jesus'\add* mother and his \add younger\add* brothers came to see him, but they could not get near him because there was a large crowd \add around him in the house\add*.
+\v 20 Someone told him, "Your mother and your \add younger\add* brothers are standing outside, wanting to see you."
+\v 21 He replied, "Those who hear God's message and obey it are \add as dear to me\add* \f + \ft metaphor \f* as my mother and my brothers."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 One day Jesus' mother and brothers came to see him, but they could not get near to him because there was such a large crowd around him in the house where he was.
+\v 20 Then someone told him, "Your mother and your brothers have been standing outside, wanting to see you."
+\v 21 But he replied to them, "Those who hear God's word and obey it are as dear to me as my mother and my brothers."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 Then Jesus' mother and brothers came to him, but they could not come near him because of the crowd.
+\v 20 And it was told him, "Your mother and your brothers are standing outside, desiring to see you."
+\v 21 But Jesus answered and said to them, "My mother and my brothers are those who hear the word of God, and obey it."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:brother]]
+    * [[en:obe:kt:wordofgod]]
+    * [[en:obe:other:obey]]
+
+===== Translation Notes: =====
+
+  * **brothers** - These were Jesus' younger brothers.
+  * **it was told him**  - "people told him" or "someone told him"
+  * **desiring to see you**  - "waiting to see you" or "and they want to see you"
+  * **My mother and my brothers are those who hear the word of God, and obey it.** - AT: "Those who hear the word of God and obey it are like a mother and brothers to me" or "Those who hear the word of God and obey it are as important to me as my mother and brothers." (See: [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:16|<<]] | [[:en:bible:notes:luk:08:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

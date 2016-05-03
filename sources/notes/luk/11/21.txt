@@ -1,0 +1,59 @@
+====== Luke 11:21-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 Then, \add to show that by expelling evil spirits he was making it clear that he was much more powerful than Satan, Jesus said\add* \f + \ft metaphor \f*, "When a strong man who has many weapons guards his own house, no one can steal the things in his house.
+\v 22 But when someone else who is stronger attacks that man and subdues him, he is able to take away the weapons in which the man trusted. Then he can take from that man's house anything he \add wants to\add*.
+\v 23 \add No one can be neutral\add*. Those who do not help me\add are opposing\add* me, and those who do not gather \add people to become\add* my\add disciples\add* are causing \add those people\add* to go away \add from me\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 Jesus continued, "When a strong man who has many weapons guards his own house, no one can steal the things in his house.
+\v 22 But when someone else who is stronger attacks that man and subdues him, he is able to take away the weapons in which the man trusted. Then he can take from that man's house anything he wants to.
+\v 23 Anyone who is not supporting me is opposing me, and anyone who does not bring people to me causes them to go away from me."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 When a strong man who is fully armed guards his own house, his goods are safe,
+\v 22 but when a stronger man overcomes him, the stronger man takes away the  armor from the man, and plunders the man's possessions.
+\v 23  The one who is not with me is against me, and the one who does not gather with me scatters.
+</usfm>
+
+
+===== translationWords: =====
+  * [[en:obe:other:armor]]
+  * [[en:obe:other:possess]]
+
+===== Translation Notes: =====
+Jesus continues to speak to the crowd about demons.
+
+  * **When a strong man...** - This story is a metaphor. The image of a strong man being attacked from outside is the same as Jesus is attacking Satan's kingdom from outside by casting out the demons. (See: [[en:ta:vol1:translate:figs_metaphor]]) 
+  * **his goods are safe**  - "no one can steal his things" (See: [[en:ta:vol1:translate:figs_metaphor]]) 
+  * **plunders the man's possessions** - AT: "steals his possessions" or "takes away anything that he wants." (See: [[en:ta:vol1:translate:figs_metaphor]]) 
+  * **who is not with me** - "who does not support me" or "who does not work with me"
+  * **is against me**  - "works against me." This refers to those who said Jesus was working together with Satan.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/11/18|<<]] | [[en/bible/notes/luk/11/24|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Luke 12:41-44 ======
+
+===== TFT: =====
+
+<usfm>
+\v 41 Peter said, "Lord, are you\add \f + \ft singular \f*\add* speaking this illustration \add only\add* for us or for everyone \add else also\add*?"
+\v 42 The Lord replied, "\add I am saying it for you and for anyone else\add* \f + \ft metaphor, rhetorical question \f* who is like a faithful and wise manager in his master's house. His master appoints him to \add supervise affairs in his house\add* and to give all the \add other\add* servants their food at the proper time. \add Then he leaves on a long trip\add*.
+\v 43 If the servant is doing that work when his master returns, \add his master\add* will be very pleased with him.
+\v 44 I tell you this: His master will appoint him to supervise all of his affairs \add permanently\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 41 Peter asked, "Lord, are you giving this illustration only for us or for everyone else also?"
+\v 42 The Lord replied, "I am saying it for everyone who is like a faithful and wise servant who is a manager in his master's house. His master puts him in charge of making sure the other servants get their food at the proper time.
+\v 43 If the servant is doing that work when his master returns, his master will reward him.
+\v 44 I tell you this: the master will put that servant in charge of all he owns.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 41 Peter said, "Lord, are you telling this parable only to us, or also to everyone?"
+\v 42 The Lord said, "Who then is the faithful and wise manager whom his lord will set over his other servants to give them their portion of food at the right time?
+\v 43 Blessed is that servant, whom his lord finds doing that when he comes.
+\v 44 Truly I say to you that he will set him over all his property.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:kt:faithful]]
+  * [[:en:obe:kt:wise]]
+  * [[:en:obe:other:manager]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:bless]]
+
+===== Translation Notes: =====
+
+  * **Who then is**  - This is the beginning of a rhetorical question. Jesus did not answer Peter's question directly, but expected those who wanted to be faithful managers to understand that the parable was about them. It can be introduced with a statement: "I said it for everyone who is." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **the faithful and wise manager**  - Jesus tells another parable about how servants should be faithful while they wait for their master to return. (See: [[en:ta:vol1:translate:figs_parables]])
+  * **whom his lord will set over his other servants**  - "whom his lord puts in charge of his other servants" (See: [[en:ta:vol1:translate:figs_parables|Parables]])
+  * **Blessed is that servant**  - "How good it is for that servant" (See: [[en:ta:vol1:translate:figs_parables]])
+  * **whom his lord finds doing that when he comes**  - AT: "if his lord finds him doing that work when he comes back." (See: [[en:ta:vol1:translate:figs_parables]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:39|<<]] | [[:en:bible:notes:luk:12:45|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

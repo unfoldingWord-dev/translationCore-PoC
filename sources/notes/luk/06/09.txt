@@ -1,0 +1,62 @@
+====== Luke 06:9-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 Then Jesus said to them, "I ask you this: Do the laws that \add God gave Moses\add* permit \add people\add* to do what is good on the Sabbath\f + \ft Or: on the Jewish rest day \f*, or \add do they permit people\add* to harm \add others\add*? \add Do they permit us\add* to save \add a person's\add* life \add on our day of rest\add* or to let \add him\add* die \f + \ft hyperbole \f* \add by refusing to help him\add*?"
+\v 10 \add They refused to answer him. So\add* after he looked around at them all, he said to the man, "Stretch out your \add withered\add* hand!" The man did that, and his hand became all right again!
+\v 11 But they were very angry, and they discussed with one another what they could do to \add get rid of\add* Jesus.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 Then Jesus said to them, "I ask you this: Do the laws that God gave Moses command people to do good on the Sabbath, or to do harm? To save a life on the Sabbath, or destroy it?"
+\v 10 No one answered him, so he looked around at them all and then said to the man, "Stretch out your shriveled hand!" The man did that, and his hand became completely well again!
+\v 11 But the religious leaders were very angry, and they discussed with one another about what they could do to get rid of Jesus.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 9 Jesus said to them, "I ask you, is it lawful on the Sabbath to do good or to do harm, to save a life or to destroy it?"
+\v 10 Then he looked around at them all and said to the man, "Stretch out your hand." He did so, and his hand was restored. 
+\v 11 But they were filled with anger, and they talked to each other about what they might do to Jesus.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:other:lawful]]
+    * [[en:obe:kt:good]]
+    * [[en:obe:kt:life]]
+    * [[en:obe:kt:restore]]
+
+
+===== Translation Notes: =====
+
+    * **to them**  - "to the Pharisees"
+    * **is it lawful** - This is the beginning of a rhetorical question. Jesus wanted the Pharisees to think about it and acknowledge that it is lawful to heal on the Sabbath. AT: "which is lawful? To do good" or "which does the law of Moses permit us to do?" (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **to do good or to do harm** - "to help someone or to harm someone"
+    * **Stretch out your hand** - "Hold out your hand" or "Extend your hand"
+    * **restored**  - "healed"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:06|<<]] | [[:en:bible:notes:luk:06:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

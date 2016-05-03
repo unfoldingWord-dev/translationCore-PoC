@@ -1,0 +1,51 @@
+====== Luke 16:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 \add Eventually\add* the poor man died. Then he was taken by the angels \f + \ft Or:the angels took him \f* to \add start feasting\add* next to his \add great ancestor\add* Abraham. The rich man also died, and his body was buried \f + \ft Or:\add some people\add* buried his body \f*.
+\v 23 In the place where dead people wait \add for God to judge them\add*, he was suffering great pain. He looked up and saw Abraham far away, and he saw Lazarus sitting close to Abraham.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Eventually the poor man died. Then he was taken by the angels to his ancestor Abraham. The rich man also died, and his body was buried.
+\v 23 In the place of the dead, the rich man was suffering great pain. He looked up and saw Abraham far away and Lazarus sitting very close to Abraham.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 It came about that the beggar died and was carried away by the angels to Abraham’s side. The rich man also died and was buried,
+\v 23 and in hades, being in torment, he lifted up his eyes and saw Abraham far away and Lazarus against his chest.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:beg]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:other:abraham]]
+  * [[en:obe:other:bury]]
+  * [[:en:obe:other:hades]]
+  * [[en:obe:other:torment]]
+===== Translation Notes: =====
+Jesus continues telling his story.
+
+  * **It came about that**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **Abraham's side**  - Apparently Abraham and Lazarus were reclining next to each other at a feast. This was the Greek style of feasting for invited guests. This phrase could also be translated as "next to Abraham" or "reclining next to Abraham" or "sitting next to Abraham."
+  * **being in torment**  - "where he was continually afflicted" or "while he was suffering severe pain"
+  * **he lifted up his eyes**  - This is a metaphor that means "he looked up." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **and Lazarus against his chest**  - This could also be translated as "and Lazarus reclining next to Abraham" or "and Lazarus sitting close to him" or "and Lazarus with him."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+**[[:en:bible:notes:luk:16:19|<<]] | [[:en:bible:notes:luk:16:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish beg }}
+
+~~NOCACHE~~

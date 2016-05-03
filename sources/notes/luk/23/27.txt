@@ -1,0 +1,46 @@
+====== Luke 23:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 A large crowd followed Jesus. The crowd included many women who were beating their breasts \add to show how sad they were\add*, and wailing for him.
+\v 28 But Jesus turned to them and said, "You women of Jerusalem, do not cry for me! Instead, cry because of \add what is going to happen to\add* yourselves and your children!
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 Now a large crowd was following Jesus. It had many women who were beating their breasts and wailing for him.
+\v 28 Jesus turned to them and said, "You women of Jerusalem, do not weep for me! Instead, weep because of what is going to happen to yourselves and your children!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 27 A great crowd of the people, and of women who grieved and mourned for him, were following him.
+\v 28 But turning to them, Jesus said, "Daughters of Jerusalem, do not weep for me, but weep for yourselves and for your children.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:mourn]]
+  * [[en:obe:other:jerusalem]]
+
+===== Translation Notes: =====
+
+  * **mourned for him** - "mourned for Jesus"
+  * **were following him** - "were following Jesus"
+  * **Daughters of Jerusalem** - "you women who are from Jerusalem"
+  * **weep for me** - "cry about my situation"
+  * **but weep for yourselves and for your children** - "instead cry for what is going to happen to you and to your children" (UDB)
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:26|<<]] | [[:en:bible:notes:luk:23:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

@@ -1,0 +1,47 @@
+====== Luke 11:31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 \add The\add* queen from \add Sheba\add*, \add far\add* south \add of Israel, who lived long ago\add*, traveled a long distance to hear Solomon speak \add many\add* wise things. But now \add I, a man\add* who \add is much\add* greater \add and wiser\add* than Solomon, am here, \add but you have not listened to what I have told you\add*. Therefore, at the time when \add God\add* judges \add all people\add*, the queen from \add Sheba\add* will stand there, \add along\add* with you people, and will condemn you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 Long ago the Queen of Sheba traveled a very long distance to hear Solomon speak wise things. And now someone who is much greater than Solomon is here, but you have not really listened to what I say. Therefore, at the time when God will judge all people, this queen will stand there and condemn the people alive now.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 31 The Queen of the South will rise up at the judgment with the men of this generation and condemn them, for she came from the ends of the earth to hear the wisdom of Solomon, and see, someone greater than Solomon is here.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:queen]]
+  * [[en:obe:kt:judgmentday]]
+  * [[en:obe:kt:condemn]]
+  * [[en:obe:kt:wise]]
+  * [[en:obe:other:solomon]]
+
+ 
+===== Translation Notes: =====
+
+  * **Queen of the South**  - This refers to the Queen of Sheba. Sheba was a kingdom south of Israel.
+  * **will rise up at the judgment with** - "will also stand up and judge"
+  * **she came from the ends of the earth** - "she came a very great distance." "From the ends of the earth" is an idiom that means "from a place very far away." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **someone greater than Solomon is here** - The rebuke that Jesus wanted them to understand was "but you have not listened to me." 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:29|<<]] | [[:en:bible:notes:luk:11:32|>>]]**
+
+~~DISCUSSION~~{{tag>publish  judgmentday}}
+
+~~NOCACHE~~

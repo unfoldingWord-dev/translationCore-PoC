@@ -1,0 +1,55 @@
+====== Luke 22:7-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Then the day during the \add first part of the week-long festival\add* of Unleavened Bread came, \add the day\add* when \add the\add* lambs \add for the\add* Passover\add celebration\add* had to be killed.
+\v 8 So Jesus said to Peter and John, "Go and prepare the meal for the Passover \add celebration\add*."
+\v 9 They replied to him, "Where do you\add \f + \ft singular \f*\add* want us to prepare it?"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 Then the Day of Unleavened Bread came, the day when the lambs for the Passover Celebration had to be killed.
+\v 8 So Jesus said to Peter and John, "Go and prepare the meal for the Passover Celebration for us so we can eat it together."
+\v 9 They replied to him, "Where do you want us to prepare to eat it?"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 7 The day of unleavened bread came, on which the Passover lamb must be sacrificed.
+\v 8 Jesus sent Peter and John, saying, "Go and prepare for us the Passover meal, so that we may eat it."
+\v 9 They asked him, "Where do you want us to make preparations?"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:unleavenedbread]]
+  * [[en:obe:kt:passover]]
+  * [[en:obe:kt:lamb]]
+  * [[en:obe:other:sacrifice]]
+  * [[en:obe:other:peter]]
+  * [[en:obe:other:johntheapostle]]
+
+===== Translation Notes: =====
+
+  * **The day of unleavened bread**  - "The day of bread without yeast" or "The day of flatbread." This was the day the Jews would take all bread made with yeast out of their homes. Then they would celebrate the Festival of Unleavened Bread for seven days.
+  * **the Passover lamb must be sacrificed**  - "people had to kill the lamb for the Passover meal." Each family or group of people would kill a lamb and eat it together, so many lambs were killed.
+  * **so that we may eat it**  - Jesus was including Peter and John when he said "we." Peter and John would be part of the group that would eat the meal. (See: [[en:ta:vol2:translate:figs_inclusive]])
+  * **prepare**  - This is a general word meaning "make ready." Jesus was not necessarily telling Peter and John to do all the cooking.
+  * **you want us to make preparations**  - The word "us" does not include Jesus. Jesus would not be part of the group that would prepare the meal. (See: [[en:ta:vol2:translate:figs_exclusive]])
+  * **make preparations**  - "make preparations for the meal" or "prepare the meal"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:05|<<]] | [[:en:bible:notes:luk:22:10|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

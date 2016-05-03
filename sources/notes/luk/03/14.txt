@@ -1,0 +1,52 @@
+====== Luke 03:14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Some soldiers asked him, "What about us? What should we\add \f + \ft exclusive \f*\add* do \add to please God\add*?" He said to them, "Do not \add say to anyone\add*, '\add If you\f + \ft singular \f* do not give me\add* some money, I will hurt you,' and do not take\add people to court and\add* falsely accuse them of doing something wrong! And be content with your wages."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Some soldiers asked him, "And us? What should we do?" He said to them, "Do not force people to give you money by threatening them, and do not falsely accuse anyone of doing something wrong! Be content with the amount of money you earn."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 Some soldiers also asked him, saying, "And what about us? What must we do?" He said to them, "Do not take money from anyone by force, and do not accuse anyone falsely. Be content with your wages."
+</usfm>
+
+
+===== translationWords: =====
+
+
+  * [[en:obe:other:warrior]]
+  * [[en:obe:other:accuse]]
+
+===== Translation Notes: =====
+
+    * **soldiers** - "men serving in the army"
+    * **And what about us? What must we do?** - "How about us soldiers, what must we do?" John is not included in the words "us" and "we." The soldiers have implied that John had told the crowd and the tax collector what they must do and want to know what they as soldiers are to do.  (See: [[en:ta:vol2:translate:figs_exclusive]])
+    * **do not accuse anyone falsely** - It seems that the soldiers were making false charges against people in order to get money. AT: "in the same way, do not accuse anyone falsely in order to get money from them" or "do not say that an innocent person has done something illegal."
+    * **Be content with your wages**  - "Be satisfied with your pay" 
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+
+
+**[[en/bible/notes:luk/03/12|<<]] | [[en/bible/notes:luk/03/15|>>]]** 
+
+
+~~DISCUSSION~~
+
+ 
+{{tag>publish}}
+~~NOCACHE~~

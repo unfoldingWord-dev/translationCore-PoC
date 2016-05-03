@@ -1,0 +1,63 @@
+====== Luke 18:18-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 A \add Jewish\add* leader asked \add Jesus\add*, "Good teacher, what shall I do in order to have eternal life?"
+\v 19 Jesus said to him, "Only God is good! No one \add else\add* is good! So you\f + \ft singular \f* should consider carefully what \add you are implying by\add* calling me good!\f + \ft Or: \add Do you realize that you are implying that I am God by\add* calling me good? \f* \f + \ft rhetorical question \f*
+\p
+\v 20 \add But to answer your question\add*, you\add \f + \ft singular \f*\add* know the commandments that \add God gave Moses. He commanded such things as\add* 'do not commit adultery, do not commit murder, do not steal, do not testify falsely \add about what you have seen or heard\add*, honor your father and mother.'~"
+\v 21 The man said, "I have obeyed all those \add commandments\add* ever since I was young. \add So\add* \add there must be something else I have not done.\f + \ft Or: is that enough\add*? \f*"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 Once a Jewish leader asked Jesus, "Good teacher, what must I do in order to have eternal life?"
+\v 19 Jesus said to him, "Why do you call me good? God is the only one who is truly good!
+\p
+\v 20 In answer to your question, certainly you know the commandments that God gave to Moses for us to obey:  'Do not commit adultery, do not murder anyone, do not steal, do not give a false report, honor your father and mother.'"
+\v 21 The man said, "I have obeyed all those commandments ever since I was young."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 A certain ruler asked him, saying, "Good teacher, what must I do to inherit eternal life?"
+\v 19 Jesus said to him, "Why do you call me good? No one is good, except God alone.
+\v 20 You know the commandments—do not commit adultery, do not kill, do not steal, do not testify falsely, honor your father and mother."
+\v 21 The ruler said, "All these things I have obeyed from the time I was a youth."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:ruler]]
+  * [[:en:obe:kt:good]]
+  * [[:en:obe:kt:teacher]]
+  * [[en:obe:kt:inherit]]
+  * [[:en:obe:kt:eternity]]
+  * [[:en:obe:other:tencommandments]]
+  * [[:en:obe:kt:adultery]]
+  * [[en:obe:other:falsewitness]]
+  * [[en:obe:other:honor]]
+  * [[:en:obe:other:obey]]
+===== Translation Notes: =====
+
+  * **what must I do**  - "what do I need to do" or "what is required of me"
+  * **inherit**  - "become the rightful owner of." This usually refers to the property of someone who has died. Luke uses this metaphor to show that the ruler understood that eternal life could not be earned, and that not everyone will live eternally. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **No one is good, except God alone**  - This could also be translated as two sentences: "No person is truly good. God alone is good."
+  * **do not kill**  - "do not murder"
+  * **All these things**  - "All of these commandments"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+**[[:en:bible:notes:luk:18:15|<<]] | [[:en:bible:notes:luk:18:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish eternallife }}
+
+~~NOCACHE~~

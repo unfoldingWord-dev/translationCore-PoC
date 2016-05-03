@@ -1,0 +1,69 @@
+====== Luke 21:16-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 \add And there will also be other evil things that will happen\add*: Even your parents and brothers and \add other\add* relatives and friends \add who do not believe in me\add* will betray you\f + \ft Or: help your enemies to seize you \f*. They will kill some of you.
+\v 17 \add In general\add*, most people will \f + \ft hyperbole \f* hate you because \add you believe in\add* me \f + \ft metonymy \f*.
+\v 18 But your souls will be absolutely safe \f + \ft idiom \f*.
+\v 19 By enduring \add all these things people will do to you\add*, you will preserve your \add eternal\add* life \f + \ft synecdoche \f*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 And even your parents and brothers and other relatives and friends will betray you, and they will kill some of you.
+\v 17 In general, everybody will hate you because you believe in me.
+\v 18 But not even one hair from your head shall be destroyed.
+\v 19 If you accept to suffer all things, you will actually gain eternal life for yourselves."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 But you will be delivered up also by parents, brothers, relatives and friends, and they will put some of you to death.
+\v 17 You will be hated by everyone because of my name.
+\v 18 But not a hair of your head will perish.
+\v 19 In your endurance you will gain your souls.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:name]]
+  * [[en:obe:kt:perish]]
+  * [[:en:obe:kt:endure]]
+  * [[:en:obe:kt:soul]]
+ 
+===== Translation Notes: =====
+Jesus continues speaking to his disciples about the future.
+  * **you will be delivered up**  - "You will be handed over to the authorities" or "You will be betrayed"
+  * **they will put some of you to death**  - "they will kill some of you." Possible meanings are 1) "the authorities will kill some of you" or 2) "Those who deliver you up will kill some of you." The first meaning is more likely. 
+  * **because of my name**  - "because of me" or "because you follow me"
+  * **But not a hair of your head will perish**  - This can be translated positively as "Even every hair on your head will be safe." This is a figure of speech that means "You will not be harmed at all." It refers to one of the smallest parts of a person to emphasize that the whole person will not perish. Jesus had already said that some of them would be put to death. So some understand this to mean that they would not be harmed spiritually, as in "But these things cannot really harm you." (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  * **In your endurance**  - "By holding firm." It can be translated as "If you do not quit."
+  * **you will gain your souls**  - "you will receive life" or "you will live forever"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/21/14|<<]] | [[en/bible/notes/luk/21/20|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish endure}}
+~~NOCACHE~~

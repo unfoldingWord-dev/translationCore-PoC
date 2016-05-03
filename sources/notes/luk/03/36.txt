@@ -1,0 +1,56 @@
+====== Luke 03:36-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 \add Shelah was the son\add* of Cainan. \add Cainan was the son\add* of Arphaxad. \add Arphaxad was the son\add* of Shem. \add Shem was the son\add* of Noah. \add Noah was the son\add* of Lamech.
+\v 37 \add Lamech was the son\add* of Methuselah. \add Methuselah was the son\add* of Enoch. \add Enoch was the son\add* of Jared. \add Jared was the son\add* of Mahalalel. \add Mahalalel was the son\add* of Cainan.
+\v 38 \add Cainan was the son\add* of Enos. \add Enos was the son\add* of Seth. \add Seth was the son\add* of Adam. \add Adam was the man\add* God created.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 Shelah was the son of Cainan. Cainan was the son of Arphaxad. Arphaxad was the son of Shem. Shem was the son of Noah. Noah was the son of Lamech.
+\v 37 Lamech was the son of Methuselah. Methuselah was the son of Enoch. Enoch was the son of Jared. Jared was the son of Mahalalel. Mahalalel was the son of Cainan.
+\v 38 Cainan was the son of Enos. Enos was the son of Seth. Seth was the son of Adam. Adam was the son of God, the man God created.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,  
+\v 37 the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan,  
+\v 38 the son of Enos, the son of Seth, the son of Adam, the son of God.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:shem]]
+  * [[en:obe:other:noah]]
+  * [[en:obe:other:lamech]]
+  * [[en:obe:other:enoch]]
+  * [[en:obe:other:seth]]
+  * [[en:obe:other:adam]]
+  * [[en:obe:kt:god]]
+===== Translation Notes: =====
+This is a continuation of the list of Jesus' ancestors. (See: [[:en:ta:vol1:translate:translate_names]])
+
+  * **the son of Cainan, the son of Arphaxad...** - Use the same wording as you used in the previous verses.  AT: “who was the son of Cainan, who was the son of Arphaxad...” or “Levi was the son of Cainan, Cainan was the son of Arphaxad...” or “Shelah's father was Cainan, Cainan's father was Arphaxad....” 
+  * **Adam, the son of God** - AT: "Adam, created by God" or "Adam, who was from God" or "Adam, the son, we could say, of God" 
+
+
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:03:33|<<]] | [[:en:bible:notes:luk:04:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish shem  adam }}
+
+~~NOCACHE~~

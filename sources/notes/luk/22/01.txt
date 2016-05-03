@@ -1,0 +1,54 @@
+====== Luke 22:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 It was now almost time to celebrate the festival of Unleavened Bread, which \add began with\add* the Passover feast.
+\v 2 The chief priests and the men who taught the \add Jewish\add* laws were seeking a way to kill Jesus. \add But they wanted to do it secretly\add*, because they were afraid that if \add they did not do\add* it secretly, the people \add might riot\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 It was now almost time for the Celebration of Unleavened Bread, which people also call the Passover.
+\v 2 Now the chief priests and the teachers of the Jewish laws were looking for a way to kill Jesus because they feared the people who followed him.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 22
+\p
+\v 1 Now the Festival of Unleavened Bread drew near, which is called the Passover.
+\v 2 The chief priests and the scribes discussed how they could put Jesus to death, for they were afraid of the people.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:festival]]
+  * [[en:obe:kt:unleavenedbread]]
+  * [[en:obe:kt:passover]]
+  * [[en:obe:other:chiefpriests]]
+  * [[en:obe:other:scribe]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:death]]
+  * [[en:obe:kt:fear]]
+
+===== Translation Notes: =====
+
+  * **Festival of Unleavened Bread**  - The festival was called by this name because during the festival, the Jews did not eat bread that was made with yeast. This can be translated as "the festival when they would eat unleavened bread."
+  * **Unleavened Bread**  - This is bread that has no yeast in it to make it rise. It can be called "Bread without Yeast."
+  * **drew near**  - "was almost ready to begin"
+  * **how they could put Jesus to death**  - "how they might cause Jesus to be put to death." The priests and scribes did not have the authority to kill Jesus themselves, but they hoped to get others to kill him.
+  * **afraid of the people**  - Possible meanings are 1) "scared of what the people might do" or 2) "scared that the people would make Jesus king."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:21:37|<<]] | [[:en:bible:notes:luk:22:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish unleavenedbread}}

@@ -1,0 +1,49 @@
+====== Luke 18:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add Jesus\add* told \add his disciples\add* a parable to teach them that they always ought to pray confidently and not be discouraged \add if God does not immediately answer their prayers\add*.
+\v 2 He said, "In a certain city there was a judge who did not revere God, and did not care about people, either.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Jesus told his disciples another story to teach them that they ought to pray continually and not become discouraged if God does not immediately answer their prayers.
+\v 2 He said, "In a certain city there was a judge who did not revere God and did not care about people.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 18
+\p
+\v 1 Then he spoke a parable to them about how they should always pray, and not become discouraged,
+\v 2 saying, "There was in a particular city, a judge who did not fear God and he did not respect people.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:parable]]
+  * [[en:obe:other:pray]]
+  * [[en:obe:other:judgeposition]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:kt:god]]
+
+===== Translation Notes: =====
+
+Jesus continues speaking to his disciples.
+  * **Then he** - "Then Jesus"
+  * **saying** - This could also begin a new sentence: "He said" (UDB).
+  * **they should always pray, and not become discouraged**  - These two clauses have similar meaning Jesus used to emphasize his point. Some languages have different ways of emphasizing. For example this could also be translated as "always keep on praying" (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **There was in a particular city, a judge**  - The word "particular" is used to as a way to say this this happened, but without identifying the judge or the city.
+  * **fear**  - "revere" (UDB)
+  * **did not respect people**  - "paid no regard to a person"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Checking Questions]]**
+**[[:en:bible:notes:luk:17:34|<<]] | [[:en:bible:notes:luk:18:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish judgeposition}}

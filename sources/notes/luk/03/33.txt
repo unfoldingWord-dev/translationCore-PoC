@@ -1,0 +1,53 @@
+====== Luke 03:33-35======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 \add Nahshon was the son\add* of Amminadab. \add Amminadab was the son\add* of Admin. \add Admin was the son\add* of Arni. \add Arni was the son\add* of Hezron. \add Hezron was the son\add* of Perez. \add Perez was the son\add* of Judah.
+\v 34 \add Judah was the son\add* of Jacob. \add Jacob was the son\add* of Isaac. \add Isaac was the son\add* of Abraham. \add Abraham was the son\add* of Terah. \add Terah was the son\add* of Nahor.
+\v 35 \add Nahor was the son\add* of Serug. \add Serug was the son\add* of Reu. \add Reu was the son\add* of Peleg. \add Peleg was the son\add* of Eber. \add Eber was the son\add* of Shelah.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 Nahshon was the son of Amminadab. Amminadab was the son of Admin. Admin was the son of Arni. Arni was the son of Hezron. Hezron was the son of Perez. Perez was the son of Judah.
+\v 34 Judah was the son of Jacob. Jacob was the son of Isaac. Isaac was the son of Abraham. Abraham was the son of Terah. Terah was the son of Nahor.
+\v 35 Nahor was the son of Serug. Serug was the son of Reu. Reu was the son of Peleg. Peleg was the son of Eber. Eber was the son of Shelah.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 the son of Amminadab, the son of Admin, the son of Arni, the son of Hezron, the son of Perez, the son of Judah,  
+\v 34 the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor,  
+\v 35 the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah,
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:judah]]
+  * [[en:obe:other:jacob]]
+  * [[en:obe:other:isaac]]
+  * [[en:obe:other:abraham]]
+  * [[en:obe:other:Terah]]
+  * [[en:obe:other:Nahor]]
+
+
+===== Translation Notes: =====
+This is a continuation of the list of Jesus' ancestors. (See: [[:en:ta:vol1:translate:translate_names]])
+
+   * **the son of Amminadab, the son of Admin...** - Use the same wording as you used in the previous verses.  AT: “who was the son of Amminadab, who was the son of Admin...” or “Levi was the son of Amminadab, Simeon was the son of Admin...” or “Nashon's father was Amminadab, Amminadab's father was Admin....” 
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:03:30|<<]] | [[:en:bible:notes:luk:03:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish judah  }}
+
+~~NOCACHE~~

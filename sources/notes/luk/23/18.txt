@@ -1,0 +1,45 @@
+====== Luke 23:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 But the whole crowd shouted, "Execute this man! Release Barrabas for us\add \f + \ft exclusive \f*\add*!"
+\v 19 Barrabas was a man who had tried to persuade people in the city to rebel \add against the Roman government. While doing that\add*, he had murdered \add someone\add*. So he had been put \f + \ft Or:they had put him \f* in prison, \add where he was waiting for them to execute him\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 But the whole crowd shouted together saying, "Put this man to death! Set Barabbas free for us!"
+\v 19 Now Barabbas was a man who had led some people in the city to rebel against the Roman government. He was also a murderer. He was in prison because of these crimes, and he was waiting for them to put him to death.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 18 But they cried out all together, saying, "Away with this man, and release to us Barabbas!"
+\v 19 Barrabas was a man who had been put into prison for a certain rebellion in the city and for murder.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:barabbas]]
+  * [[:en:obe:other:prison]]
+  * [[:en:obe:other:rebel]]
+ 
+===== Translation Notes: =====
+
+  * **they cried out all together** - "All the people in the crowd shouted"
+  * **Away with this man** - "That this man away!" By this, the crowd meant: "Take this man away and execute him." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **for** - "because of his involvement in" or "because of his crime of"
+  * **a certain rebellion** - "trying to persuade the people of the city to rebel against the Roman government" (UDB)
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:15|<<]] | [[:en:bible:notes:luk:23:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish barabbas rebel}}

@@ -1,0 +1,56 @@
+====== Luke 07:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 \add Then Jesus also said\add*, "\add Many of\add* you people have heard what \add John and I\add* have taught. I will illustrate what you are like.\f + \ft Or: Do you know what \add many of\add* you people who have heard what \add John and I\add* have taught are like? \f* \f + \ft rhetorical question \f*
+\v 32 You are like children who are \add playing games\add* in an open area. \add Some of them\add* are calling to \add the others\add*, saying, "We\add \f + \ft exclusive \f*\add* played happy music for you on the flute, but you did not dance! Then we sang sad funeral songs for you, but you did not cry!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 Then Jesus also said, "What are you people living in this time period like? I will tell you:
+\v 32 You are like children playing games in an open area. They call out to each other, saying, "We played happy music for you on the flute, but you did not dance! Then we sang sad funeral songs for you, but you did not cry!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 31 "To what then should I compare the people of this generation? What are they like?
+\v 32 They are like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you, and you did not dance. We mourned, and you did not weep.'
+</usfm>
+
+
+===== translationWords: =====
+   * [[en:obe:other:generation]]
+   * [[en:obe:other:flute]]
+   * [[en:obe:other:mourn]]
+
+===== Translation Notes: =====
+Jesus talks about the people who have rejected him and John the Baptizer.
+
+  * **To what then should I compare**  - This is the start of a rhetorical question. Jesus used it to introduce a comparison that he was about to make. AT: "This is what I will compare this generation to. This is what they are like." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **the people of this generation**  - "the people living now" or "these people" or "you people of this generation"
+  * **They are like**  - This simile is the beginning of Jesus' comparison. Jesus is saying that the people of this generation were like children who were never satisfied with the way other children acted. (See: [[en:ta:vol1:translate:figs_simile]])
+  * **marketplace**  - This was a large, open-air area where people would come to sell their goods.
+  * **and you did not dance**  - "but you did not dance to the music"
+  * **and you did not weep**  - "but you did not weep with us"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/07/29|<<]] | [[en/bible/notes/luk/07/33|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

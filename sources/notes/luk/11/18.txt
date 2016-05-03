@@ -1,0 +1,54 @@
+====== Luke 11:18-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 18 \add Similarly\add*, if Satan \add and his demons\add* were fighting against each other, his rule over them would \add certainly\add* not last!\f + \ft Or: how would his rule over them last? \f* \f + \ft rhetorical question \f* \add I say this\add* because you are saying that I am expelling demons by \add the power of\add* the ruler of \add his own demons\add*!
+\v 19 Furthermore, if \add it is true that\add* Satan enables me to expel demons, \add is it also true that\add* your disciples \add who\add* expel demons \add do so\add* by \add Satan's\add* power \f + \ft rhetorical question \f*? \add No, that is not true\add*. So they will show that you \add are not thinking logically\add*.
+\v 20 But because it is by the power \f + \ft metonymy \f* of God \add that I expel demons\add*, I am showing you \add that the power of\add* God to \f + \ft metaphor \f* rule \add people's lives\add* has come to you."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 18 Similarly, if Satan and his demons were fighting against each other, his rule over them would certainly not last! I say this because you are saying that I force out demons by the power of the ruler of demons!
+\v 19 Now, if it is really true that Satan is enabling me to force out demons, is it also true that your disciples who force out demons do so by Satan's power ? Of course not! So they prove that you are wrong.
+\v 20 But since it is actually by the power of God that I force out demons, I am showing you that God has begun to rule over you."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 18 If Satan is divided against himself, how will his kingdom stand? For you say I cast out demons by Beelzebul.
+\v 19 If I drive out demons by Beelzebul, by whom do your followers drive them out? Because of this, they will be your judges.
+\v 20 But if I drive out demons by the finger of God, then the kingdom of God has come to you.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:satan]]
+  * [[en:obe:other:kingdom]]
+  * [[en:obe:other:judgeposition]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:kingdomofgod]]
+
+===== Translation Notes: =====
+Jesus continues to speak to the crowd about demons.
+
+  * **If Satan is divided against himself**  - "If Satan and members of his kingdom are fighting among themselves."
+  * **how will his kingdom stand**  - This is a rhetorical question. AT: "Satan's kingdom cannot stand," or "Satan's kingdom will fall apart." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **For you say I cast out demons by Beelzebul**  - "For you say that it is by the power of Beelzebul that I make demons leave people." The next part of his argument can be stated explicitly: "that would mean that Satan is divided against himself." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **by whom do your followers drive them out**  - "by whose power do you followers force demons to leave people." This is a rhetorical question. AT: "then we must agree that your followers also drive out demons by Beelzebul's power." The implied evaluation of that statement can be made explicit: "But we know that that is not true."  (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol1:translate:figs_explicit]])
+  * **they will be your judges**  - "your followers who cast out demons by God's power will judge you for saying that I cast out demons by Beelzebul's power."
+  * **by the finger of God**  - The "finger of God" refers to God's power. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **then the kingdom of God has come to you**  - "this shows that God's kingdom has come to you"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:16|<<]] | [[:en:bible:notes:luk:11:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish beelzebul judgeposition  }}

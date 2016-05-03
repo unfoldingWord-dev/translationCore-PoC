@@ -1,0 +1,56 @@
+====== Luke 09:23-25 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 23 Then he said to all of them, "If any one \add of you\add* wants to be my disciple, you must not do \add only\add* what you yourself desire \add to do\add*. \add Specifically\add*, you must be willing each day \f + \ft metaphor \f* \add to let others hurt you and disgrace you. That is like what is done to criminals who are forced\add* to carry \f + \ft metaphor \f* crosses \add to the place where they will be executed\add*. \add That is what anyone who wants to\add* be my disciple \add must do\add*.
+\v 24 You must do that, because those who try to save their lives \add by denying that they belong to me when people want to kill them for believing in me\add* will not live \add eternally\add*, but those who are killed because of being my \add disciples\add* will live \add forever with me\add*.
+\v 25 People might get everything that \add they want\add* in this world, but they are really gaining nothing if they do not get eternal life by \add becoming my disciples\add*!\f + \ft Or: are they really gaining anything if they do not get eternal life by \add becoming my disciples\add*? \f* \f + \ft rhetorical question \f*
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 23 Then he said to them all, "If any one of you wants to follow me as my disciple, you must not do only what you desire to do. Rather, every day you must be willing to suffer, even to the point of giving up your life.
+\v 24 You must do that, because those who try to save their own lives for themselves will lose them eternally, but those who give up their lives because of being my disciples will save their lives eternally.
+\v 25  How does it benefit you if you gain everything in this world but then end up losing, or even giving up, your own self?
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 23 He said to them all, "If anyone wants to come after me, he must deny himself, take up his cross daily, and follow me.
+\v 24 Whoever would try to save his life will lose it, but whoever loses his life for my sake, he will save it.
+\v 25 What does it benefit a man, if he gains the whole world, but loses or forfeits his own self?
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:cross]]
+    * [[en:obe:kt:save]]
+
+===== Translation Notes: =====
+
+
+    * **He said** - This refers to Jesus.
+    * **to them all** -This refers to the disciples who were with Jesus.
+    * **to come after me** - "to follow after me" or "to be my follower" or "to come with me as a disciple"
+    * **deny himself** - AT: "not give in to his own desires," or "forsake his own desires."
+    * **take up his cross daily** - "lift up his cross and carry it every day." This has the meaning of "be ready to suffer daily." 
+    * **follow me** - "go along with me" or "begin to follow me and keep on following me"
+    * **What does it benefit a man** - AT: "how does a person profit." or "It does not benefit a man" or "A man does not receive anything good." (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **if he gains the whole world** - "if he gets everything in the world"
+    * **loses or forfeits his own self** - AT: "he himself is lost or destroyed."  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:20|<<]] | [[:en:bible:notes:luk:09:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish cross }}
+
+~~NOCACHE~~

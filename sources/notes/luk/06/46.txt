@@ -1,0 +1,65 @@
+====== Luke 06:46-48 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 46 "\add Because people should obey what their masters tell them\add*, it is disgraceful that you say that I am your master but you do not do what I tell you!\f + \ft Or: why do you say that I am your master but you do not do what I tell you? \f* \f + \ft rhetorical question \f*
+\v 47 Some people come to me, and hear my messages and obey them. I will tell you what they are like.
+\v 48 They are like a man who dug deep \add into the ground to prepare to build his house\add*. He made sure that the foundation was on solid ground. Then when there was a flood, the water tried to wash away the house. But the river could not shake the house, because it was built \f + \ft Or:he built it \f* on a solid \add foundation\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 46 Jesus said to the people, "Why do you call me 'Lord' when you do not even obey what I say to do?
+\v 47 Let me tell you what people are like who come to me, hear my teachings, and obey them.
+\v 48 They are like a man who dug deep into the ground to prepare to build his house. He made sure that the foundation for the house was built on solid rock. Then there was a flood and a torrent of water was beating against the house. But the torrent could not even shake the house, because the house was built on a solid foundation.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 46 Why do you call me, 'Lord, Lord,' and yet you do not obey the things that I say?
+\v 47 Every person who comes to me and hears my words and obeys them, I will tell you what he is like.
+\v 48 He is like a man building a house, who dug down deep in the ground and built the house's foundation on solid rock. When a flood came, the torrent of water flowed against that house, but could not shake it, because it had been well built.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:lord]]
+    * [[en:obe:other:obey]]
+    * [[en:obe:kt:word]]
+    * [[en:obe:other:foundation]]
+    * [[en:obe:other:flood]]
+
+
+===== Translation Notes: =====
+Jesus teaches the crowd about the importance of obeying him.
+
+    * **a man building a house...** - *This metaphor compares a man building a house on rock to a person who lives his life based on the teachings of Jesus. (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **foundation** - "base" or "support" 
+    * **solid rock** - This is the very large, hard rock that is deep under the soil. (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **built the house's foundation on solid rock** - "dug the foundation of the house deep enough to reach" or "built the house on solid rock." Some cultures may not be familiar with building on bedrock. AT: "set the house's foundation firmly in solid ground." (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **torrent of water** - "fast-moving water" or "river" (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **flowed against** - "crashed against" (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **because it had been well built** - "because the man had built it well" (See: [[:en:ta:vol2:translate:figs_activepassive]], [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/06/45|<<]] | [[en/bible/notes/luk/06/49|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish obey}}
+~~NOCACHE~~

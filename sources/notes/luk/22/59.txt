@@ -1,0 +1,48 @@
+====== Luke 22:59-60 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 59 About an hour later someone else said emphatically \add about Peter\add*, "\add The way\add* that this man \add speaks shows that he\add* is from Galilee \add district\add*. Certainly this man was also with the man whom \add they arrested, who is from Galilee\add*!"
+\v 60 But Peter said, "Man, I do not know what you\add \f + \ft singular \f*\add* are talking about!" Immediately, while he was still speaking, a rooster crowed.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 59 About an hour later someone else said loudly, "The way that this man speaks shows that he is from the region of Galilee. Certainly this man was also with the man whom they arrested!"
+\v 60 But Peter said, "Man, I do not know what you are talking about!" Immediately a rooster crowed, while he was still speaking.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 59 After about an hour another man insisted and said, "Truly this man also was with him, for he is a Galilean."
+\v 60 But Peter said, "Man, I do not know what you are saying." And immediately, while he was speaking, a rooster crowed.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:amen]]
+  * [[en:obe:other:galilee]]
+  * [[en:obe:other:peter]]
+
+
+
+===== Translation Notes: =====
+
+  * **insisted and said**  - "said insistently" or "said loudly" (UDB)
+  * **Truly this man** - "This man" refers to Peter. The speaker probably did not know Peter's name.
+  * **he is a Galilean** - Matthew [[:en:bible:notes:mat:26:73|26:73]] says that the people could tell Peter was from Galilee from the way he talked.
+  * **I do not know what you are saying**  - This idiom is used to say very strongly "What you said is not true at all" or "What you said is completely false." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **while he was speaking** - "while Peter was speaking"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:56|<<]] | [[:en:bible:notes:luk:22:61|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

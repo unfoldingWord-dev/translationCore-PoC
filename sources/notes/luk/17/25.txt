@@ -1,0 +1,60 @@
+====== Luke 17:25-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 But before that happens, I must suffer in many ways \f + \ft Or: very much \f*. And I will be rejected by people \f + \ft Or:people will reject me \f*, \add even though\add* they \add have observed me doing good for people\add*.
+\v 26 But when \add I\add*, the one who came from heaven, \add come again, people\add* will be doing things just like people were doing at the time when \f + \ft metonymy \f* Noah \add lived\add*.
+\v 27 \add At that time\add* people ate and drank \add as usual\add*, and they got married \add as usual\add*, up until the day when Noah \add and his family\add* entered the big boat. But then the flood came and destroyed all those \add who were not in the boat\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 But before that happens, I must suffer in many ways, and I will be rejected by people.
+\v 26 But when I, the  Son of Man, come again, people will be doing things just like people were doing at the time when Noah lived.
+\v 27 At that time people ate and drank as usual, and they got married as usual, up until the day when Noah and his family entered the big boat. But then the flood came and destroyed all those who were not in the boat.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 But first he must suffer many things and be rejected by this generation.
+\v 26 As it happened in the days of Noah, even so will it also happen in the days of the Son of Man.
+\v 27 They ate, they drank, they married, and they were given in marriage, until the day that Noah entered into the ark—and the flood came and destroyed them all.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:suffer]]
+  * [[en:obe:other:reject]]
+  * [[en:obe:other:generation]]
+  * [[en:obe:other:noah]]
+  * [[en:obe:other:ark]]
+  * [[en:obe:other:flood]]
+
+ 
+
+===== Translation Notes: =====
+Jesus continues speaking.
+
+  * **But first he must suffer**  - "But first the Son of Man must suffer." Jesus is speaking about himself in the third person. (See: [[en:ta:vol2:translate:figs_123person]])
+  * **As it happened in the days of Noah**  - This can be translated as "As people were doing in the days of Noah" or "As people were doing when Noah lived." The "days of Noah" refers to the time just before God punished the people of world.
+  * **even so will it also happen in the days of the Son of Man**  - This can be translated as "people will be doing the same things in the days of the Son of Man" or "people will be doing the same things when the Son of Man is about to come." The "days of the Son of Man" refers to the period just before the Son of Man will come.
+  * **They ate, they drank, they married, and they were given in marriage**  - People were doing ordinary things. They did not care that God was about to judge them.
+  * **the ark**  - "the ship" or "the barge"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:22|<<]] | [[:en:bible:notes:luk:17:28|>>]]**
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish noah ark}}

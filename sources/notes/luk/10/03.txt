@@ -1,0 +1,46 @@
+====== Luke 10:3-4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Start going; but \add remember that\add* I am sending you\add \f + \ft plural \f*\add* out \add to tell my message to people who will try to get rid of you. You will be\add* like lambs among wolves.
+\v 4 Do not take along \add any money in\add* a purse. Do not take a traveler's bag. Do not take \add extra\add* sandals. Do not \add spend a lot of time\add* greeting people along the way.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Go now, but remember that I am sending you out to tell my message to people who will try to get rid of you. You will be like lambs among wolves.
+\v 4 Do not take along any money. Do not take a traveler's bag. Do not take extra shoes. Do not stop to greet people along the way.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 Go on your way. See, I send you out as lambs in the midst of wolves.
+\v 4 Carry no bag of money, no traveler's bag, nor sandals, and greet no one on the way.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:lamb]]
+  * [[en:obe:other:wolf]]
+  * [[en:obe:other:sandal]]
+
+===== Translation Notes: =====
+Jesus continues to give directions to the 70 people he was sending out.
+
+  * **Go on your way**  - AT: "Go to the cities" or "Go to the people" or "Go bring in the people."
+  * **I send you out as lambs in the midst of wolves**  - This is a simile that means the people Jesus was sending out could be attacked by the people they were going to. The names of other animals could be substituted. AT: "When I send you out, people will want to harm you as wolves attack sheep."  (See: [[en:ta:vol1:translate:figs_simile]])
+  * **lambs**  - Lambs are baby sheep. They can't defend themselves against animals that attack them.
+  * **wolves**  - Wolves are similar to large wild dogs. They attack and eat other animals, such as lambs. "Wolves" can be translated with a generic term like "wild dogs" or "fierce dogs" or with the name of a specific animal like a dog that your people know of, such as "coyotes" or "jackals" (See: [[en:ta:vol1:translate:translate_unknown]])
+  * **Carry no bag of money**  - "Do not take a bag of money with you"
+  * **greet no one on the way**  - Jesus was emphasizing that they go quickly to the towns and do this work. He was not telling them to be rude.
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:luk:10:01|<<]] | [[:en:bible:notes:luk:10:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish lamb}}

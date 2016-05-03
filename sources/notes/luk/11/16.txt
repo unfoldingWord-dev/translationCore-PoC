@@ -1,0 +1,53 @@
+====== Luke 11:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 Other \add people there\add* asked him to perform a miracle \add to prove he was the Messiah\f + \ft Or: that he had come\add* from God \f* [MTY, Or: EUP]. They wanted to trap him \add into not being able to perform a miracle or into doing something ridiculous\add*.
+\v 17 But he knew what they were thinking. So he said to them, "If \add the people in\add* one nation fight against each other, their nation will be destroyed \f + \ft Or:\add they\add* will destroy their nation \f*. If \add the people in\add* \f + \ft metonymy \f* one house are divided, they will cease to remain as one \add family\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 Other people there asked him to perform a miracle to prove he was from God.
+\v 17 But he knew what they were thinking. So he said to them, "If the people in one nation fight against each other, their nation will be destroyed. If the people in one household oppose each other, their family will fall apart.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 Others tested him and sought from him a sign from heaven. 
+\v 17 But Jesus knew their thoughts and said to them, "Every kingdom divided against itself is made desolate, and a house divided against itself falls.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:test]]
+    * [[en:obe:kt:sign]]
+    * [[en:obe:kt:heaven]]
+    * [[en:obe:other:kingdom]]
+    * [[en:obe:other:desolate]]
+
+
+===== Translation Notes: =====
+
+  * **Others tested him**  - "Other people tested Jesus." They wanted him to prove that his authority was from God.
+  * **and sought from him a sign from heaven**  - "and asked him to give a sign from heaven" or "by demanding that he give a sign from heaven." This was how they they wanted him to prove that his authority was from God.
+  * **Every kingdom divided against itself**  - AT: "When the people in a kingdom fight among themselves."
+  * **is made desolate**  - "it will be destroyed"
+  * **a house divided against itself falls**  - "a family whose members fight each other will be ruined" or "a family whose members fight each other will be stop being a family." The word "house" is used to refer to a family or to the people living in a house. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **falls**  - "crashed down and is destroyed." This image of the house collapsing refers to the destruction of a family when the members fight each other. (See: [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:14|<<]] | [[:en:bible:notes:luk:11:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

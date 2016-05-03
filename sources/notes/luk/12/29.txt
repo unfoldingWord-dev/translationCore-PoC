@@ -1,0 +1,52 @@
+====== Luke 12:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 Do not always be concerned about having enough to eat and drink, and do not be worrying about those things.
+\v 30 The people who do not know God are always worried about such things. But your Father \add in heaven\add* knows that you need those things, \add so you should not worry about them\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 Do not wonder about what you will eat and drink, and do not keep worrying about those things.
+\v 30 The people who do not know God are always worried about such things. But your Father in heaven knows that you need them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 29 Do not look for what you will eat and what you will drink, and do not be anxious.
+\v 30 For all the nations of the world look for these things, and your Father knows that you need these things.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:nation]]
+    * [[en:obe:kt:godthefather]]
+ 
+===== Translation Notes: =====
+
+Jesus continues to teach his disciples.
+  * **Do not look for what you will eat and what you will drink**  - "Do not focus on what you will eat and drink" or "do not greatly desire more to eat and drink"
+  * **all the nations of the world**  - "Nations" is used here as a metonymy for "unbelievers." AT: "all people of other nations" or "all the unbelievers in the world."  (See: [[en:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/12/27|<<]] | [[en/bible/notes/luk/12/31|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

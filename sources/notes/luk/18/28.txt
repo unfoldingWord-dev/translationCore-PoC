@@ -1,0 +1,57 @@
+====== Luke 18:28-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 Then Peter said, "\add You know that we\f + \ft exclusive \f* have left\add* everything we had and have become your disciples \f + \ft rhetorical question \f*. \add So what about us?\add* (OR\add , So will God accept\f + \ft Or: save \f* us?\add*")
+\v 29 He said to them, "Keep this in mind: Those who have left \add their\add* homes, \add their\add* wives, \add their\add* brothers, \add their\add* parents, \add their\add* children, \add or any other family members\add*, \add to tell others\add* about how God wants to rule \f + \ft metaphor \f* \add people's lives\add*,
+\v 30 will receive in this life many times as much \add as they left\add*. And in the future age they will be living eternally \add with God\f + \ft Or: \add*have eternal life \f*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 Then Peter said, "Look, we have left everything we had in order to become your disciples.
+\v 29 Jesus said to them, "Yes, and I also tell you that those who have left their homes, their wives, their brothers, their parents, or their children in order to submit to God's will for them
+\v 30 will receive in this life many times as much as they left behind, and in the coming age they will receive eternal life."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 Peter said, "Well, we have left everything that is our own and have followed you."
+\v 29 Jesus then said to them, "Truly, I say to you that there is no one who has left house, or wife, or brothers, or parents, or children, for the sake of the kingdom of God,
+\v 30 who will not receive much more in this world, and in the world to come, eternal life."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:peter]]
+  * [[en:obe:kt:amen]]
+  * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:eternity]]
+
+
+===== Translation Notes: =====
+
+
+    * **everything that is our own** - "all our wealth" or "all our possessions"
+    * **Truly, I say to you** - Jesus used this expression to stress the importance of what he is about to say.
+    * **there is no one who has left…who will not receive** - This can be stated positively: "everyone who has left...will receive" (UDB). 
+    * **and in the world to come, eternal life** - This could also be translated as "and also eternal life in the world to come."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+**[[:en:bible:notes:luk:18:26|<<]] | [[:en:bible:notes:luk:18:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

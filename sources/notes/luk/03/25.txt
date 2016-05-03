@@ -1,0 +1,47 @@
+====== Luke 03:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 \add Joseph was the son\add* of Mattathias. \add Mattathias was the son\add* of Amos. \add Amos was the son\add* of Nahum. \add Nahum was the son\add* of Esli. \add Esli was the son\add* of Naggai.
+\v 26 \add Naggai was the son\add* of Maath. \add Maath was the son\add* of Mattathias. \add Mattathias was the son\add* of Semein. \add Semein was the son\add* of Josech. \add Josech was the son\add* of Joda.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 Joseph was the son of Mattathias. Mattathias was the son of Amos. Amos was the son of Nahum. Nahum was the son of Esli. Esli was the son of Naggai.
+\v 26 Naggai was the son of Maath. Maath was the son of Mattathias. Mattathias was the son of Semein. Semein was the son of Josech. Josech was the son of Joda.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25 the son of Mattathias, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai,  
+\v 26 the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,
+</usfm>
+
+
+===== translationWords: =====
+
+ 
+===== Translation Notes: =====
+This is a continuation of the list of Jesus' ancestors. (See: [[:en:ta:vol1:translate:translate_names]])
+    * **the son of Mattathias, the son of Amos...** - Use the same wording as you used in the previous verses. AT: “who was the son of Mattathias, who was the son of Amos...” or “Joseph was the son of Mattathias, Mattathias was the son of Amos...” or “Joseph's father was Mattathias, Mattathias's father was Amos....” 
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+
+**[[en/bible/notes:luk/03/23|<<]] | [[en/bible/notes:luk/03/27|>>]]** 
+
+
+~~DISCUSSION~~
+
+ 
+{{tag>publish}}
+
+~~NOCACHE~~

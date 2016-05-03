@@ -1,0 +1,64 @@
+====== Luke 03:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 \add Just like people\add* level off all the places where the land rises and \add just like they\add* fill all the ravines,
+\pi and \add just like people\add* make the road straight wherever it is crooked,
+\pi and \add just like people\add* make smooth the bumps in the road,
+\pi \add Similarly you need to remove all the obstacles which prevent God from blessing you!\add*
+\pi
+\v 6 Then people \f + \ft synecdoche \f* everywhere will understand how God can save \f + \ft metonymy \f* \add people\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Every valley will be filled,
+\q1 And every mountain and hill will be made level;
+\q1 The crooked roads will become straight,
+\q1 And the rough ways will be made smooth.
+\q1
+\v 6 Then everyone will see God's way of saving people."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q1 \v 5 Every valley will be filled, 
+\q1 every mountain and hill will be made level,
+\q1 the crooked roads will become straight,
+\q1 And the rough ways will be made smooth.
+\q1 
+\v 6 All people will see the salvation of God.'"
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:salvation]]
+    * [[en:obe:kt:god]]
+   
+===== Translation Notes: =====
+The quote from Isaiah's prophecy continues.
+
+    * **Every valley will be filled** - When people prepare the road for an important person who is coming, they fill in the low places with dirt so that the road will be level. This is part of the metaphor started in the previous verse. AT: "They will fill in every low place in the road." (See: [[en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+    * **every mountain and hill will be made level** - AT: "they will level every mountain and hill" or "they will remove every high place in the the road" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **see the salvation of God** - AT: "learn how God saves people from sin"
+
+===== Links: ====
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:03:04|<<]] | [[:en:bible:notes:luk:03:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish p2review}}
+
+~~NOCACHE~~

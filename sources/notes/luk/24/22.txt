@@ -1,0 +1,49 @@
+====== Luke 24:22-24 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 On the other hand, some women from our group amazed us. Early this morning they went to the tomb,
+\v 23 but Jesus' body was not there! They came \add back\add* and said that they had seen some angels in a vision. The angels said that he was alive!
+\v 24 Then some of those who were with us went to the tomb. They saw that things were exactly as the women had reported. But they did not see \add Jesus\add*."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 In spite of this, some women from our group amazed us. Early this morning they went to the burial chamber,
+\v 23 but the body of Jesus was not there! They came back and said that they had seen some angels in a vision. The angels said that he was alive!
+\v 24 Then some of those who were with us went to the burial chamber. They saw that things were exactly as the women had reported. But they did not see Jesus."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 But also, some women of our company amazed us, having been at the tomb early in the morning.
+\v 23 When they did not find his body, they came, saying that they had also seen a vision of angels who said that he was alive.
+\v 24 Some men who were with us went to the tomb, and found it just as the women had said. But they did not see him."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:amazed]]
+  * [[en:obe:other:tomb]]
+  * [[en:obe:other:vision]]
+  * [[en:obe:kt:angel]]
+  * [[en:obe:kt:life]]
+ 
+===== Translation Notes: =====
+
+    * **But also**  - The men considered the women's report to be a good thing, not another bad thing in addition to Jesus' death. 
+    * **having been at the tomb** - The women were the ones who were at the tomb. 
+    * **a vision of angels** - "angels in a vision"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:21|<<]] | [[:en:bible:notes:luk:24:25|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

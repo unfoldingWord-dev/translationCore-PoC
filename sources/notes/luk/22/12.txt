@@ -1,0 +1,49 @@
+====== Luke 22:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 He will show you a large room that is on the upper \add floor of the house\add*. It will be all set up \add for a meal\add*. Prepare the meal for us there."
+\v 13 So \add the two disciples\add* went \add into the city\add*. They found everything to be just like \add Jesus\add* had told them. So they prepared \add the meal for\add* the Passover \add celebration there\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 He will show you a large room that is on the upper floor of the house. It will be all set up, with everything ready for guests. Prepare the meal for us there."
+\v 13 So the two disciples went into the city. They found everything to be just like Jesus had told them. So they prepared the meal for the Passover celebration there.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 He will show you a large furnished upper room. Make the preparations there."
+\v 13 So they went, and found everything as he had said to them. Then they prepared the Passover meal.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:passover]]
+
+===== Translation Notes: =====
+Jesus continues giving instructions to Peter and John.
+  * **He will show you** - "The owner of the house will show you" 
+  * **upper room** - "room upstairs." If your community does not have houses with rooms above other rooms, you may need to consider how to describe buildings in the city.
+  * **So they went** - "So Peter and John went"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:10|<<]] | [[:en:bible:notes:luk:22:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

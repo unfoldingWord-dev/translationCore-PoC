@@ -1,0 +1,47 @@
+====== Luke 23:44-45 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 44 \add Then it\add* was about noontime. It became dark over the whole land, \add and it stayed dark\add* until three o'clock in the afternoon.
+\v 45 There was no light from the sun. Then the \add thick\add* curtain \add that closed off the most holy place\add* in the Temple split into two pieces. \add That signified that ordinary people could now go into the presence of God\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 44 Then it was about noontime. But it became dark over all the land until three o'clock in the afternoon.
+\v 45 There was no light from the sun. And the thick curtain that closed off the most holy place in the Temple split into two pieces.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 44 It was now about the sixth hour, and darkness came over the whole land until the ninth hour
+\v 45 as the sun's light failed. Then the curtain of the temple was split down the middle.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:curtain]]
+  * [[en:obe:kt:temple]]
+
+
+===== Translation Notes: =====
+
+  * **It was now about the sixth hour**  - "When it was about noon." This reflects the custom at the time of counting hours beginning with daybreak at 6 a.m. (See: [[:en:obe:other:biblicaltime]])
+  * **darkness came over the whole land**  - "the entire land became dark"
+  * **until the ninth hour**  - "until 3 p.m." This reflects the custom at the time of counting hours beginning with daybreak at 6 a.m. (See: [[:en:obe:other:biblicaltime]])
+  * **the curtain of the temple**  - "the curtain inside the temple"
+  * **was split down the middle**  - "tore (or split) to become two pieces." AT: "God tore the temple curtain into two pieces" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:42|<<]] | [[:en:bible:notes:luk:23:46|>>]]**
+
+~~DISCUSSION~~{{tag>publish  biblicaltime}}

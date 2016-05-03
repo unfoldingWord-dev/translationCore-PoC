@@ -1,0 +1,49 @@
+====== Luke 18:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 The Pharisee stood and prayed silently, 'God, I thank you that I am not like other men. \add Some\add* extort money \add from others\add*; some treat others unjustly; some commit adultery. \add I do not do such things. And I am certainly not\add* like this tax collector \add who cheats people!\add*
+\v 12 \add Our law says that we\f + \ft exclusive \f* should\add* fast\f + \ft Or: abstain from food \f* \add once a week\add*, \add but I do more than that. I\add* fast twice a week! I give \add you\add* ten percent of all that I earn!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 The Pharisee stood and prayed about himself in this way, 'O God, I thank you that I am not like other people.  Some steal money from others, some treat others unjustly, and some commit adultery. I do not do any of those things. And I am certainly not like this sinful tax collector who cheats people!
+\v 12 I fast two days every week and I give to the temple ten percent of all that I earn!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 The Pharisee stood and prayed these things about himself, 'God, I thank you that I am not like other people who are robbers, unrighteous people, adulterers, or even like this tax collector.
+\v 12 I fast two times every week. I give tithes of all that I get.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:unrighteous]]
+  * [[:en:obe:kt:adultery]]
+  * [[:en:obe:other:fast]]
+  * [[:en:obe:other:tenth]]
+ 
+
+===== Translation Notes: =====
+Jesus continues telling his parable.
+
+    * **The Pharisee stood and prayed these things about himself**  - The meaning of the Greek text of this phrase is not clear. Possible meanings are 1) "The Pharisee stood and prayed about himself in this way" or 2) "The Pharisee stood by himself and prayed."
+    * **robbers** - A robber is someone who steals things by forcing people to give them to him, or by threatening to force them.
+    * **fast**  - "To fast" means not to eat a meal. The Pharisees did this twice a week.
+    * **get**  - "earn"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+**[[:en:bible:notes:luk:18:09|<<]] | [[:en:bible:notes:luk:18:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish pharisee }}

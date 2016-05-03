@@ -1,0 +1,53 @@
+====== Luke 05:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 When Jesus perceived that they believed that \add he could heal the man\add*, he said to him, "My friend, \add I\add* forgive your sins!"
+\v 21 The men who taught the \add Jewish\add* laws and the rest of the Pharisees began to question within themselves, "Who does this man \add think he is, saying\add* that? He is insulting God! Nobody can forgive sins!\f + \ft Or: What person can forgive sins? \f* \f + \ft rhetorical question \f* Only God can do that!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 When Jesus perceived that they believed that he could heal the man, he said to him, "Friend, I forgive your sins!"
+\v 21 The men who were expert teachers of the Jewish laws and the rest of the Pharisees began to think to themselves, "This man is proud and insults God by saying that! We all know that nobody except God can forgive sins!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 Seeing their faith, Jesus said, "Man, your sins are forgiven you."
+\v 21 The scribes and the Pharisees began to question this, saying, "Who is this who speaks blasphemies? Who can forgive sins, but God alone?"
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:faith]]
+    * [[en:obe:kt:sin]]
+    * [[en:obe:kt:forgive]]
+    * [[en:obe:other:scribe]]
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:kt:blasphemy]]
+    * [[en:obe:kt:god]]
+
+===== Translation Notes: =====
+
+  * **Man**  - This is a general word that people used when speaking to a man whose name they did not know. It was not rude, but it also did not show special respect. Some languages might use a word like "friend" or "brother" or "sir."
+  * **your sins are forgiven you**  - "you are forgiven" or "I forgive your sins" (UDB)
+  * **question this**  - "discuss this" or "reason about this." AT: "discuss whether or not Jesus had authority to forgive sins."
+  * **Who is this who speaks blasphemies?** - This rhetorical question shows how shocked and angry they were at what Jesus said. AT: "This man is blaspheming God" or "He blasphemes God by saying that" or "Who does he think he is to blaspheme God like that?" (See [[en:ta:vol1:translate:figs_rquestion]])
+  * **Who can forgive sins, but God alone?** - The implied information is that if a person claims to forgive sins he is pretending to be God. AT: "No one can forgive sins but God alone" or "God is the only one who can forgive sins." (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:luk:05:18|<<]] | [[:en:bible:notes:luk:05:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish forgive}}
+
+~~NOCACHE~~

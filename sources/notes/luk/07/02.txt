@@ -1,0 +1,68 @@
+====== Luke 07:2-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 There was a Roman army officer there who had a slave whom he greatly esteemed. This slave was so sick that he was about to die.
+\v 3 When the officer heard about Jesus, he \add summoned\add* some Jewish elders. He told them to go to Jesus and ask him to come and heal his slave.
+\v 4 When they came to where Jesus was, they earnestly asked Jesus \add to return with them\add*. They said, "This officer deserves that you\add \f + \ft singular \f*\add* do this \add for him\add*,
+\v 5 because he loves us \add Jewish\add* people, and he \add paid the money to\add* build a synagogue for us."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 In that town there was a centurion in the Roman army who had a slave that  was dear to him. This slave was so sick that he was about to die.
+\v 3 When the centurion heard about Jesus, he sent  some Jewish elders to Jesus to ask him to come and heal his slave.
+\v 4 When they came to Jesus, they earnestly asked him  to help the centurion's slave. They said, "He deserves that you do this for him,
+\v 5 because he loves our people and he built our synagogue for us."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 2 A certain centurion's slave, who was precious to him, was very sick and was about to die.
+\v 3 But having heard about Jesus, the centurion sent to him elders of the Jews, asking him to come and save his slave from dying.
+\v 4 When they had come near to Jesus, they asked him earnestly, saying, "He is worthy that you should do this for him,
+\v 5 because he loves our nation, and he is the one who built the synagogue for us."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:centurion]]
+    * [[en:obe:other:servant]]
+    * [[en:obe:other:precious]]
+    * [[en:obe:other:elder]]
+    * [[en:obe:other:jew]]
+    * [[en:obe:kt:worthy]]
+    * [[en:obe:other:nation]]
+    * [[en:obe:other:synagogue]]
+===== Translation Notes: =====
+
+
+    * **who was precious to him**  - "whom the centurion valued" or "whom he respected"
+    * **having heard about Jesus**  - "because he had heard about Jesus"
+    * **save his slave from dying** - "save his slave so that he would not die" or "keep his slave from dying"
+    * **He is worthy** - "The centurion is worthy"
+    * **our nation** - "our people." This refers to the Jewish people.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/07/01|<<]] | [[en/bible/notes/luk/07/06|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish centurion}}
+~~NOCACHE~~

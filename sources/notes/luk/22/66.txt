@@ -1,0 +1,50 @@
+====== Luke 22:66-68 ======
+
+===== TFT: =====
+
+<usfm>
+\v 66 At dawn \add the next morning\add*, many of the \add Jewish\add* leaders gathered together. The group included the chief priests and the men who taught the \add Jewish\add* laws. They took Jesus to the Jewish Council. There they said to him,
+\v 67 "If you\add \f + \ft singular \f*\add* are the Messiah, tell us!" But he replied, "If I tell you that, you will not believe me.
+\v 68 If I ask you \add what you think about the Messiah\add*, you will not answer me.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 66 At dawn the next morning, many of the Jewish leaders gathered together. In this group were the chief priests and the men who taught the Jewish laws. They took Jesus to the Jewish Council. There they said to him,
+\v 67 "If you are the Messiah, tell us!" But he replied, "If I say that I am he, you will not believe me.
+\v 68 If I ask you what you think about the Messiah, you will not answer me.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 66 As soon as it was day, the elders of the people gathered together, both chief priests and scribes. They led him into the Council,
+\v 67 saying, "If you are the Christ, tell us." But he said to them, "If I tell you, you will not believe,
+\v 68 and if I ask you, you will not answer.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:elder]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:council]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:believe]]
+
+===== Translation Notes: =====
+
+  * **They led him into the Council**  - Possible meanings are 1) "The elders had Jesus brought into the Council" or 2) "The guards led Jesus into the Council of the elders." Some languages may avoid saying who led him by using the pronoun "they" (ULB) or by using a passive verb: "Jesus was led into thee Council." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **saying**  - "The elders said to Jesus"
+  * **tell us**  - "tell us that you are the Christ"
+  * **If I tell you, you will not believe**  - This is the first of two hypothetical statements by Jesus. It was a way for Jesus to respond without giving them a reason to say that he was guilty of blasphemy. Your language may have a way of indicating that the action has not actually happened. (See: [[en:ta:vol1:translate:figs_hypo]])
+  * **if I ask you, you will not answer**  - This is the second hypothetical statement. (See: [[en:ta:vol1:translate:figs_hypo]])
+  * **If I tell you...if I ask you**  - Jesus is saying that it did not matter whether he spoke or asked them to speak, they would not respond correctly. These two phrases together express Jesus' attitude that the council was not really looking for the truth.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:63|<<]] | [[:en:bible:notes:luk:22:69|>>]]**
+
+~~DISCUSSION~~{{tag>publish  council}}

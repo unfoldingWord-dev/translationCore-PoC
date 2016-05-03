@@ -1,0 +1,43 @@
+====== Luke 18:22-23 ======
+
+===== TFT: =====
+
+<usfm>
+\v 22 When Jesus heard \add him say\add* that, he replied to him, "There is one thing that you\add \f + \ft singular \f*\add* have not \add done\add* yet. Sell all that you own. Then give \add the money\add* to poor people. \add The result will be that\add* you will have \add spiritual\add* riches in heaven. Then come and be my disciple!"
+\v 23 The man went away sad when he heard that, because he was very rich \add and he did not want to give everything away\add*.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 22 When Jesus heard him say that, he replied to him, "You still need to do one more thing. Sell all that you own. Then give the money to people who have very little to live on. The result will be that you will have spiritual riches in heaven. Then come and be my disciple!"
+\v 23 The man  became very sad when he heard that, because he was extremely rich.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 22 When Jesus heard that, he said to him, "One thing you still lack. You must sell all that you have and distribute it to the poor, and you will have treasure in heaven—and come, follow me."
+\v 23 But when the rich man heard these things, he became extremely sad, for he was very rich.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+  * **When Jesus heard that** - "When Jesus heard the man say that"
+  * **he said to him** - "he answered him"
+  * **One thing you still lack** - "You still need to do one more thing" or "There is one thing that you have not yet done"
+  * **sell all that you have** - "sell all your possessions" or "sell everything that you own"
+  * **distribute** - "give"
+  * **distribute it to the poor** - "give away the money to the poor people"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+**[[:en:bible:notes:luk:18:18|<<]] | [[:en:bible:notes:luk:18:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

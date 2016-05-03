@@ -1,0 +1,55 @@
+====== Luke 12:47-48 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 47 Every servant who knows what his master wants him to do but who does not get himself ready and does not do what his master desires will be beaten severely \f + \ft Or:\add The master\add* will beat severely every servant who knows what his master wants him to do but who does not get himself ready and does not do what his master desires \f*.
+\v 48 But every \add servant\add* who did not know \add what his master wanted\add* him to do, and who did things for which he deserved to be punished, will be beaten lightly \f + \ft Or:\add the master\add* will beat lightly every \add servant\add* who did not know \add what his master wanted\add* him to do and did the things for which he deserved that \add his master\add* would beat him \f*. \add God will treat his people similarly, because he\add* expects a lot from those people whom \add he\add* has allowed \add to understand a lot\add*. People who entrust things \add to others' care\add* expect those people\add to care for those things\add* very well. Similarly, \add God\add* expects a lot from those people whom he has allowed \add to understand a lot\add*. Furthermore, he expects the most from people to whom he has given the most \add ability\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 47 The servant who knew what his master wanted but did not get ready and do it, will be severely punished.
+\v 48 But every servant who did not know what his master wanted him to do, and then did something wrong , will only get a mild punishment. A lot is expected from those people who have been given a lot. Even more is expected from those who have been entrusted with a lot."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 47 That servant, having known his lord’s will, and not having prepared or done according to his will, will be beaten with many blows.
+\v 48 But he who did not know, and did things worthy of a beating, will be beaten with a few blows. Everyone to whom much is given, much will be required of him, and to whom they entrust much, they will ask even more of him.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[:en:obe:other:servant]]
+    * [[:en:obe:kt:lord]]
+    * [[en:obe:kt:worthy]]
+
+===== Translation Notes: =====
+Jesus continues to tell his disciples a parable.
+    * **will be beaten with many blows**  - "will be hit many times" or "will be whipped many times." AT: "his master will hit him many times" or "his master will punish him severely."
+    * **Everyone to whom much is given, much will be required of him** - AT: "They will require more of anyone who has received much" or "the master will require more of everyone he has given much to."
+    * **they entrust … they will ask** - The word "they" here does not refer to a specific group of people. AT: "the master entrusts ... the master will ask." If you translated the previous sentences with a passive, consider following the UDB. (See: [[en:ta:vol2:translate:figs_activepassive]])
+    * **to whom they entrust much** - "to whom they give much property to take care of" or "to whom they give much responsibility" (See: [[en:ta:vol2:translate:figs_activepassive]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:45|<<]] | [[:en:bible:notes:luk:12:49|>>]]**
+
+~~DISCUSSION~~{{tag>publish servant }}
+
+~~NOCACHE~~

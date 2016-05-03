@@ -1,0 +1,51 @@
+====== Luke 03:27-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 \add Joda was the son\add* of Joanan. \add Joanan was the son\add* of Rhesa. \add Rhesa was the son\add* of Zerubbabel. \add Zerubbabel was the son\add* of Shealtiel. \add Shealtiel was the son\add* of Neri.
+\v 28 \add Neri was the son\add* of Melchi. \add Melchi was the son\add* of Addi. \add Addi was the son\add* of Cosam. \add Cosam was the son\add* of Elmadam. \add Elmadam was the son\add* of Er.
+\v 29 \add Er was the son\add* of Joshua. \add Joshua was the son\add* of Eliezer. \add Eliezer was the son\add* of Jorim. \add Jorim was the son\add* of Matthat. \add Matthat was the son\add* of Levi.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 Joda was the son of Joanan. Joanan was the son of Rhesa. Rhesa was the son of Zerubbabel. Zerubbabel was the son of Shealtiel. Shealtiel was the son of Neri.
+\v 28 Neri was the son of Melchi. Melchi was the son of Addi. Addi was the son of Cosam. Cosam was the son of Elmadam. Elmadam was the son of Er.
+\v 29 Er was the son of Joshua. Joshua was the son of Eliezer. Eliezer was the son of Jorim. Jorim was the son of Matthat. Matthat was the son of Levi.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 27 the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,  
+\v 28 the son of Melchi, the son of Addi, the son of Cosam, the son of Elmadam, the son of Er,  
+\v 29 the son of Joshua, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi,
+</usfm>
+
+
+===== translationWords: =====
+  * [[en:obe:other:zerubbabel]]
+
+===== Translation Notes: =====
+This is a continuation of the list of Jesus' ancestors. (See: [[:en:ta:vol1:translate:translate_names]])
+
+    * **the son of Joanan, the son of Rhesa...** - Use the same wording as you used in the previous verses. AT: “who was the son of Joanan, who was the son of Rhesa...” or “Joda was the son of Joanan, Joanan was the son of Rhesa...” or “Joda's father was Joanan, Joanan's father was Rhesa....” 
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+
+**[[en/bible/notes:luk/03/25|<<]] | [[en/bible/notes:luk/03/30|>>]]** 
+
+
+~~DISCUSSION~~
+
+ 
+{{tag>publish}}
+
+~~NOCACHE~~

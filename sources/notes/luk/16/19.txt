@@ -1,0 +1,62 @@
+====== Luke 16:19-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 \add Jesus also said\add* \f + \ft metaphor \f*, "Once there was a rich man who wore \add expensive\add* purple and linen \add garments\add*. He ate luxuriously every day.
+\v 20 And every day a poor man whose name was Lazarus was laid \f + \ft Or:\add some people also\add* laid a poor man whose name was Lazarus \f* at the gate of the rich man's \add house\add*. Lazarus' body was covered with sores.
+\v 21 He \add was so hungry that he\add* wanted to eat the scraps \add of food\add* that fell from the table where the rich man \add ate\add*. Furthermore, \add to make things worse\add*, dogs came and licked his sores.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Jesus also said, "Once there was a rich man who wore fine purple and linen clothes. Every day he gave expensive feasts.
+\v 20 And every day a poor man whose name was Lazarus was laid at the gate of the rich man's house. Lazarus' body was covered with sores.
+\v 21 He was so hungry that he wanted to eat the scraps of food that fell from the table where the rich man ate. Furthermore, to make things worse, dogs came and licked his sores.
+</usfm>
+
+
+===== ULB: =====
+
+
+<usfm>
+\p
+\v 19 Now there was a certain rich man who was clothed in purple and fine linen and was enjoying every day his great wealth.
+\v 20 A certain beggar named Lazarus was laid at his gate, covered with sores,
+\v 21 and he yearned to be fed with what fell from the rich manâ€™s tableâ€x22and besides that, the dogs came and licked his sores.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:other:beg]]
+ 
+
+===== Translation Notes: =====
+Jesus continues to speak.
+    * **a certain rich man** -  It is not clear if this was a real person, or simply a story that Jesus told in order to make a point.
+    * **who was clothed in purple and fine linen**  - "who wore clothing made with fine linen and purple dye" or "who wore very expensive clothes." Purple dye and fine linen cloth were very expensive. 
+    * **was enjoying every day his great wealth**  - This could be translated as "was feasting every day" or "enjoyed eating expensive food every day" or "spent much money and bought whatever he desired."
+    * **A certain beggar named Lazarus was laid at his gate** - "people had laid a certain beggar named Lazarus at his gate" (See: [[:en:ta:vol1:translate:translate_names]])
+    * **beggar** - "a poor man who had to beg people for food"
+    * **at his gate**  - "at the gate to the rich man's house" or "at the entrance to the rich man's property"
+    * **covered with sores**  - "with sores all over his body." 
+    * **yearned to be fed with** - "wished to eat" or "wished he would be allowed to eat"
+    * **what fell from the rich man's table** - This could also be translated as "crumbs of food that accidentally fell from the rich man's table as he was eating" or "the leftover food that was thrown from the rich man's table."
+    * **besides that** - This could also be translated as "in addition to that" or "even." This shows that what follows is even worse than what has already be told about Lazarus.
+    * **dogs**  - Dogs were an unclean animal. Lazarus was too sick and weak to stop the dogs from licking his wounds.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/16/18|<<]] | [[en/bible/notes/luk/16/22|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish beg}}
+~~NOCACHE~~

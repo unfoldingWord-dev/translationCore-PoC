@@ -1,0 +1,60 @@
+====== Luke 23:3-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Pilate asked him, "Do you\add \f + \ft singular \f* claim that you are\add* the King of the Jews?" He replied, "\add It is\add* as you have \add just\add* now said."
+\v 4 Pilate said to the chief priests and \add the rest of\add* the crowd, "I do not conclude that this man is guilty of any crime."
+\v 5 But they kept insisting, saying, "He is inciting the people \add to riot!\add* He has been teaching his \add ideas\add* throughout all of Judea \add district\add*. He started \add doing it\add* in Galilee \add district\add* and now he is doing it here!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Pilate then asked him, "Are you the King of the Jews?" Jesus replied, "Yes, it is just as you have asked me."
+\v 4 Then Pilate said to the chief priests and to the crowd, "This man is not guilty of any crime."
+\v 5 But they kept on accusing Jesus; they said, "He is trying to get the people to riot! He has been teaching his ideas throughout all of the region of Judean. He started doing this in the region of Galilee and now he is doing it here, also!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 Pilate asked him, saying, "Are you the King of the Jews?" And Jesus answered him and said, "You say so."
+\v 4 Pilate said to the chief priests and the multitudes, "I find no fault in this man."
+\v 5 But they were insisting, saying, "He stirs up the people, teaching throughout all Judea, beginning from Galilee even to this place."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:pilate]]
+  * [[en:obe:kt:kingofthejews]]
+  * [[en:obe:other:chiefpriests]]
+  * [[en:obe:other:judea]]
+  * [[en:obe:other:galilee]]
+ 
+
+===== Translation Notes: =====
+
+  * **Pilate asked him**  - "Pilate asked Jesus"
+  * **You say so**  - This idiom means "what you said is correct." It could also be translated as "It is just as you have asked me" (UDB). (See: [[en:ta:vol1:translate:figs_idiom]]) 
+  * **multitudes**  - "the crowd of people"
+  * **I find no fault in this man **- "I don't find this man guilty of anything"
+  * **stirs up**  - "caused trouble among"
+  * **beginning from Galilee even to this place**  - "he began causing trouble in Galilee and now is causing trouble here"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:01|<<]] | [[:en:bible:notes:luk:23:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish kingofthejews}}

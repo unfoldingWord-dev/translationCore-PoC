@@ -1,0 +1,60 @@
+====== Luke 16:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add Jesus\add* also said to his disciples, "Once there was a rich man who had a household manager. \add One day\add* he was told \f + \ft Or:\add someone\add* told him \f* that \add the manager\add* was managing the rich man's money badly.
+\v 2 So he summoned \add the manager\add* and said to him, 'It is terrible what they are saying about you\add \f + \ft singular \f*\add*!\f + \ft Or: Is it true what they are saying about you\add ( singular )\add* \f + \ft rhetorical question \f*? \f* Give me a written account of \add the funds\add* you have been managing, because you can no longer be my \add household\add* manager!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Jesus also said to his disciples, "Once there was a rich man who had a household manager. One day the rich man was told that the manager was managing his property so badly that he was causing the rich man to lose his possessions.
+\v 2 So he called the manager to come to him and said to him, 'What you have been doing is terrible! Give me a final written report of what you have been managing, because you may no longer be my household manager!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 16
+\p
+\v 1 Jesus also said to the disciples, "There was a certain rich man who had a manager, and it was reported to him that this manager was squandering his possessions.
+\v 2 So the rich man called him and said to him, 'What is this that I hear about you? Give an account of your management, for you can no longer be manager.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:Jesus]]
+  * [[en:obe:kt:disciple]]
+  * [[en:obe:other:manager]]
+  * [[en:obe:other:possess]]
+ 
+
+===== Translation Notes: =====
+Jesus continues to speak to the people.
+  * **Jesus also said to the disciples**  - The last section was directed at Pharisees and scribes, though Jesus' disciples may have been part of the crowd listening.
+  * **it was reported to him**  - "people reported to the rich man"
+  * **squandering his possessions**  - "scattering his possessions" or "foolishly spending the rich man's wealth"
+  * **What is this that I hear about you?** - This is a rhetorical question. The rich man is saying, "I have heard what you are doing." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **Give an account of your management**  - This could also be translated as, "Set things in order to pass on to someone else" or "Straighten things up to hand over" or "Prepare the records you have written about my money."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/15/31|<<]] | [[en/bible/notes/luk/16/03|>>]]**
+
+
+~~DISCUSSION~~
+
+
+
+{{tag>publish manager}}
+~~NOCACHE~~

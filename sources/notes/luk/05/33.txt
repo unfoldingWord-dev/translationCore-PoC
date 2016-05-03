@@ -1,0 +1,51 @@
+====== Luke 05:33-35 ======
+
+===== TFT: =====
+
+<usfm>
+\v 33 \add Those Jewish leaders\add* said to Jesus, "The disciples of John \add the Baptizer\add* often abstain from food \add to show that they want to please God\add*, and the disciples of the Pharisees do that, too. But your disciples keep on eating and drinking! \add Why do not they fast like the others\add*?"
+\v 34 \add To show them that it was not appropriate for his disciples to be sad and abstain from food while he was still with them\add* \f + \ft metaphor \f*, Jesus said to them, "When the bridegroom\f + \ft Or: man who is getting married \f* is with \add his friends at the time of the wedding\add*, you certainly do not make his friends abstain from food, do you \f + \ft rhetorical question \f*? \add No, you do not do that\add*.
+\v 35 \add But\add* some day he will be taken away \f + \ft Or:\add his enemies\add* will take him away \f* from them. Then, at that time, his friends will abstain from food, \add because they will be sad\add*."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 33 Those Jewish leaders said to Jesus, "The disciples of John the Baptizer often abstain from food and pray, and the disciples of the Pharisees do that, too. But your disciples keep on eating and drinking! Why do they not fast like the others?"
+\v 34 Jesus answered, You do not tell the friends of the bridegroom to fast while he is still with them, do you? No, no one would do that!
+\v 35 But some day the bridegroom will be taken away  from his friends. Then, at that time, they will abstain from food."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 33 They said to him, "The disciples of John often fast and pray, and the disciples of the Pharisees do the same. But your disciples eat and drink."
+\v 34 Jesus said to them, "Can anyone make the wedding attendants of the bridegroom fast, while the bridegroom is still with them?
+\v 35 But the days will come when the bridegroom will be taken away from them, then in those days they will fast."
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:johnthebaptist]]
+  * [[en:obe:other:fast]]
+  * [[en:obe:other:pray]]
+  * [[en:obe:other:bridegroom]]
+
+===== Translation Notes: =====
+
+  * **They said to him**  - "The religious leaders said to Jesus"
+  * **Can anyone make**  - Jesus used this rhetorical question to cause the people to think about a situation that they already know. AT: "No one tells the wedding attendants of the bridegroom to fast while he is still with them." (See [[en:ta:vol1:translate:figs_rquestion]])
+  * **wedding attendants**  - "guests" or "friends." These are friends who celebrate with a man who is getting married.
+  * **But the days will come when**  - "But some day" (UDB) or "But soon"
+  * **the bridegroom will be taken away from them**  - This is a metaphor. Jesus was speaking about himself. AT: "In the same way, my disciples cannot fast while I am with them." (See: [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:luk:05:29|<<]] | [[:en:bible:notes:luk:05:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish fast  bridegroom}}

@@ -1,0 +1,56 @@
+====== Luke 11:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Give us\add \f + \ft exclusive \f*\add* each day the food \f + \ft synecdoche \f* that we need.
+\v 4 Forgive us \add for\add* the wrong things that we have done, because we forgive people for the wrong things that they do to us. Do not let us do wrong things when we are tempted \f + \ft Or:\add someone or something\add* tempts us \f*.'"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Please give us each day the food that we need.
+\v 4 Please forgive us for the wrong things that we have done, just as we ourselves must forgive people for the wrong things that they do to us. Help us to not sin when we are tempted.'"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 3 Give us each day our daily bread.
+\v 4  Forgive us our sins, for we ourselves forgive everyone who is in debt to us. Do not lead us into temptation.'"
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:bread]]
+    * [[en:obe:kt:forgive]]
+    * [[en:obe:kt:sin]]
+    * [[en:obe:kt:tempt]]
+
+===== Translation Notes: =====
+Jesus continues to teach his disciples how to pray
+
+  * **our daily bread**  - Bread was in inexpensive food that people ate everyday. It is used here to refer to food in general. AT: "the food we need each day." 
+  * **Forgive us our sins**  - "Forgive us for sinning against you" or "Forgive our sins"
+  * **for we ourselves forgive**  - "since we also forgive"
+  * **who is in debt to us**  - "who have sinned against us" or "who have done wrong things to us"
+  * **Do not lead us into temptation**  - This is a figure of speech that means "Lead us away from temptation." (See: [[en:ta:vol2:translate:figs_doublenegatives]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:02|<<]] | [[:en:bible:notes:luk:11:05|>>]]**
+
+~~DISCUSSION~~{{tag>publish bread  tempt}}
+
+~~NOCACHE~~

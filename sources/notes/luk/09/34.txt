@@ -1,0 +1,58 @@
+====== Luke 09:34-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 34 As he was saying that, a \add bright\add* cloud appeared and covered them. The disciples were afraid as the cloud surrounded them.
+\v 35 \add God\add* [MTY\f + \ft Or: EUP \f*] spoke to them from the cloud, saying, "This is my Son. He is the one whom \add I\add* have chosen \add to do a great work for me\add*. \add So\add* you must listen to him!"
+\v 36 After \add God\add* [MTY\f + \ft Or: EUP \f*] finished saying that, \add the three disciples\add* saw that only Jesus was there. They did not tell anyone what they had seen until much later.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 As he was saying these things, a cloud formed and covered them. The disciples were afraid as the cloud surrounded them.
+\v 35 God's voice spoke to them from the cloud, saying, "This is my Son, whom I have chosen; listen to him!"
+\v 36  When the voice had finished speaking, the three disciples saw that only Jesus was there. They were silent and for a long time they did not tell anyone what they had seen.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 Then while he was saying these things, a cloud came and overshadowed them; and they were afraid as they were surrounded by the cloud.
+\v 35 A voice came out of the cloud, saying, "This is my chosen Son. Listen to him."
+\v 36 When the voice had finished, Jesus was alone. They kept silent, and in those days they told no one any of the things which they had seen.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:voice]]
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:sonofgod]]
+
+ 
+
+===== Translation Notes: =====
+
+    * **while he was saying these things** - "while Peter was saying these things"
+    * **they were afraid** - These adult disciples were not afraid of clouds. This phrase indicates that some kind of unusual fear came over them with the cloud. AT: "they were terrified."
+    * **A voice came out of the cloud, saying** - AT: "God spoke to them from the cloud, saying."
+    * **my chosen Son** - The word "chosen" is adding information about God's Son. It is not saying that God has more than one son. AT: "my Son, whom I have chosen" (UDB) or "my Son, the chosen one." (See: information about Adjectives on [[en:ta:vol2:translate:figs_partsofspeech]])
+    * **those days** - This may refer to the days until Jesus was taken up to Heaven after the resurrection or possibly the days directly after Jesus made the statement.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:32|<<]] | [[:en:bible:notes:luk:09:37|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

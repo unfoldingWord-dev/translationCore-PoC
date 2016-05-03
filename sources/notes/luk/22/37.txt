@@ -1,0 +1,57 @@
+====== Luke 22:37-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 37 Because, I now tell you, \add something must happen to me to fulfill these words that a prophet\add* wrote: 'He was treated \f + \ft Or:They treated him \f* as \add though he were\add* a criminal.' Do not forget that everything that is \f + \ft Or:that they have \f* written about me \add in the Scriptures\add* must be fulfilled."
+\v 38 The disciples said, "Lord, look! We\add \f + \ft exclusive \f*\add* have two swords!" \add Realizing that they did not understand the meaning of what he said\add*, he replied to them, "That is enough \add talk about swords!\add*"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 37 I tell you this because what a prophet wrote about me in the scriptures must happen: 'People considered him to be a criminal.' Everything that is about me in the scriptures is happening.
+\v 38 The disciples said, "Lord, look! We have two swords!" He replied, "Enough. Do not talk like this any longer."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 37 For I say to you, what is written about me must be fulfilled, 'And he was regarded as one of the lawless.' For what is predicted about me is being fulfilled."
+\v 38 Then they said, "Lord, look! Here are two swords." And he said to them, "It is enough."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:written]]
+  * [[en:obe:kt:fulfill]]
+  * [[en:obe:other:lawless]]
+  * [[en:obe:kt:lord]]
+ 
+
+===== Translation Notes: =====
+
+
+  * **what is written about me** - "what a prophet wrote about me in the scriptures" (UDB)
+  * **must be fulfilled** - The apostles would have understood that God would cause everything written in the scriptures to happen. You could make this explicit by rewording the entire phrase: "God will cause everything that is written in the scriptures to be fulfilled." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **he was regarded as one of the lawless** - "people considered him to be one of the lawless people." Some languages may need to state explicitly "this is written in the scripture, 'He was considered with the lawless." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **the lawless** - "those who break the law" or "criminals"
+  * **For what is predicted about me is being fulfilled** - This phrase is not clear in the Greek. Another possible meaning is "My life is coming to an end."
+  * **they said** - This refers to at least two of Jesus' apostles.
+  * **It is enough** - Possible meanings are 1) "That is enough swords" or 2) "That is enough talk about this." When Jesus said that they should buy swords, he was mainly telling them about the danger they would all face. He may not have really wanted them to buy swords and fight.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:35|<<]] | [[:en:bible:notes:luk:22:39|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

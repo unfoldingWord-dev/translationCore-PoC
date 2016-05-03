@@ -1,0 +1,64 @@
+====== Luke 02:10-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 But the angel said to them, "Do not be afraid! I have come to tell you good news, which will \add make you\add* very happy! This message is for everyone \add to hear\add*!
+\v 11 \add The message is that\add* today a baby has been born in \add Bethlehem, the town where King\add* David grew up. That baby will \add eventually\add* save you \add from the guilt of your sins!\add* He is the Messiah, \add your\add* Lord!
+\v 12 I will tell you how \add you will recognize him\add* \f + \ft Or: how you will know \add that what I say is true\add* \f*: \add In Bethlehem\add* you will find a baby who has been wrapped \f + \ft Or:\add whose mother\add* has wrapped him \f* in strips of cloth and placed in a trough where \add people\add* put food for the animals."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 But the angel said to them, "Do not be afraid! I have come to tell you good news, which will benefit all people and will make you all very happy!
+\v 11 Today, in the city of David, a baby has been born who will save you from your sins! He is the Messiah, the Lord!
+\v 12 This is how you will recognize him: In Bethlehem you will find a baby who has been wrapped in strips of cloth and placed in a feeding place for animals."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Then the angel said to them, "Do not be afraid, because I am about to announce to you good news that will bring great joy to all the people.  
+\v 11 Today a savior was born for you in the city of David! He is Christ the Lord!  
+\v 12 This is the sign that will be given to you, you will find a baby wrapped in strips of cloth and lying in a feeding trough."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:goodnews]]
+  * [[en:obe:kt:joy]]
+  * [[en:obe:kt:savior]]
+  * [[en:obe:other:cityofdavid]]
+  * [[en:obe:kt:christ]]
+  * [[en:obe:kt:lordgod]]
+  * [[en:obe:kt:sign]]
+
+===== Translation Notes: =====
+
+    * **Do not be afraid** - AT: "Stop being afraid"
+    * **because I am about to announce to you good news** - "for I bring good news to you" or "I will tell you some good news"
+    * **that will bring great joy to all the people** - AT: "that will make all the people very happy."
+    * **all the people** - Some understand this to refer to the Jewish people. Others understand it to refer to all people.
+    * **the city of David** - AT: "in Bethlehem, the city of David"
+    * **This is the sign that will be given to you** - AT: "God will give you this sign" or "You will see this sign from God." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **sign** - This could either be a sign to prove that what the angel was saying was true, or it could be a sign that would help the shepherds recognize the baby. AT: “proof” or “distinguishing mark”
+    * **wrapped in strips of cloth** - "wrapped in pieces of cloth." AT: "who was wrapped comfortably in a blanket."
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:08|<<]] | [[:en:bible:notes:luk:02:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish christ sign}}
+
+~~NOCACHE~~

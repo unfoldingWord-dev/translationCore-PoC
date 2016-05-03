@@ -1,0 +1,65 @@
+====== Luke 08:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 \add Some people are like\add* the \add soil that had roots of\add* thorny \add weeds\add* in it. They are people who accept \add God's message\add*, but later on they worry about things, and try to become rich, and enjoy \add things that give them\add* a lot of pleasure. So they do not become \add spiritually\add* mature.
+\v 15 But \add some people are like\add* the good soil. They hear \add God's\add* message and accept it. They \add become\add* good, honest people, and they continue doing things \add that please God\add* \f + \ft metaphor \f*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 The seeds that fell among the thorny plants show what happens when people hear God's word, but then as they go on in life they allow such things as the worries, riches and pleasures of this life to crowd out God's word from their life. As a result, they do not become spiritually mature.
+\v 15 But the seeds that fell on the fertile ground show what happens when people hear God's word and receive it with an honorable and upright heart. They persevere in believing and obeying the word, and so they produce good spiritual fruit.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14  The seeds that fell among the thorn plants are people who have heard the word, but as they go on their way, they become choked with the cares and riches and pleasures of this life, and so they bring no fruit to maturity.
+\v 15 But the seeds that fell on the good ground, these are people who, with an honest and good heart, after they have heard the word, hold onto it securely and produce fruit with perseverance.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:word]]
+    * [[en:obe:kt:fruit]]
+    * [[en:obe:other:heart]]
+    * [[en:obe:other:perseverance]]
+
+
+===== Translation Notes: =====
+
+Jesus continues to explain the meaning of the parable.
+
+    *  **they become choked with the cares…** - "the cares and riches and pleasures of this life choke them" or "as weeds prevent good plants from growing, the cares, riches, and pleasures of this life keep these people from becoming mature" (See: (See: [[en:ta:vol2:translate:figs_activepassive]], [[en:ta:vol1:translate:figs_metaphor]])
+    * **cares** - "the things that people worry about"
+    * **pleasures of this life** - "the things in this life that people enjoy"
+    * **so they bring no fruit to maturity** - "they do not bear ripe fruit." AT: "so like a plant that does not become mature and bear fruit, they do not become mature and produce good works."  (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **produce fruit with perseverance**  - "produce fruit by persevering." AT: "like healthy plants that produce good fruit, they produce good works by persevering."   (See: [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/08/11|<<]] | [[en/bible/notes/luk/08/16|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish word fruit heart}}
+
+~~NOCACHE~~

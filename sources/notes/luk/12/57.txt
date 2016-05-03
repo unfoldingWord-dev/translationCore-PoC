@@ -1,0 +1,51 @@
+====== Luke 12:57-59 ======
+
+===== TFT: =====
+
+<usfm>
+\v 57 Each of you ought to determine now what is the right thing for you to do, \add while you still have time to do that\add*!\f + \ft Or: Why cannot each of you determine what is the right \add thing for you to do now while you still have time to do that\add*? \f* \f + \ft rhetorical question \f*
+\v 58 \add If you do not do that, God will punish you\add* \f + \ft metaphor \f*. \add It will be like what happens when\add* someone takes one of you to court, saying that you\add \f + \ft singular \f*\add* have done something very bad. You should try to settle things with him while you are still on the way to the court. If he forces you to go to the judge, the judge will decide that you are guilty and put you into the hands of the court officer. Then that officer will put you in prison.
+\v 59 I tell you that if you go to prison, you will never get out, \add because you will never be able to\add* pay every bit \add of what the judge says you owe\add* \f + \ft metaphor \f*. \add Similarly, you ought to settle accounts with God before you die, too\add*."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 57 Each of you ought to decide what is the right thing for you to do, while you still have time to do that!
+\v 58 You should try to settle things with someone who has accused you while you are still on the way to the court. If he forces you to go to the judge, the judge could decide that you are guilty and turn you over to the court officer. Then that officer will put you in prison.
+\v 59 I tell you that if you go to prison, you will never get out, until you are able to pay every bit of what the judge says you owe."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 57 Why do you not judge what is right for yourselves?
+\v 58 For when you go with your adversary before the magistrate, on the way make an effort to settle the matter with him so that he does not drag you to the judge, and so that the judge does not deliver you to the officer, and the officer does not throw you into prison.
+\v 59 I say to you, you will never come out from there until you have paid the very last bit of money."
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:judge]]
+  * [[en:obe:other:adversary]]
+  * [[:En:obe:other:magistrate]]
+  * [[en:obe:other:judgeposition]]
+  * [[:en:obe:other:prison]]
+
+===== Translation Notes: =====
+Jesus continues speaking to the crowds.
+  * **Why do you not judge what is right for yourselves**  - This is a rhetorical question used as a rebuke. It can be translated as "You yourselves should discern what is right." (See: [[en:ta:vol1:translate:figs_rquestion]]) It introduces Jesus' teaching about what is right.
+  * **for yourselves**  - “on your own initiative” or “while you still have time to do that” (UDB). It implies that the hearers should act out of their own self-interest and wisdom without anyone else having to force them.
+  * **For when you go with your adversary**  - This is the beginning of another parable. Jesus uses a hypothetical situation as a metaphor for God's impending judgment.
+  * **For when you go**  - Though Jesus is talking to a crowd, the situation he is presenting is something that a person would go through alone. So in some languages the word "you" would be singular. (See: [[en:ta:vol1:translate:figs_you]])
+  * **settle the matter with him**  - "settle the matter with your adversary"
+  * **the judge**  - This refers to the magistrate, but the term here is more specific and threatening.
+  * **does not deliver you** - "does not hand you over"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:54|<<]] | [[:en:bible:notes:luk:13:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish prison adversary}}
+
+~~NOCACHE~~

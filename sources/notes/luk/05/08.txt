@@ -1,0 +1,62 @@
+====== Luke 05:8-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8-9 Simon and all the men who were with him were amazed at how many fish they had taken. James and John, the two sons of Zebedee, who were Simon's partners, were among those who were amazed. When Simon, \add whose other name was\add* Peter, saw \add the fish, feeling ashamed to be in the presence of someone who obviously had God's power\add*, he prostrated himself before Jesus and said, "Lord, you should go away from me, because I am a sinful man!"
+\v 10 But Jesus said to Simon, "Do not be afraid! \add Up until now you\f + \ft singular \f* have been gathering fish\add* \f + \ft metaphor \f*, but from now on you will gather people \add to become my disciples\add*."
+\v 11 So after they brought the boats to the shore, they left their business \f + \ft hyperbole \f* \add in the hands of others\add* and went with Jesus.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Seeing this, Simon Peter fell at the knees of Jesus and said, "Please leave me, because I am a sinful man, Lord."
+\v 9 He said this because he was astonished at the huge number of fish that they had caught. All the men who were with him were also astonished, including James and John, the sons of Zebedee, who were two of Simon's fishing partners.
+\v 10 But Jesus said to Simon, "Do not be afraid! Until now you gathered in fish, but from now on you will gather in people to become my disciples."
+\v 11 So after the men brought the boats to the shore, they left their fishing business and everything else and went with Jesus.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 But Simon Peter, when he saw it, fell down at Jesus’ knees, saying, "Depart from me, for I am a sinful man, Lord."
+\v 9 For he was amazed, and all who were with him, at the catch of fish which they had taken.
+\v 10 This included James and John, sons of Zebedee, who were partners with Simon. And Jesus said to Simon, "Do not be afraid, because from now on you will catch men."
+\v 11 When they had brought their boats to land, they left everything and followed him.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:sin]]
+    * [[en:obe:kt:lord]]
+    * [[en:obe:other:amazed]]
+    * [[en:obe:other:jamessonofZebedee]]
+    * [[en:obe:other:johntheapostle]]
+    * [[en:obe:other:zebedee]]
+    * [[en:obe:kt:fear]]
+
+===== Translation Notes: =====
+
+
+    * **fell down at Jesus' knees** - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of  humility and respect for Jesus. 
+    * **sinful man** - The word here for "man" means "adult male" and not the more general "human being."
+    * **you will catch men**  - The word “catch” is being used as a metaphor for gathering people to follow Christ. AT: “you will fish for people.” or “you will gather people” or “you will bring people in.” (See: [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:luk:05:04|<<]] | [[:en:bible:notes:luk:05:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish zebedee}}
+
+~~NOCACHE~~

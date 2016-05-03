@@ -1,0 +1,61 @@
+====== Luke 13:31-33 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 At that very time, some Pharisees came and said to Jesus, "Leave this area, because \add the ruler\add* Herod \add Antipas\add* wants to kill you\add \f + \ft singular \f*\add*!"
+\v 32 He replied to them, "Herod is \f + \ft metaphor \f* \add as cruel as\add* a fox, \add but also as insignificant as a fox\add*. \add So I do not worry about him\add*. But \add to show him that no one can harm me until it is the time and place God has determined\add*, go tell him this \add message from me\add*: 'Listen! I am expelling demons and performing miracles today, and \add I will continue doing\add* it for a short time. After that, I will finish my work.
+\v 33 But I must continue my trip \add to Jerusalem\add* during the coming days, because \add they killed many other\add* prophets there, and \add since I am also a prophet\add*, no other place is appropriate for people to kill \add me\add*.'"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 That same day, some Pharisees came and said to Jesus, "Leave this area, because the ruler Herod Antipas wants to kill you!"
+\v 32 He replied to them, "Tell that fox Herod this message from me: 'Listen! I am expelling demons and performing miracles today, and I will continue doing it for a short time. After that, I will finish my work.
+\v 33 But I must continue my trip to Jerusalem during the coming days, since it is not appropriate to kill a prophet in a place other than Jerusalem.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 31 Shortly after, some Pharisees came and said to him, "Go and leave here because Herod wants to kill you."
+\v 32 Jesus said, "Go and tell that fox, 'Look, I cast out demons and perform healings today and tomorrow, and the third day I will reach my goal.'
+\v 33 In any case, it is necessary for me to continue on today, tomorrow, and the following day, since it is not acceptable to kill a prophet away from Jerusalem.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:other:herodantipas]]
+    * [[en:obe:other:castout]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:other:heal]]
+    * [[en:obe:kt:prophet]]
+    * [[en:obe:other:jerusalem]]
+
+
+===== Translation Notes: =====
+
+  * **Shortly after**  - "Shortly after Jesus finished speaking"
+  * **Go and leave here because Herod wants to kill you**  - Translate this as a warning to Jesus. They were advising him to go somewhere else and be safe.
+  * **Herod wants to kill you**  - "Herod wants to have you killed." Herod would order people to kill Jesus.
+  * **that fox**  - Jesus was calling Herod a fox. A fox is a small wild dog. This is a metaphor. Possible meanings are 1) Herod was not much of a threat at all 2) Herod was deceptive. (See: [[en:ta:vol1:translate:figs_metaphor]]).
+  * **it is not acceptable to kill a prophet away from Jerusalem**  - The Jewish leaders killed many of God's prophets in Jerusalem and Jesus knew that they would kill him there too. AT: "It is in Jerusalem that the Jewish leaders kill God's messengers." (See: [[en:ta:vol1:translate:figs_irony]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:en:bible:notes:luk:13:28|<<]] | [[:en:bible:notes:luk:13:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish  herodantipas}}
+
+~~NOCACHE~~

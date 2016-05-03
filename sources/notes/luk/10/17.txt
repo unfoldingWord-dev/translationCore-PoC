@@ -1,0 +1,77 @@
+====== Luke 10:17-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 The seventy-two \add people whom Jesus appointed went and did as he told them to\add*. When they returned, they were very joyful. They said, "Lord, \add people did what we\f + \ft exclusive \f* told them to do! But\add* demons also obeyed us when by your\add \f + \ft singular \f*\add* authority \f + \ft metonymy \f* \add we commanded them to leave people\add*!"
+\v 18 He replied, "\add When those demons were obeying you, because God had enabled you to defeat them, it was as though\add* \f + \ft metaphor \f* I saw Satan fall from heaven \add as suddenly and quickly\add* as lightning \add strikes\add*!
+\v 19 Listen! I have given you authority so that if you oppose evil spirits \f + \ft metaphor \f* \add they will not hurt you\add*. I have given you authority to defeat our enemy, \add Satan\add*. Nothing shall hurt you.
+\v 20 But \add although\add* you can rejoice that evil spirits obey you, you should rejoice \add more\add* that your names have been written \f + \ft Or:that \add God\add* has written your names \f* in heaven, \add because you will be with God forever\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 The seventy people whom Jesus appointed went and did as he told them to. When they returned, they were very joyful. They said, "Lord, even the demons obeyed us when by your authority we commanded them to leave people!"
+\v 18 He replied, "While you were away doing that, I saw Satan fall from heaven as suddenly and quickly as lightning strikes!
+\v 19 Listen! I have given you the right to attack evil spirits. They will not hurt you. I have given you the right to be stronger than our enemy, Satan. Nothing will hurt you at all.
+\v 20 But as you rejoice that evil spirits obey you, you should rejoice even more that your names have been written in heaven."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 The seventy returned with joy, saying, "Lord, even the demons submitted to us in your name."
+\v 18 Jesus said to them, "I was watching Satan fall from heaven as lightning.
+\v 19 See, I have given you authority to tread on serpents, and scorpions, and over all the power of the enemy, and nothing will in any way hurt you.
+\v 20 Nevertheless do not rejoice only in this, that the spirits submit to you, but rejoice even more that your names are engraved in heaven."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:joy]]
+    * [[en:obe:kt:lord]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:other:submit]]
+    * [[en:obe:kt:name]]
+    * [[en:obe:kt:satan]]
+    * [[en:obe:kt:heaven]]
+    * [[en:obe:kt:authority]]
+    * [[en:obe:other:serpent]]
+    * [[en:obe:kt:power]]
+    * [[en:obe:other:adversary]]
+    * [[en:obe:other:rejoice]]
+    * [[en:obe:kt:spirit]]
+
+===== Translation Notes: =====
+After some time passes, the seventy disciples return to where Jesus was.
+
+  * **The seventy returned**  - Some languages will need to say that the seventy actually went out first as the UDB does. This is implicit information that can be made explicit. (See [[en:ta:vol1:translate:figs_explicit]].)
+  * **seventy**  - You may want to add a footnote: "Some versions have '72' instead of '70.'"
+  * **in your name** - Here "name" refers to Jesus' power and authority. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I was watching Satan fall from heaven as lightning**  - Jesus used a simile to describe how God was defeating Satan when his 70 disciples were preaching in the towns. (See: [[en:ta:vol1:translate:figs_simile]])
+  * **authority to tread on serpents, and scorpions**  - "authority to step on snakes and crush scorpions." Possible meanings are 1) this refers to actual snakes and scorpions or 2) snakes and scorpions are a metaphor for evil spirits. The UDB translates this as referring to evil spirits: "I have given you the right to attack evil spirits." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **tread on serpents, and scorpions**  - This implies that they would do this and not be injured. AT: "walk on snakes and scorpions and not be hurt."
+  * **scorpion** - a small animal with two claws and poisonous stinger on its tail
+  * **over all the power of the enemy**  - "I have given you authority to crush the power of the enemy" or "I have given you authority to defeat the enemy." The enemy is Satan.
+  * **do not rejoice only in this**  - The words "in this" refer to the following phrase "that the spirits submit to you."
+  * **your names are engraved in heaven**  - AT: "God has written your names in heaven" or "your names are on the list of people who are citizens of heaven."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:luk:10:16|<<]] | [[:en:bible:notes:luk:10:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

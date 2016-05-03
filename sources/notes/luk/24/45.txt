@@ -1,0 +1,61 @@
+====== Luke 24:45-47 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 45 Then he enabled them to understand \add the things that had been written about him in\add* the Scriptures.
+\v 46 He said to them, "This is what they wrote: That the Messiah would suffer \add and die\add*, but on the third day after that he would become alive again.
+\v 47 \add They\add* also \add wrote that the message\add* must be preached \f + \ft Or:\add that his followers\add* must preach \add the message\add* \f* \add everywhere that people\add* must turn from their sinful ways for \add God\add* to forgive their sins. \add They wrote that his followers should preach that message, claiming\add* his authority \f + \ft metonymy \f*. They wrote that they should start \add preaching\add* it in Jerusalem and then \add go and\add* preach it to all ethnic groups.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 45 Then he enabled them to understand the things that had been written about him in the Scriptures.
+\v 46 He said to them, "This is what they wrote: That Jesus the Christ would suffer and die, but on the third day after that he would become alive again.
+\v 47 They also wrote that those who believed in him must preach everywhere that people should turn from committing sin to God, for him to forgive their sins. Christ's followers should preach that message because God sent them to do so. They wrote that they should start preaching it in Jerusalem and then go and preach it to all people groups.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 45 Then he opened their minds, that they might understand the scriptures.
+\v 46 He said to them, "Thus it is written, that the Christ should suffer, and rise again from the dead on the third day.
+\v 47 And repentance and forgiveness of sins should be preached in his name to all the nations, beginning from Jerusalem.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:mind]]
+  * [[en:obe:other:understand]]
+  * [[en:obe:kt:wordofgod]]
+  * [[en:obe:other:written]]
+  * [[en:obe:kt:christ]]
+  * [[en:obe:kt:suffer]]
+  * [[en:obe:kt:raise]]
+  * [[en:obe:kt:death]]
+  * [[en:obe:kt:repent]]
+  * [[en:obe:kt:forgive]]
+  * [[en:obe:kt:sin]]
+  * [[en:obe:other:preach]]
+  * [[en:obe:kt:name]]
+  * [[en:obe:other:nation]]
+  * [[en:obe:other:jerusalem]]
+
+===== Translation Notes: =====
+
+    * **he opened their minds** - "he enabled them to understand" (UBD)
+    * **Thus it is written** - AT: "This is what people long ago wrote" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **repentance and forgiveness of sins should be preached** - This can be translated with active verbs: "the Messiah's followers should preach that people need to repent and have God forgive their sins." (See: [[en:ta:vol2:translate:figs_activepassive]])
+    * **on the third day** - "after two nights"
+    * **all the nations** - "all the ethnic communities" or "all the people-groups"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:44|<<]] | [[:en:bible:notes:luk:24:48|>>]]**
+
+~~DISCUSSION~~{{tag>publish repent}}

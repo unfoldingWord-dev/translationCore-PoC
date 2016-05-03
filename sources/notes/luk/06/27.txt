@@ -1,0 +1,46 @@
+====== Luke 06:27-28 ======
+
+===== TFT: =====
+
+<usfm>
+\v 27 "But I say this to each of you \add disciples\add* who are listening \add to what I say\add*: Love your enemies \add as well as your friends\add*! Do good things for those who hate you!
+\v 28 \add Ask God to\add* bless those who curse you! Pray for those who mistreat you!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 27 "But I say this to each of you who are listening to what I say: Love your enemies, not only your friends! Do good things for those who hate you!
+\v 28 Ask God to bless those who curse you! Pray for those who treat you badly!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 27 But I say to you who are listening, love your enemies and do good to those who hate you.
+\v 28 Bless those who curse you and pray for those who mistreat you.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:love]]
+  * [[en:obe:other:adversary]]
+  * [[en:obe:kt:bless]]
+  * [[en:obe:kt:curse]]
+  * [[en:obe:other:pray]]
+  * [[en:obe:other:wrong]]
+
+===== Translation Notes: =====
+Apparently Jesus begins to speak to the whole crowd that was there, including those who were not his disciples.
+
+  * **love… do good… bless… pray**  - Each of these commands are to be done continually, not just a single time.
+  * **love your enemies**  - "care about your enemies" or "do what is good for your enemies"
+  * **those who curse you**  - "those who habitually curse you"
+  * **those who mistreat you**  - "those who habitually mistreat you"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:26|<<]] | [[:en:bible:notes:luk:06:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

@@ -1,0 +1,45 @@
+====== Luke 23:26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 As the soldiers were taking \add Jesus\add* away, they seized a man named Simon, \add who was\add* from Cyrene \add city in Africa\add*. He was returning \add to Jerusalem\add* from out in the countryside. They \add took from Jesus the cross that he had been carrying. Then\add* they put it on Simon's shoulders, and \add told him to\add* carry it behind Jesus.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Now there was a man named Simon, who was from the city of Cyrene in Africa. He was coming into Jerusalem from the countryside. As the soldiers were leading Jesus away, they grabbed hold of Simon. They took from Jesus the cross that they had made him carry, and they they put it on Simon's shoulders. They told him to carry it and follow behind Jesus.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 As they led him away, they seized one Simon of Cyrene, coming from the country, and they laid the cross on him to carry, following Jesus.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:seize]]
+  * [[:en:obe:kt:cross]]
+  * [[:en:obe:kt:jesus]]
+
+===== Translation Notes: =====
+
+  * **As they led him away** - "While the soldiers led Jesus away from where Pilate was"
+  * **seized one Simon of Cyrene** - The Roman soldiers had the authority to compel people to carry their loads. Do not translate this in a way that indicates that Simon was arrested or had done anything wrong. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **one** - "a man named"
+  * **coming from the country** - "He was coming into Jerusalem from the countryside" (UDB)
+  * **laid the cross on him** - "put the cross on his shoulders"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:23|<<]] | [[:en:bible:notes:luk:23:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish cross}}

@@ -1,0 +1,55 @@
+====== Luke 09:59-60 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 59 Jesus told another man, "Come with me!" But the man said, "Lord\f + \ft Or: Sir \f*, let me go \add home\add* first. \add After\add* my father \add dies\add* I will bury him, \add and then I will come with you\add*."
+\v 60 But Jesus said to him, "\add God considers that those who do not have eternal life are\add* dead \f + \ft metaphor \f*. Let those people \add do the work of\add* burying people who die. As for you, go and tell people about how God wants to rule\f + \ft Or: to have complete control \add over\add* \f* \add people's lives\add*!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 59 Jesus told a different person, "Follow me!" But that person said, "Lord, let me first go home and bury my father after he dies."
+\v 60 But Jesus said to him, "Let the dead bury their own dead; but you go and tell people everywhere that God will soon show himself as king!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 59 Then he said to another person, "Follow me." But he said, "Lord, allow me first to go and bury my father."
+\v 60 But he said to him, "Leave the dead to bury their own dead, but you go and announce everywhere the kingdom of God."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:lord]]
+    * [[en:obe:other:bury]]
+    * [[en:obe:kt:kingdomofgod]]
+
+===== Translation Notes: =====
+
+
+    * **Follow me** - AT: "Be my follower" or "Be my disciple and come with me."
+    * **allow me first to go** - This could be translated as "before I do that, let me go." This is a request from the man to Jesus.
+    * **Leave the dead to bury their own dead** - "Let the dead people bury their own dead people." Since people who are dead cannot bury anyone, the implied meaning here is "let the spiritually dead bury the dead people." (See: [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/09/57|<<]] | [[en/bible/notes/luk/09/61|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,50 @@
+====== Luke 12:11-12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 \add So\add* when people ask you in Jewish worship houses and in the presence of rulers and other authorities \add about your trusting in me\add*, do not worry about how you will answer them \add when they accuse you\add*. Do not worry about what you should say,
+\v 12 because the Holy Spirit will tell you at that very time what you should say."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 So when people bring you you into the synagogues to question you before the religious leaders and other people who have power in the country, do not worry about how you will answer them or about what you should say,
+\v 12 because the Holy Spirit will tell you at that very time what you should say."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11 When they bring you before the synagogues, the rulers, and the authorities, do not worry about how you will speak in your defense, or what you will say,
+\v 12 for the Holy Spirit will teach you in that hour what you should say."
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:synagogue]]
+  * [[en:obe:other:ruler]]
+  * [[en:obe:kt:authority]]
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:other:teach]]
+  * [[en:obe:kt:hour]]
+
+===== Translation Notes: =====
+Jesus continues speaking to his disciples.
+
+  * **before the synagogues**  - "into the synagogues to question you before the religious leaders" (UDB)
+  * **authorities**  - "other people who have power in the country" (UDB)
+  * **in that hour**  - "at that time" or "then"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:08|<<]] | [[:en:bible:notes:luk:12:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish ruler}}

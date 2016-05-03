@@ -1,0 +1,46 @@
+====== Luke 06:45 ======
+
+===== TFT: =====
+
+<usfm>
+\v 45 \add Similarly\add*, good people will conduct their lives in a good way because within themselves they think a lot of good \add things\add*, and evil people will live in an evil way because within themselves they think a lot of evil \add things\add*. The basic principle is that people speak \add and act\add* according to all that they think in their minds\f + \ft Or: inner beings \f*."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 45 Good people do good things which show that they think good thoughts, and evil people do evil things which show that they think evil thoughts. People will speak and act according to what they think about in their minds."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 45 The good man from the good treasure of his heart brings out that which is good, and the evil man from the evil treasure of his heart brings out that which is evil. For from the abundance of his heart his mouth speaks.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:good]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:kt:evil]]
+
+===== Translation Notes: =====
+Jesus compares the thoughts of a person to their physical treasures. (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+  * **The good man**  - "The good person." The word "good" here refers to righteousness or moral goodness. The word "man" here refers to a person, male or female. AT: "A good person" or "Good people" (UDB).
+  * **the good treasure of his heart**  - "the good things he keeps in his heart" or "what he values" (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **brings out** - AT: "lives his life" or "demonstrates" or "shows" (UDB). (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **that which is good**  - "good things"
+  * **from the abundance of his heart his mouth speaks**  - "what he thinks in his heart affects what he says with his mouth" or "what he values in his heart determines what he says with his mouth." AT: "what a person says shows what he constantly thinks about" or "what he thinks about affects what he says."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:43|<<]] | [[:en:bible:notes:luk:06:46|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

@@ -1,0 +1,53 @@
+====== Luke 20:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 So the owner of the vineyard said to himself, 'I do not know what to do!\f + \ft Or: What shall I do? \f* \f + \ft rhetorical question \f*' \add Then he had an idea. He said to himself\add*, 'I will send my son, \add whom I\add* love \add very much\add*. Perhaps they will respect him \add and give him my share of the grapes\add*.'
+\v 14 \add So he sent his son\add*, but when the men who were caring for the vineyard saw him \add coming\add*, they said to each other, 'Here \add comes\add* the man who will \add some day\add* inherit \add the vineyard\add*! Let's kill him so that this vineyard will be ours!'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 So the owner of the vineyard said to himself, 'What should I do now? I will send my son, whom I love very much. They will probably respect him.'
+\v 14 So he sent his son, but when the men who were caring for the vineyard saw him coming, they said to each other, 'Here comes the man who will some day inherit the vineyard! Let us kill him so that this vineyard might become ours!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 So the lord of the vineyard said, 'What will I do? I will send my beloved son. Maybe they will respect him.'
+\v 14 But when the vine growers saw him, they discussed among themselves, saying, 'This is the heir. Let us kill him, that the inheritance may be ours.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:beloved]]
+  * [[en:obe:kt:son]]
+  * [[en:obe:other:heir]]
+  * [[en:obe:kt:inherit]]
+ 
+===== Translation Notes: =====
+Jesus continues telling his parable.
+  * **when the vine growers saw him** - "when the farmers saw the owner's son"
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/20/11|<<]] | [[en/bible/notes/luk/20/15|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

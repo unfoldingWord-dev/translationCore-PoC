@@ -1,0 +1,53 @@
+====== Luke 22:61-62 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 61 The Lord \add Jesus\add* turned around and looked right at Peter. Then Peter remembered what the Lord had said to him, "This night, before the rooster crows, you\add \f + \ft singular \f*\add* will deny three times \add that you know\add* me."
+\v 62 And he went out \add of the courtyard\add* and cried very sorrowfully.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 61 The Lord Jesus turned around and looked right at Peter. Then Peter remembered what the Lord had said to him, "This night, before the rooster crows, you will deny three times that you know me."
+\v 62 And he went out of the courtyard and cried with great sorrow.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 61 Turning, the Lord  looked at Peter. And Peter remembered the word of the Lord, when he said to him, "Before a rooster crows today you will deny me three times."
+\v 62 Going outside, Peter wept bitterly.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:lord]]
+  * [[en:obe:other:peter]]
+  * [[en:obe:kt:word]]
+
+ 
+
+===== Translation Notes: =====
+
+  * **the word of the Lord**  - "Jesus' words" or "what Jesus had said"
+  * **today**  - Jesus had spoken the previous evening about what would happen shortly before dawn or at dawn. So it can also be translated as "tonight."
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:59|<<]] | [[:en:bible:notes:luk:22:63|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

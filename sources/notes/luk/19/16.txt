@@ -1,0 +1,50 @@
+====== Luke 19:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 The first man came \add to him\add* and said, 'Sir, with your one coin \add I\add* have earned ten more \add coins\add*!'
+\v 17 He said to this man, '\add You are a\add* good servant! \add You have\add* done \add very\add* well! Because you have \add handled\add* faithfully a small amount \add of money, I will give you\add* authority \add to rule\add* ten cities.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 The first man came to him and said, 'Sir, with your money I have earned ten times as much!'
+\v 17 He said to this man, 'You are a good servant! You have done very well! Because you have faithfully taken care of a small amount of money, I will give you ten cities to rule over.'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 The first came before him, saying, 'Lord, your mina has made ten minas more.'
+\v 17 The nobleman said to him, 'Well done, good servant. Because you were faithful in very little, you will have authority over ten cities.'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:faithful]]
+  * [[:en:obe:kt:authority]]
+ 
+
+===== Translation Notes: =====
+Jesus continues telling his parable.
+  * **The first** - "The first servant"
+  * **came before him** - The word "him" refers to the nobleman.
+  * **mina** - See how you translated this in [[:en:bible:notes:luk:19:13|19:13]].
+  * **Well done**  - "You have done well." Your language may have a phrase that an employer would use to show approval, such as "Good job."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+**[[:en:bible:notes:luk:19:13|<<]] | [[:en:bible:notes:luk:19:18|>>]]**
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,65 @@
+====== Luke 11:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 If one of you had a son who asked you\add \f + \ft singular \f*\add* for a fish \add to eat\add*, you\add \f + \ft singular \f*\add* certainly would not give him a \add poisonous\add* snake instead!\f + \ft Or: would you give him a \add poisonous\add* snake instead? \f* \f + \ft rhetorical question \f*
+\v 12 If he asked you for an egg, you\add \f + \ft singular \f*\add* certainly would not give him a scorpion!\f + \ft Or: would you give him a scorpion? \f* \f + \ft rhetorical question \f*
+\v 13 Even though you people are evil, you know how to give good things to your children. So your Father in heaven will certainly \add give good things\add* to those who ask him, \add including\add* giving the Holy Spirit, \add who is the best gift\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 If one of you had a son who asked you for a fish to eat, you certainly would not give him a poisonous snake instead, would you?
+\v 12 And if he asked you for an egg, you certainly would not give him a scorpion instead, would you?
+\v 13 Even though you people are sinful, you know how to give good things to your children. So it is even more certain that your Father in heaven will give the Holy Spirit to you if you ask him to do that."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 11  Which of you whose son asks his father for a loaf, will give to him a stone instead, or instead of a fish, a snake?
+\v 12 Or if he asks for an egg, will you give a scorpion to him?
+\v 13 Therefore, if you who are evil know how to give good gifts to your children, how much more will your Father from heaven give the Holy Spirit to those who ask him?"
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:serpent]]
+    * [[en:obe:kt:evil]]
+    * [[en:obe:kt:good]]
+    * [[en:obe:kt:godthefather]]
+    * [[en:obe:kt:heaven]]
+    * [[en:obe:kt:holyspirit]]
+
+===== Translation Notes: =====
+
+Jesus continues teaching his disciples about prayer.
+
+Jesus asks three rhetorical questions with the same meaning: just as fathers give good gifts to their children who ask for things, God gives good gifts to us when we ask him. (See [[en:ta:vol1:translate:figs_rquestion]]).
+
+  * **Which of you … will give to him a stone instead**  - AT: "If your son were to ask you for a loaf, would you give him a stone instead?" or "If your son were to ask you for a loaf to eat, you certainly would not give him a stone instead!" (See [[en:ta:vol1:translate:figs_rquestion]]).
+  * **loaf**  - "loaf of bread" or "bread roll." Jesus was suggesting a possible situation; he was not talking about bread in particular. If your people do not normally eat bread, you could translate this as "piece of cooked food" or "vegetable."  (See: [[en:ta:vol1:translate:figs_hypo]])
+  * **or instead of a fish, a snake?**  - "Or if he were to ask for a fish, would you give him a snake instead?" (See [[en:ta:vol1:translate:figs_rquestion]]).
+  * **scorpion**  - A scorpion is similar to a spider, but it has a tail with a poisonous sting. If scorpions are not known where you are, you could translate this as "poisonous spider" or "spider that stings."
+  * **if you who are evil know**  - "since you who are evil know" or "even though you are sinful, you know."
+  * **how much more will your Father from heaven give the Holy Spirit**  - "how much more certain is it that your Father in heaven will give the Holy Spirit." AT: "you can be sure that your Father from heaven will give the Holy Spirit."
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:09|<<]] | [[:en:bible:notes:luk:11:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

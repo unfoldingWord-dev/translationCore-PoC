@@ -1,0 +1,45 @@
+====== Luke 24:13-14 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 That same day two of \add Jesus' disciples\add* were walking to a village named Emmaus. It was about seven miles\f + \ft Or: eleven kilometers \f* from Jerusalem.
+\v 14 They were talking with each other about all the things that had happened \add to Jesus\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 That same day two of Jesus' disciples were walking to a village named Emmaus. It was about ten kilometers from Jerusalem.
+\v 14 They were talking with each other about all the things that had happened to Jesus.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 Behold, two of them were going that very day to a village named Emmaus, which was sixty stadia from Jerusalem.
+\v 14 They discussed with each other about all the things which had happened.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:jerusalem]]
+  
+===== Translation Notes: =====
+
+  * **Behold**  - This marks the beginning of another event different from the ones involving the women and Peter.
+  * **that very day**  - "that same day" (UDB)
+  * **Emmaus** - This is the name of a town. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **sixty stadia** - "eleven kilometers." A "stadium" was 185 meters. (See: [[en:obe:other:biblicaldistance]])
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:11|<<]] | [[:en:bible:notes:luk:24:15|>>]]**
+
+~~DISCUSSION~~{{tag>publish biblicaldistances}}

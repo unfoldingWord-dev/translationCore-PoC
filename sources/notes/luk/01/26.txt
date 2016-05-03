@@ -1,0 +1,70 @@
+====== Luke 01:26-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 When Elizabeth had been \add pregnant\add* \f + \ft euphemism \f* \add for almost\add* six months, the angel Gabriel was sent by God \f + \ft Or:God sent the angel Gabriel \f* \add again\add*.
+\v 27 \add This time\add* he went to Nazareth \add town\add* in Galilee \add district\add*, to a virgin whose name was Mary. It had been \f + \ft Or:\add Her parents\add* had \f* promised that she would marry a man named Joseph, who was descended from \add King\add* David.
+\v 28 The angel said to her, "Greetings! The Lord\f + \ft Or: God \f* is with you\add \f + \ft singular \f*\add* and you will be greatly blessed \f + \ft Or:\add has decided to\add* greatly bless you \f*!"
+\v 29 But Mary was greatly confused \add when she heard\add* that. She wondered what \add the angel meant\add* by these words.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 26 When Elizabeth had been pregnant for almost six months, God sent the angel Gabriel to the town of Nazareth in the district of Galilee.
+\v 27 He went there to speak to a virgin named Mary. She was engaged to be married to a man named Joseph, who was a descendent of King David. The virgin's name was Mary.
+\v 28 The angel said to her, "Greetings! The Lord is with you and has shown great kindness to you!"
+\v 29 But Mary felt very troubled when she heard his greeting. She wondered what the angel meant by these words.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 Now in the sixth month of Elizabeth's pregnancy, the angel Gabriel was sent by God to a city in Galilee, named Nazareth,
+\v 27 to a virgin who was engaged to a man named Joseph. He was a descendant of David, and the virgin’s name was Mary.
+\v 28 The angel came to her, and said, "Greetings, highly favored one! The Lord is with you!"
+\v 29 But she was very troubled by his words, and wondered what kind of greeting this might be.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:angel]]
+  * [[en:obe:other:gabriel]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:galilee]]
+  * [[en:obe:other:nazareth]]
+  * [[en:obe:other:virgin]]
+  * [[en:obe:other:josephnt]]
+  * [[en:obe:other:descendant]]
+  * [[en:obe:other:david]]
+  * [[en:obe:other:mary]]
+  * [[en:obe:kt:favor]]
+  * [[en:obe:other:trouble]]
+  * [[en:obe:kt:word]]
+
+===== Translation Notes: =====
+
+Mary finds out she will have a child who will be the Son of God.
+
+    * **the angel Gabriel was sent by God** - AT: "God told the angel Gabriel to go" (See: [[en:ta:vol2:translate:figs_activepassive]])
+    * **engaged** - "pledged" or "promised to be married." Mary's parents had made a commitment for her to marry Joseph.
+    * **came to her** - "came to where Mary was" or "went to where Mary was"
+    * **Greetings** - This was a common greeting. AT: “Rejoice” or "Be glad."
+    * **highly favored one** - "you who have received great grace" or "you who have received special kindness”
+    * **was very troubled** - "was disturbed" or "was afraid and confused"
+    * **what kind of greeting this might be** - Mary understood the meaning of the individual words, but she did not understand why the angel said them to her.
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:24|<<]] | [[:en:bible:notes:luk:01:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish gabriel nazareth virgin  mary}}
+
+~~NOCACHE~~

@@ -1,0 +1,52 @@
+====== Luke 23:42-43 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 42 Then he said, "Jesus, \add please\add* remember me \add and take care of me\add* when you become king!"
+\v 43 Jesus replied, "I want you\add \f + \ft singular \f*\add* to know that today you\add \f + \ft singular \f*\add* will be with me in the place where everyone is happy!" \f + \ft Or: that today you will be with me in Paradise! \f*
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 42 Then he said to Jesus, "Jesus, please remember to save me when you begin to rule as king!"
+\v 43 Jesus replied, "I want you to know that today you will be with me in paradise!”
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 42 And he added, "Jesus, remember me when you come into your kingdom."
+\v 43 Jesus said to him, "Truly I say to you, today you will be with me in paradise."
+\p
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:Jesus]]
+  * [[en:obe:other:kingdom]]
+  * [[en:obe:kt:amen]]
+
+ 
+
+===== Translation Notes: =====
+
+  * **he added** - "the criminal also said"
+  * **come into your kingdom** - "begin to rule as king" (UDB)
+  * **Truly I say to you** - "Truly" adds emphasis to what Jesus is saying. This could be translated as "I want you to know that."
+  * **paradise**  - This is the place that righteous people go to when they die. It can be translated as "the happy place" "the place of the righteous" or "the place where people live well." Jesus was assuring the man that he would be with God and God would accept him.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:39|<<]] | [[:en:bible:notes:luk:23:44|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

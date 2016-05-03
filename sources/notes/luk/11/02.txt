@@ -1,0 +1,44 @@
+====== Luke 11:2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 2 He said to them, "When you pray, say \add things like this\add*: 'Father, we want you\add \f + \ft singular \f*\add* \f + \ft metonymy \f* to be honored\f + \ft Or: revered \f*. \add We want people to let you\f + \ft singular \f*\add* \f + \ft metonymy, metaphor \f* rule over their lives.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 2 He said to them, "When you pray, say things like this: 'Father,  may all people honor your name as holy. May you soon rule all people everywhere.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 2  Jesus said to them, "When you pray say, 'Father, sanctify your name. Let your kingdom come.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:Jesus]]
+    * [[en:obe:kt:godthefather]]
+    * [[en:obe:kt:sanctify]]
+    * [[en:obe:kt:name]]
+    * [[en:obe:kt:kingdomofgod]]
+
+===== Translation Notes: =====
+
+  * **Jesus said to them**  - "Jesus said to his disciples"
+  * **sanctify your name**  - AT: "may all people honor you" or "cause everyone to honor your name."  It means "we want everyone to honor you." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Let your kingdom come**  - "Establish your kingdom." It means "We want you to rule over your people."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:01|<<]] | [[:en:bible:notes:luk:11:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish sanctify}}

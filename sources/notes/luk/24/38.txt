@@ -1,0 +1,47 @@
+====== Luke 24:38-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 38 He said to them, "You should not be alarmed!\f + \ft Or: Why are you alarmed? \f* \f + \ft rhetorical question \f* And you should not be doubting \add that I am alive\add*\f + \ft Or: Jesus!( Or: why ) are you doubting \add that I am alive\add*, Or: Jesus? \f* \f + \ft rhetorical question \f*
+\v 39 Look at \add the wounds in\add* my hands and my feet! You can touch me and see \add my body\add*. Then you can see that it is really I myself. \add You can tell that I am really alive\add* because ghosts do not have bodies, as you see that I have!"
+\v 40 After he said that, he showed them \add the wounds in\add* his hands and his feet.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 38 He said to them, "You should not be alarmed! And you should not doubt that I am alive.
+\v 39 Look at the wounds in my hands and my feet! You can touch me and see my body. Then you can see that it is really I myself. You can tell that I am really alive because ghosts do not have bodies, as you see that I have!"
+\v 40 After he said that, he showed them the wounds in his hands and his feet.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 38 Jesus said to them, "Why are you troubled? Why do questions arise in your heart?
+\v 39 See my hands and my feet, that it is I myself. Touch me and see. For a spirit does not have flesh and bones, as you see me having."
+\v 40 When he had said this, he showed them his hands and his feet.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:trouble]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:kt:spirit]]
+
+===== Translation Notes: =====
+
+    * **Why are you troubled**  - This is a rhetorical question used to comfort them. It can be translated as "Do not be frightened." (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **Why do questions arise in your heart?**  - "Why do you doubt in your mind?" This rhetorical question is a mild rebuke. It can be translated as "Stop doubting in your heart." Jesus was telling them not to doubt that he was alive. This can be made explicit as in the UDB. (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol1:translate:figs_explicit]])
+    * **flesh and bones** - This is a way of referring to the body.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:36|<<]] | [[:en:bible:notes:luk:24:41|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

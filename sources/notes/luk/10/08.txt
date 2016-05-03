@@ -1,0 +1,55 @@
+====== Luke 10:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Whenever you enter a town and the people \add there\add* welcome you, eat what is provided \f + \ft Or:what \add they\add* provide \f* for you.
+\v 9 Heal the people there who are sick. Tell them, 'It is almost \add time for\add* God to send his king to rule \f + \ft metaphor \f* \add your lives\add*.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Whenever you enter a town and the people there welcome you, eat whatever food they provide  for you.
+\v 9 Heal the people there who are sick. Tell them, 'God will soon rule everywhere as king.'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 Whatever city you enter, and they receive you, eat what is set before you,
+\v 9 and heal the sick that are there. Say to them, 'The kingdom of God has drawn near to you.'
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:receive]]
+    * [[en:obe:other:heal]]
+    * [[en:obe:kt:kingdomofgod]]
+ 
+
+===== Translation Notes: =====
+Jesus continues to give directions to the 70 people he was sending out.
+
+    * **and they receive you** - "if they welcome you"
+    * **eat what is set before you**  - "eat whatever food they give you"
+    * **The kingdom of God has drawn near to you**  - This refers to the fact that the activity of the kingdom of God was happening all around them in the healing of the disciples and the teaching of Jesus. AT: "You can see the kingdom of God all around you right now."
+ ===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/10/05|<<]] | [[en/bible/notes/luk/10/10|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish kingdomofgod}}
+
+~~NOCACHE~~

@@ -1,0 +1,60 @@
+====== Luke 18:6-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Then the Lord \add Jesus\add* said, "\add Even though\add* the judge was not a righteous man, think carefully about what he said!
+\v 7 \add Similarly\add*, God will certainly show that \add what you\add* have done has been right!\f + \ft Or: will God not show that \add what you\add* have done has been right? \f* \f + \ft rhetorical question \f* He will do this for you whom he has chosen. \add He will do this for you\add* who pray earnestly to him night and day, asking him to \add help you\add*. He may delay \add helping you\add*.
+\v 8 But I tell you, \add some day\add* he will show that what you did was right, and he will do it quickly. But when \add I\add*, the one who came from heaven, return to earth, there may not be \add many people who will still\add* be trusting \add that I will vindicate them\add* \f + \ft Or: who will still be trusting in me \f*.\f + \ft Or: will there be \add many people who will still\add* be trusting \add that I will vindicate them\add* \f + \ft Or: who will still be trusting in me \f*? \f* \f + \ft rhetorical question \f*"
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Then the Lord Jesus said, "Think carefully about what the unjust judge said.
+\v 7 Even more certainly will God, who is just, bring about justice for his chosen people, who pray earnestly to him night and day! And he is always patient with them.
+\v 8 I tell you, God will quickly do justice for his chosen ones! But when I, the Son of Man, come back to earth, will I still find people who believe in me?"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6 Then the Lord said, "Listen to what the unjust judge says.
+\v 7 Now will not God also bring justice to his chosen ones who cry out to him day and night? Will he not be patient with them?
+\v 8 I say to you that he will bring justice to them speedily. But when the Son of Man comes, will he find faith on the earth?"
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:unjust]]
+  * [[en:obe:other:judgeposition]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:kt:justice]]
+  * [[en:obe:kt:elect]]
+  * [[en:obe:other:patient]]
+  * [[en:obe:kt:sonofman]]
+  * [[en:obe:kt:faith]]
+  * [[en:obe:other:earth]]
+
+===== Translation Notes: =====
+Jesus continues speaking to his disciples about prayer.
+  * **Listen to what the unjust judge says**  - "Think about what the unjust judge just said." Translate this in a way that people will understand that Jesus has already told what the judge said.
+  * **Now will not God also bring**  - Jesus used this rhetorical question to indicate that what he was teaching was something that his audience should already be able to figure out. This could also be translated as "God will certainly bring" or "So you can be sure that God will also bring." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **his chosen ones**  - "the people he has chosen"
+  * **Will he not be patient with them?**  - Jesus used this rhetorical question to remind people of something they should already have known about God. This could also be translated as "And you know that he is patient with them." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **Son of Man**  - Jesus is referring to himself.
+  * **will he find faith on the earth**  - The purpose of the parable is to encourage the disciples to keep believing and pray. Jesus is here using another rhetorical question that expects a negative answer. The meaning of the question is "But I know that when I, the Son of Man, return, I will find people who do not believe in me."  (See: [[en:ta:vol1:translate:figs_rquestion]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+**[[:en:bible:notes:luk:18:03|<<]] | [[:en:bible:notes:luk:18:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish  judgeposition elect unjust}}
+
+~~NOCACHE~~

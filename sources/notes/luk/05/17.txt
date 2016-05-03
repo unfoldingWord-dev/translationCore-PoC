@@ -1,0 +1,49 @@
+====== Luke 05:17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 One day when \add Jesus\add* was teaching, some men from the Pharisee \add sect\add* were sitting there. Some of them were men who taught the \add Jewish\add* laws. They had come from many \f + \ft hyperbole \f* villages in Galilee \add district\add* and also from Jerusalem and from \add other\add* villages in Judea \add district\add*. \add At that time while\add* God was giving Jesus power to heal people,
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 One day when Jesus was teaching, some men from the Pharisee sect were sitting nearby. Some of them were expert teachers of the Jewish laws. They had come from many  villages in the district of Galilee and also from Jerusalem and other cities in the province of Judea. At that same time, the Lord was giving Jesus power to heal people.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 17 It came about on one of those days that he was teaching, and there were Pharisees and teachers of the law sitting there who had come from many different villages in the regions of Galilee and Judea, and also from the city of Jerusalem. The power of the Lord was with him to heal.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:kt:teacher]]
+    * [[en:obe:kt:lawofmoses]]
+    * [[en:obe:other:galilee]]
+    * [[en:obe:other:judea]]
+    * [[en:obe:other:jerusalem]]
+    * [[en:obe:kt:power]]
+    * [[en:obe:kt:lord]]
+    * [[en:obe:other:heal]]
+
+===== Translation Notes: =====
+
+    * **It came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+**[[:en:bible:notes:luk:05:15|<<]] | [[:en:bible:notes:luk:05:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

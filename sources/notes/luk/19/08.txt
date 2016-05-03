@@ -1,0 +1,58 @@
+====== Luke 19:8-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 Then Zacchaeus stood up \add while they were eating\add* and said to the Lord \add Jesus\add*, "Lord, I want you\add \f + \ft singular \f*\add* to know that I am going to give half of what I own to poor people. And as for the people whom I have cheated, I will pay them back four times the amount \add I have gotten from them by cheating\add*."
+\v 9 Jesus said to him, "Today \add God\add* has forgiven \f + \ft personification \f* \add you and the other people in\add* \f + \ft metonymy \f* this house, because you\add \f + \ft singular \f*\add* also \add have shown that you have trusted in God as\add* your ancestor Abraham \add did\add*.
+\v 10 Remember this: \add I\add*, the one who came from heaven, came to seek and save \add people like you\f + \ft singular \f*\add* who have \add gone astray from God, just like a shepherd who searches for his\add* lost \add sheep\add*."
+
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 Then Zacchaeus stood up while they were eating and said to Jesus, "Lord, I want you to know that I am going to give half of what I own to poor people. And as for the people whom I have cheated, I will pay them back four times the amount I have gotten from them."
+\v 9 Jesus said to him, "Today God has saved this household, because this man has shown that he is a true descendant of Abraham.
+\v 10 Remember this: I, the Son of Man, came to find and save people like you who have gone astray from God."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 8 Zacchaeus stood and said to the Lord, "Look, Lord, the half of my goods I give to the poor, and if I have cheated anyone of anything, I will restore four times the amount."
+\v 9 Jesus said to him, "Today salvation has come to this house, because he too is a son of Abraham.
+\v 10 For the Son of Man came to seek and to save the people who are lost."
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:restore]]
+  * [[:en:obe:kt:salvation]]
+  * [[en:obe:kt:son]]
+  * [[:en:obe:other:abraham]]
+  * [[:en:obe:kt:sonofman]]
+
+===== Translation Notes: =====
+
+  * **the Lord**  - This refers to Jesus.
+  * **salvation has come to this house**  - The abstract noun "salvation" can be translated with the verb "save": "God has saved this household" (UDB). (See: [[en:ta:vol2:translate:figs_abstractnouns]])
+  * **this house**  - The word "house" here refers to the people living in the house or the family. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **he too**  - "this man too" or "Zacchaeus also"
+  * **son of Abraham**  - Possible meanings are 1) "descendant of Abraham" and 2) "person who has faith as Abraham did."
+  * **the people who are lost**  - "the people who have wandered away from God" or "those who by sinning have wandered away from God"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+**[[:en:bible:notes:luk:19:05|<<]] | [[:en:bible:notes:luk:19:11|>>]]**
+
+~~NOCACHE~~
+
+~~DISCUSSION~~{{tag>publish restore }}

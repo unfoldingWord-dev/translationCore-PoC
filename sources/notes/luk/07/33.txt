@@ -1,0 +1,67 @@
+====== Luke 07:33-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 \add Similarly, you people are dissatisfied with both John the Baptizer and me!\add* When John came and \add preached to you\add*, he did not eat \add ordinary\add* food \f + \ft synecdoche \f* or drink wine, \add like most people do\add*. But you \add rejected him\add*, saying, 'A demon is controlling him!'
+\v 34 In\add contrast\add*, \add I\add*, the one who came from heaven, eat \add the same food\add* and drink \add wine as others do\add*. But you \add reject me\add*, saying, 'Look! \add This man\add* eats too much food and drinks too much wine, and he associates with tax collectors and \add other\add* sinners!'
+\v 35 But those who are \add truly God's\add* children \f + \ft personification \f* realize that \add what John and I do is truly\add* wise."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 Similarly, when John came to you and did not eat ordinary food or drink wine, you rejected him and said, 'A demon is controlling him!'
+\v 34 But when the Son of Man came to you and did eat ordinary food and drink wine as others do, you also rejected him and said, 'Look! This man eats too much food and drinks too much wine, and he associates with tax collectors and other sinners!'
+\v 35 But God's wisdom is proved right by those who follow it.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 For John the Baptist came not eating bread and not drinking wine, and you say, 'He has a demon.'
+\v 34 The Son of Man came eating and drinking and you say, 'Look, he is a gluttonous man and a drunkard, a friend of tax collectors and sinners!'
+\v 35 But wisdom is justified by all of her children."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:johnthebaptist]]
+    * [[en:obe:other:bread]]
+    * [[en:obe:other:wine]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:kt:sonofman]]
+    * [[en:obe:other:drunk]]
+    * [[en:obe:other:taxcollector]]
+    * [[en:obe:kt:sin]]
+    * [[en:obe:kt:wise]]
+    * [[en:obe:kt:justify]]
+
+===== Translation Notes: =====
+Jesus continues speaking to the people. He explains why he compared them to children.
+
+    * **you say, 'He has a demon'** - Jesus was quoting what people were saying about John. AT: "you say that he has a demon" or "you accuse him of having a demon." (See: [[en:ta:vol2:translate:figs_quotations]])
+    * **not eating bread** - "not eating food." It does not mean that John never ate food. AT: "frequently fasting." 
+    * **The Son of Man** - Since Jesus expected the people there to understand that he was the Son of Man, it could also be translated as "I, the Son of Man."
+    *  **you say, 'Look, he is a gluttonous man** - Jesus was quoting what the people were saying about him as the Son of Man. AT: "you say that he is a gluttonous man" or "you accuse him of eating too much." If you translated "The Son of Man" as "I, the Son of man", the indirect quote could be translated as "you say that I am a gluttonous man." (See: [[en:ta:vol2:translate:figs_quotations]])
+    * **he is a gluttonous man**  -  "he is a greedy eater" or "he habitually eats too much food" 
+    * **wisdom is justified by all of her children**  - This is probably a proverb that Jesus was applying to this situation, because the people who rejected both him and John were not being wise. (See: [[en:obe:other:proverb]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:31|<<]] | [[:en:bible:notes:luk:07:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

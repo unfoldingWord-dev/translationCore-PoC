@@ -1,0 +1,52 @@
+====== Luke 21:5-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Some \add of Jesus' disciples\add* talked about the Temple. \add They commented about\add* the beautiful stones \add used in building the Temple\add* and the other decorations that \add people\add* had given, decorations \add that were on the walls\add*. But he said,
+\v 6 "\add I want to tell you something about\add* these things that you are looking at. \add They will be destroyed\add* \f + \ft Or:\add Foreign invaders will\add* destroy\add these buildings\add* \f* \add completely\add*. Every stone \add in these buildings\add* will be thrown down \f + \ft Or:They will throw down every stone in these buildings \f*. Not one stone will be left \f + \ft Or:They will not leave one stone \f* on top of another."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Some of Jesus' disciples were talking about how the temple was adorned with beautiful stones and decorations that people had given. But Jesus said,
+\v 6 "These things you are looking at will be destroyed completely. Yes, the time is coming when not one of these stones will be left on top of another."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 5 As some spoke of the temple, how it was decorated with beautiful stones and offerings, he said,
+\v 6 "As for these things which you see, the days will come when not one stone will be left on another which will not be torn down."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:sacrifice]]
+ 
+
+===== Translation Notes: =====
+ 
+  * **offerings** - "things people had given to God" 
+  * **the days will come** - "there will be a time" or "someday" 
+  * **not one stone will be left on another** - This can be translated positively: "Every stone will be removed from its place." This can be translated with an active clause: "Enemies will not leave any stone on top of another" (See [[en:ta:vol2:translate:figs_activepassive]]).
+  * **which will not be torn down**  - This can be translated positively as "They will all be torn down." It can be translated with an active clause: "Enemies will tear down every stone." (See [[en:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+**[[:en:bible:notes:luk:21:01|<<]] | [[:en:bible:notes:luk:21:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

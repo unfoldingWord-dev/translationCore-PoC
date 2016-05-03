@@ -1,0 +1,56 @@
+====== Luke 11:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 When Jesus said that, a woman who was listening called out \add to him\add*, "\add God is\add* pleased with the woman who gave birth to you\add \f + \ft singular \f*\add* and let you nurse \add at her breasts\add*!"
+\v 28 But he replied, "God \add is\add* much more pleased with those who hear his message and obey it!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 When Jesus said that, a woman who was listening called out to him loudly, "How greatly blessed by God is the woman who gave birth to you and who nursed you at her breasts!"
+\v 28 Then he replied, "Even more blessed by God are those who hear his message and obey it!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 27 It happened that, as he said these things, a certain woman raised her voice above the crowd and said to him, "Blessed is the womb that bore you and the breasts that nursed you."
+\v 28  But he said, "Rather, blessed are they who hear the word of God and keep it."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:voice]]
+    * [[en:obe:other:womb]]
+    * [[en:obe:kt:bless]]
+    * [[en:obe:kt:wordofgod]]
+
+===== Translation Notes: =====
+
+  * **It happened that**  - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+  * **raised her voice above the crowd**  - "spoke loudly above the noise of the crowd"
+  * **Blessed is the womb that bore you and the breasts that nursed you**  - The parts of a woman's body are used to refer to the whole woman. AT: "How good it is for the woman who bore you and nursed you at her breasts" or "How happy the woman who bore you and nursed you at her breasts must be." (See: [[en:ta:vol2:translate:figs_synecdoche]]).
+  * **blessed** - AT: "how happy" or "blessed by God" (UDB). 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:24|<<]] | [[:en:bible:notes:luk:11:29|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

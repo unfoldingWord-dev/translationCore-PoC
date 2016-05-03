@@ -1,0 +1,54 @@
+====== Luke 19:41-42 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 41 When \add Jesus\add* came near \add to\add* Jerusalem and saw the city, he cried about \add its people\add*.
+\v 42 He said, "\add My disciples know what they need to do\add* to have peace \add with God\add*; I wish that even today \add the rest of\add* you people knew it. But now you are unable to know \f + \ft metonymy \f* it.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 41 When Jesus came near to Jerusalem and saw the city, he cried about its people.
+\v 42 He said, "I wish that today you people knew how to have God's peace. But now you are unable to know it.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 41 When Jesus drew near to the city, he wept over it,
+\v 42 saying, "If only you had known in this day, even you, the things which bring you peace! But now they are hidden from your eyes.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:peace]]
+
+
+===== Translation Notes: =====
+
+  * **drew near**  - "approached" or "went near"
+  * **the city**  - This refers to Jerusalem.
+  * **he wept over it**  - The word "it" refers to the city of Jerusalem, but it represents the people who lived in that city. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **If only you had known**  - This can be translated as "I wish so much that you knew or "I am very sad because you do not know." This is an exclamation. Jesus was expressing his sadness that the people of Jerusalem did not know these things.  The implied information can be added to the end of the sentence: "then you could have had peace."  (See: [[en:ta:vol2:translate:figs_sentences]], [[en:ta:vol1:translate:figs_explicit]])
+  * **you**  - The word "you" is singular because Jesus was speaking to the city. But if this would be unnatural in your language, you could use a plural form of "you" to refer to the people of the city. (See: [[en:ta:vol1:translate:figs_you]])
+  * **they are hidden from your eyes**  - This can be translated as "you can no longer see them" or "you are unable to know it" (UDB).
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/39|<<]] | [[en/bible/notes/luk/19/43|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

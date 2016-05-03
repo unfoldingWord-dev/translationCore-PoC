@@ -1,0 +1,61 @@
+====== Luke 19:45-46 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 45 \add Jesus entered Jerusalem and\add* went into the Temple \add courtyard\add*. He saw in that place the people who were selling \add things\add*,
+\v 46 and he began to chase them out. He said to them, "It has been written \f + \ft Or:\add A prophet\add* wrote \f* \add in the Scriptures that God said\add*, '\add I want\add* my house to be a place where people pray'; but you bandits have made it a cave where you can \add hide\add*!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 45 Jesus entered Jerusalem and went into the temple courtyard. He saw in that place the people who were selling things,
+\v 46 and he began to chase them out. He said to them, "It has been written in the scriptures, 'I want my house to be a place where people pray,' but you have made it a hideout for thieves!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 45 Jesus entered the temple and began to cast out those who were selling,
+\v 46 saying to them, "It is written, 'My house will be a house of prayer,' but you have made it a den of robbers."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:temple]]
+  * [[en:obe:other:castout]]
+  * [[en:obe:other:written]]
+  * [[en:obe:kt:houseofgod]]
+  * [[en:obe:other:pray]]
+ 
+
+===== Translation Notes: =====
+
+  * **cast out** - "throw out" or "chase out" or "force them to leave"
+  * **It is written**  - This can be translated as "The scriptures say" or "A prophet wrote these words in the scriptures." This is a quotation from Isaiah [[:en:bible:notes:isa:56:06|56:7]].
+  * **My house** - The word "My" refers to God. 
+  * **house of prayer**  - "a place where people pray to me"
+  * **a den of robbers**  - "a place where robbers hide out." This is a metaphor. It can be translated with a simile as "like a den of robbers." (See: [[en:ta:vol1:translate:figs_metaphor]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/43|<<]] | [[en/bible/notes/luk/19/47|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish temple}}
+~~NOCACHE~~

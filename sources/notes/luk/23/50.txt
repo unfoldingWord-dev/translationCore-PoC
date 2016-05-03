@@ -1,0 +1,46 @@
+====== Luke 23:50-51 ======
+
+===== TFT: =====
+
+<usfm>
+\v 50 There was a man named Joseph who \add came there\add*. He was from the town of Arimathea in Judea. He was a good and a righteous man, and he was a member of the \add Jewish\add* Council.
+\v 51 But he had not agreed with the other Council \add members\add* when they decided \add to kill Jesus\add* and when they \add planned how to\add* do it. He was waiting expectantly for \add the time when\add* God \add would send\add* his king to begin to rule.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 50-51 Now there was a man named Joseph from Arimathea, a Jewish town. He was a good and a righteous man, and he was a member of the Jewish Council. He saw everything happen, but he had not agreed with the other Council members when they decided to kill Jesus and when they did it it. He was waiting eagerly for the time when God would send his king to begin to rule.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 50 Behold, there was a man named Joseph, belonging to the Council, a good and righteous man
+\v 51 (he had not agreed with the decision and their action), from Arimathea, a Jewish city, who was waiting for the kingdom of God.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:council]]
+  * [[en:obe:kt:righteous]]
+  * [[en:obe:kt:kingdomofgod]]
+
+===== Translation Notes: =====
+
+  * **Behold**  - The word “behold” alerts us to a new person in the story. Your language may have a way of doing this. English uses “There was a man who was…”
+  * **belonging to the Council**  - "and he was a member of the Jewish Council"
+  * **a good and righteous man**  - "He was a good and righteous man"
+  * **had not agreed with the decision and their action**  - "Joseph did not agree with the council's decision to kill Jesus and the council's action"
+  * **from Arimathea, a Jewish city**  - "Joseph was from the Jewish city called Arimathea" (See: [[:en:ta:vol1:translate:translate_names]])
+  * **who was waiting**  - "Joseph was waiting"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:48|<<]] | [[:en:bible:notes:luk:23:52|>>]]**
+
+~~NOCACHE~~
+
+~~DISCUSSION~~{{tag>publish }}

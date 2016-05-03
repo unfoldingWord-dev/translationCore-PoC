@@ -1,0 +1,57 @@
+====== Luke 08:28-29 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28-29 Many times \add demons\add* attacked him. He was guarded \f + \ft Or:\add People\add* tried to guard him \f* \add so that he would not injure others\add*. Chains were fastened \f + \ft Or:They fastened chains \f* on his hands and shackles on his feet, but he would break the chains and shackles. Then he would be sent away by the demons \f + \ft Or:the demons would send him away \f* to the desolate area.
+\p When Jesus stepped out of the boat onto the shore, the man saw him. He \add ran to Jesus\add* and prostrated himself before him. Then Jesus commanded, "You evil spirit, come out of that man!" But it \add did not leave immediately. Instead, it\add* caused the man to shout very loudly, "Jesus, Son of the great God in heaven, since we\add \f + \ft inclusive \f*\add* have nothing in common, \add leave me alone\add* \f + \ft rhetorical question \f*! I beg you, do not torture me \add now\add*!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 When he saw Jesus, the man cried out, lay face down before him, and said with a loud voice, "What do you want with me, Jesus, Son of the Most High God?  I beg you, do not torment me!"
+\v 29 The man said this because Jesus had just commanded the evil spirit to come out of him. Although the man had been bound with chains on his wrists and ankles while people guarded him, many times the evil spirit would suddenly seize him by force. Then the man would break the chains and the demon would make him go out into deserted places.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 28 When he saw Jesus, he cried out, and fell down before him. With a loud voice he said, "What do I have to do with you, Jesus, Son of the Most High God? I beg you, do not torment me."
+\v 29 For Jesus was commanding the unclean spirit to come out of the man, because many times it had seized him. Even though he was bound with chains and shackles and kept under guard, he would break the bonds apart and be driven by the demon into the wilderness.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:voice]]
+    * [[en:obe:kt:sonofgod]]
+    * [[en:obe:kt:mosthigh]]
+    * [[en:obe:other:torment]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:other:seize]]
+    * [[en:obe:kt:bond]]
+    * [[en:obe:other:desert]]
+
+===== Translation Notes: =====
+
+  * **When he saw Jesus**  - "When the man who had the demon saw Jesus"
+  * **he cried out**  - "he screamed" or "he shrieked"
+  * **fell down before him** - “lay down on the ground before Jesus.” He did not fall accidentally. He did this because he was afraid of Jesus.
+  * **With a loud voice he said**  - "He said loudly" or "He shouted out"
+  * **What do I have to do with you**  - AT: "Why are you bothering me."
+  * **Jesus, Son of the Most High God? I beg you, do not torment me.** - The name of Jesus, the Son of God, has power over demons and power over evil. 
+  * **many times it had seized him**  - "many times it had captured the man." This and the next sentence tell about what the demon had done many times before Jesus went to the man.  AT: "many times it had gone into him." 
+  * **Even though he was bound with chains and shackles and kept under guard**  - AT: "Even though the people had bound the man with chains and shackles and guarded him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:26|<<]] | [[:en:bible:notes:luk:08:30|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,59 @@
+====== Luke 16:16-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 16 The laws that \add God gave Moses\add* and what the prophets \f + \ft metonymy \f* \add wrote\add* were \add in effect\f + \ft Or: what you needed to obey\add* \f* until John \add the Baptizer\add* came. Since then \add I\add* have been preaching about how God wants to \add rule people's lives in a new way\add*, and many people are \add accepting that message and\add* very eagerly asking God to control \add their lives. But that does not mean that God has abolished the laws that he established previously\add*.
+\v 17 \add All of God's\add* laws, \add even those that seem\add* insignificant, are more permanent than heaven and earth.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 16 The laws that God gave Moses and what the prophets wrote were proclaimed until John the Baptizer came. Since then I have been preaching that God will soon show himself as king. Many people are accepting that message and are very eagerly asking God to rule their lives.
+\v 17 All of God's laws, even those that seem insignificant, are more permanent than heaven and earth.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 16 The law and the prophets were in effect until John came. From that time on, the gospel of the kingdom of God is preached, and everyone tries to force their way into it.
+\v 17 But it is easier for heaven and earth to pass away than for one stroke of a letter of the law to become invalid.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:lawofmoses]]
+  * [[en:obe:kt:prophet]]
+  * [[:en:obe:other:johnthebaptist]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:kt:kingdomofgod]]
+  * [[en:obe:other:preach]]
+  * [[:en:obe:kt:heaven]]
+  * [[en:obe:other:earth]]
+
+===== Translation Notes: =====
+Jesus continues teaching the Pharisees.
+    * **The law and the prophets**  - This refers to all of God's word that had been written up to that time. 
+    * **John came**  - This could be translated as "John the Baptist came and preached."
+    * **the gospel of the kingdom of God is preached** - This could also be translated as "we are teaching people about the gospel of the kingdom of God."
+    * **everyone tries to force their way into it** - This could be translated as “many people are doing everything they can to enter it.” This refers to the people who were listening to and accepting the teaching of Jesus.
+    * **it is easier for heaven and earth to pass away than for** - “just as you know that heaven and earth cannot pass away, you can be sure that” 
+    * **one stroke of a letter**  - "the smallest part of a letter." This could also be translated as "the smallest detail of the law."
+    * **to become invalid** - "to be removed from the law"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+**[[:en:bible:notes:luk:16:14|<<]] | [[:en:bible:notes:luk:16:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

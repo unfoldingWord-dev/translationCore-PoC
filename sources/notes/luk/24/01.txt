@@ -1,0 +1,46 @@
+====== Luke 24:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Before dawn on Sunday those women went to the tomb. They took with them the spices that they had prepared \add to put on Jesus' body\add*.
+\v 2 They discovered that the stone had been rolled away from \add the entrance to\add* the tomb.
+\v 3 They went in the tomb, but the body of the Lord Jesus was not there!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Before dawn on Sunday those women went to the burial chamber. They took with them the spices that they had prepared to put on the body of Jesus.
+\v 2 When they arrived, they discovered that somebody had rolled the stone away from the entrance to the burial chamber.
+\v 3 They went into the burial chamber, but the body of the Lord Jesus was not there!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 24
+\p
+\v 1 Very early on the first day of the week, they came to the tomb, bringing the spices which they had prepared.
+\v 2 They found the stone rolled away from the tomb.
+\v 3 They entered in, but did not find the body of the Lord Jesus.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:tomb]]
+  * [[en:obe:kt:jesus]]
+
+===== Translation Notes: =====
+
+  * **Very early on the first day of the week**  - "Before dawn on Sunday" (UDB) (See: [[en:obe:other:biblicaltimeweek]])
+  * **came to**  - "arrived at." The ULB is written as though the narrator is already at the tomb and sees the women arrive there. The UDB is written as though the narrator sees the women leave an unnamed place and go to the tomb.
+  * **the tomb** - This tomb was cut in the rock of a cliff.
+  * **the stone rolled away**  - a large, cut, round stone big enough to completely block the doorway to the tomb. It required several men to roll.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:54|<<]] | [[:en:bible:notes:luk:24:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish tomb}}

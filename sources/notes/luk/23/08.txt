@@ -1,0 +1,59 @@
+====== Luke 23:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 \add So they did\add*. When Herod saw Jesus, he was very happy. He \add had heard about Jesus\add*, and he had been hoping for a long time that he could see Jesus perform a miracle.
+\v 9 So he asked Jesus many questions, but Jesus did not reply \add to any of them\add*.
+\v 10 The chief priests and men who taught the \add Jewish\add* laws stood near him, accusing him very strongly.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 When Herod saw Jesus, he was very glad. He had been wanting for a long time to see Jesus, because he was hearing many things about him and wanted to see him perform a miracle.
+\v 9 So he asked Jesus many questions, but Jesus did not reply to any of them.
+\v 10 And the chief priests and some experts in the Jewish laws stood near him, accusing him very of all kinds of crimes.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 When Herod saw Jesus, he was very glad, because he had wanted to see him for a long time. He had heard about him and he hoped to see some miracle done by him.
+\v 9 Herod questioned Jesus in many words, but Jesus answered him nothing.
+\v 10 The chief priests and the scribes stood, violently accusing him.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:herodantipas]]
+  * [[en:obe:kt:miracle]]
+  * [[en:obe:kt:word]]
+  * [[en:obe:other:chiefpriests]]
+  * [[en:obe:other:scribe]]
+  * [[en:obe:other:accuse]]
+ 
+
+===== Translation Notes: =====
+
+  * **he was very glad**  - "Herod was very glad"
+  * **he had wanted to see him**  - "Herod had wanted to see Jesus"
+  * **He had heard about him**  - "Herod had heard about Jesus"
+  * **he hoped**  - "Herod hoped"
+  * **see some miracle done by him**  - This could be stated in active voice: "he wanted to see him perform some kind of miracle" (UDB). (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Herod questioned Jesus in many words** - AT: "Herod asked Jesus a lot of questions"
+  * **answered him nothing** - "did not reply" (UDB) or "did not give Herod an answer"
+  * **stood** - "were standing there"
+  * **violently accusing him** - "severely accusing Jesus" or "viciously accusing him"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:23:06|<<]] | [[:en:bible:notes:luk:23:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish herodantipas}}

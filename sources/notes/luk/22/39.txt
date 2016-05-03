@@ -1,0 +1,50 @@
+====== Luke 22:39-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 As \add Jesus\add* left \add the city\add*, he went, as he usually did, to Olive \add Tree\add* Hill. His disciples went with him.
+\v 40 When he came to the place \add where he often spent the night\add*, he said to them, "Pray that \add God will help you\add* whenever something tempts you."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 Jesus left the city and went to the  Mount of Olives, as he usually did; his disciples went with him.
+\v 40 When he came to the place where he wanted to go, he said to them, "Pray that God will help you not  to be tempted to sin."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 39 After supper, Jesus went, as he often did, to the Mount of Olives, and the disciples followed him.
+\v 40 When they arrived, he said to them, "Pray that you do not enter into temptation."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:MountofOlives]]
+  * [[en:obe:kt:disciple]]
+  * [[en:obe:other:pray]]
+  * [[en:obe:kt:tempt]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **After supper** - This refers to the completion of the Passover meal. 
+    * **that you do not enter into temptation** - This can be translated as "that you are not tempted" or "that you do not sin when you are tempted" or "that you are not tempted so severely that that you sin."
+
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:37|<<]] | [[:en:bible:notes:luk:22:41|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

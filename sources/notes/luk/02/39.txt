@@ -1,0 +1,58 @@
+====== Luke 02:39-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 After Joseph and Mary had finished performing the rituals that the Lord\f + \ft Or: God \f* required \add the parents of a first son\add* to perform, they returned to their own town, Nazareth, in Galilee \add district\add*.
+\v 40 As the child grew up, he became strong and very wise, and God was very pleased with him.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 After Joseph and Mary had finished doing everything required of them by the laws of the Lord, they returned to their own town, Nazareth, in the district of Galilee.
+\v 40 As the child grew up, he became strong and very wise, and God was very pleased with him.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 39 When they had finished everything they were required to do according to the law of the Lord, they returned to Galilee, to their own city, Nazareth.  
+\p 
+\v 40 The child grew and became strong, increasing in wisdom, and the grace of God was upon him.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:lawofmoses]]
+    * [[en:obe:other:galilee]]
+    * [[en:obe:other:nazareth]]
+    * [[en:obe:kt:wise]]
+    * [[en:obe:kt:grace]]
+
+===== Translation Notes: =====
+
+
+    * **they were required to do according to the law of the Lord** - Possible meanings are 1) "that the law of the Lord required them to do" or 2) "that the law which the Lord commanded required them to do." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **increasing in wisdom** - "became more wise" or "learned what was wise"
+    * **the grace of God was upon him** - AT: "God blessed him" or "God was with him in a special way"
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:36|<<]] | [[:en:bible:notes:luk:02:41|>>]]**
+
+~~DISCUSSION~~{{tag>publish nazareth  }}
+
+~~NOCACHE~~

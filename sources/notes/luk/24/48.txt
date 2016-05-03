@@ -1,0 +1,53 @@
+====== Luke 24:48-49 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 48 You \add apostles\add* must tell people that you know that those things \add that happened to me\add* are true.
+\v 49 And I want you to know that I will send the \add Holy Spirit\add* \f + \ft metonymy \f* to you, as my Father promised that \add he would do\add*. But you must stay in this city until God fills you with the power \add of his Spirit\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 48 You must tell people that you know that those things that happened to me are true.
+\v 49 And I want you to know that I will send the Holy Spirit to you, as my Father promised that he would do. But you must stay in this city until God fills you with the power of the Holy Spirit."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 48 You are witnesses of these things.
+\v 49 See, I am sending the promise of my Father upon you. But wait in the city, until you are clothed with power from on high."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:witness]]
+  * [[en:obe:kt:promise]]
+  * [[en:obe:kt:godthefather]]
+  * [[en:obe:kt:clothed]]
+  * [[en:obe:kt:power]]
+ 
+===== Translation Notes: =====
+
+  * **You are witnesses**  - "You are to tell others that what you saw about me is true." The disciples had observed Jesus' life, death and resurrection, and could describe what he did to other people.
+  * **I am sending the promise of my Father upon you**  - "I give you what my Father promised to give you"
+  * **clothed with power**  - "be empowered" or "receive power." God's power will cover them in the same way that clothes cover a person. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **from on high**  - "from above" or "from God"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:45|<<]] | [[:en:bible:notes:luk:24:50|>>]]**
+
+~~DISCUSSION~~{{tag>publish clothed}}

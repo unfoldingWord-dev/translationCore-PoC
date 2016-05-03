@@ -1,0 +1,62 @@
+====== Luke 06:35-36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 35 Instead, love your enemies! Do good things for them! Lend to them, and do not expect them to pay anything back! \add If you do that, God will give\add* you a great reward. And you will be \add acting like\add* his children \add should\add*. Remember that God is kind to people who are not grateful and to people who are wicked, \add and he expects you to be like that too\add*.
+\v 36 Act mercifully toward others, just like your Father \add in heaven acts\add* mercifully \add toward you\add*."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 35 Instead, love your enemies! Do good things for them! Lend to them, and do not expect them to pay anything back! Then God will give you a great reward. And you will be children of God the Most High, since God is kind even to people who are unthankful and wicked.
+\v 36 So you should act mercifully toward other people, just like your Father in heaven acts mercifully toward people.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 35 But love your enemies and do them good. Lend to them, never worrying about getting anything back, and your reward will be great. You will be sons of the Most High, for he himself is kind toward unthankful and evil people.
+\v 36 Be merciful, just as your Father is merciful.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:love]]
+    * [[en:obe:other:adversary]]
+    * [[en:obe:kt:good]]
+    * [[en:obe:kt:reward]]
+    * [[en:obe:kt:son]]
+    * [[en:obe:kt:mosthigh]]
+    * [[en:obe:kt:evil]]
+    * [[en:obe:kt:mercy]]
+    * [[en:obe:kt:godthefather]]
+
+===== Translation Notes: =====
+Jesus continues to teach the crowd to love their enemies.
+
+    * **your reward will be great**  - "you will receive a great reward"  or "you will receive good payment" or "you will receive good gifts because of it"
+    * **You will be sons of the Most High**  - The words "sons of" is an idiom meaning "like." It indicates that people who love their enemies act like God acts. Make sure that the word "sons" is plural so it is not confused with Jesus' title "The Son of God."  AT: "You will be acting like children of the Most High God"  or "You will be like the Most High God." 
+    * **unthankful and evil people** - "people who who do not thank him and who are evil"
+    * **your Father** - This refers to God. AT: "your Father in heaven."
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:31|<<]] | [[:en:bible:notes:luk:06:37|>>]]**
+
+~~DISCUSSION~~{{tag>publish mercy reward}}
+
+~~NOCACHE~~

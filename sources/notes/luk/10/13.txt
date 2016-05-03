@@ -1,0 +1,70 @@
+====== Luke 10:13-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 "There will be terrible \add punishment\add* for \add you people who live in\add* \f + \ft metonymy \f* Chorazin and Bethsaida \add cities\add*! I did great miracles in your cities \add to show God's power, but you did not turn from your sinful behavior\add*. If the miracles that I performed in your \add cities\add* had been done in Tyre and Sidon \add cities\add*, the wicked people who lived there would have long ago \add shown that they were sorry for their sins by\add* sitting on the ground wearing coarse cloth and putting ashes on their heads.
+\v 14 \add But they did not have the opportunity that you have, so when God punishes people, he will punish the wicked people who lived in\add* Tyre and Sidon, but he will punish you more severely \add because you did not pay attention to my message\add*!
+\v 15 \add I also have something to say to\add* you\add people who live in\add* Capernaum \add city\add*. Do not \add think that you will be honored\add* \f + \ft Or:\add that God\add* will honor you \f* in heaven!\f + \ft Or: Do you \add think that you will be honored\add* \f + \ft Or:\add that God\add* will honor you \f* in heaven? \f* \f + \ft rhetorical question \f* \add That will not happen! On the contrary\add*, \add after you die, God\add* will send you down to the place where \add sinful people\add* will be punished \add forever\add*!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 How terrible it will be for you people who live in the cities of Chorazin and Bethsaida, because you refuse to repent! If the miracles that I performed for you had been done in the ancient cities of Tyre and Sidon, the wicked people who lived there would long ago have shown that they were sorry for their sins by sitting on the ground wearing coarse cloth and putting ashes on their heads.
+\v 14 So on the final day when God judges everyone, he will punish you more severely than the wicked people who lived in Tyre and Sidon because you did not repent and believe in me even though you saw me do miracles!
+\v 15 I also have something to say to you people who live in the town of Capernaum. Do you think you will be honored up in heaven? On the contrary, you will be brought down to the place of the dead!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty works had been done in Tyre and Sidon which were done in you, they would have repented long ago, sitting in sackcloth and ashes.
+\v 14 But it will be more tolerable for Tyre and Sidon at the judgment than for you.
+\v 15 You, Capernaum, do you think you will be exalted to heaven? No, you will be brought down to hades.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:woe]]
+  * [[en:obe:kt:works]]
+  * [[en:obe:other:tyre]]
+  * [[en:obe:other:sidon]]
+  * [[en:obe:kt:repent]]
+  * [[en:obe:other:sackcloth]]
+  * [[en:obe:kt:judge]]
+  * [[en:obe:other:capernaum]]
+  * [[en:obe:kt:exalt]]
+  * [[en:obe:kt:heaven]]
+  * [[en:obe:other:hades]]
+
+===== Translation Notes: =====
+Jesus turns from speaking to the 70 disciples and speaks to the people of three cities.
+
+  * **Woe to you, Chorazin! Woe to you, Bethsaida!**  - Jesus spoke as if the people of the cities of Chorazin and Bethsaida were there listening to him, but they were not. (See: [[en:ta:vol2:translate:figs_apostrophe]] and [[:en:ta:vol1:translate:translate_names]])
+  * **if the mighty works...which were done in you**  - AT: "If the miracles that I had performed for you." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **were done in Tyre and Sidon**  - AT: "if someone had done them in Tyre and Sidon"
+  * **they would have repented long ago**  - "the wicked people who lived there would have shown that they were sorry for their sins" (UDB)
+  * **sitting in sackcloth and ashes**  - "wearing sackcloth and sitting in ashes"
+  * **it will be more tolerable for Tyre and Sidon … than for you**  - "God will punish you more severely than the people of Tyre and Sidon." The reason for this can be made explicit as in the UDB: "because you did not repent and believe in me even though you saw me do miracles!" (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **at the judgment**  - "on that final day when God judges everyone" (UDB)
+  * **You, Capernaum**  - Jesus now speaks to the people in the city of Capernaum as if they were listening to him, but they were not.
+  * **do you think you will be exalted to heaven**  - This is a rhetorical question in which Jesus rebukes the people of Capernaum for their pride. (See: [[en:ta:vol1:translate:figs_rquestion]]) AT: "will you go up to heaven" or "do you think that God will honor you?" (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **will be exalted**  - To be exalted is an idiom meaning "will be honored." (See: [[en:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:luk:10:10|<<]] | [[:en:bible:notes:luk:10:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish text judgment hades}}
+
+~~NOCACHE~~

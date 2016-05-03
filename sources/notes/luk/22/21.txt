@@ -1,0 +1,56 @@
+====== Luke 22:21-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 But \add note that\add* the one \f + \ft synecdoche \f* who will enable my enemies to seize me is eating right here with me!
+\v 22 \add It is certain that I\add*, the one who came from heaven, will die, because that is what \add God\add* has planned. But there will be terrible punishment for the man who will betray me\f + \ft Or: enable my enemies to seize me \f*!"
+\v 23 Then they began to ask one another, "Which of us would do such a thing?"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 But, look! The person who will hand me over to my enemies is here eating with me.
+\v 22 Indeed, I, the Son of Man, will die, because that is what God has planned. But how terrible it will be for the man who hands me over to my enemies!"
+\v 23 Then the apostles began to ask one another, "Which one of us is planning to do this thing?"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 21 But pay attention. The one who betrays me is with me at the table.
+\v 22 For the Son of Man indeed goes as it has been determined. But woe to that man through whom he is betrayed!"
+\v 23 And they began to question among themselves, which of them it was that would do this thing.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:betray]]
+  * [[en:obe:kt:sonofman]]
+  * [[en:obe:kt:woe]]
+
+
+===== Translation Notes: =====
+Jesus continues speaking to his apostles.
+  * **The one who betrays me** - "The one who will betray me"
+  * **For the Son of Man indeed goes** - "For, indeed, the Son of Man will go" or "For the Son of Man will die"
+  * **But woe to that man through whom he is betrayed!**  - "But woe to the man who betrays the Son of Man!" or "But how terrible it will be for that man who betrays the Son of Man!"
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:19|<<]] | [[:en:bible:notes:luk:22:24|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

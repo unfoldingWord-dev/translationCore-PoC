@@ -1,0 +1,49 @@
+====== Luke 24:52-53 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 52 They worshipped him. And then they returned to Jerusalem very joyfully.
+\v 53 Each day \f + \ft synecdoche \f* they went into the Temple \add courtyard\add*, and spent a lot of time praising God.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 52 After they worshiped him, they returned to Jerusalem very joyfully.
+\v 53 Each day they went into the temple courtyard, and spent a lot of time praising God.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 52 So they worshiped him, and returned to Jerusalem with great joy.
+\v 53 They were continually in the temple, blessing God.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:worship]]
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:kt:joy]]
+  * [[en:obe:kt:temple]]
+  * [[en:obe:kt:bless]]
+  * [[en:obe:kt:god]]
+ 
+
+===== Translation Notes: =====
+
+    * **they worshiped him** - This means to bow down, kneel or lie face down at the feet of another in reverence, humility, or awe.
+    * **continually in the temple** - They went into the temple courtyard every day.
+    * **blessing God** - "praising God" (UDB)
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:50|<<]]**
+
+~~DISCUSSION~~{{tag>publish }}

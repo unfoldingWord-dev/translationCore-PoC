@@ -1,0 +1,52 @@
+====== Luke 12:39-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 But you must also remember this: If owners of a house knew what time the thief was coming, they \add would stay awake and\add* would not allow the house to be broken into \add and their goods to be stolen\add* \f + \ft Or:\add the thief\add* to break into the house \add and steal their goods\add* \f*.
+\v 40 Similarly, you must be ready \add for me to return\add*, because \add I\add*, the one who came from heaven, will come \add again\add* at a time when you do not expect \add me to come\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 But you must also remember this: If the owner of a house knew what time the thief was coming, he would have stayed awake and would not have allowed the thief to break into his house.
+\v 40 So be ready, because I, the Son of Man, will come again at a time when you do not expect me."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 39 Moreover know this, that if the master of the house had known the hour the thief was coming, he would not have let his house be broken into.
+\v 40 Be ready also, because you do not know the hour when the Son of Man comes."
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[:en:obe:kt:lord]]
+    * [[en:obe:other:thief]]
+    * [[en:obe:kt:hour]]
+    * [[:en:obe:kt:sonofman]]
+
+===== Translation Notes: =====
+Jesus continues to tell his disciples a parable.
+
+    * **because you do not know the hour when the Son of Man comes** - The only similarity between a thief and the Son of Man is that people do not know when either one will come, so they need to be ready.
+    * **when the Son of Man comes** -  Jesus was talking about himself. So it can be translated as "when I, the Son of Man, will come."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+**[[:en:bible:notes:luk:12:37|<<]] | [[:en:bible:notes:luk:12:41|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

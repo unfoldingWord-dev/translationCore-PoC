@@ -1,0 +1,61 @@
+====== Luke 19:37-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 37 As they came near \add to Jerusalem\add*, on the road that descends from Olive \add Tree\add* Hill, the whole crowd of his disciples began to rejoice and praise God loudly for all the great miracles that they had seen \add Jesus do\add*.
+\v 38 They were saying things like, "May the Lord\add God\add* bless our king who comes representing \f + \ft metonymy \f* him!" "May there be peace \add between God\add* in heaven \add and us his people\add*!" "May \add everyone\add* praise God!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 37 As they came along the road that goes down from the Mount of Olives, the whole crowd of his disciples began to rejoice and praise God loudly for all the great miracles that they had seen Jesus do.
+\v 38 They were saying things like, "May God bless our king who comes with God's authority!" "May there be peace between God in heaven and us his people!" "May everyone praise God!"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 37 As he was now drawing near to where the Mount of Olives descends, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works which they had seen,
+\v 38 saying, "Blessed is the king who comes in the name of the Lord! Peace in heaven and glory in the highest!"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:rejoice]]
+  * [[:en:obe:other:praise]]
+  * [[en:obe:other:voice]]
+  * [[en:obe:kt:works]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:other:king]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:peace]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:glory]]
+ 
+===== Translation Notes: =====
+
+  * **As he was now drawing near**  - "As Jesus was going near" or "as Jesus was approaching."  Jesus' disciples were traveling with him.
+  * **mighty works which they had seen**  - This can be translated as "great things they had seen Jesus do."
+  * **Blessed is the king** - They were saying this about Jesus.
+  * **the Lord** - This refers to God.
+  * **glory in the highest**- This can be translated as "Let glory be given to the One in the highest" or "Let praise be given to the Highest One." It can be translated with an active verb and a noun saying who will give praise to God, as in the UDB. (See: [[en:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/32|<<]] | [[en/bible/notes/luk/19/39|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish mountofolives}}
+~~NOCACHE~~

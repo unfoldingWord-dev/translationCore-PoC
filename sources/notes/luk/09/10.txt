@@ -1,0 +1,60 @@
+====== Luke 09:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 When the apostles returned \add from traveling to various towns\add*, they told Jesus the things that they had done. Then he took them and they went by themselves \add by boat\add* to a town called Bethsaida.
+\v 11 But when the crowds \add of people who had been with Jesus\add* found out about that, they followed him \add on land. When they got to where he was\add*, he welcomed them. He taught them about how God is going to some day rule as king\f + \ft Or: have complete control \add over people's lives\add* \f*. He also healed the sick people.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 When the apostles returned from their trip, they told Jesus everything that they had done. Then he took them aside to go by themselves with him to the town of Bethsaida.
+\v 11 But when the crowds heard about where Jesus had gone, they followed him there. He welcomed them and spoke to them about how God was soon going to show himself as king, and he healed those who needed to be healed.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 When the ones who had been sent out returned, they told him everything they had done. Taking them with him, he went away by himself to a city called Bethsaida.
+\v 11 But the crowds heard about this and followed him, and he welcomed them, and spoke to them about the kingdom of God, and he cured those who had need of healing.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:kingdomofgod]]
+    * [[en:obe:other:heal]]
+
+
+===== Translation Notes: =====
+
+
+    * **the ones who had been sent out**  - "the twelve apostles that Jesus had sent out"
+    * **returned** - "came back to where Jesus was"
+    * **they told him**  - "the apostles told Jesus"
+    * **everything they had done** - This refers to the teaching and healing that they did when they went to the other cities.
+    *  **Taking them with him, he went away by himself** - Jesus and his apostles went away by themselves. AT: "He took them with him and they went by themselves." 
+    * **Bethsaida** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
+
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:07|<<]] | [[:en:bible:notes:luk:09:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish  heal}}
+
+~~NOCACHE~~

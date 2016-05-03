@@ -1,0 +1,58 @@
+====== Luke 01:59-61 ======
+
+
+===== TFT: =====
+
+
+<usfm>
+\v 59 Seven days later they gathered together for the \add ceremony for\add* circumcising the baby \add to show that he belonged to God\add*. Since his father's name was Zechariah, they wanted to give the baby the same name.
+\v 60 But his mother said, "No, \add his name will not be Zechariah\add*. His name will be John!"
+\v 61 \add So\add* they said to her, "\add John\add* is not the name of any of your\add (dl)\add* relatives, \add so you(dl) should not give him that name\add*!"
+</usfm>
+
+
+===== UDB: =====
+
+
+<usfm>
+\v 59 On the eighth day after this, people gathered together for the ceremony to circumcise the baby. Since his father's name was Zechariah, they wanted to give the baby the same name.
+\v 60 But his mother said, “No, his name must be John!”
+\v 61 So they said to her, “But John is not the name of any of your relatives!”
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 59 Then, on the eighth day after that, they came to circumcise the baby; and they would have called him Zechariah, after the name of his father. 
+\v 60 But his mother answered and said, “No, instead he will be called John.” 
+\v 61 They said to her, “There is no one from among your relatives who is called by this name.”
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:circumcise]]
+    * [[en:obe:other:zechariahnt]]
+    * [[en:obe:other:johnthebaptist]]
+
+===== Translation Notes: =====
+
+Zechariah and Elizabeth obey God by naming their son John like the angel told them.  
+
+    * **Then, on the eighth day** - "When the baby was eight days old" or AT: "Then, on the eighth day after the baby was born" (See: [[en:obe:other:biblicaltimeday]])
+    * **they** - AT: "Zechariah and Elizabeth's friends and relatives" or  "people"
+    * **to circumcise the baby** - One person circumcised the baby, and the others were there to celebrate with the family. AT:  "for the baby's circumcision ceremony."
+    * **they would have called him** - "they were going to name him" or "they wanted to give him the name"
+    * **after the name of his father** - "his father's name"
+    * **by this name** - "by that name" or "by the same name"
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:56|<<]] | [[:en:bible:notes:luk:01:62|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

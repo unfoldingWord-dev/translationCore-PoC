@@ -1,0 +1,56 @@
+====== Luke 14:4-6 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 \add They knew that their laws permitted it, but they thought that healing was work, which they thought was wrong to do\add* on the Sabbath\f + \ft Or: on the Jewish rest day \f* (OR\add , they knew that their laws permitted it, but they did not want to admit it\add*). So they did not reply. Then Jesus put his hands on the man and healed him. Then he told him to go \add home\add*.
+\v 5 Then he said to the rest of them, "If you had a son or an ox that fell into a well on a Sabbath\f + \ft Or: our day of rest \f*, would you immediately \add work to\add* pull him out, \add or would you\f + \ft singular \f* let him stay there until the next day\add*?"
+\v 6 \add They knew that they would immediately work to pull him out, even on their day of rest, so they could not justly say that Jesus did wrong by healing the man on that day. So\add* they said nothing to reply to Jesus.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 4 They did not reply. So Jesus put his hands on the man and healed him. Then he told him he could go.
+\v 5 And he said to the others there, "If you had a son or an ox that fell into a well on the day of rest, would you not immediately pull him out?"
+\v 6 Again, they were not able to answer him.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 But they kept silent. So Jesus took hold of him, healed him, and sent him away.
+\v 5 He said to them, "Which of you who has a son or an ox that falls into a well on the Sabbath day will not immediately pull him out?"
+\v 6 They were not able to give an answer to these things.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:other:ox]]
+    * [[en:obe:other:well]]
+
+
+===== Translation Notes: =====
+
+  * **But they kept silent**  - The religious leaders refused to answer Jesus' question.
+  * **Which of you who has a son or an ox … will not immediately pull him out**  - This was a rhetorical question. He wanted them to admit that they would help their son or ox, even on the Sabbath, so therefore, it was right for him to heal people even on the Sabbath. This can be translated as "If one of you had a son or an ox that fell into a well on the Sabbath, you would surely pull him out immediately." (See: [[en:ta:vol1:translate:figs_rquestion]]).
+  * **They were not able to give an answer**  - This can be translated as "They had nothing to say." It's not that they did not know the answer to Jesus' question. Rather, they knew that he was right and they did not want to say anything about it.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+**[[:en:bible:notes:luk:14:01|<<]] | [[:en:bible:notes:luk:14:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}

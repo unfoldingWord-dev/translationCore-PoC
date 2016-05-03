@@ -1,0 +1,51 @@
+====== Luke 02:21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 Seven days later, when \add the priests\add* circumcised the baby, \add his parents\add* named him Jesus. That was the name that \add they were told by\add* the angel \f + \ft Or:the angel \add told them\add* \f* \add to\add* give him before Mary became pregnant.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 On the eighth day after the baby was born, he was circumcised and they gave him the name Jesus. This was the name the angel had told them to give him, even before he was conceived.
+ 
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 21 When it was the eighth day and it was time to circumcise the baby, they named him Jesus, the name he had been given by the angel before he was conceived in the womb.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:circumcise]]
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:kt:angel]]
+    * [[en:obe:other:conceive]]
+    * [[en:obe:other:womb]]
+
+===== Translation Notes: =====
+
+    * **the name he had been given by the angel** - AT: "the name the angel had called him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:17|<<]] | [[:en:bible:notes:luk:02:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

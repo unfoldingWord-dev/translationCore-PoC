@@ -1,0 +1,57 @@
+====== Luke 08:11-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 So this is the meaning of that parable: The seeds \add represent\add* God's message.
+\v 12 \add Some people are like\add* the path on which some of \add the seeds fell\add*. When these people hear God's message, the devil comes and causes them to forget what they have heard. As a result, they do not believe it and will not be saved \f + \ft Or:\add God\add* will not save them \f*.
+\v 13 \add Some people are like\add* the \add soil with\add* rock \add underneath\add*. When they hear \add God's\add* message, they accept it joyfully. \add But because it does not penetrate deeply\add* \f + \ft metaphor \f* \add into their inner beings\add*, they believe it for \add only\add* a \add short\add* time. \add They are like the plants that\add* did not have \add deep\add* roots. When difficult things happen to them, they stop believing \add God's message\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Now, this is what the story means: The seeds represent God's word.
+\v 12  The seeds that fell on the pathway show what happens when people hear God's word,  but afterwards the devil comes and takes that word away from their minds and hearts. As a result, they do not believe it and are not saved.
+\v 13 The seeds that fell on the rocky ground show what happens when people hear God's word and receive it joyfully, but they do not have deep roots. As a result, they only believe for a short time. As soon as difficult things happen to them, they stop believing God's word.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 11 Now this is what the parable means. The seed is the word of God.
+\v 12 The seeds that fell by the wayside are people who have heard the word, but then the devil comes and takes away the word from their heart, so that they may not believe and be saved.
+\v 13 Then, the ones that fell on the rocky ground are people who, when they have heard the word, receive it with joy, but they do not have any roots; they only believe for a while, and then during a time of testing they fall away.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:parable]]
+    * [[en:obe:kt:wordofGod]]
+    * [[en:obe:kt:satan]]
+    * [[en:obe:other:heart]]
+    * [[en:obe:kt:believe]]
+    * [[en:obe:kt:save]]
+    * [[en:obe:kt:joy]]
+    * [[en:obe:kt:test]]
+
+===== Translation Notes: =====
+Jesus continues speaking to his disciples. He explains the meaning of the parable.
+
+  * **the devil comes and takes away the word from their heart**  - This means that he causes them to forget the word of God that they have heard.
+  * **takes away**  - In the parable this was a metaphor of a bird snatching away the seeds. Try to use words in your language that keep that image. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **from their heart** - This means the devil takes away their desire to believe the word of God. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **so that they may not believe and be saved**  - Since this is the devil's purpose, it can be translated as "because the devil thinks, 'They must not believe and they must not be saved.'" AT: "so they may not believe with the result that God saves them."  (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **during a time of testing they fall away**  - "when they experience hardship they fall away from the faith" or "when they experience hardship they stop believing"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:09|<<]] | [[:en:bible:notes:luk:08:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish wordofgod }}

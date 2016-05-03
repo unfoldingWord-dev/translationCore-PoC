@@ -1,0 +1,54 @@
+====== Luke 04:31-32 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 \add One day\add* he went \add with his disciples\add* down to Capernaum, a town in Galilee \add district\add*. On the next Sabbath\f + \ft Or: Jewish day of rest \f* \f + \ft Or: Each Sabbath( Or: Jewish day of rest ) \f*, he taught the people \add in the synagogue\f + \ft Or: in the Jewish meeting place\add* \f*.
+\v 32 They were continually amazed at what he was teaching, because \add he spoke\add* \add with authority\f + \ft Or: as people speak who have\add* the right to command others what to do \f*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 One day he went with his disciples down to Capernaum, a city in the district of Galilee. On the next Sabbath, he taught the people in the synagogue.
+\v 32 They were continually amazed at what he was teaching, because he spoke with confidence.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 31 Then he went down to Capernaum, a city in Galilee. One Sabbath he was teaching the people in the synagogue. 
+\v 32 They were astonished at his teaching, because he spoke with authority.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:capernaum]]
+    * [[en:obe:other:galilee]]
+    * [[en:obe:kt:sabbath]]
+    * [[en:obe:other:teach]]
+    * [[en:obe:other:synagogue]]
+    * [[en:obe:other:amazed]]
+    * [[en:obe:kt:authority]]
+
+===== Translation Notes: =====
+
+
+    * **he went down** - "Jesus went downhill." Capernaum was lower in altitude than Nazareth.
+    * **Capernaum, a city in Galilee** - AT: "Capernaum, another city in Galilee." 
+    * **astonished**  - "greatly surprised" or "impressed"
+    * **he spoke with authority** - AT: "his word had authority" or "he spoke as one with authority."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:luk:04:28|<<]] | [[:en:bible:notes:luk:04:33|>>]]**
+
+~~DISCUSSION~~{{tag>publish capernaum }}
+
+~~NOCACHE~~

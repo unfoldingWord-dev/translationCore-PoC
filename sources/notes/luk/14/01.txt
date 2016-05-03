@@ -1,0 +1,57 @@
+====== Luke 14:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 One Jewish day of rest\f + \ft Or: Sabbath day \f*, Jesus went to eat \f + \ft synecdoche \f* at the house of an important Pharisee. Some \add men who studied the Jewish\add* laws and other Pharisees who were there were watching him carefully \add to see if he would do something for which they could accuse him\add*.
+\v 2 Unexpectedly, there was a man in front of Jesus whose arms and legs were swollen.
+\v 3 Jesus said to them, "Is it permitted in \add our\f + \ft inclusive \f*\add* Jewish laws to heal \add someone\add* on our Jewish rest day\f + \ft Or: on the Sabbath \f*, or not?"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 One day, which was a day of rest, Jesus went to eat at the house of one of the leaders of the Pharisees, and they were watching him carefully.
+\v 2 Right there in front of Jesus was a man who had a disease that caused his arms and legs to be very swollen.
+\v 3 Jesus asked the experts in Jewish law and the Pharisees who were present, "Is it permitted in the law to heal people on the day of rest, or not?"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 14
+\p
+\v 1 It happened one Sabbath, when he went into the house of one of the leaders of the Pharisees to eat bread, that they were watching him closely.
+\v 2 Behold, there in front of him was a man who was suffering from edema.
+\v 3 Jesus asked the experts in the Jewish law and the Pharisees, "Is it lawful to heal on the Sabbath, or not?"
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:sabbath]]
+  * [[en:obe:other:pharisee]]
+  * [[en:obe:other:bread]]
+  * [[en:obe:other:scribe]]
+  * [[en:obe:other:lawful]]
+  * [[en:obe:other:heal]]
+ 
+===== Translation Notes: =====
+
+  * **to eat bread**  - "to eat" or "for a meal." Bread was an important part of a meal and is used in this sentence to refer to a meal. (See: [[en:ta:vol2:translate:figs_synecdoche]])
+  * **watching him closely **  - They wanted to see if they could accuse him of doing anything wrong.
+  * **Behold, there in front of him was a man**  - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There in front of him was a man who was…”
+  * **was suffering from edema**  - Edema is swelling caused by water building up in parts of the body. Some languages may have a name for this condition. This phrase can be translated as “was suffering because parts of his body were swollen with water.”
+  * **Is it lawful to heal**  - "Does the law permit us to heal"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+**[[:en:bible:notes:luk:13:34|<<]] | [[:en:bible:notes:luk:14:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

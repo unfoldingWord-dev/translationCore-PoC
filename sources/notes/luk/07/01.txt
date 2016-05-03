@@ -1,0 +1,52 @@
+====== Luke 07:1 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 After Jesus finished saying this to the people, he went \add with his disciples\add* to Capernaum \add town\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 After Jesus finished speaking to the people, he went to the town of Capernaum.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 7
+\p
+\v 1 After Jesus had finished everything he was saying in the hearing of the people, he entered Capernaum.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:other:capernaum]]
+
+
+===== Translation Notes: =====
+
+  * **in the hearing of the people**  - AT: “to the people who were listening” or “to the people” or “for the people to hear.”
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/06/49|<<]] | [[en/bible/notes/luk/07/02|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish capernaum}}
+~~NOCACHE~~

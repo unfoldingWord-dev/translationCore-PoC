@@ -1,0 +1,63 @@
+====== Luke 10:33-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 Then a man from Samaria \add province\add* came along that road to where the man was lying. \add People from Samaria despise Jews. But\add* when he saw that man, he pitied him.
+\v 34 He went close to him and put some \add olive\add* oil and wine on the wounds \add to help heal them\add*. He wound strips of cloth \add around the wounds\add*. He placed the man on his own donkey and took him to an inn and took care of him.
+\v 35 The next morning he gave two silver coins to the innkeeper and said, 'Take care of this man. If you\add \f + \ft singular \f*\add* spend more than this amount \add to care for him\add*, I will pay you back when I return.'"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 Then a man from the region of Samaria came along that road to where the man was lying. When he saw that man, he pitied him.
+\v 34 He went close to him and put some olive oil and wine on the wounds to help heal them. He wrapped strips of cloth around the wounds. Then he placed the man on his own donkey and took him to an inn and took care of him.
+\v 35 The next morning he gave two silver coins to the innkeeper and said, 'Take care of this man. If you spend more than this amount to care for him, I will pay you back when I return.'"
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 But a certain Samaritan, as he journeyed, came to where he was. When he saw him, he was moved with compassion.
+\v 34 He approached him and bound up his wounds, pouring oil and wine on them. He set him on his own animal, and brought him to an inn, and took care of him.
+\v 35 The next day he took out two denarii, and gave them to the host, and said, 'Take care of him and whatever extra you spend, when I return, I will repay you.'
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:samaria]]
+    * [[en:obe:kt:compassion]]
+    * [[en:obe:kt:bond]]
+    * [[en:obe:other:oil]]
+    * [[en:obe:other:wine]]
+
+===== Translation Notes: =====
+Jesus continues telling his story to the man who asked "Who is my neighbor?"
+
+    * **But a certain Samaritan** - This introduces a new person in the story without giving his name. We know only that he was a Samaritan. The Jews despised the Samaritans and would have assumed that he would not help the injured Jewish man.
+    * **When he saw him**  - "When the Samaritan saw the injured man"
+    * **he was moved with compassion**  - "he felt sorry for him"
+    * **bound up his wounds, pouring oil and wine on them**  - Since he would have put the oil and wine on the wounds first, it can be translated as "he put wine and oil on the wounds and wrapped them with cloth." Wine was used to clean the wound, and oil was probably used to prevent infection.
+    * **his own animal**  - "his own pack animal." This was an animal that he used to carry heavy loads. It was probably a donkey. 
+    * **two denarii** - "two day's wages." "Denarii" is the plural of "denarius." (See: [[en:obe:other:biblicalmoney]])
+    *  **the host**  - "the innkeeper" or "the person who took care of the inn"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/10/31|<<]] | [[en/bible/notes/luk/10/36|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish samaria}}
+~~NOCACHE~~

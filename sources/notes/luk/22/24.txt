@@ -1,0 +1,47 @@
+====== Luke 22:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 \add The apostles\add* began to argue among themselves, saying, "Which one of us \add will be\add* the greatest \add when Jesus becomes king\add*?"
+\v 25 So Jesus said to them, "The kings of the non-Jews \add enjoy\add* showing that they are powerful. \add Yet\add* they give \add themselves\add* the title, 'ones who help the people.'
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 After that, the apostles began to argue among themselves; they said, "Which one of us will have the most honor when Jesus becomes king?"
+\v 25 Jesus answered them, "The kings of the Gentile nations like to show people that they are powerful. Yet they give themselves the title, 'ones who help the people.'
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 24 Then there arose also a quarrel among them about which of them was considered to be greatest.
+\v 25 He said to them, "The kings of the Gentiles have lordship over them, and the ones who have authority over them are called honored rulers.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:king]]
+  * [[en:obe:other:gentile]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:authority]]
+  * [[en:obe:other:honor]]
+  * [[en:obe:other:ruler]]
+
+===== Translation Notes: =====
+
+  * **Then there arose also a quarrel among them**  - "the apostles began to argue among themselves" (UDB)
+  * **greatest**  - "most important"
+  * **He said to them**  - "Jesus said to the apostles"
+  * **have lordship over them**  - "rule harshly over them" or "like to exercise power over them"
+  * **are called**  - This can be translated as "like to be called" or "call themselves." The people probably did not think of those rulers as honored rulers.
+  * **honored rulers**  - This can also be translated as "benefactors" or "leaders who help the people."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:21|<<]] | [[:en:bible:notes:luk:22:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

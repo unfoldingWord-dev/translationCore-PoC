@@ -1,0 +1,52 @@
+====== Luke 03:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 \add Then\add* various ones in the crowd asked him, "What shall we\add \f + \ft exclusive \f*\add* do \add to escape God punishing us\add* (OR), \add to show that we have repented\add*?"
+\v 11 He answered them, "If any of you has two shirts, you should give one of them to someone who has no shirt. If any of you has \add plenty of\add* food, you should give some to those who have no food."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 Then some of the people in the crowd asked him, "What, then, should we do?"
+\v 11 He answered them, "If any of you has two shirts, you should give one of them to someone who does not have a tunic. If any of you has plenty of food, you should give some to those who do not have food."
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 10 Then the people in the crowds asked him, saying, "What then must we do?"  
+\v 11 He answered and said to them, "If someone has two tunics, he should give one of them to someone who does not have any and whoever has food should do likewise."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:tunic]]
+ 
+===== Translation Notes: =====
+
+
+    * **asked him, saying**  - "asked him and said" or "asked John"
+    * **answered and said to them**  - "answered them, saying" or "answered them" or "said"
+    * **do likewise**  - "do the same thing." AT: "give food to someone who does not have any."
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+
+
+**[[en/bible/notes:luk/03/09|<<]] | [[en/bible/notes:luk/03/12|>>]]** 
+
+
+~~DISCUSSION~~
+
+ 
+{{tag>publish tunic}}
+~~NOCACHE~~

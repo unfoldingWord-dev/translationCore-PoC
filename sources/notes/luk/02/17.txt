@@ -1,0 +1,65 @@
+====== Luke 02:17-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 Then they told \add Mary and Joseph and others\add* what had been told them \f + \ft Or:what \add the angel\add* had told them \f* about this child.
+\v 18 Everyone who heard what was said by the shepherds \f + \ft Or:what the shepherds said \f* to them was amazed.
+\v 19 But Mary \add did not talk to others about what the angels said\add*; she just kept thinking very much about it.
+\v 20 The shepherds returned \add to their sheep\add*. They kept praising God very much for all the things that they had heard and seen, \add because\add* everything \add happened\add* exactly like \add the angels\add* told them.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 After seeing him, they told everyone what had been told to them about this child.
+\v 18 All the people who heard what the shepherds said to them were amazed.
+\v 19 But Mary kept thinking about all the things she had heard and carefully remembered them.
+\v 20 The shepherds returned to the fields where their sheep were. They kept talking about how great God is and praising him for all the things that they had heard and seen, because everything happened exactly like the angels had told them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 17 After they had seen this, they made known to people what had been said to them about this child.  
+\v 18 All who heard it were amazed at what was spoken to them by the shepherds.  
+\v 19 But Mary kept thinking about all the things she had heard, treasuring them in her heart.  
+\v 20 The shepherds returned, glorifying and praising God for everything that they had heard and seen, just as it had been spoken to them.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:amazed]]
+  * [[en:obe:other:heart]]
+  * [[en:obe:kt:glorify]]
+  * [[en:obe:other:praise]]
+
+===== Translation Notes: =====
+
+    * **they made known to people** - "the shepherds told people"
+    * **what had been said to them**  - AT: "what the angels had told the shepherds" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **this child** - "the baby"
+    * **what was spoken to them by the shepherds** - "what the shepherds told them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **treasuring them in her heart**  - A treasure is something that is very valuable or precious. Mary considered the things she was told about her son to be very precious. AT: "carefully remembering them" or "joyfully remembering them." (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **returned** - AT: "went back to the sheep fields."
+    * **glorifying and praising God** - AT: "talking about and praising God's greatness" (See: [[:en:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:15|<<]] | [[:en:bible:notes:luk:02:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== Luke 02:48-50 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 48 When his parents saw him, they were very surprised. His mother said to him, "My son, why have you done this to us? Your father and I have been very worried as we\add \f + \ft exclusive \f*\add* have been searching for you!"
+\v 49 He said to them, \add speaking about the Temple being God his Father's house\add*, "I am surprised that you\add (dl)\add* did \add not know\add* where to find me!\f + \ft Or: Why did you \add not know\add* where to find me? \f* \f + \ft rhetorical question \f* You\add (dl)\add* should have known that it was necessary for me to be in my Father's house!\f + \ft Or: Did you not know that it was necessary for me to be in my Father's house? \f* \f + \ft rhetorical question \f*"
+\v 50 But they did not understand \add the meaning of\add* what he said to them.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 48 When his parents saw him, they were very surprised. His mother said to him, "My son, why have you done this to us? Your father and I have been very worried as we have been searching for you!"
+\v 49 He said to them, "Why were you searching for me? Did you not know that I needed to be involved in what my Father does?"
+\v 50 But they did not understand the meaning of what he said to them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 48 When they saw him, they were astonished. His mother said to him, "Son, why have you treated us this way? Listen, your father and I have been anxiously searching for you."
+\v 49 He said to them, "Why were you searching for me? Did you not know that I must be in my Father’s house?"  
+\v 50 But they did not understand what he meant by those words.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:godthefather]]
+  * [[en:obe:kt:houseofgod]]
+  * [[en:obe:kt:word]]
+
+===== Translation Notes: =====
+
+
+    * **When they saw him** - "When Mary and Joseph found Jesus"
+    * **why have you treated us this way?** - This was an indirect rebuke because he had not gone with them on the way back home.  AT: "how could you do this?" (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **Listen** - This word is often used to show the beginning of a new or important event. It also can be used to show where the action begins. If your language has a phrase that is used in this way, consider whether it would be natural to use it here.
+    * **Why were you searching for me?** - AT: "Why did you two keep looking for me in other places?"
+    * **Did you not know…?** - This starts a rhetorical question. Jesus was not trying to find out if they knew or not. Rather he was telling them something. AT: “You should have known.” (See: [[en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_litotes]])
+    * **in my Father's house** - Possible meanings are 1) "in my Father's house" or 2) "about my Father's business." In either case, when Jesus said "my Father" he was referring to God. If he meant "house," then he was referring to the temple. If he meant "business," he was referring to the work God had given him to do. But since the next verse says that his parents did not understand what he was telling them, it would be best not to explain it more.
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:45|<<]] | [[:en:bible:notes:luk:02:51|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

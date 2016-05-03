@@ -1,0 +1,50 @@
+====== Luke 05:36 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 Then Jesus told them two parables \add to show them that those who desire to live according to God's new message should not be forced to obey the old religious traditions like\add* \add fasting\f + \ft Or: abstaining from food\add* \f*\add , and that those who know only the old traditions are not eager to accept new ones\add* \f + \ft metaphor \f*. He said, "People never tear a piece of cloth from a new garment and attach it to an old garment \add to mend it\add*. If they did that, not only would they be ruining the new garment by tearing it, but the new piece of cloth would not match the old garment.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 Then Jesus gave other examples to explain what he meant: He said, "People never tear a piece of cloth from a new garment and attach it to an old garment to mend it. If they did that, they would ruin the new garment by tearing it and the new piece of cloth would not match the old garment.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 Then Jesus also spoke a parable to them. "No man tears a piece of cloth from a new garment and uses it to mend an old garment. If he did that, he would tear the new garment, and the piece of cloth from the new garment would not fit with the cloth of the old garment.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:parable]]
+
+
+===== Translation Notes: =====
+
+  * **No man tears**  - "No one tears" or "People never rip" (UDB)
+  * **mend**  - "repair"
+  * **would not fit with**  - "would not match" or "would not be the same as"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/05/33|<<]] | [[en/bible/notes/luk/05/37|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish parable}}
+~~NOCACHE~~

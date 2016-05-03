@@ -1,0 +1,58 @@
+====== Luke 02:25-26 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 25 At that time there was an \add old\add* man in Jerusalem whose name was Simeon. He habitually did what was pleasing to God and he obeyed God's laws. The Holy Spirit was \add directing\add* him as he was waiting for \add God\add* \f + \ft metonymy \f* \add to\add* encourage the Israelite \add people by sending the Messiah\add*.
+\v 26 It was \add previously\add* revealed by the Holy Spirit \f + \ft Or:The Holy Spirit \add previously\add* revealed \f* to him that he would see God's \add promised\add* Messiah before he died.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 25 At that time there was an old man in Jerusalem whose name was Simeon. He did what was pleasing to God and obeyed God's laws. He was eagerly waiting for God to send the Messiah to encourage the Israelite people and the Holy Spirit was directing him.
+\v 26 The Holy Spirit had previously revealed to him that he would see the Lord's promised Messiah before he died.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 25  Behold, there was a man in Jerusalem whose name was Simeon. This man was righteous and devout. He was waiting for the comforter of Israel, and the Holy Spirit was upon him.  
+\v 26 It had been revealed to him by the Holy Spirit that he would not die before he had seen the Lord’s Christ.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:jerusalem]]
+    * [[en:obe:other:simeon]]
+    * [[en:obe:kt:righteous]]
+    * [[en:obe:other:comfort]]
+    * [[en:obe:other:israel]]
+    * [[en:obe:kt:reveal]]
+    * [[en:obe:kt:holyspirit]]
+    * [[en:obe:kt:christ]]
+
+===== Translation Notes: =====
+
+Simeon meets baby Jesus at the temple.
+
+    * **devout** - "devoted to God" or "faithful to God"
+    * **comforter of Israel** - It is another name for the "Messiah" or "Christ."  AT: "the one who would comfort Israel." 
+    * **the Holy Spirit was upon him** - "the Holy Spirit was with him." God was with him in a special way and gave him wisdom and direction in his life. 
+    * **It had been revealed to him by the Holy Spirit** - AT: "The Holy Spirit had shown him" or "The Holy Spirit had told him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **he would not die before he had seen the Lord's Christ** - The word "Lord" here refers to God.  AT: "he would see the Lord's Christ before dying" or "he would see the Lord's Messiah and die only after that." 
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:22|<<]] | [[:en:bible:notes:luk:02:27|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

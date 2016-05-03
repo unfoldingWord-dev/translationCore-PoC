@@ -1,0 +1,53 @@
+====== Luke 01:8-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 One day \add Zechariah's\add* group was doing their work \add in the Temple in Jerusalem\add*, and he was serving as a priest in God's presence.
+\v 9 Following their custom, \add the other priests\add* chose him by lot to enter the Lord's temple and burn incense.
+\v 10 While he was burning the incense, many people were outside \add in the courtyard\add*, praying.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 One day Zechariah was serving as a priest in the temple in Jerusalem during his group's regular time of service there.
+\v 9 Following their custom, the priests chose him by lot to go into the Lord's temple and burn incense.
+\v 10 When the time came for him to burn the incense, many people were praying in the courtyard outside the temple.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 8 One day while Zechariah was performing his duties as a priest before God in the order of his division,
+\v 9 the priests followed their custom and chose him by lot to enter the temple of the Lord and burn incense.
+\v 10 The whole assembly of the people was praying outside when it was time to burn the incense.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:other:lots]]
+  * [[en:obe:kt:temple]]
+  * [[en:obe:other:incense]]
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:kt:assembly]]
+  * [[en:obe:other:peoplegroup]]
+  * [[en:obe:other:pray]]
+
+===== Translation Notes: =====
+
+  * **before God** - "in God's presence." For clarity, some translators might want to add the implied information "in the temple at Jerusalem." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **their custom**  - "their tradition" or "their usual way of making important decisions"
+  * **chose him by lot** - A lot was a marked stone that was thrown or rolled on the ground in order to help them decide something. The priests believed that God guided the lot to show them which priest he wanted them to choose. (See: [[:en:ta:customs:religious:bylot]])
+  * **The whole assembly of the people** - "A large number of people" or "Many people"
+  * **outside** -  The courtyard was the enclosed area surrounding the temple. AT: “outside the temple building" or "in the courtyard outside the temple."
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:05|<<]] | [[:en:bible:notes:luk:01:11|>>]]**
+
+{{tag>publish lots incense }}
+
+~~NOCACHE~~

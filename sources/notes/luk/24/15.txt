@@ -1,0 +1,39 @@
+====== Luke 24:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 While they were talking and discussing those things, Jesus himself approached them and started walking with them.
+\v 16 But they were prevented \f + \ft Or:\add something\add* prevented them \f* from recognizing \f + \ft metonymy \f* him.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 While they were talking and discussing those things, Jesus himself approached them and started walking with them.
+\v 16 But God did not allow them to recognize him.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 It happened that, while they discussed and questioned together, Jesus himself drew near and went with them.
+\v 16 But their eyes were prevented from recognizing him.
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:jesus]]
+
+===== Translation Notes: =====
+
+  * **It happened that**  - This phrase is used here to mark where the action starts. It starts with Jesus approaching them. If your language has a way for doing this, you could consider using it here.
+  * **Jesus himself**  - The word "himself" focuses on Jesus and the surprise of Jesus actually appearing to them. So far the women had seen the angels, but no one had seen Jesus.
+  * **their eyes were prevented from recognizing him**  - "their eyes were kept from recognizing Jesus." The men's ability to recognize Jesus is spoken of as their eyes' ability to recognize him. It can also be translated as "they were kept from recognizing him" or "something prevented them so they could not recognize him." (See: [[en:ta:vol2:translate:figs_synecdoche]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:13|<<]] | [[:en:bible:notes:luk:24:17|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

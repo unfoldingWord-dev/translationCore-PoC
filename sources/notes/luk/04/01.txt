@@ -1,0 +1,53 @@
+====== Luke 04:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 As Jesus left the Jordan \add River valley, the Holy Spirit was\add* completely controlling him.
+\v 2 For forty days the Spirit led him around in the desolate area. During that time Jesus was being tempted by the devil \f + \ft Or:the devil was tempting him \f*, and Jesus did not eat anything. When that time ended, he was \add very\add* hungry.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Jesus, filled with the Holy Spirit, left the Jordan River, and the Holy Spirit led him into the wilderness.
+\v 2 The Holy Spirit led him around in the wilderness for forty days. While he was there, the devil kept tempting him. During the entire time Jesus was in the wilderness he did not eat anything, so when the forty days were over, he was very hungry.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 4
+\p 
+\v 1 Then Jesus, being full of the Holy Spirit, returned from the Jordan River, and was led by the Spirit in the wilderness 
+\v 2 for forty days and was tempted there by the devil. During those days, he did not eat anything, and at the end of that time he was hungry.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:kt:filled]]
+  * [[en:obe:kt:holyspirit]]
+  * [[en:obe:other:jordanriver]]
+  * [[en:obe:other:desert]]
+  * [[en:obe:kt:tempt]]
+  * [[en:obe:kt:satan]]
+
+
+===== Translation Notes: =====
+
+  * **Then** - This refers to after John baptized Jesus. AT: "Then after Jesus was baptized."
+  * **was led by the Spirit** - AT: "the Spirit led him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **forty days** - AT: "40 days" (See: [[:en:ta:vol2:translate:translate_numbers]], [[en:obe:other:biblicaltimeday]])
+  * **was tempted there by the devil** - It is not clear if he was tempted throughout the time, or at the end of the time. AT: "was tempted by the devil to disobey God" or "the devil tempted him there." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **he did not eat** - The word "he" refers to Jesus.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:luk:03:36|<<]] | [[:en:bible:notes:luk:04:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish filled tempt p2review}}

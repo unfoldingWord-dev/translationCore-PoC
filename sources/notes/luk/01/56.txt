@@ -1,0 +1,63 @@
+====== Luke 01:56-58 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 56 Mary stayed with Elizabeth for about three months. Then she returned to her home.
+
+
+\p
+\v 57 When it was time for Elizabeth to bear her child, she bore a son.
+\v 58 Her neighbors and relatives heard how the Lord\f + \ft Or: God \f* had greatly blessed her, so they were happy along with \add Elizabeth\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 56 Mary stayed with Elizabeth for about three months. Then she returned to her home. 
+\p
+\v 57 When it was time for Elizabeth to bear her child, she bore a son.
+\v 58 Her neighbors and relatives heard how the Lord had been so kind to her, and they were happy along with Elizabeth.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 56 Mary lived with Elizabeth about three months, and then returned to her house.
+\p 
+\v 57 Now when it was time for Elizabeth to deliver her baby, she gave birth to a son.
+\v 58 Her neighbors and relatives heard that the Lord had been very merciful to her, and they rejoiced with her.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:mary]]
+    * [[en:obe:other:elizabeth]]
+    * [[en:obe:other:neighbor]]
+    * [[en:obe:kt:mercy]]
+    * [[en:obe:other:rejoice]]
+
+  
+===== Translation Notes: =====
+
+Mary returns home and Elizabeth gives birth to a son.
+
+    * **three months** - See: [[en:obe:other:biblicaltimemonth]].
+    * **returned to her house** - "Mary returned to her (Mary's) house" or "Mary returned to her own house"
+    * **deliver her baby** - "give birth to her baby" or "bear her child"
+    * **Her neighbors and relatives** - "Elizabeth's neighbors and relatives"
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:54|<<]] | [[:en:bible:notes:luk:01:59|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

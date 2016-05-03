@@ -1,0 +1,52 @@
+====== Luke 22:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 Then he took some bread and thanked God for it. He broke it \add into pieces\add* and gave it to them \add to eat\add*. He said, "This \add bread represents\add* my body, which \add I\add* am about to sacrifice for you. Keep on \add eating bread\add* this way \add regularly\add* to remember what I \add have done for you\add*."
+\v 20 Similarly, after \add they had eaten\add* the meal, he took \add another\add* cup \add of wine\add*. He said, "\add The wine in\add* \f + \ft metonymy \f* this cup \add represents\add* my blood, which will soon flow \add from my body when I die\add*. \add With\add* this blood \add I will sign\add* the new agreement \add that God is making with\add* you.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 Then he took some bread and thanked God for it. He broke it into pieces and gave it to them to eat. As he did so, he said, "This bread is my body, which I am about to sacrifice for you. Do this later to honor me."
+\v 20 In the same way, after they had eaten the meal, he took the cup of wine and said, "This is the new covenant I will make using my own blood, which will pour out for you.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 Then he took bread, and when he had given thanks, he broke it, and gave to them, saying, "This is my body which is given for you. Do this in remembrance of me."
+\v 20 He took the cup in the same way after supper, saying, "This cup is the new covenant in my blood, which is poured out for you.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:bread]]
+  * [[en:obe:kt:body]]
+  * [[en:obe:kt:newcovenant]]
+  * [[en:obe:kt:blood]]
+ 
+
+===== Translation Notes: =====
+
+  * **bread**  - This bread did not have yeast in it, so it was flat.
+  * **he broke it**  - "he ripped it" or "he tore it." He may have divided it into many pieces or he may have divided it into two pieces and given them to the apostles to divide among themselves. If possible, use an expression that could be used for either situation.
+  * **This is my body**  - Possible meanings are 1) "This bread is my body" and 2) "This bread represents my body."
+  * **my body which is given for you**  - "my body, which I will give for you" or "my body, which I will sacrifice for you." For languages that must state the recipient, it could be translated as "my body, that I give to the authorities to kill for your sake."
+  * **Do this**  - "Eat this bread"
+  * **in remembrance of me**  - "in order to remember me"
+  * **This cup**  - The word "cup" refers to the wine in the cup. It can be translated as "The wine in this cup" or "This wine." (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **is the new covenant in my blood**  - "is the new covenant, which will be put in effect by my blood" or "is the new covenant, which will be made legal by my blood" or "represents the new covenant, which God will establish when my blood is shed"
+  * **my blood, which is poured out for you**  - "my blood, which is poured out in death for you" or "my blood, which will flow out of my wounds for you when I die." Jesus spoke of his death by referring to his body being broken and his blood being shed. This is metonymy.  (See: [[en:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:17|<<]] | [[:en:bible:notes:luk:22:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish newcovenant}}

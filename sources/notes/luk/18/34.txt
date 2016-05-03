@@ -1,0 +1,54 @@
+====== Luke 18:34 ======
+
+===== TFT: =====
+
+<usfm>
+\v 34 But \add the disciples\add* did not understand any of those things that \add he said\add*. They were prevented \f + \ft Or:\add Something\add* prevented them \f* from understanding the meaning of what \add he\add* was telling \add them\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 34 But the disciples did not understand any of those things that he said. God prevented them from understanding the meaning of what he was telling them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 34 They understood none of these things, and this word was hidden from them, and they did not understand the things that were said.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:understand]]
+  * [[en:obe:kt:word]] 
+
+===== Translation Notes: =====
+
+
+    * **They understood none of these things** - "They did not understand any of these things"
+    * **these things** - This refers to Jesus' description of how he would suffer and die in Jerusalem, and that he would rise from the dead.
+    * **this word was hidden from them** - AT: "God prevented them from understanding the meaning of what he was telling them" (UDB). (See: [[en:ta:vol2:translate:figs_activepassive]])
+    * **the things that were said**  - AT: "the things that Jesus said." (See: [[en:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/18/31|<<]] | [[en/bible/notes/luk/18/35|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

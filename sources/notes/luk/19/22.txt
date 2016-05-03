@@ -1,0 +1,58 @@
+====== Luke 19:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 He said to that servant, 'You wicked servant! I will condemn you by the very words \f + \ft metonymy \f* that you \add have just now spoken\add*! You know that I do not \add do foolish things with my money\add*.\f + \ft Or: Did you not know that I do not \add do foolish things with my money\add*? \f* \f + \ft rhetorical question \f* \add You said\add* that I \add even\add* take \add from others money\add* that does not really \add belong to me\add*, \add like a farmer who\add* harvests grain \add from another man's field\add* where he did not\add even\add* do the planting.
+\v 23 So you should at least have given my money to money lenders!\f + \ft Or: why did you not \add at least\add* give my money to bankers? \f* \f + \ft rhetorical question \f* Then \add when I returned\add* I could have collected that amount plus the interest \add it would have earned!\add*'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 He said to that servant, 'You wicked servant! I will condemn you by the words you just said. You knew I was a hard man, because I take what does not belong to me and harvest what I did not plant.
+\v 23 So you should at least have given my money to money lenders! Then when I returned I could have collected that amount plus the interest it would have earned!'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 22 The nobleman said to him, 'By your own words I will judge you, you wicked servant. You knew that I am a severe man, taking up that which I did not lay down, and reaping that which I did not sow.
+\v 23 Then why did you not put my money in the bank, so that when I returned I would have collected it with interest?'
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:noble]]
+  * [[en:obe:kt:word]]
+  * [[:en:obe:kt:judge]]
+  * [[en:obe:kt:evil]]
+ 
+
+===== Translation Notes: =====
+Jesus continues telling his parable.
+
+  * **that I am a severe man, taking up…** - The nobleman was repeating what the servant had said about him. He was not saying that it was true.
+  * **a severe man**  - "a harsh man"
+  * **why did you not put my money** - This starts a rhetorical question. It is used as a rebuke. It can be translated as "you should have put my money." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **put my money in the bank** - This can be translated as  "lent my money to a bank." Cultures that do not have banks might translate it as "let someone borrow my money."
+  * **bank**  - A bank is a business that safely holds money for people. Banks lend that money to others for a profit. Therefore it pays an extra amount, or interest, to the people who keep their money in the bank.
+  * **I would have collected it with interest** - This can be translated as "I could have collected that amount plus the interest it would have earned" (UDB) or "I would gain a profit from it."
+  * **interest**  - Interest is money that a bank pays people who put their money in the bank.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/20|<<]] | [[en/bible/notes/luk/19/24|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

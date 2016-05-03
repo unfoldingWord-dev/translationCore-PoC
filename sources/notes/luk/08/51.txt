@@ -1,0 +1,54 @@
+====== Luke 08:51-53 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 51 When they arrived outside the house, he allowed only Peter, John, James, and the girl's mother and father to go in the house with him.
+\v 52 All the people \add there\add* were crying and beating their breasts \add to show that they were sad\add*. But, \add knowing that he would cause the girl to live again\add*, he said to them, "Stop crying! She is not dead! She is \add just\add* sleeping \f + \ft metaphor \f*!"
+\v 53 The people laughed at him, because they knew that \add the girl\add* was dead.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 51 When he arrived outside the house, Jesus did not allow anyone to go in the house with him, except for Peter, John and James, and the girl's mother and father.
+\v 52 And all the people there were crying loudly to show that they were very sad because the girl had died. But Jesus said to them, "Stop crying! She is not dead! She is just sleeping!"
+\v 53 And the people laughed at him, because they knew that the girl was dead.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 51 Then when he came to the house, he did not allow anyone to enter it with him, except Peter, John and James, the father of the girl, and her mother.
+\v 52 Now all the people there were mourning and wailing  for her, but he said, "Do not wail. She is not dead, but is only sleeping."
+\v 53 But they laughed at him scornfully, knowing that she was dead.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:peter]]
+    * [[en:obe:other:johntheapostle]]
+    * [[en:obe:other:jamessonofzebedee]]
+    * [[en:obe:other:mourn]]
+
+
+===== Translation Notes: =====
+
+Jesus continued on to Jairus' house despite hearing that his daughter was dead.
+
+    * **Then when he came to the house, he**  - Because Jesus did not go alone to the house, it can be translated as "Then when they came to the house, Jesus."
+    * **except Peter, John and James, the father of the girl, and her mother** - "He only allowed Peter, John and James, the girl's father, and her mother to go inside"
+    * **all the people there were mourning and wailing for her**  - "all the people were showing how sad they were and crying loudly because the girl had died"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:49|<<]] | [[:en:bible:notes:luk:08:54|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

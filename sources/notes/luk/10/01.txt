@@ -1,0 +1,51 @@
+====== Luke 10:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 After that, the Lord \add Jesus\add* appointed seventy-two other \add people\add*. He \add prepared to\add* send them out, two-by-two, to every town and village where he \f + \ft synecdoche \f* intended to go.
+\v 2 He said to them, "The \add people who are ready to receive my message\add* are like a field \add of\add* \f + \ft metaphor \f* \add grain\add* that is ready for \add people\add* to harvest \f + \ft Or:to be harvested \f*. But there are not many people \add to bring them to God\add*. So pray and ask the Lord \add God\add* to send \add more\add* workers\add who will gather people together and teach them my message, just like a landowner sends workers\add* into his fields \add to gather the\add* harvest.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 After that, the Lord Jesus appointed seventy other people to go preach. He prepared to send them out in pairs to go ahead of him to every town and village where he intended to go.
+\v 2 He said to them, "The harvest is certainly plentiful, but the workers are few. So pray to the Lord of the harvest and plead with him to send more workers to reap his harvest.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 10
+\p
+\v 1 Now after these things, the Lord appointed seventy others, and sent them out in pairs ahead of him into every city and place where he himself intended to go.
+\v 2 He said to them, "The harvest is plentiful, but the laborers are few. Therefore urgently pray to the Lord of the harvest, so that he may send out laborers into his harvest.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:lord]]
+    * [[en:obe:kt:appoint]]
+    * [[en:obe:kt:harvest]]
+    * [[en:obe:other:labor]]
+    * [[en:obe:other:pray]]
+
+
+===== Translation Notes: =====
+
+  * **seventy**  - "70." Some versions say "seventy-two" or "72." You may want to include a footnote that says that. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **sent them out in pairs**  - "sent them out in groups of two" or "sent them out with two people in each group"
+  * **He said to them**  - This was before the men actually went out. AT: "This is what he said to them" or "Before they went out he told them."
+  * **The harvest is plentiful, but the laborers are few**  - "There is a big crop, but not enough workers to bring it in." This metaphor means that there are many people who are ready to be brought into the kingdom of God.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+**[[:en:bible:notes:luk:09:61|<<]] | [[:en:bible:notes:luk:10:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish labor}}

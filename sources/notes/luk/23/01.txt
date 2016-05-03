@@ -1,0 +1,51 @@
+====== Luke 23:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then the whole group got up and took him to Pilate, \add the Roman governor\add*.
+\v 2 They began to accuse him, saying, "We\add \f + \ft exclusive \f*\add* have determined that this fellow has caused political trouble in our country. He has been \add telling people that they should\add* not pay taxes to the Roman government \f + \ft metonymy \f*. Also, he says that he is the Messiah, a king!"
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then the whole group got up and took him to Pilate, the Roman governor.
+\v 2 They accused him in front of Pilate: "We have seen this fellow causing trouble by telling lies to our people. He has been telling them to not pay taxes to Caesar, the Roman emperor. Also, he has been saying that he is the Messiah, a king!"
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 23
+\p
+\v 1 The whole company of them rose up, and brought Jesus before Pilate.
+\v 2 They began to accuse him, saying, "We found this man perverting our nation, forbidding to give tribute to Caesar, and saying that he himself is Christ, a king."
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:jesus]]
+  * [[:en:obe:other:pilate]]
+  * [[en:obe:other:accuse]]
+  * [[en:obe:other:perverse]]
+  * [[en:obe:other:israel]]
+  * [[en:obe:other:tribute]]
+  * [[:en:obe:other:caesar]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:other:king]]
+
+===== Translation Notes: =====
+
+  * **The whole company of them**  - "All of the Jewish leaders"
+  * **rose up**  - "stood" or "stood to their feet"
+  * **before Pilate**  - "in front of Pilate." This could be translated as "to stand facing Pilate."
+  * **perverting our nation**  - "causing trouble by telling lies to our people" (UDB)
+  * **forbidding to give tribute**  - "telling them not to pay taxes" (UDB)
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:69|<<]] | [[:en:bible:notes:luk:23:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish pilate caesar}}

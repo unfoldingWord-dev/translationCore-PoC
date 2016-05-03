@@ -1,0 +1,62 @@
+====== Luke 07:29-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 29 When they heard \add what Jesus said\add* \f + \ft Or: \add what John preached\add* \f*, all the people, including tax collectors, \add whom many people despised\add*, agreed that God's way was right. By being baptized by John \f + \ft Or:By \add letting\add* John baptize them \f*, \add they had agreed that what God required people to do in order to be saved was right\add*.
+\v 30 But the Pharisees and the men who taught the \add Jewish\add* laws were not baptized by John \f + \ft Or:did not \add let\add* John baptize them \f* because they rejected what God wanted them to do.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 29 When all the people, including tax collectors, heard what Jesus said, they agreed that God was just, since they had been baptized by John.
+\v 30 But the Pharisees and the experts in the Jewish laws had not been baptized  by John and they rejected God's will for them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 29 When all the people heard this, including the tax collectors, they declared that God is righteous. They were among those who had been baptized with the baptism of John.
+\v 30 But the Pharisees and the experts in Jewish law, who were not baptized by him, rejected God's wisdom for themselves.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:taxcollector]]
+    * [[en:obe:other:declare]]
+    * [[en:obe:kt:god]]
+    * [[en:obe:kt:righteous]]
+    * [[en:obe:kt:baptize]]
+    * [[en:obe:other:johnthebaptist]]
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:other:scribe]]
+    * [[en:obe:other:reject]]
+    * [[en:obe:kt:wise]]
+  
+===== Translation Notes: =====
+Luke, the author of this book, comments on how people responded to John and Jesus.
+
+    * **they declared that God is righteous**  - "they said that God had shown himself to be righteous" or "they declared that God had acted righteously"
+    * **who had been baptized with the baptism of John**  - "who had been baptized by John" or "whom John had baptized"
+    * **who were not baptized by him** - "whom John had not baptized" or "who had refused to be baptized by John" or "who had rejected John's baptism"
+    * **who were not baptized by him, rejected God's wisdom for themselves** - This seems to imply that because they had rejected John's baptism, were not spiritually prepared to accept God's will for them.
+    * **rejected God's wisdom for themselves** -  "chose to disobey what God told them" or "chose not to believe God's will" 
+    * **God's wisdom for them** - "God's purpose for them" or "God's plan for them" or "what God wanted them to do"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+**[[:en:bible:notes:luk:07:27|<<]] | [[:en:bible:notes:luk:07:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish scribe }}
+
+~~NOCACHE~~

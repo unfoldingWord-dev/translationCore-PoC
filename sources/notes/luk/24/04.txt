@@ -1,0 +1,42 @@
+====== Luke 24:4-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 They did not know what to think about that. Then suddenly two men stood by them wearing bright shining clothes!
+\v 5 The \add women\add* were frightened. As they prostrated themselves on the ground, the two men said to them, "You should not be seeking someone who is alive in \add a place where they bury\add* dead people!\f + \ft Or: Why are you seeking in \add a place where they bury\add* dead people someone who is alive? \f* \f + \ft rhetorical question \f*
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 They did not know what to think about that. Then suddenly two men stood by them wearing bright, shining clothes!
+\v 5 The women were frightened. As they bowed down low to the ground, the two men said to them, "You should not be looking for someone who is alive in a place where they bury dead people!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 4 It happened that, while they were confused about this, suddenly, two men stood by them in dazzling apparel.
+\v 5 As the women were filled with fear and bowed down their faces to the earth, they said to the women, "Why do you seek the living among the dead?
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:fear]]
+  * [[en:obe:kt:bow]]
+
+===== Translation Notes: =====
+
+  * **It happened**  - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+  * **in dazzling apparel**  - "wearing bright, shining clothes" (UDB)
+  * **filled with fear**  - "became afraid"
+  * **Why do you seek the living among the dead?**  - This is a rhetorical question. It can also be translated as "You are looking for a living person among dead people" or "You should not be looking for someone who is alive in a place where they bury dead people!" (UDB).  (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **Why do you seek**  - "You" here is plural, referring to the women who came. (See: [[en:ta:vol1:translate:figs_you]])
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:01|<<]] | [[:en:bible:notes:luk:24:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish bow}}

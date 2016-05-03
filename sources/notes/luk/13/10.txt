@@ -1,0 +1,49 @@
+====== Luke 13:10-11 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 10 One Sabbath\f + \ft Or: Jewish day of rest \f*, \add Jesus\add* was teaching people in one of the Jewish meeting places.
+\v 11 There was a woman there whom an evil spirit \f + \ft metonymy \f* had crippled for eighteen years. She was always bent over; she could not stand up straight.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 10 On one Jewish day of rest, Jesus was teaching people in one of the synagogues.
+\v 11 There was a woman there whom an evil spirit had crippled for eighteen years. She was always bent over; she could not stand up straight.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 Now Jesus was teaching in one of the synagogues during the Sabbath.
+\v 11 Behold, a woman was there who for eighteen years had an evil spirit of weakness, and she was bent over and not able to completely stand up.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[:en:obe:other:synagogue]]
+    * [[:en:obe:kt:sabbath]]
+    * [[:en:obe:kt:demon]]
+
+===== Translation Notes: =====
+
+  * **during the Sabbath**  - "on a Sabbath day." Some languages would say "a Sabbath" because we do not know which particular Sabbath day it was.
+  * **Behold**  - The word “behold” here alerts us to a new person in the story. Your language may have a way of doing this. English uses “There was a woman who …”
+  * **an evil spirit of weakness**  - "an evil spirit that made her weak"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:en:bible:notes:luk:13:08|<<]] | [[:en:bible:notes:luk:13:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

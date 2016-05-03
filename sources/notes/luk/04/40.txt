@@ -1,0 +1,57 @@
+====== Luke 04:40-41 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 40 When the sun was setting \add that day, and the restriction about not traveling\add* on \add the Sabbath\f + \ft Or: on the Jewish rest day\add* \f* \add was ended\add*, many people \f + \ft hyperbole \f* whose \add friends or relatives\add* were sick or who had various diseases brought them to Jesus. He put his hands on them and healed \add all of\add* them.
+\v 41 He also was \add expelling demons\add* from many people. As the demons left those people, they shouted to Jesus, "You are the Son of God\f + \ft Or: the one who is God and man \f*!" But he rebuked those demons and would not allow them to tell \add people about him\add*, because they knew that he was the Messiah, and \add for various reasons he did not want everyone to know that yet\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 40 When the sun was setting that day, many people brought to Jesus their friends or relatives who were sick with various diseases. He put his hands on them and healed all of them.
+\v 41 He also was forcing evil spirits to come out of many people. As the evil spirits left those people, they shouted to Jesus, "You are the Son of God!" But he commanded those evil spirits not to tell people about him, because they knew that he was the Messiah.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 40 When the sun was setting, people brought to Jesus everyone who was sick with various kinds of diseases. He laid his hands on every one of them and healed them. 
+\v 41 Demons also came out from many of them, crying out and saying, "You are the Son of God!" Jesus rebuked the demons and would not let them speak, because they knew that he was the Christ.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:hand]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:kt:sonofgod]]
+    * [[en:obe:other:rebuke]]
+    * [[en:obe:kt:christ]]
+ 
+===== Translation Notes: =====
+
+    * **Demons also came out from many of them, crying out and saying, "You are the Son of God!"** - Demons fear the words "the Son of God" when they refer to Jesus.
+    * **crying out**  - "screaming" or "shouting"
+    * **rebuked the demons** - "spoke sternly to the demons"
+    * **would not let them** - "did not allow them"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+**[[:en:bible:notes:luk:04:38|<<]] | [[:en:bible:notes:luk:04:42|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

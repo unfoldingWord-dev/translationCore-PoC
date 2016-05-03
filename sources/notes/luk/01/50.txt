@@ -1,0 +1,59 @@
+====== Luke 01:50-51 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 50 He acts mercifully from one generation to the next toward those who respect him.
+\q1
+\v 51 He shows people that he \f + \ft metonymy \f* is very powerful. He scatters those who think proudly within their inner beings.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 50 He acts mercifully from one generation to the next toward those who respect him. 
+\q
+\v 51 He shows people that he is very powerful. 
+\q He scatters those who think proudly within their inner beings.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q \v 50 His mercy is for generation after generation of people who fear him.
+\q \v 51 He has done powerful things with his arm; 
+\q he has scattered those who are proud in their heart.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:mercy]]
+  * [[en:obe:kt:fear]]
+  * [[en:obe:kt:power]]
+  * [[en:obe:other:proud]]
+  * [[en:obe:other:heart]]
+
+===== Translation Notes: =====
+
+  * **His mercy is for** - "God's mercy is for"
+  * **generation after generation of people** - "every generation of people." AT: "people in every time period."
+  * **fear him** - It also means to respect, honor, and obey God.
+  * **with his arm** - "by means of his arm." This is a picture of God's strength. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **scattered** - "chased away."  AT: "caused them to run away in different directions."
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:48|<<]] | [[:en:bible:notes:luk:01:52|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

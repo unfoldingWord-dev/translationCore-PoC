@@ -1,0 +1,53 @@
+====== Luke 12:22-23 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 22 Then \add Jesus\add* said to his disciples, "So I want to tell you this: Do not worry about \add things you need\add* in order to live. Do not worry about \add whether you will have enough food\add* to eat or\add enough clothes\add* to wear.
+\v 23 It is important to have sufficient food and clothing, but the way you conduct your lives is more important.\f + \ft Or: is not the way you conduct your lives more important? \f* \f + \ft rhetorical question \f*
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 22 Then Jesus said to his disciples, "So I want to tell you this: Do not worry about things you need in order to live. Do not worry about whether you will have enough food to eat or enough clothes to wear.
+\v 23 Your life is more important than the food you eat and your body is more important than the clothes you put on it.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 22  Jesus said to his disciples, "Therefore I say to you, do not worry about your life—what you will eat, or about your body—what you will wear.
+\v 23 For life is more than food, and the body is more than clothes.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:disciple]]
+    * [[en:obe:kt:life]]
+
+
+===== Translation Notes: =====
+
+  * **Therefore I say to you**  - "So" or "For that reason" or "Because of what this story teaches"
+  * **I say to you**  - “I want to tell you something important” or “You need to listen carefully to this”
+  * **about your life—what you will eat**  - AT: "about your life and what you will eat" or "about having enough food in order to live."
+  * **about your body—what you will wear**  - AT: "about your body and what you will wear" or "about having enough clothes to put on your body."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/12/20|<<]] | [[en/bible/notes/luk/12/24|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish life }}
+~~NOCACHE~~

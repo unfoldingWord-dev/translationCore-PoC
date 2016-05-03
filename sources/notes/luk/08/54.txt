@@ -1,0 +1,50 @@
+====== Luke 08:54-56 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 54 But \add Jesus\add* took hold of her hand and called to her, saying, "Child, get up!"
+\v 55 At once her spirit returned \add to her body\add* and she got up. Jesus told \add them\add* to give her something to eat.
+\v 56 Her parents were amazed, but Jesus told them not to tell anyone \add else yet\add* what had happened.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 54 But Jesus took hold of her hand and called to her, saying, "Child, get up!"
+\v 55 And immediately her spirit returned to her body and she got up. Jesus told them to give her something to eat.
+\v 56 And her parents were amazed, but Jesus told them not to tell anyone else yet what had happened.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 54 But he, taking the girl by the hand, called out, saying, "Child, arise."
+\v 55 Her spirit returned, and she rose up immediately. He commanded that something be given to her to eat.
+\v 56 Her parents were astonished, but he commanded them to tell no one what had happened.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:spirit]]
+    * [[en:obe:other:command]]
+    * [[en:obe:other:amazed]]
+
+
+===== Translation Notes: =====
+
+    * **Child, arise** - "Little girl, get up"
+    * **Her spirit returned** - The word "spirit" can also be translated as "breath" or "life." AT: "She came back to life" or "She became alive again."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:51|<<]] | [[:en:bible:notes:luk:09:01|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

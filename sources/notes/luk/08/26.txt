@@ -1,0 +1,55 @@
+====== Luke 08:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 Jesus and his disciples arrived at the region near Gerasa, a \add town\add* which \add was on the eastern\add* side of Lake \add Galilee\add*.
+\v 27 \add There was\add* a man \add in that region\add* in whom demons lived. \add He was\add* from the town \add of Gerasa\add*. \f + \ft Or: \add In that area there was\add* a man \add from that town\add* whom demons controlled. \f* For a long time he had not worn clothes. He did not live in a house. Instead, he lived in burial caves.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 Jesus and his disciples continued sailing and came to the region where the Gerasene people lived, on the opposite side of the lake from the district of Galilee.
+\v 27 After Jesus stepped out of the boat onto the land, he was met by a certain man from the town in that area. This man had demons in him.  For a long time this man had not worn clothes and did not live in a house. Instead, he lived in the burial caves.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 26 They arrived at the region of the Gerasenes, which is opposite Galilee.
+\v 27 When Jesus stepped out on the land, a certain man from the city met him, and this man had demons. For a long time he had worn no clothes, and did not live in a house, but rather in the tombs.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:galilee]]
+    * [[en:obe:kt:demon]]
+    * [[en:obe:other:tomb]]
+
+===== Translation Notes: =====
+
+
+    * **region of the Gerasenes**  - Gerasenes were people from the city called Gerasa. (See: [[:en:ta:vol1:translate:translate_names]])
+    * **opposite Galilee**  -  "on the other side of the lack from Galilee"
+    * **a certain man from the city**  - "a man from the city of Gerasa" 
+    * **had demons**  - "he was controlled by demons"
+    * **he had worn no clothes**  - "he had not worn clothes"
+    * **tombs**  - These are places where people put dead bodies, possibly caves.  The fact that the man was living in them indicates that these were not holes dug down in the ground.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+**[[:en:bible:notes:luk:08:24|<<]] | [[:en:bible:notes:luk:08:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish tomb }}
+
+~~NOCACHE~~

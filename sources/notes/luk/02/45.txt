@@ -1,0 +1,57 @@
+====== Luke 02:45-47 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 45 They did not find him, so they returned to Jerusalem to search for him.
+\v 46 Two days later, they found him. He was in the Temple \add courtyard\add*, sitting with the \add Jewish\add* religious teachers. He was listening to what they said, and he was asking them questions.
+\v 47 Everyone who heard what he \add said\add* was amazed at how much he understood and \add how well\add* he answered \add the questions that the teachers asked\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 45 When they did not find him, they returned to Jerusalem to search for him.
+\v 46 After three days, they found him in the temple courtyard, sitting in the midst of the Jewish religious teachers. He was listening to them teach, and he was asking them questions.
+\v 47 All the people who heard what he said were amazed at how much he understood and how well he answered the questions that the teachers asked.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 45 When they did not find him, they returned to Jerusalem and started looking for him there.  
+\v 46 It came about that after three days, they found him in the temple, sitting in the middle of the teachers, listening to them and asking them questions.  
+\v 47 All who heard him were amazed at his understanding and his answers.
+</usfm>
+
+
+===== translationWords: =====
+
+
+  * [[en:obe:kt:temple]]
+  * [[en:obe:kt:teacher]]
+  * [[en:obe:other:amazed]]
+  * [[en:obe:other:understand]]
+
+===== Translation Notes: =====
+
+
+    * **When they did not find him** - "When Mary and Joseph did not find Jesus"
+    * **It came about that** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here. 
+    * **in the temple** - AT: "in the temple courtyard" or "at the temple"
+    * **in the middle of** - This does not mean the exact center. Rather, it means "among" or "together with." 
+    * **the teachers** - AT: "the religious teachers" or "those who taught people about God"
+    * **at his understanding** - AT: "at how much he understood" or "that he understood so much about God"
+    * **his answers** - AT: "at how well he answered them" or "that he answered their questions so well"
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:41|<<]] | [[:en:bible:notes:luk:02:48|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

@@ -1,0 +1,58 @@
+====== Luke 06:31-34 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 31 In whatever way you\add \f + \ft plural \f*\add* want others to act toward you, that is the way that you should act toward them.
+\p
+\v 32 If you love \add only\add* those who love you, do not \add expect God\add* to praise you for \add doing that\add* \f + \ft rhetorical question \f*, \add because\add* even sinners love those who love them.
+\v 33 If you do good things \add only\add* for those who do good things for you, do not \add expect God\add* to reward you \add for doing that\add* \f + \ft rhetorical question \f*, \add because\add* even sinners do that.
+\v 34 If you lend \add things or money only\add* to those who you expect will give something back to you, do not \add expect that God\add* will reward you \f + \ft rhetorical question \f* \add for doing that\add*! Even sinners lend to other sinners, because they expect them to pay everything back.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 31 In whatever way you want others to act toward you, that is the way that you should act toward them.
+\p
+\v 32 If you love only those who love you, do not expect God to praise you for doing that, because even sinners love those who love them.
+\v 33 If you do good things only for those who do good things for you, do not expect God to reward you for doing that, because even sinners do that.
+\v 34 If you lend money or property only to those who will give it back to you, do not expect that God will reward you for doing that! Even sinners lend to other sinners, because they expect them to pay everything back.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 31 As you want people to do to you, you should do the same to them.
+\v 32 If you only love people who love you, what credit is that to you? For even sinners love those who love them.
+\v 33 If you do good only to people who do good to you, what credit is that to you? For even sinners do the same.
+\v 34 If you only lend things to people who you expect will give them back to you, what credit is that to you? Even sinners lend to sinners, and expect to receive the same amount back again.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:love]]
+    * [[en:obe:kt:sin]]
+    * [[en:obe:kt:good]]
+
+===== Translation Notes: =====
+Jesus continues to teach the crowd to love their enemies.
+
+    * **As you want people to do to you, you should do the same to them** - In some languages it may be more natural to reverse the order. "You should do to people the same as what you want them to do to you" or "Treat people they way you want them to treat you."
+    * **what credit is that to you?** - This is a rhetorical question. Another possible meaning is "What reward will you receive?"  AT: "You will not receive any credit for that."  or "What praise will you receive for doing that?" or "Will anyone think that you have done something special?" (See: [[en:ta:vol1:translate:figs_rquestion]]) 
+
+
+ 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+**[[:en:bible:notes:luk:06:29|<<]] | [[:en:bible:notes:luk:06:35|>>]]**
+
+~~DISCUSSION~~{{tag>publish  }}
+
+~~NOCACHE~~

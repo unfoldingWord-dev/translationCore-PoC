@@ -1,0 +1,47 @@
+====== Luke 11:37-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 37 While Jesus finished saying those things, a Pharisee invited him to eat a meal with him. So Jesus went to \add his house\add* and ate with him.
+\v 38 The Pharisee was surprised when he saw that Jesus did not follow the Pharisees' ritual by washing his hands before eating. \add The Pharisees washed their hands in a certain way to be cleansed from anything that might have contaminated them. They were afraid that God might reject them if they\add* had \add touched something unacceptable to God\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 37 After Jesus finished saying those things, a Pharisee invited him to eat a meal with him. So Jesus went into the Pharisee's house and reclined at the table to eat.
+\v 38 The Pharisee was surprised when he saw that Jesus did not ritually wash his hands before eating.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 37 When he had finished speaking, a Pharisee asked him to eat with him at his house, so Jesus went in and reclined.
+\v 38 And the Pharisee was surprised that he first did not wash before dinner.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:pharisee]]
+    * [[en:obe:kt:jesus]]
+
+
+===== Translation Notes: =====
+
+    * **reclined** - “sat down at the table.” It was the custom for a relaxed meal such as this dinner for men to eat while laying down comfortably around the table.
+    * **wash** -  "wash his hands" or "wash his hands in order to be ritually clean." The Pharisees had a rule that people must wash their hands in order to be ceremonially clean before God. 
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:33|<<]] | [[:en:bible:notes:luk:11:39|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

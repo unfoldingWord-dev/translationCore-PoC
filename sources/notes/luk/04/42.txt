@@ -1,0 +1,59 @@
+====== Luke 04:42-44 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 42 \add Early\add* the next morning \add Jesus\add* left that house and went to an uninhabited place \add to pray\add*. Many people searched for him, and when they found him they kept urging him not to leave them.
+\v 43 But he said to them, "I must tell \add people\add* in other towns also the good message about how God wants to rule \f + \ft metaphor \f* their lives, because that is what I was sent \f + \ft Or:\add God\add* sent me \f* to do."
+\v 44 So he kept preaching in the synagogues\f + \ft Or: Jewish worship places \f* \add in various towns\add* in Judea \add province\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 42 Early the next morning Jesus left that house and went to an uninhabited place to pray. Crowds of people were searching for him, and when they found him they kept urging him not to leave them.
+\v 43 But he said to them, "I must tell people in other cities also the message about how God is going to rule everyone, because that is what I was sent  to do."
+\v 44 So he kept preaching in the synagogues in various towns in the province of Judea.
+</usfm>
+
+
+===== ULB: =====
+
+
+<usfm>
+\p 
+\v 42 When daybreak came, he went out into a solitary place. Crowds of people were looking for him and came to the place where he was. They tried to keep him from going away from them. 
+\v 43 But he said to them, "I must also preach the good news about the kingdom of God to many other cities, because this is the reason I was sent here."
+\p 
+\v 44 Then he continued to preach in the synagogues throughout the province of Judea.
+</usfm>
+
+===== translationWords: =====
+
+    * [[en:obe:other:preach]]
+    * [[en:obe:kt:goodnews]]
+    * [[en:obe:kt:kingdomofgod]]
+    * [[en:obe:other:synagogue]]
+    * [[en:obe:other:judea]]
+
+===== Translation Notes: =====
+
+
+    * **When daybreak came**  - "At sunrise" or "At dawn"
+    * **a solitary place** - "a deserted place" or "a place where no people lived" or "a place where there were no people"
+    * **to many other cities** - AT: "to the people in many other cities."
+    * **this is the reason I was sent here** - AT: "this is the reason God sent me here." (See: [[en:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/04/40|<<]] | [[en/bible/notes/luk/05/01|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish preach judea}}
+~~NOCACHE~~

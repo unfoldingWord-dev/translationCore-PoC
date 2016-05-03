@@ -1,0 +1,49 @@
+====== Luke 03:7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 Although large groups of people came to John to be baptized \f + \ft Or:in order that he would baptize them \f*, \add he knew that many of them were not sincere\add*. So he kept saying to them, "You \add people are evil\add* \f + \ft metaphor \f* \add like\add* poisonous snakes! \add I\add* warn you that \add God\add* will some day punish \f + \ft metonymy \f* \add everyone\add* who sins. And do not think that you can escape \add from his punishing\add* \f + \ft metonymy \f* \add you if you do not turn from your sinful behavior!\f + \ft Or: did someone tell you\add* that you can escape \add from his punishing\add* \f + \ft metonymy \f* \add you if you do not turn from your sinful behavior\add*? \f* \f + \ft rhetorical question \f* \f + \ft Or: Who told you that you could escape \add God's punishment?\add* \f*
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 John said to the crowds of people who were coming to be baptized by him, "You people are evil like poisonous snakes! No one warned you that one day God will punish everyone who sins, did they? Do not think that you can escape from him!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 7 So John said therefore to the large crowds of people who were coming out to be baptized by him, "You offspring of poisonous snakes, who warned you to flee from the wrath that is coming?
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:johnthebaptist]]
+    * [[en:obe:kt:baptize]]
+    * [[en:obe:other:offspring]]
+    * [[en:obe:other:serpent]]
+    * [[en:obe:kt:wrath]]
+===== Translation Notes: =====
+
+    * **to be baptized by him** - "for John to baptize them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+    * **You offspring of poisonous snakes** - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **who warned you**  - He wasn't really expecting them to answer. John was rebuking the people because they were asking him to baptize them so that God would not punish them, but they did not want to stop sinning. AT: "You can't flee from God's wrath like this" or "Do you think that you can flee from God's wrath just by being baptized?"  (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **from the wrath that is coming** - The word "wrath" is used here to refer to God's punishment because his wrath precedes it. AT: "from the punishment that God is sending" or "from God's wrath on which he is about to act" (See: [[en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:03:05|<<]] | [[:en:bible:notes:luk:03:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish johnthebaptist wrath}}
+
+~~NOCACHE~~

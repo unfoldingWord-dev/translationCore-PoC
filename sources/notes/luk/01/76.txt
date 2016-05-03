@@ -1,0 +1,73 @@
+====== Luke 01:76-77 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 76 \add Then Zechariah said this to\add* his little son:
+\q1 My child, you will be called \f + \ft Or:people will say that you are \f* a prophet
+\q1 whom God [MTY\f + \ft Or: EUP \f*] has sent;
+\q1 you will begin your work before the Lord\f + \ft Or: Messiah \f* comes;
+\q1 you will prepare people so that they will be ready for him.
+\q1 \f + \ft Or: you will begin your work before the Messiah comes \f*.
+\q1
+\v 77 You will tell God's people how he will forgive them and save them from being punished for their sins.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 76 Then Zechariah said this to his baby son: 
+\q "My child, you will be called a prophet 
+\q of the Most High God. 
+\q You will go ahead of the Lord 
+\q to prepare a people to be ready when he comes.
+\q
+\v 77 You will tell people that God is able to forgive them and save them from being punished for their sins.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q \v 76 And you, my child, will be called the prophet of the Most High,
+\q because you will go in advance of the Lord 
+\q to prepare people for his coming, 
+\q \v 77 and to help people know how they can be saved
+\q through the forgiveness of their sins.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:prophet]]
+    * [[en:obe:kt:mosthigh]]
+    * [[en:obe:kt:lordgod]]
+    * [[en:obe:other:know]]
+    * [[en:obe:kt:save]]
+    * [[en:obe:kt:forgive]]
+    * [[en:obe:kt:sin]]
+
+
+===== Translation Notes: =====
+
+Zechariah continues to prophesy, but now he speaks directly to his newborn son.
+
+    * **will be called the prophet** - This means he actually will be the prophet, not just called a prophet, and people will know him as such. AT: "will be the prophet." 
+    * **of the Most High** - AT: "who serves the Most High" or "who speaks for God Most High"
+    * **how they can be saved through the forgiveness of their sins**  - AT: "how God will save them by forgiving their sins" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:72|<<]] | [[:en:bible:notes:luk:01:78|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

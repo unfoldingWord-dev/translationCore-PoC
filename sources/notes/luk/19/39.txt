@@ -1,0 +1,62 @@
+====== Luke 19:39-40 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 39 Some of the Pharisees who were in the crowd said to him, "Teacher, rebuke your disciples \add for saying things like that!\add*"
+\v 40 He replied, "I tell you this: If these people would be silent, the stones themselves would shout \add to praise me!\add*"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 39 Some of the Pharisees who were in the crowd said to him, "Teacher, tell your disciples to stop saying those things!"
+\v 40 He replied, "I tell you this: if these people were silent, the stones themselves would shout to praise me!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 39 Some of the Pharisees in the multitude said to him, "Teacher, rebuke your disciples."
+\v 40 Jesus answered and said, "I tell you, if these were silent, the stones would cry out."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:pharisee]]
+  * [[en:obe:kt:teacher]]
+  * [[en:obe:other:rebuke]]
+  * [[en:obe:kt:disciple]]
+
+ 
+
+===== Translation Notes: =====
+
+  * **rebuke your disciples**  - AT: "tell your disciples to stop doing these things"
+  * **I tell you**  - Jesus said this to emphasize what he would say next.
+  * **if these were silent**  - This is a hypothetical situation. Some translators may need to  make it clear what Jesus was implying when he said this: "No, I will not rebuke them, for if these people were to be silent..." (See: [[en:ta:vol1:translate:figs_hypo]], [[en:ta:vol1:translate:figs_explicit]])
+  * **the stones would cry out**  - "the stones would call out praises"
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/37|<<]] | [[en/bible/notes/luk/19/41|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

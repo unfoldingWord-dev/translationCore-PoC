@@ -1,0 +1,60 @@
+====== Luke 05:27-28 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 27 Then \add Jesus\add* left \add the town\add* and saw a man who collected taxes \add for the Roman government\add*. His name was Levi. He was sitting in the booth where he collected the taxes. Jesus said to him, "Come with me \add and become my disciple\add*!"
+\v 28 So Levi left his work \f + \ft hyperbole \f* and went with Jesus.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 27 Then Jesus left that place and saw a man named Levi who collected taxes for the Roman government. He was sitting in the booth where the people came to pay him the taxes that the government required. Jesus said to him, "Come with me and become my disciple!"
+\v 28 So Levi left his work and went with Jesus.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 27 After these things happened, Jesus went out from there and saw a tax collector named Levi sitting at the tax collecting place. He said to him, "Follow me."
+\v 28 So Levi left everything, got up, and followed him.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:kt:jesus]]
+    * [[en:obe:other:taxcollector]]
+    * [[en:obe:other:matthew]]
+
+
+===== Translation Notes: =====
+
+
+    * **After these things happened**  - This refers to what happened in the previous verses.
+    * **saw a tax collector**  - That is, "looked at a tax collector with attention" or "looked carefully at a tax collector."
+    * **tax collecting place** - "tax booth" or "tax-collecting station." This was a booth or table at the side of the road where people had to pay taxes to the government.
+    * **Follow me** - AT: "Be my disciple" or "Come, follow me as your teacher."
+    * **left everything** - "left his work as a tax collector"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/05/25|<<]] | [[en/bible/notes/luk/05/29|>>]]**
+
+~~DISCUSSION~~
+
+{{tag>publish matthew taxcollector}}
+~~NOCACHE~~

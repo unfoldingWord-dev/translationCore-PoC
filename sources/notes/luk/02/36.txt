@@ -1,0 +1,72 @@
+====== Luke 02:36-38 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 36 There was also \add in the Temple courtyard\add* a very old woman named Anna. She was a prophetess. Her father Phanuel was a member of the tribe of Asher. After she had been married seven years, her husband died.
+\v 37 After that, she lived until she was eighty-four years old, and she was still a widow. She stayed in the Temple \add area\add* all the time, night and day, worshipping God. She often abstained from food\f + \ft Or: fasted \f* as she prayed.
+\v 38 \add While Joseph and Mary and the baby were\add* still \add in the Temple, Anna came to them. She thanked God for the baby\add*. Then she spoke about Jesus to many people who were expecting \add God to send the Messiah\add* \f + \ft metonymy \f* to set \add the people of\add* \f + \ft metonymy \f* Jerusalem free \add from their enemies\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 36 There was also in the temple courtyard a prophetess named Anna who was very old. Her father Phanuel was a member of the tribe of Asher. She had been married for seven years and then her husband died.
+\v 37 After that, she lived eighty-four more years as a widow. She was always serving in the temple area and worshiped God night and day. She often fasted and prayed.
+\v 38 At that very moment, Anna came up to them and began thanking God for the baby. Then she spoke about Jesus to many people who were expecting God to redeem Jerusalem.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 36 A prophetess named Anna was also there. She was the daughter of Phanuel from the tribe of Asher.  She was very advanced in years. She had lived with her husband for seven years after her marriage,  
+\v 37 and then was a widow for eighty-four years. She never left the temple and was continually worshiping God with fasting and prayers, night and day.  
+\v 38 At that very moment, she came up to them and began thanking God. She talked about the child to everyone who had been waiting for the redemption of Jerusalem.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:kt:prophet]]
+    * [[en:obe:other:tribe]]
+    * [[en:obe:other:asher]]
+    * [[en:obe:kt:temple]]
+    * [[en:obe:kt:worship]]
+    * [[en:obe:kt:god]]
+    * [[en:obe:other:fast]]
+    * [[en:obe:other:pray]]
+    * [[en:obe:kt:redeem]]
+    * [[en:obe:other:jerusalem]]
+
+===== Translation Notes: =====
+
+Anna meets baby Jesus at the temple.
+
+    * **Anna** - "Anna" is the name of a woman. (See: [[:en:ta:vol1:translate:translate_names]])
+    * **Phanuel** - "Phanuel" is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+    * **years** - See [[en:obe:other:biblicaltimeyear]].
+    * **after her marriage**  - "after she married him"
+    * **a widow for eighty-four years** - Possible meanings are 1) she had been a widow for 84 years or 2) she was a widow and was now 84 years old. (See: [[en:ta:vol2:translate:translate_numbers]])
+    * **never left the temple** - This is probably an exaggeration meaning that she spent so much time in the temple that it seemed as though she never left it. AT: "was always at the temple" or "was often at the temple." (See: [[en:ta:vol2:translate:figs_hyperbole]])
+    * **with fasting and prayers** - "by abstaining from food and by praying"
+    * **came up to them** - "approached them" or "went to Mary and Joseph"
+    * **the redemption of Jerusalem** - Here the word "redemption" is used to refer to the the person who would do it. AT: "the one who would redeem Jerusalem" or "the person who would bring God's blessings and favor back to Jerusalem." (See: [[en:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:33|<<]] | [[:en:bible:notes:luk:02:39|>>]]**
+
+~~DISCUSSION~~{{tag>publish asher  redeem}}
+
+~~NOCACHE~~

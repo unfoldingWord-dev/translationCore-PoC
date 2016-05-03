@@ -1,0 +1,49 @@
+====== Luke 11:45-46 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 45 One of those who taught the \add Jewish\add* laws replied, "Teacher, by saying this you\add \f + \ft singular \f*\add* are criticizing us \add also\add*!"
+\v 46 Jesus said, "It will be terrible also for you who teach the \add Jewish\add* laws! You require people \add to obey many rules that are difficult to obey\add* \f + \ft metaphor \f*. \add That is like making them\add* carry heavy burdens on their backs. But you yourselves do not obey the laws \add that you require others to obey\add*. \f + \ft Or: you do not do anything to help \add others to obey the laws\add*. \f*
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 45 One of those who were teachers of the Jewish laws replied, "Teacher, by saying this you are criticizing us also!"
+\v 46 Jesus said, "How terrible it will be for you who are teachers of the Jewish laws! You weigh people down with very heavy burdens, yet you will not do even the smallest thing to help people bear those burdens!
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 45 And a certain teacher of the Jewish laws answered him and said, "Teacher, what you say insults us too."
+\v 46  Jesus said, "And woe to you, teachers of the law! For you burden men with burdens hard to carry, but you do not even touch those burdens with one of your own fingers.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:scribe]]
+    * [[en:obe:kt:teacher]]
+    * [[en:obe:kt:woe]]
+    * [[en:obe:other:burden]]
+
+===== Translation Notes: =====
+
+
+    * **you burden men with burdens hard to carry** - "You put burdens on people that are heavy for them to carry." This is a metaphor in which giving people many rules is compared to giving them heavy things to carry. AT: "You burden people by giving them too many rules to follow."  (See: [[en:ta:vol1:translate:figs_metaphor]])
+    * **but you do not even touch those burdens with one of your own fingers** - "but you do not even use one of your fingers to help them carry the burdens." It means "but you do not do anything at all to help them obey your rules."
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:43|<<]] | [[:en:bible:notes:luk:11:47|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

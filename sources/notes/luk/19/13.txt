@@ -1,0 +1,66 @@
+====== Luke 19:13-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 13 \add Before he left\add*, he summoned ten of his servants. He gave each of them a coin worth three months' wages. He said to them, 'Do business with these coins until I return!' \add Then he left\add*.
+\v 14 But \add many of\add* his fellow-citizens hated him. So they sent some messengers after him to tell \add the Emperor\add*, 'We\add \f + \ft exclusive \f*\add* do not want this man to be our king!'
+\v 15 But \add the Emperor\add* made him king anyway. \add Later\add* the \add new king\add* returned. Then he commanded that the servants to whom he had given the coins should be summoned \f + \ft Or:that someone should summon the servants to whom he had given the coins \f*. He wanted to know how much they had gained by doing business with the coins.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 13 Before he left, he summoned ten of his servants. He gave each of them an equal amount of money. He said to them, 'Do business with this money until I return!' Then he left.
+\v 14 But many people of his country hated him. So they sent some messengers to follow him and say to the higher king, 'We do not want this man to be our king!'
+\v 15 But he was made king anyway. Later he returned as the new king. Then he called in the servants to whom he had given the money. He wanted to know how much they had gained by doing business with the money he had given them.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 13 He called ten of his servants, and gave them ten minas, and said to them, 'Conduct business until I come back.'
+\v 14 But his citizens hated him and sent a delegation of ambassadors after him, saying, 'We will not have this man rule over us.'
+\v 15 It happened when he came back again, having received the kingdom, he commanded the servants to whom he had given the money to be called to him, that he might know what profit they had made by doing business.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:other:citizen]]
+  * [[:en:obe:other:ambassador]]
+  * [[en:obe:other:ruler]]
+  * [[en:obe:other:command]]
+  * [[en:obe:other:profit]]
+
+ 
+
+===== Translation Notes: =====
+Jesus continues telling his parable.
+  * **He called** - The word "He" refers to the nobleman.
+  * **gave them ten minas**  - This can be translated as "gave them each one mina."
+  * **ten minas**  - This can be translated as "ten valuable coins" or "a large amount of money." Each mina was worth about what someone would be paid in four months. (See: [[en:obe:other:biblicalweight]])
+  * **Conduct business** - This can be translated as "Trade with this money" or "Use this money in order to earn more."
+  * **his citizens** - "the people of his country"
+  * **a delegation of ambassadors**  - "representatives" or "messengers"
+  * **It happened** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+  * **having received the kingdom** - "after he had become king"
+  * **what profit they had made**  - "what money they had earned"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/luk/19/11|<<]] | [[en/bible/notes/luk/19/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish citizen}}
+
+~~NOCACHE~~

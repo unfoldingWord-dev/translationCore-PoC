@@ -1,0 +1,63 @@
+====== Luke 24:33-35 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 33 So they left immediately and returned to Jerusalem. There they found the eleven \add apostles\add* and others who had gathered together with them.
+\v 34 They told \add those two men\add*, "It is true that the Lord has become alive again, and he has appeared to Simon\f + \ft Or: Peter \f*!"
+\v 35 Then those two \add men\add* told \add the others\add* what had happened \add as they were walking\add* along the road. They also \add told them how\add* they both recognized him as he broke some bread \add for them\add*.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 33 So they left immediately and returned to Jerusalem. There they found the eleven apostles and others who had gathered together with them.
+\v 34 They told those two men, "It is true that the Lord has become alive again, and he has appeared to Simon!"
+\v 35 Then those two men told the others what had happened as they were walking along the road. They also told them how they both recognized him as he broke some bread for them.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 33 They rose up that very hour, and returned to Jerusalem. They found the eleven gathered together, and those who were with them,
+\v 34 saying, "The Lord is risen indeed, and has appeared to Simon."
+\v 35 So they told the things that happened on the way, and how Jesus was shown to them in the breaking of the bread.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:hour]]
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:kt:thetwelve]]
+  * [[en:obe:kt:lord]]
+  * [[en:obe:kt:raise]]
+  * [[en:obe:other:peter]]
+ 
+
+===== Translation Notes: =====
+
+    * **They rose up** - "They" refers to the two men. Languages that have a dual form of "they" should use it here.
+    * **rose up** - "got up" or "stood up"
+    * **the eleven** - This refers to Jesus' apostles. Judas was not with them.
+    * **saying, "The Lord is risen indeed** - The eleven apostles and those who were with them were saying this.
+    * **So they told** - "so the two men told"
+    * **the things that happened on the way** - This refers to Jesus appearing to them while they were on their way to the village of Emmaus. 
+    * **how Jesus was shown to them** - This can be translated with an active verb as "how they recognized Jesus."  (See: [[en:ta:vol2:translate:figs_activepassive]])
+    * **in the breaking of the bread** - "when Jesus broke the bread" or "when Jesus tore the bread"
+  
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:30|<<]] | [[:en:bible:notes:luk:24:36|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

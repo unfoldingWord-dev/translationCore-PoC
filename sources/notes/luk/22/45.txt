@@ -1,0 +1,53 @@
+====== Luke 22:45-46 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 45 When he got up from praying, he returned to his disciples. He found that they were sleeping. They were exhausted because they were very sorrowful.
+\v 46 He \add woke them and\add* said to them, "I am disappointed that you are sleeping!\f + \ft Or: Why are you sleeping? \f* \f + \ft rhetorical question \f* Get up! Pray that \add God will help you\add* whenever you are tempted \f + \ft Or:when something \add like this\add* tempts you \f*!"
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 45 When he got up from praying, he returned to his disciples. He found that they were so tired out because of their sorrow, they were sleeping.
+\v 46 He woke them up and said to them, "You should not be sleeping! Get up! Pray that God will help you so that nothing will persuade you to sin."
+
+
+\\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 45 When he rose up from his prayer, he came to the disciples, and found them sleeping because of their sorrow,
+\v 46 and asked them, "Why are you sleeping? Rise and pray, that you may not enter into temptation."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:pray]]
+  * [[en:obe:kt:disciple]]
+  * [[en:obe:other:pray]]
+  * [[en:obe:kt:tempt]]
+ 
+
+===== Translation Notes: =====
+
+  * **When he rose up from his prayer**  - This can be translated as "When Jesus got up after praying" or "After praying, Jesus got up and."
+  * **found them sleeping because of their sorrow**  - "saw that they were sleeping because they were so sad"
+  * **Why are you sleeping?**  - This is a rhetorical question. Possible meanings are 1) "I am surprised that you are sleeping now" or 2) "You should not be sleeping now!" (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **enter into temptation**  - "be tempted" or "sin when you are tempted"
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+**[[:en:bible:notes:luk:22:43|<<]] | [[:en:bible:notes:luk:22:47|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}

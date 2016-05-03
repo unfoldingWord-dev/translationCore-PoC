@@ -1,0 +1,50 @@
+====== Luke 17:30-31 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 Similarly, when \add I\add*, the one who came from heaven, return to earth \add people will be unprepared\add* \f + \ft Or: \add enjoying normal life\add* \f*
+\v 31 On that day, those who are outside their houses, with all the things that they own inside \add the houses\add*, must not go \add inside\add* to take them away, \add because there will not be enough time to do that\add*. Similarly, those who are working in a field must not turn back \add to get anything\add*; \add they must flee quickly\add*.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 Similarly, when I, the  Son of Man, return to earth, people will be unprepared.
+\v 31 On that day, those who are outside their houses, with all the things that they own inside the houses, must not take time to go inside to take them away. Similarly, those who are working in a field must not turn back to get anything; they must flee quickly.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 30 After the same manner it will be in the day that the Son of Man is revealed.
+\v 31 In that day, do not let him who is on the housetop go down to get his goods out of the house. And do not let him who is in the field return.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:sonofman]]
+  * [[en:obe:kt:reveal]]
+ 
+
+===== Translation Notes: =====
+Jesus continues speaking.
+
+    * **After the same manner it will be** - This means "It will be like that." How it will be like the time of Lot can be stated clearly as in the UDB: "People will be unprepared." (See: [[en:ta:vol1:translate:figs_explicit]])
+    * **in the day that the Son of Man is revealed** -  "when the Son of Man appears" or "when the Son of man comes"
+    * **do not let him who is on the housetop go down**  - “Whoever is on the housetop must not go down” or “If anyone is on his housetop, he must not go down” 
+    * **on the housetop** - Their housetops were flat and people could sit on them.
+    * **his goods** - "his possessions" or "his things"
+    * **return**  - The implied information that they were not to go back to the house to get anything and that they must flee quickly can be stated clearly as in the UDB. (See: [[en:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+**[[:en:bible:notes:luk:17:28|<<]] | [[:en:bible:notes:luk:17:32|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

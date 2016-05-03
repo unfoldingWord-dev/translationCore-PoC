@@ -1,0 +1,58 @@
+====== Luke 11:5-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 5 Then he said to them, "Suppose that one of you goes to the house of a friend at midnight. Suppose that you\add \f + \ft singular \f* stand outside and\add* call out to him, 'My friend, please lend me three buns!
+\v 6 Another friend of mine who is traveling has just arrived \add at my house\add*, but I have no food \add ready\add* to give to him!'
+\v 7 Suppose that he answers you from inside \add the house\add*, 'Do not bother me! The door has been locked \f + \ft Or:\add We( exclusive )\add* have locked the door \f* and all my family are in bed. \add So\add* I cannot get up and give you\add \f + \ft singular \f*\add* anything!'
+\v 8 I will tell you that even if he does not \add want to\add* get up and give you \add any food\add*, to avoid being ashamed \add for not helping you\add* because you are his friend \f + \ft Or: if without being ashamed you continue asking him to do that \f*, he certainly will get up and give you whatever you need.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 5 Then he said to them, "Suppose that one of you goes to the house of a friend at midnight. Suppose that you stand outside and call out to him, 'My friend, please lend me three loaves of bread!
+\v 6 Another friend of mine who is traveling has just arrived at my house, but I have no food ready to give to him!'
+\v 7 Suppose that he answers you from inside the house, 'Do not bother me! The door has been locked and all my family are in bed. So I cannot get up and give you anything!'
+\v 8 I tell you, he may not want to get up and give you any food even though you are his friend. But because you keep persisting in asking him,  he will certainly get up and give you whatever you need.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 5 Jesus said to them, "Which of you will have a friend, and will go to him at midnight, and say to him, 'Friend, lend to me three loaves of bread,
+\v 6 since a friend of mine just came in from the road, and I do not have anything to set before him.'
+\v 7 Then the one inside, answering, may say, 'Do not bother me. The door is already shut, and my children, along with me, are in bed. I am not able to get up and give bread to you.'
+\v 8 I say to you, even if he does not get up and give bread to you because you are his friend, yet because of your shameless persistence, he will get up and give you as many loaves of bread as you need.
+</usfm>
+
+
+===== translationWords: =====
+
+    * [[en:obe:other:bread]]
+
+
+===== Translation Notes: =====
+Jesus continues to teach his disciples about prayer.
+    * **Which of you will have**  - Jesus used rhetorical questions to get people to consider what might happen if they were in a certain situation. AT: "Suppose one of you has" or "Suppose you have." (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **lend to me three loaves of bread**  - "let me borrow three loaves of bread" or "give me three loaves of bread and I will pay you later." The host does not have any food ready to give to his guest.
+    * **three loaves of bread** - If your people would wonder why someone would ask for bread, you could use a generic term like "cooked food" or "prepared food."
+    * **just came in from the road**  - AT: "was traveling and just came to my house."
+    * **anything to set before him**  - "any food ready to give him"
+    * **I am not able to get up** - "It is not convenient for me to get up"
+    * **I say to you** - Jesus was speaking to the disciples, so the word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
+    * **give bread to you because you are his friend** - Jesus addresses the disciples as if they were the ones asking for bread. AT: "give bread to him because he is his friend."
+    * **shameless persistence** - This refers to the fact that the person asking for bread ignores the fact that is is inconvenient for his friend to get up in the middle of the night to get the bread for him.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+**[[:en:bible:notes:luk:11:03|<<]] | [[:en:bible:notes:luk:11:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

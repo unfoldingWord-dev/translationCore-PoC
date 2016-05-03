@@ -1,0 +1,54 @@
+====== Luke 02:4-5 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 4 So, because Joseph was a descendant of \add King\add* David, he went up from Nazareth, the town in Galilee \add district where he lived\add*, to Bethlehem town in Judea \add district\add*. That was the town where \add King\add* David \add grew up\add*.
+\v 5 Joseph went with Mary, who \add was considered\add* \f + \ft Or:whom \add people considered\add* \f* \add to be\add* his wife, who was now pregnant. They went so that they could put his name and Mary's name \add in the record book\add*.
+</usfm>   
+
+
+===== UDB: =====
+
+<usfm>
+\v 4-5 Joseph also traveled to his family's hometown, along with Mary who was engaged to him and was pregnant. Because Joseph was a descendant of King David, they left the town of Nazareth in the region of Galilee and traveled to the region of Judea, to the town of Bethlehem, which is also known as the city of David. Joseph and Mary went there to be registered in the public record.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 4 Joseph also departed from the city of Nazareth in Galilee and traveled to the Judean town of Bethlehem, which is known as the city of David, because he was a descendant from the family of David.  
+\v 5 He went there to register along with Mary, who was engaged to him and was expecting a child.
+</usfm>
+
+
+===== translationWords: =====
+
+
+    * [[en:obe:other:josephnt]]
+    * [[en:obe:other:nazareth]]
+    * [[en:obe:other:galilee]]
+    * [[en:obe:other:judea]]
+    * [[en:obe:other:bethlehem]]
+    * [[en:obe:other:cityofdavid]]
+    * [[en:obe:other:descendant]]
+    * [[en:obe:other:family]]
+    * [[en:obe:other:david]]
+    * [[en:obe:other:mary]]
+===== Translation Notes: =====
+
+  * **traveled to the Judean town of Bethlehem** - "went up to the town of Bethlehem in Judea." Bethlehem was higher in elevation than Nazareth. 
+  * **city of David **- Bethlehem was called a city because of its importance, not its size. King David was born there and there was a prophecy that the Messiah would be born there. AT: "city of King David."
+  * **to register**  - AT: "to have his name written in the register" or "to be included in the count"
+  * **along with Mary**  - Mary traveled with Joseph from Nazareth. It is likely that women were also taxed, so Mary would have needed to travel and be registered as well.
+  * **who was engaged to him**  - An engaged couple was considered legally married, but there would not have been physical intimacy between them.  AT: "his fiancée" or "who was promised to him."
+
+===== Links: =====
+
+  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:02:01|<<]] | [[:en:bible:notes:luk:02:06|>>]]**
+
+~~DISCUSSION~~{{tag>publish josephnt  cityofdavid}}

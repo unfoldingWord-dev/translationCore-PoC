@@ -1,0 +1,56 @@
+====== Luke 13:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Then he said, "I will tell \f + \ft rhetorical question \f* you something else, to illustrate how the people who let God rule \f + \ft metaphor \f* \add their lives can influence their society more and more\add*.
+\v 21 It is like \add a little bit of\add* yeast that a woman mixed with about fifty pounds of flour. \add That small amount of yeast made\add* the whole batch of dough swell up."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Then again he said, "I will tell you in another what it will be like when God shows himself as king.
+\v 21 It is like a little bit of yeast that a woman mixed with about twenty-five  kilograms of flour. That small amount of yeast made the whole batch of dough swell up."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 20 Again he said, "To what can I compare the kingdom of God?
+\v 21 It is like yeast that a woman took and mixed with three measures of flour until it rose."
+</usfm>
+
+
+===== translationWords: =====
+
+
+
+    * [[:en:obe:kt:kingdomofgod]]
+    * [[:en:obe:other:yeast]]
+
+===== Translation Notes: =====
+Jesus continues speaking in the synagogue.
+    * **To what can I compare the kingdom of God?** - This is another rhetorical question that introduces what Jesus wants to talk about it. It can be translated as a statement as in the UDB.  (See: [[en:ta:vol1:translate:figs_rquestion]])
+    * **It is like yeast** - Only a little bit of yeast was needed to make a lot of dough rise. This can be made clear as it is in the UDB. 
+    * **three measures of flour** - It can be translated as "a large amount of flour" or with a term that your culture uses for measuring a large amount of flour. 
+
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+**[[:en:bible:notes:luk:13:18|<<]] | [[:en:bible:notes:luk:13:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish  yeast}}
+
+~~NOCACHE~~

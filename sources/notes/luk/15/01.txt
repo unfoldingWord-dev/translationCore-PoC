@@ -1,0 +1,51 @@
+====== Luke 15:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Many \f + \ft hyperbole \f* tax collectors and \add others whom people considered to be\add* habitual sinners kept coming to him to listen to him teach.
+\v 2 The Pharisees and men who taught the \add Jewish\add* laws \add who were there\add* \f + \ft synecdoche \f* began to grumble, saying, "This man welcomes sinners and he also \add defiles himself by eating\add* with them!"
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Now, many tax collectors and other people who were considered to be habitual sinners kept coming to Jesus to listen to him teach.
+\v 2 And the Pharisees and teachers of the Jewish laws began to grumble, saying, "This man welcomes sinners and even eats with them." They thought Jesus was defiling himself by doing this.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 15
+\p
+\v 1 Now all the tax collectors and other sinners were coming to Jesus to listen to him.
+\v 2 Both the Pharisees and the scribes grumbled to each other, saying, "This man welcomes sinners, and even eats with them."
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:other:taxcollector]]
+  * [[en:obe:kt:sin]]
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:pharisee]]
+  * [[en:obe:other:scribe]]
+
+===== Translation Notes: =====
+
+  * **This man welcomes sinners**  - "This man lets sinners into his presence" or "This man associates with sinners"
+  * **This man**  - They were talking about Jesus.
+  * **even eats with them**  - The word "even" shows that they thought it was bad enough that Jesus allowed sinners to come to him, but it was worse that he would eat with them.
+
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+**[[:en:bible:notes:luk:14:34|<<]] | [[:en:bible:notes:luk:15:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish taxcollector}}
+
+~~NOCACHE~~

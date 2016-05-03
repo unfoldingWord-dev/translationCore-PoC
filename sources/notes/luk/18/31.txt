@@ -1,0 +1,52 @@
+====== Luke 18:31-33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 31 \add Jesus\add* took the twelve \add disciples\add* to a place by themselves and said to them, "Listen carefully! We\add \f + \ft inclusive \f*\add* are \add now\add* going up to Jerusalem. \add While we are there\add*, everything that has been written by the prophets \f + \ft Or:that the prophets have written \f* about \add me\add*, the one who came from heaven, will be fulfilled \f + \ft Or:will occur \f*.
+\v 32 I will be put \f + \ft Or:\add My enemies\add* will put me \f* into the hands of non-Jews. \add The non-Jews\add* will make fun of me and mistreat me and spit on me.
+\v 33 They will whip me, and \add then\add* they will kill me. But on the third day \add after that\add* I will become alive again."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 31 Jesus took the twelve disciples to a place by themselves and said to them, "Listen carefully! We are now going up to Jerusalem. While we are there, everything that the prophets wrote long ago about me, the Son of Man, will be accomplished.
+\v 32 My enemies will put me into the power of the non-Jews. They  will mock me, treat me with disdain and spit on me.
+\v 33 They will whip me, and then they will kill me. But, on the third day after that I will become alive again."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 31 After he gathered the twelve to himself, he said to them, "See, we are going up to Jerusalem, and all the things that have been written by the prophets about the Son of Man will be accomplished.
+\v 32 For he will be given over to the Gentiles, and will be mocked, and shamefully treated, and spit upon.
+\v 33 After whipping him, they will kill him and on the third day he will rise again."
+</usfm>
+
+===== translationWords: =====
+
+  * [[en:obe:kt:thetwelve]]
+  * [[en:obe:other:jerusalem]]
+  * [[en:obe:other:written]]
+  * [[en:obe:kt:prophet]]
+  * [[en:obe:kt:sonofman]]
+  * [[en:obe:other:gentile]]
+  * [[en:obe:other:mock]]
+  * [[en:obe:other:shame]]
+  * [[en:obe:kt:raise]]
+
+===== Translation Notes: =====
+
+  * **See**  - This indicates a significant change in the ministry of Jesus as he goes to Jerusalem for the final time.
+  * **the prophets**  - This refers to the Old Testament prophets.
+  * **will be accomplished**  - "will happen" or "will occur"
+  * **Son of Man**  - Jesus speaks of himself as "the Son of Man" and uses "he" to refer to himself.
+  * **on the third day**  - This refers to the third day after his death. However, the disciples did not yet understand this, so it is best not to add this explanation when translating this verse.
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+**[[:en:bible:notes:luk:18:28|<<]] | [[:en:bible:notes:luk:18:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish thetwelve  }}

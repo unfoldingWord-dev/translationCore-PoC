@@ -1,0 +1,59 @@
+====== Luke 01:67-68 ======
+
+===== TFT: =====
+
+<usfm>
+\v 67 \add After\add* Zechariah's \add son was born\add*, Zechariah was completely directed by the Holy Spirit \f + \ft Or:the Holy Spirit completely directed Zechariah \f* as he spoke these words that came from God:
+\q1
+\v 68 Praise the Lord, the God whom we\f + \ft inclusive \f* people of Israel worship,
+\q1 because he has come to set us, his people, free from our enemies.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 67 After Zechariah's son was born, Zechariah was controlled by the Holy Spirit and he spoke these words from God: 
+\q
+\v 68 "Praise the Lord, the God whom we people of Israel worship, 
+\q because he has come to set us, his people, free.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p 
+\v 67 His father Zechariah was filled with the Holy Spirit, and he spoke this prophecy,
+\q \v 68 "Praise the Lord, the God of Israel, 
+\q because he has come to us and has made a way to set his people free.
+</usfm>
+
+===== translationWords: =====
+
+  * [[:en:obe:kt:filled]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:israel]]
+  * [[:en:obe:kt:peopleofgod]]
+
+===== Translation Notes: =====
+
+Zechariah begins to prophesy and praise God for what he has done. 
+
+  * **His father Zechariah was filled with the Holy Spirit** - "The Holy Spirit filled his father Zechariah" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **spoke this prophecy** - Consider natural ways of introducing direct quotes in your language.  AT: "prophesied and said" or "prophesied, and this is what he said"   (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **the God of Israel** -  AT: "the God who reigns over Israel" or "the God whom Israel worships." Israel here refers to the nation of Israel. Zechariah, as well as the people to whom he was talking, all belonged to the nation of Israel. 
+  * **has come to us** - AT: "has come to help us" (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **his people**  - "God's people"
+
+===== Links: =====
+
+  * [[:en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+
+**[[:en:bible:notes:luk:01:64|<<]] | [[:en:bible:notes:luk:01:69|>>]]**
+
+~~DISCUSSION~~{{tag>publish }}
+
+~~NOCACHE~~

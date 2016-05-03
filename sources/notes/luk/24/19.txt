@@ -1,0 +1,55 @@
+====== Luke 24:19-20 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 He said to them, "What events?" They replied, "\add The things that happened\add* to Jesus, \add the man\add* from Nazareth, who was a prophet. Many people saw him \add perform\add* great miracles, and God\add enabled him\add* to teach wonderful \add messages!\add*
+\v 20 But our chief priests and leaders handed him over \add to the Roman authorities. The authorities\add* sentenced him to die, and they killed him by nailing him to a cross.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 He said to them, "What events?" They replied, "The things that happened to Jesus, the man from Nazareth, who was a prophet. 'God enabled him to perform great miracles and to teach wonderful messages. The people thought he was wonderful."
+\v 20 But our chief priests and leaders handed him over to the Roman authorities. The authorities sentenced him to die, and they killed him by nailing him to a cross.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 Jesus said to them, "What things?" They answered him, "The things concerning Jesus the Nazarene, who was a prophet, mighty in deed and word before God and all the people.
+\v 20 And how the chief priests and our rulers delivered him up to be condemned to death and crucified him.
+</usfm>
+
+
+===== translationWords: =====
+
+  * [[en:obe:kt:jesus]]
+  * [[en:obe:other:nazareth]]
+  * [[en:obe:kt:prophet]]
+  * [[en:obe:kt:works]]
+  * [[en:obe:kt:word]]
+  * [[en:obe:kt:god]]
+  * [[en:obe:other:chiefpriests]]
+  * [[en:obe:other:ruler]]
+  * [[en:obe:kt:condemn]]
+  * [[en:obe:kt:death]]
+  * [[en:obe:kt:crucify]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **What things?**  - "What things have happened?" or "What things have taken place?"
+    * **mighty in deed and word before God and all the people** - This means that God caused Jesus to be mighty and that the people saw that he was mighty. It can also be translated as "God gave him power to do and teach great things and the people were amazed."
+    * **mighty in deed and word**  - "able to do great things and teach great things" 
+    * **delivered him up to be condemned to death**  - AT: "handed Jesus over to the Roman governor in order for the governor to put Jesus to death" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+===== Links: =====
+
+  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+**[[:en:bible:notes:luk:24:17|<<]] | [[:en:bible:notes:luk:24:21|>>]]**
+
+~~DISCUSSION~~{{tag>publish Jesus nazareth}}
