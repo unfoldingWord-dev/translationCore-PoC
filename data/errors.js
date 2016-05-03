@@ -80,16 +80,6 @@ var errors = [
     }
   },
   {
-    "message": "malformed translationWord link",
-    "line": "  * [[:en:obe:other:johnthebaptist|John (the Baptist)]]\n",
-    "reference": {
-      "book": "Luke",
-      "chapter": 11,
-      "chunk": 1,
-      "verse": 0
-    }
-  },
-  {
     "message": "no quote found",
     "line": "Jesus asks three rhetorical questions with the same meaning: just as fathers give good gifts to their children who ask for things, God gives good gifts to us when we ask him. (See [[en:ta:vol1:translate:figs_rquestion]]).\n",
     "reference": {
@@ -236,16 +226,6 @@ var errors = [
       "book": "Luke",
       "chapter": 23,
       "chunk": 11,
-      "verse": 0
-    }
-  },
-  {
-    "message": "malformed translationWord link",
-    "line": "  * [[:en:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]]\n",
-    "reference": {
-      "book": "Luke",
-      "chapter": 24,
-      "chunk": 44,
       "verse": 0
     }
   }

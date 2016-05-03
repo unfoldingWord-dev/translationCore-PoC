@@ -3,18 +3,20 @@ class TranslationNotes
   require "awesome_print"
   require "json"
 
-  attr :figures, :words, :ulb, :book, :chapter, :chunk, :_verse, :verse, :section
+  attr :figures, :words, :ulb, :errors, :book, :chapter, :chunk, :_verse, :verse, :section
 
   def initialize(dir)
     @figures = {}
     @words = {}
     @ulb = {}
+    @errors = []
     @book = ''
     @chapter = 0
     @chunk = 0
     @_verse = 0
     @verse = 0
     @section = ''
+    @start_path = Dir.pwd
     books_dir(dir)
   end
 
@@ -48,7 +50,7 @@ class TranslationNotes
   end
 
   def file_parse(input)
-    File.open(input, "r:UTF-8").each do |line|
+    File.open(input, "r:UTF-8").each do |_line, line=_line.force_encoding('UTF-8')|
       line_parse(line)
     end
     @_verse = 0
@@ -57,6 +59,11 @@ class TranslationNotes
   end
 
   def line_parse(line)
+    _error = nil
+    line[/.*/] rescue _error = error("invalid, non utf-8 characters", line.encode('ASCII', invalid: :replace, undef: :replace))
+    if _error
+      return
+    end
     section_parse(line)
     ulb_parse(line) if @section == 'ULB'
     notes_parse(line) if @section == 'Translation Notes'
@@ -64,7 +71,7 @@ class TranslationNotes
   end
 
   def ulb_parse(line)
-    return unless line[/\\\w \d*/]
+    return unless line[/\\\w\s*\d*/] || verse > 0
     if verse_number(line) > 0
       ulb[book] ||= {}
       ulb[book][chapter] ||= {}
@@ -77,7 +84,7 @@ class TranslationNotes
 
   def section_parse(line)
     section_regex = /=+\s(.+?):\s=+/
-    @section = line.scan(section_regex).first.first if line[section_regex]
+    @section = line.scan(section_regex).first.first if line[section_regex] rescue binding.pry
   end
 
   def verse_number(line)
@@ -92,12 +99,8 @@ class TranslationNotes
     @verse = 0
     raise "no ULB verses found" unless @ulb
     #TODO: may accidentally be looking in all of @ulb and not just the verses in this file.
-    ulb.each do |_book, chapters|
-      chapters.each do |_chapter, verses|
-        verses.each do |_verse, text|
-          @verse = _verse if text.gsub(/\s+/,' ')[/#{quote.strip.gsub(/\s+/,' ')}/]
-        end
-      end
+    ulb[book][chapter].each do |_verse, text|
+      @verse = _verse if text.gsub(/\s+/,' ')[/#{Regexp.escape(quote.strip.gsub(/\s+/,' '))}/i]
     end
     verse
   end
@@ -105,10 +108,14 @@ class TranslationNotes
   def words_parse(line)
     return unless line[/\[\[.*\]\]/]
 
-    type_regex = /\[\[.*\:obe\:(\w+)\:\w+\]\]/
-    type = line.scan(type_regex).first.first rescue binding.pry
+    type_regex = /\[\[.*\:obe\:(\w+)\:\w+(\|.+)?\]\]/
+    type = line.scan(type_regex).first ? line.scan(type_regex).first.first : nil
+    if type == nil
+      error("malformed translationWord link", line)
+      return
+    end
 
-    word_regex = /\[\[.*\:obe\:\w+\:(\w+)\]\]/
+    word_regex = /\[\[.*\:obe\:\w+\:(\w+)(\|.+)?\]\]/
     word = line.scan(word_regex).first.first
 
     words[type] ||= {}
@@ -129,21 +136,34 @@ class TranslationNotes
     vols = line.scan(vols_regex).map(&:first)
 
     quote_regex = /\*\*(.+)\*\*/
-    notes_regex = /(#{quote_regex}\s+-\s+.*)\s*\(\w+/
+    notes_regex = /(#{quote_regex}\s*-?\s+.*)\s*\(\[*\w+/
 
-    notes[:quote] = line.scan(quote_regex).first.first.strip
-    notes[:notes] = wiki_to_html(line.scan(notes_regex).first.first.strip).strip
+    notes[:quote] = line.scan(quote_regex).first ? line.scan(quote_regex).first.first.strip : nil
+    unless notes[:quote]
+      error("no quote found", line)
+      return  
+    end
+
+    notes[:notes] = wiki_to_html(line.scan(notes_regex).first.first.strip).strip rescue binding.pry
+    unless notes[:notes]
+      error("no note found", line)
+      return  
+    end
 
     types.each_with_index do |type, index|
       notes[:vol] = vols[index]
-      notes[:quote].split('...').each do |_quote|
-        verse_lookup(_quote)
-        binding.pry if verse == 0
-        raise "no verse found for quote '#{notes[:quote]}' in #{notes[:reference]}" unless verse > 0
-        notes[:reference] = {book: book, chapter: chapter, verse: verse}
-      
-        figures[type] ||= []
-        figures[type] << notes
+      notes[:quote].gsub('…', '...').split('...').each do |_quote|
+        verse_lookup(_quote) rescue binding.pry
+
+        notes[:reference] = {book: book, chapter: chapter, chunk: chunk, verse: verse}
+
+        if verse == 0
+          error("no verse found for quote", line)
+          return
+        else      
+          figures[type] ||= []
+          figures[type] << notes
+        end
       end
     end
   end
@@ -154,20 +174,34 @@ class TranslationNotes
     string.gsub(/^\s*\*\*/, "<strong>").gsub(/\*\*\s*-/, "</strong> -")
   end
 
-  def figures_json
-    JSON.pretty_generate(figures)
+  def error(message, line, reference={book: book, chapter: chapter, chunk: chunk, verse: verse})
+    _error = {
+      message: message,
+      line: line,
+      reference: reference
+    }
+    errors << _error
+    _error
   end
 
-  def words_json
-    JSON.pretty_generate(words)
+  def write_files
+    # create files by type
+    Dir.chdir(@start_path)
+    %w{figures words errors}.each do |type|
+      json = JSON.pretty_generate(self.send(type))
+      File.open("../data/#{type}.json","w") do |f|
+        f.puts(json)
+      end
+      File.open("../data/#{type}.js","w") do |f|
+        js = "var #{type} = #{json};"
+        f.puts(js)
+      end
+    end
   end
 
-  def ulb_json
-    JSON.pretty_generate(ulb)
-  end
 end
 
 tn = TranslationNotes.new('../sources/notes')
-puts tn.words_json
+puts tn.write_files
 # puts tn.notes_parse(%q{* **the head over all things in the Church**  - "Head" implies the leader or the one in charge. AT: "ruler over all things in the Church"(See: [[en:ta:vol1:translate:figs_metaphor]]) })
 # puts tn.section_parse('===== Translation Notes: =====')
