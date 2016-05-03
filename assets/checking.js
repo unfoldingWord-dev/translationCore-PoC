@@ -41,7 +41,7 @@
     render: function(figure_id, figure_vol, index){
       if (index > 0) { this.prev = true; } else { this.prev = false; }
       this.current_index = index;
-      this.figure = this.figure_data[figure_id];
+      this.figure = { name: figure_names[figure_id] };
       this.figure.id = figure_id;
       this.figure.vol = figure_vol;
       var notes = figures[figure_id][index];
@@ -129,44 +129,6 @@
     figure_link: function(type, vol){
       return "https://door43.org/_export/xhtmlbody/en/ta/vol"+vol+"/translate/figs_"+type
     },
-    figure_data: {
-      "metaphor": {
-        name: "Metaphor"
-      },
-      "you": {
-        name: "You"
-      },
-      "activepassive": {
-        name: "Active Passive"
-      },
-      "inclusive": {
-        name: "Inclusive"
-      },
-      "doublet": {
-        name: "Doublet"
-      },
-      "exclusive": {
-        name: "Exclusive"
-      },
-      "doublenegatives": {
-        name: "Double Negatives"
-      },
-      "idiom": {
-        name: "Idiom"
-      },
-      "metonymy": {
-        name: "Metonymy"
-      },
-      "explicit": {
-        name: "Explicit"
-      },
-      "youdual": {
-        name: "You Dual"
-      },
-      "parallelism": {
-        name: "parallelism"
-      }
-    },
     bind_copy: function(){
       $( document ).ready( function() {
         $( '#buttonCopy' ).mousedown( function() {
@@ -192,7 +154,7 @@
   };
 
   Handlebars.registerHelper('figure_name', function(object) {
-    return checking.figure_data[object.data.key].name;
+    return figure_names[object.data.key];
   });
 
   Handlebars.registerHelper('next_id', function(current_index) {

@@ -3,15 +3,33 @@ class UsfmParser
   require "awesome_print"
   require "json"
 
-  attr :bible, :book, :chapter, :chunk, :verse
+  attr :language, :bible, :book, :chapter, :chunk, :verse
 
   def initialize(dir)
+    @language = ''
     @bible = {}
     @book = ''
     @chapter = 0
     @chunk = 0
     @verse = 0
-    bible_dir(dir)
+    @start_path = Dir.pwd
+    bibles_dir(dir)
+  end
+
+  def bibles_dir(dir)
+    Dir.chdir(dir)
+    _path = Dir.pwd
+    Dir.glob('*').select{|f| File.directory? f}.each do |language|
+      @language = language
+      Dir.chdir(_path)
+      bible_dir(language)
+      write_files
+      @bible = {}
+      @book = ''
+      @chapter = 0
+      @chunk = 0
+      @verse = 0
+    end
   end
 
   def bible_dir(dir)
@@ -39,6 +57,7 @@ class UsfmParser
       marker #do nothing, since we got the titles from the filename
     when 'c'
       @chapter = line[/^\\\w\s+\d+/][/\d+/].to_i
+      @verse = 0
     when 'v'
       @verse = line[/^\\\w\s+\d+/][/\d+/].to_i
       bible_verse_add(line.gsub(/^\\\w\s+\d+/,''))
@@ -55,11 +74,20 @@ class UsfmParser
     @bible[book][chapter][verse] = verse_text.gsub(/\s+/, ' ')
   end
 
-  def json
-    JSON.pretty_generate(bible)
+  def write_files
+    _path = Dir.pwd
+    Dir.chdir(@start_path)
+    json = JSON.pretty_generate(bible)
+    File.open("../data/ulb/#{language}.json", 'w') do |file|
+      file.puts(json)
+    end
+    File.open("../data/ulb/#{language}.js","w") do |file|
+      js = "reference_bibles['Unlocked Literal Bible - #{language}'] = #{json};"
+      file.puts(js)
+    end
+    Dir.chdir(_path)
   end
 end
 
-bible = UsfmParser.new('../sources/ulb/pt-br')
-puts bible.json
+bible = UsfmParser.new('../sources/ulb/')
 

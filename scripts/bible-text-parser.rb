@@ -4,12 +4,13 @@ class GNTParser
   require 'unicode_utils'
 
   attr :bible, :training_data, :book_names, :path
-  def initialize(params={path: '../sources/ugnt/wht-westcott-hort_eph.txt'})
+  def initialize(params={path: '../sources/ugnt/wht-westcott-hort.txt'})
     @bible = {}
     @training_data = []
     @book_names = %w(nil Matthew Mark Luke John Acts Romans 1Corinthians 2Corinthians Galatians Ephesians Philippians Colossians 1Thessalonians 2Thessalonians 1Timothy 2Timothy Titus Philemon Hebrews James 1Peter 2Peter 1John 2John 3John Jude Revelation)
     @path = params[:path]
     bible_parse
+    write_files
   end
 
   def bible_parse
@@ -43,11 +44,17 @@ class GNTParser
     @bible[reference[:book]][reference[:chapter]][reference[:verse]] ||= {}
   end
 
-  def json
-    JSON.pretty_generate(bible)
+  def write_files
+    json = JSON.pretty_generate(bible)
+    File.open("../data/ugnt.json", 'w') do |file|
+      file.puts(json)
+    end
+    File.open("../data/ugnt.js","w") do |file|
+      js = "reference_bibles['Unlocked Greek New Testament'] = #{json};"
+      file.puts(js)
+    end
   end
 
 end
 
 gnt = GNTParser.new()
-puts gnt.json
