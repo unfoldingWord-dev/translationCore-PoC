@@ -21,6 +21,12 @@ Add transition to containers so they can push in and out.
     transition: all 0.2s ease-out;
 }
 
+#menu .pure-menu ul.pure-menu-children a {
+    color: lightgray;
+    margin: 0;
+    padding: 0 0.6em 0.5em;
+}
+
 /*
 This is the parent `<div>` that contains the menu and the content area.
 */
