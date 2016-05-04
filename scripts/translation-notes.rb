@@ -197,6 +197,14 @@ class TranslationNotes
         f.puts(js)
       end
     end
+    ulb_json = JSON.pretty_generate(ulb)
+    File.open("../data/ulb/en.json","w") do |f|
+      f.puts(ulb_json)
+    end
+    File.open("../data/ulb/en.js","w") do |f|
+      ulb_js = "reference_bibles['Unlocked Literal Bible - en'] = #{ulb_json};"
+      f.puts(ulb_js)
+    end
   end
 
 end
