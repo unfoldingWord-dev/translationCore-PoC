@@ -14,7 +14,7 @@
           <ul id="menu-{{figure}}" class="pure-menu-children">
             {{#each notes}}
             <li class="pure-menu-item"><a class="pure-menu-link"
-              onclick="checking.render('{{figure}}', {{vol}}, {{@index}})">
+              onclick="figureModel.load('{{figure}}', {{@index}})">
               {{reference.book}} {{reference.chapter}}:{{reference.verse}}
             </a></li>
             {{/each}}

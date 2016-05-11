@@ -8,8 +8,9 @@
 		},
 		// include view html
 		view: function(data){
+			checkModel.helpers();
 			injectTemplate(this.name, data);
-			injectHTML(checkModel.data.type.taLink, "#taLink");
+			injectHTML(checkModel.source.type.taLink, "#taLink");
 		},
 		onload: function(){
 			this.model();
