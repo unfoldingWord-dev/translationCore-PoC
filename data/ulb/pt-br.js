@@ -1,4 +1,4 @@
-reference_bibles['Unlocked Literal Bible - pt-br'] = {
+referenceBibles['Unlocked Literal Bible - pt-br'] = {
   "Luke": {
     "1": {
       "1": "Prezado Teófilo, muitas pessoas comprometeram-se a escrever sobre os eventos que foram realizados entre nós.",

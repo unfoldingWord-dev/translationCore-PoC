@@ -1,0 +1,85 @@
+<script id="check-template" type="text/x-handlebars-template">
+  <div class="togglebox">
+
+    <input id="toggle1" type="checkbox" name="toggle" />
+    <label for="toggle1">translationAcademy - {{data.type.name}}</label>
+    
+    <section id="content1">
+      <div id="taLink"></div>
+    </section>
+
+    <input id="toggle3" type="checkbox" name="toggle" checked />
+    <label for="toggle3">Checking - {{data.type.name}} - {{data.reference.book}} {{data.reference.chapter}}:{{data.reference.verse}}</label>
+
+    <section id="content3">
+      <table class="pure-table" id="verses">
+        <thead>
+          <tr>
+            <th>Greek New Testament</th>
+          {{#each verses}}
+            <th>{{{@key}}}</th>
+          {{/each}}
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <div id="gnt-explorer" class="pure-menu pure-menu-horizontal">
+                <ul class="pure-menu-list">
+                {{#each gnt}}
+                  <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+                      <a href="#" id="menuLink1" class="pure-menu-link">{{greek}}</a>
+                      <ul class="pure-menu-children popup">
+                          <li class="pure-menu-item">Morphology: {{morphology}}</li>
+                          <li class="pure-menu-item">Strongs: {{strongs}}</li>
+                          <li class="pure-menu-item">Brief: {{brief}}</li>
+                          <li class="pure-menu-item">Definition: {{long}}</li>
+                      </ul>
+                  </li>
+                {{/each}}
+                </ul>
+              </div>
+            </td>
+          {{#each verses}}
+            <td>{{{this}}}</td>
+          {{/each}}
+          </tr>
+        </tbody>
+      </table>
+
+      <form class="pure-form">
+        <fieldset>
+          <legend>translationNotes from ULB - English:</legend>
+          <blockquote>{{{data.notes}}}</blockquote>
+
+          <legend>What is the translation of the quoted figure?</legend>
+          <input id="quote" type="text" class="pure-input-2-3" placeholder="Translated Figure Quote...">
+          <span id="buttonCopy" class="pure-button" onclick="checkModel.selectQuote();">Copy selection</span>
+
+          <legend>Was the figure retained, replaced, or need to be flagged for review?</legend>
+          <label for="option-retained" class="pure-radio">
+            <input id="option-retained" type="radio" name="optionStatus" value="retained" onclick="checkModel.onSelectRetained();">
+            Figure retained in translation
+          </label>
+          <label for="option-replaced" class="pure-radio">
+            <input id="option-replaced" type="radio" name="optionStatus" value="replaced" onclick="checkModel.onSelectRetained();">
+            Figure replaced in translation
+          </label>
+          <label for="option-flag" class="pure-radio">
+            <input id="option-flag" type="radio" name="optionStatus" value="flag" onclick="checkModel.onSelectRetained();">
+            Flag for further review
+          </label>
+
+        </fieldset>
+      </form>
+        {{#if showPrev}}
+        <button onclick="checkModel.goToPrev();" class="pure-button pure-button-primary" id="previous">Prev</button>
+        {{/if}}{{#if showNext}}
+        <button onclick="checkModel.goToNext();" 
+         class="pure-button pure-button-primary" id="next">Next</button>
+        {{/if}}
+
+    </section>
+  </div>
+  <link rel="stylesheet" href="./assets/views/check.css">
+</script>

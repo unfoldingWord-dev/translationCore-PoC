@@ -157,7 +157,7 @@
     return figure_names[object.data.key];
   });
 
-  Handlebars.registerHelper('next_id', function(current_index) {
+  Handlebars.registerHelper('next_id', function(object) {
     return checking.current_index + 1;
   });
 

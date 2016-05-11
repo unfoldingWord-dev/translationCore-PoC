@@ -1,4 +1,4 @@
-reference_bibles['Unlocked Literal Bible - en'] = {
+referenceBibles['Unlocked Literal Bible - en'] = {
   "Ephesians": {
     "1": {
       "1": " Paul, an apostle of Christ Jesus through the will of God, to those set apart for God in Ephesus who faithfully trust in Christ Jesus—",
