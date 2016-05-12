@@ -19,6 +19,11 @@
           <legend>translationNotes from ULB - English:</legend>
           <blockquote>{{{source.notes}}}</blockquote>
 
+          <legend>
+            <span id="buttonCopy" class="pure-button" style="float:right;" onclick="checkModel.selectQuote();">Highlight Selection</span>
+            1. What is the translation of the quoted figure?
+          </legend>
+
           <table class="pure-table" id="verses">
             <thead>
               <tr>
@@ -54,11 +59,6 @@
             </tbody>
           </table>
 
-          <legend>
-            <span id="buttonCopy" class="pure-button" style="float:right;" onclick="checkModel.selectQuote();">Highlight Selection</span>
-            1. What is the translation of the quoted figure?
-          </legend>
-
           <legend>2. Was the figure retained, replaced, or need to be flagged for review?</legend>
           <label for="option-retained" class="pure-radio">
             <input id="option-retained" type="radio" name="optionStatus" value="retained" onclick="checkModel.onSelectRetained();" {{#retained}}checked{{/retained}}>
@@ -84,5 +84,4 @@
 
     </section>
   </div>
-  <link rel="stylesheet" href="./assets/views/check.css">
 </script>

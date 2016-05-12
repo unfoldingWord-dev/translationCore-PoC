@@ -14,7 +14,7 @@
 			});
 		},
 		all: function(){
-			$.getJSON("./data/figures.json", function(figures){
+			$.getJSON("./data/figures/Luke.json", function(figures){
 				figureController.figures = figures;
 				$.getJSON("./data/figure-names.json", function(figureNames){
 					figureController.figureNames = figureNames;

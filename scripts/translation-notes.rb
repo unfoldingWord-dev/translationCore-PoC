@@ -22,7 +22,7 @@ class TranslationNotes
 
   def books_dir(dir)
     Dir.chdir(dir)
-    Dir.glob('*').select{|f| File.directory? f}.each do |subdir|
+    Dir.glob('luk').select{|f| File.directory? f}.each do |subdir|
       book_ids = %w(nil Mat Mar Luk Joh Act Rom 1Co 2Co Gal Eph Phi Col 1Th 2Th 1Ti 2Ti Tit Phm Heb Jam 1Pe 2Pe 1Jo 2Jo 3Jo Jud Rev).map(&:downcase)
       book_names = %w(nil Matthew Mark Luke John Acts Romans 1Corinthians 2Corinthians Galatians Ephesians Philippians Colossians 1Thessalonians 2Thessalonians 1Timothy 2Timothy Titus Philemon Hebrews James 1Peter 2Peter 1John 2John 3John Jude Revelation)
       @book = book_names[book_ids.index(subdir)]
@@ -84,7 +84,7 @@ class TranslationNotes
 
   def section_parse(line)
     section_regex = /=+\s(.+?):\s=+/
-    @section = line.scan(section_regex).first.first if line[section_regex] rescue binding.pry
+    @section = line.scan(section_regex).first.first if line[section_regex] #rescue binding.pry
   end
 
   def verse_number(line)
@@ -136,15 +136,15 @@ class TranslationNotes
     vols = line.scan(vols_regex).map(&:first)
 
     quote_regex = /\*\*(.+)\*\*/
-    notes_regex = /(#{quote_regex}\s*-?\s+.*)\s*\(\[*\w+/
+    notes_regex = /(#{quote_regex}\s*-?\s+.*?)\s*(\(|See:).*\[/
 
     notes[:quote] = line.scan(quote_regex).first ? line.scan(quote_regex).first.first.strip : nil
     unless notes[:quote]
       error("no quote found", line)
       return  
     end
-
-    notes[:notes] = wiki_to_html(line.scan(notes_regex).first.first.strip).strip rescue binding.pry
+    notes_wiki = line.scan(notes_regex).first ? line.scan(notes_regex).first.first.strip : nil
+    notes[:notes] = wiki_to_html(notes_wiki).strip rescue binding.pry
     unless notes[:notes]
       error("no note found", line)
       return  
@@ -189,20 +189,20 @@ class TranslationNotes
     Dir.chdir(@start_path)
     %w{figures words errors}.each do |type|
       json = JSON.pretty_generate(self.send(type))
-      File.open("../data/#{type}.json","w") do |f|
+      File.open("../data/#{type}/#{book}.json","w") do |f|
         f.puts(json)
       end
-      File.open("../data/#{type}.js","w") do |f|
+      File.open("../data/#{type}/#{book}.js","w") do |f|
         js = "var #{type} = #{json};"
         f.puts(js)
       end
     end
     ulb_json = JSON.pretty_generate(ulb)
-    File.open("../data/ulb/en.json","w") do |f|
+    File.open("../data/ulb/en/#{book}.json","w") do |f|
       f.puts(ulb_json)
     end
-    File.open("../data/ulb/en.js","w") do |f|
-      ulb_js = "reference_bibles['Unlocked Literal Bible - en'] = #{ulb_json};"
+    File.open("../data/ulb/en/#{book}.js","w") do |f|
+      ulb_js = "referenceBibles['ULB_en'] = #{ulb_json};"
       f.puts(ulb_js)
     end
   end

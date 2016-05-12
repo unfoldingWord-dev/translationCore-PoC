@@ -36,16 +36,21 @@
       // retained: "retained"
     },
     saveData: {
-      // metaphor: {
-      //   Luke: {
+      // Luke: {
+      //   metaphor: {
       //     "1": {
       //       "1": {
-      //         quote: "",
-      //         retained: ""
+      //         "source_quote": {
+      //           quote: "",
+      //           retained: ""
+      //         }
       //       }
       //     }
       //   }
       // }
+    },
+    aws_key: function(){
+      return "pt-br/"+this.source.reference.book+"/"+this.source.type.id+'.json';
     },
     helpers: function(){
       Handlebars.registerHelper('retained', function(block) {
@@ -157,34 +162,35 @@
       this.save();
     },
     prepSaveData: function(){
-      var type = this.source.type.id;
       var book = this.source.reference.book;
+      var type = this.source.type.id;
       var chapter = this.source.reference.chapter.toString();
       var verse = this.source.reference.verse.toString();
       var quote = this.source.quote;
-      if (this.saveData[type] === undefined){ this.saveData[type] = {} }
-      if (this.saveData[type][book] === undefined){ this.saveData[type][book] = {} }
-      if (this.saveData[type][book][chapter] === undefined){ this.saveData[type][book][chapter] = {} }
-      if (this.saveData[type][book][chapter][verse] === undefined){ this.saveData[type][book][chapter][verse] = {} }
-      if (this.saveData[type][book][chapter][verse][quote] === undefined){ this.saveData[type][book][chapter][verse][quote] = {} }
+      if (this.saveData[book] === undefined){ this.saveData[book] = {} }
+      if (this.saveData[book][type] === undefined){ this.saveData[book][type] = {} }
+      if (this.saveData[book][type][chapter] === undefined){ this.saveData[book][type][chapter] = {} }
+      if (this.saveData[book][type][chapter][verse] === undefined){ this.saveData[book][type][chapter][verse] = {} }
+      if (this.saveData[book][type][chapter][verse][quote] === undefined){ this.saveData[book][type][chapter][verse][quote] = {} }
     },
     loadData: function(){
       // get data from AWS
+      checkModel.prepSaveData();
       this.loadAWS(function(){
         checkModel.prepSaveData();
-        checkModel.target = checkModel.saveData[checkModel.source.type.id][checkModel.source.reference.book][checkModel.source.reference.chapter.toString()][checkModel.source.reference.verse.toString()][checkModel.source.quote];
+        checkModel.target = checkModel.saveData[checkModel.source.reference.book][checkModel.source.type.id][checkModel.source.reference.chapter.toString()][checkModel.source.reference.verse.toString()][checkModel.source.quote];
         checkModel.highlightTargetQuote();
         checkController.view(checkModel);
       });
     },
     save: function(){
-      this.saveData[this.source.type.id][this.source.reference.book][this.source.reference.chapter.toString()][this.source.reference.verse.toString()][this.source.quote] = this.target;
+      this.saveData[this.source.reference.book][this.source.type.id][this.source.reference.chapter.toString()][this.source.reference.verse.toString()][this.source.quote] = this.target;
       this.saveAWS();
     },
     saveAWS: function(){
       AWS.config.update({accessKeyId: applicationModel.aws_config.accessKeyId, secretAccessKey: applicationModel.aws_config.secretAccessKey});
       var bucket = new AWS.S3({params: {Bucket: applicationModel.aws_config.bucket}});
-      var params = {Key: 'checkData.json', Body: JSON.stringify(this.saveData)};
+      var params = {Key: this.aws_key(), Body: JSON.stringify(this.saveData)};
       bucket.upload(params, function (err, data) {
         if (err) {
           console.log(err);
@@ -196,10 +202,17 @@
     loadAWS: function(callback){
       AWS.config.update({accessKeyId: applicationModel.aws_config.accessKeyId, secretAccessKey: applicationModel.aws_config.secretAccessKey});
       var bucket = new AWS.S3({params: {Bucket: applicationModel.aws_config.bucket}});
-      bucket.getObject({Key: 'checkData.json'}).on('success', function(response) {
+      request = bucket.getObject({Key: this.aws_key()}, function(err, data){
+        if (err) {
+          console.log(err);
+          callback();
+        }
+      });
+      request.on('success', function(response) {
         checkModel.saveData = JSON.parse(response.data.Body.toString('utf-8'));
         callback();
-      }).send();
+      });
+      request.send();
     }
 	};
 

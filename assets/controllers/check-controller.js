@@ -12,6 +12,9 @@
 			injectTemplate(this.name, data);
 			injectHTML(checkModel.source.type.taLink, "#taLink");
 		},
+		reloadView: function(data){
+			renderTemplate(this.name, data);
+		},
 		onload: function(){
 			this.model();
 		}
