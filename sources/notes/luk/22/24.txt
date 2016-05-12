@@ -24,24 +24,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:king]]
-  * [[en:obe:other:gentile]]
-  * [[en:obe:kt:lord]]
-  * [[en:obe:kt:authority]]
-  * [[en:obe:other:honor]]
-  * [[en:obe:other:ruler]]
+  * [[:en:obe:other:king]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:other:honor]]
+  * [[:en:obe:other:ruler]]
 
 ===== Translation Notes: =====
 
-  * **Then there arose also a quarrel among them**  - "the apostles began to argue among themselves" (UDB)
-  * **greatest**  - "most important"
-  * **He said to them**  - "Jesus said to the apostles"
-  * **have lordship over them**  - "rule harshly over them" or "like to exercise power over them"
-  * **are called**  - This can be translated as "like to be called" or "call themselves." The people probably did not think of those rulers as honored rulers.
-  * **honored rulers**  - This can also be translated as "benefactors" or "leaders who help the people."
+  * **Then there arose also a quarrel among them** - "Then the apostles began to argue among themselves" (UDB)
+  * **was considered to be greatest** - AT: "the people would think is most important" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He said to them** - "Jesus said to the apostles"
+  * **have lordship over them** - "rule harshly over them" or "like to exercise power over them"
+  * **are called** - The people probably did not think of those rulers as honored rulers. AT: "like to be called" or "call themselves." 
+  * **honored rulers** - AT: "benefactors" or "leaders who help the people"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:21|<<]] | [[:en:bible:notes:luk:22:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

@@ -29,31 +29,26 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:woe]]
+  * [[:en:obe:kt:woe]]
 
 
 ===== Translation Notes: =====
-Jesus continues to teach his disciples.
 
-    * **woe to you** - This phrase is repeated three times. It is the opposite of "blessed are you." Each time, it indicates that God's anger is directed at the people, or that something negative or bad awaits them.
-    * **woe to you who are rich**  -  “how terrible it is for you who are rich ” or "trouble will come to you who are rich." It could be translated as “You who are rich, how sad for you” or “You who are rich, what sorrow you will have.” 
-    * **you have already received** - "you are already receiving in full" or "you are already receiving all you will receive"
-    * **your comfort** - "what comforts you" or "what satisfies you" or "what makes you happy"
-    * **who are full now** - "whose stomachs are full now" or "who eat much now"
-    * **who laugh now** - "who are happy now"
+  * **woe to you** - "how terrible it is for you." This phrase is repeated three times. It is the opposite of "blessed are you." Each time, it indicates that God's anger is directed at the people, or that something negative or bad awaits them.
+  * **woe to you who are rich** - "how terrible it is for you who are rich " or "trouble will come to you who are rich"
+  * **your comfort** - "what comforts you" or "what satisfies you" or "what makes you happy"
+  * **who are full now** - "whose stomachs are full now" or "who eat much now"
+  * **who laugh now** - "who are happy now"
  
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/06/22|<<]] | [[en/bible/notes/luk/06/26|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
+**[[:en:bible:notes:luk:06:22|<<]] | [[:en:bible:notes:luk:06:26|>>]]**
 
 
 ~~DISCUSSION~~
 
-
-{{tag>publish woe punishment}}
+{{tag>publish p2check woe punishment}}
 ~~NOCACHE~~

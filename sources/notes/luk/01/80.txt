@@ -19,31 +19,35 @@
 
 <usfm>
 \p 
-\v 80 Then the child grew up, and became strong in spirit. He lived out in the desert areas until he began to appear publicly to the people of Israel.
+\v 80 Now the child grew and became strong in spirit, and he was in the wilderness until the day of his appearance to Israel.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:spirit]]
-    * [[en:obe:other:desert]]
-    * [[en:obe:other:israel]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:other:desert]]
+  * [[:en:obe:other:israel]]
 
 
 ===== Translation Notes: =====
 
-This is the end of the account about the birth and childhood of John the Baptist.  
+  * **General Information:** - This tells briefly about John's growing years. 
 
-    * **became strong in spirit** - AT: "became spiritually mature" or "strengthened his relationship with God"
-    * **until** - “even when.” This does not necessarily mark a stopping point. John continued to live out in the desert even after he started preaching publicly. 
-    * **he began to appear publicly to** - "the time he began go before." or AT: "he began to preach in public to."
-
+  * **Now** - This word is used here to mark a break in the main storyline. Luke quickly moves from the birth of John to the beginning of his ministry as an adult.
+  * **became strong in spirit** - "became spiritually mature" or "strengthened his relationship with God"
+  * **was in the wilderness** - "lived in the wilderness." Luke does not say at what age John began to live in the wilderness.
+  * **until** - This does not necessarily mark a stopping point. John continued to live out in the desert even after he started preaching publicly. 
+  * **the day of his appearance** - "when he began to preach in public to"
+  * **the day** - This is used here used in the general sense of "the time" or "the occasion."
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:78|<<]] | [[:en:bible:notes:luk:02:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check talink}}
 
 ~~NOCACHE~~

@@ -21,38 +21,41 @@
 
 <usfm>
 \v 25  Behold, there was a man in Jerusalem whose name was Simeon. This man was righteous and devout. He was waiting for the comforter of Israel, and the Holy Spirit was upon him.  
-\v 26 It had been revealed to him by the Holy Spirit that he would not die before he had seen the Lord’s Christ.
+\v 26 It had been revealed to him by the Holy Spirit that he would not die before he had seen the Lord's Christ.
 </usfm>
 
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:jerusalem]]
-    * [[en:obe:other:simeon]]
-    * [[en:obe:kt:righteous]]
-    * [[en:obe:other:comfort]]
-    * [[en:obe:other:israel]]
-    * [[en:obe:kt:reveal]]
-    * [[en:obe:kt:holyspirit]]
-    * [[en:obe:kt:christ]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:simeon]]
+  * [[:en:obe:kt:righteous]]
+  * [[:en:obe:other:comfort]]
+  * [[:en:obe:other:israel]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:kt:reveal]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:christ]]
 
 ===== Translation Notes: =====
 
-Simeon meets baby Jesus at the temple.
+  * **Connecting Statement:** - When Mary and Joseph are at the temple, they meet two people: Simeon, who praises God and gives a prophecy about the child, and the prophetess Anna.
 
-    * **devout** - "devoted to God" or "faithful to God"
-    * **comforter of Israel** - It is another name for the "Messiah" or "Christ."  AT: "the one who would comfort Israel." 
-    * **the Holy Spirit was upon him** - "the Holy Spirit was with him." God was with him in a special way and gave him wisdom and direction in his life. 
-    * **It had been revealed to him by the Holy Spirit** - AT: "The Holy Spirit had shown him" or "The Holy Spirit had told him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **he would not die before he had seen the Lord's Christ** - The word "Lord" here refers to God.  AT: "he would see the Lord's Christ before dying" or "he would see the Lord's Messiah and die only after that." 
+  * **Behold** - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **was righteous and devout** - These abstract terms can be expressed as actions. AT: "did what was pleasing to God and obeyed God's laws." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **comforter of Israel** - It is another name for the "Messiah" or "Christ." AT: "the one who would comfort Israel." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the Holy Spirit was upon him** - "the Holy Spirit was with him." God was with him in a special way and gave him wisdom and direction in his life. 
+  * **It had been revealed to him by the Holy Spirit** - This can be stated in active form. AT: "The Holy Spirit had shown him" or "The Holy Spirit had told him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he would not die before he had seen the Lord's Christ** - "he would see the Lord's Messiah before he died"
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:22|<<]] | [[:en:bible:notes:luk:02:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

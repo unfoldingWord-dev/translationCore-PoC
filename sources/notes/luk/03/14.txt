@@ -26,27 +26,26 @@
 ===== translationWords: =====
 
 
-  * [[en:obe:other:warrior]]
-  * [[en:obe:other:accuse]]
+  * [[:en:obe:other:warrior]]
+  * [[:en:obe:other:accuse]]
 
 ===== Translation Notes: =====
 
-    * **soldiers** - "men serving in the army"
-    * **And what about us? What must we do?** - "How about us soldiers, what must we do?" John is not included in the words "us" and "we." The soldiers have implied that John had told the crowd and the tax collector what they must do and want to know what they as soldiers are to do.  (See: [[en:ta:vol2:translate:figs_exclusive]])
-    * **do not accuse anyone falsely** - It seems that the soldiers were making false charges against people in order to get money. AT: "in the same way, do not accuse anyone falsely in order to get money from them" or "do not say that an innocent person has done something illegal."
-    * **Be content with your wages**  - "Be satisfied with your pay" 
+  * **soldiers** - "men serving in the army"
+  * **And what about us? What must we do?** - "How about us soldiers, what must we do?" John is not included in the words "us" and "we." The soldiers have implied that John had told the crowd and the tax collector what they must do and want to know what they as soldiers are to do. (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **do not accuse anyone falsely** - It seems that the soldiers were making false charges against people in order to get money. This could be stated clearly. AT: "in the same way, do not accuse anyone falsely in order to get money from them" or "do not say that an innocent person has done something illegal."
+  * **Be content with your wages** - "Be satisfied with your pay" 
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
-
-
-
-**[[en/bible/notes:luk/03/12|<<]] | [[en/bible/notes:luk/03/15|>>]]** 
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
+**[[:en/bible/notes:luk/03/12|<<]] | [[:en/bible/notes:luk/03/15|>>]]** 
 
 
 ~~DISCUSSION~~
 
- 
-{{tag>publish}}
+{{tag>publish p2check accuse}}
+
 ~~NOCACHE~~

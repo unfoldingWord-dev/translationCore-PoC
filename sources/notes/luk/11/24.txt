@@ -35,23 +35,24 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:demon]]
-    * [[en:obe:kt:spirit]]
-    * [[en:obe:kt:evil]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:kt:evil]]
 
 ===== Translation Notes: =====
-Jesus continues to speak to the crowd about demons.
 
   * **waterless places** - This refers to "desolate places" (UDB) where the evil spirits wander.
   * **Finding none** - "If the spirit does not find any rest there"
-  * **my house from which I came** - This is a metaphor referring to the person he used to lived in. AT: "the person in whom I used to live!" (UDB) The UDB goes on to translate it as a simile in verse 26. (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **finds that house swept out and put in order** - AT: "finds that someone has swept the house clean and put everything where it belongs." (See: [[en:ta:vol2:translate:figs_activepassive]], [[en:ta:vol1:translate:figs_metaphor]])
-  * **swept out** - "empty." This metaphor refers to the condition of the person who did not fill their life with God's Spirit after the demon left. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **my house from which I came** - This refers to the person he used to lived in. AT: "the person in whom I used to live!" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **finds that house swept out and put in order** - AT: "finds that someone has swept the house clean and put everything where it belongs" or "finds that the person is like a clean and organized house" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **swept out** - "empty." This metaphor refers to the condition of the person who did not fill their life with God's Spirit after the demon left. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:21|<<]] | [[:en:bible:notes:luk:11:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -31,33 +31,35 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:samaria]]
-    * [[en:obe:kt:compassion]]
-    * [[en:obe:kt:bond]]
-    * [[en:obe:other:oil]]
-    * [[en:obe:other:wine]]
+  * [[:en:obe:other:samaria]]
+  * [[:en:obe:kt:compassion]]
+  * [[:en:obe:kt:bond]]
+  * [[:en:obe:other:oil]]
+  * [[:en:obe:other:wine]]
 
 ===== Translation Notes: =====
-Jesus continues telling his story to the man who asked "Who is my neighbor?"
 
-    * **But a certain Samaritan** - This introduces a new person in the story without giving his name. We know only that he was a Samaritan. The Jews despised the Samaritans and would have assumed that he would not help the injured Jewish man.
-    * **When he saw him**  - "When the Samaritan saw the injured man"
-    * **he was moved with compassion**  - "he felt sorry for him"
-    * **bound up his wounds, pouring oil and wine on them**  - Since he would have put the oil and wine on the wounds first, it can be translated as "he put wine and oil on the wounds and wrapped them with cloth." Wine was used to clean the wound, and oil was probably used to prevent infection.
-    * **his own animal**  - "his own pack animal." This was an animal that he used to carry heavy loads. It was probably a donkey. 
-    * **two denarii** - "two day's wages." "Denarii" is the plural of "denarius." (See: [[en:obe:other:biblicalmoney]])
-    *  **the host**  - "the innkeeper" or "the person who took care of the inn"
+  * **But a certain Samaritan** - This introduces a new person in the story without giving his name. We know only that he was a Samaritan. The Jews despised the Samaritans and would have assumed that he would not help the injured Jewish man.
+  * **When he saw him** - "When the Samaritan saw the injured man"
+  * **he was moved with compassion** - "he felt sorry for him"
+  * **bound up his wounds, pouring oil and wine on them** - He would have put the oil and wine on the wounds first. AT: "he put wine and oil on the wounds and wrapped them with cloth." (See: [[:en:ta:vol1:translate:figs_events]])
+  * **pouring oil and wine on them** - Wine was used to clean the wound, and oil was probably used to prevent infection.
+  * **his own animal** - "his own pack animal." This was an animal that he used to carry heavy loads. It was probably a donkey. 
+  * **two denarii** - "two day's wages." "Denarii" is the plural of "denarius." (See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **the host** - "the innkeeper" or "the person who took care of the inn"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 
  
 
-**[[en/bible/notes/luk/10/31|<<]] | [[en/bible/notes/luk/10/36|>>]]**
+**[[:en:bible:notes:luk:10:31|<<]] | [[:en:bible:notes:luk:10:36|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish samaria}}
+{{tag>publish p2edit samaria}}
 ~~NOCACHE~~

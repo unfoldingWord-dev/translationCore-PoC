@@ -31,26 +31,30 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:christ]]
-  * [[en:obe:kt:save]]
-  * [[en:obe:other:rebuke]]
-  * [[en:obe:kt:fear]]
-  * [[en:obe:kt:justice]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:save]]
+  * [[:en:obe:other:rebuke]]
+  * [[:en:obe:kt:fear]]
+  * [[:en:obe:kt:justice]]
 
 ===== Translation Notes: =====
 
+  * **who was crucified** - AT: "who was also hanging on a cross" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **insulted him** - "insulted Jesus"
-  * **Are you not the Christ?** - This question is intended not to gather information but to express doubt that Jesus really was the Christ. (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **the other answered ** - "the other criminal answered"
-  * **rebuking him said ** - "rebuked that criminal by saying"
-  * **you are under the same sentence** - "you have been judged worthy of the same punishment (death on the cross)"
+  * **Are you not the Christ?** - The criminal uses a question to mock Jesus. AT: "You claim to be the Christ." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Save yourself and us** - The criminal did not really think that Jesus could rescue them from the cross. (See: [[:en:ta:vol1:translate:figs_irony]])
+  * **the other answered** - "the other criminal answered"
+  * **rebuking him said** - "and rebuked that criminal by saying"
+  * **Do you not fear God, since you are under the same sentence?** - The criminal uses a question to scold the other criminal. AT: "You must have no fear of God, since you mock Jesus while you are hanging on a cross just like he is." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **We indeed are here justly** - "Truly we deserve this punishment"
-  * **this man** - The criminal is using these words to refer to Jesus.
+  * **this man** - This refers to Jesus.
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:36|<<]] | [[:en:bible:notes:luk:23:42|>>]]**
 
-~~DISCUSSION~~{{tag>publish justice }}
+~~DISCUSSION~~{{tag>publish p2edit justice }}

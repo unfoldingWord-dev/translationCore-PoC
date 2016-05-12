@@ -35,21 +35,23 @@
  
 
 ===== Translation Notes: =====
-Jesus continues speaking to the people.Since this is an example of a law that has not changed, this verse could also start with "For example."
-    * **Everyone who divorces his wife**  - "Anyone who divorces his wife" or "Any man who divorces his wife" or "If a man divorces his wife"
-    * **commits adultery**  - "Is guilty of adultery"
-    * **he who marries one**  - "any man who marries a woman" or "if a man marries a woman"
+
+  * **Everyone who divorces his wife** - "Anyone who divorces his wife" or "Any man who divorces his wife"
+  * **commits adultery** - "is guilty of adultery"
+  * **he who marries one** - "any man who marries a woman"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 
  
 
-**[[en/bible/notes/luk/16/16|<<]] | [[en/bible/notes/luk/16/19|>>]]**
+**[[:en:bible:notes:luk:16:16|<<]] | [[:en:bible:notes:luk:16:19|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish divorce adultery}}
+{{tag>publish p2edit divorce adultery}}
 ~~NOCACHE~~

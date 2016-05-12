@@ -31,25 +31,25 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:joy]]
-    * [[en:obe:kt:heaven]]
-    * [[en:obe:kt:repent]]
-    * [[en:obe:kt:righteous]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:repent]]
+  * [[:en:obe:kt:righteous]]
 
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
 
-    * **When he comes to the house**  - "When the owner of the sheep comes home" or "When you come home" (UDB). Refer to the owner of the sheep as you did in the previous verse.
-    * **I say to you** - The word "I" refers to Jesus. He is speaking to a group of people, so the word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
-    * **even so** - "in the same way" or "as the shepherd and his friends and neighbors would rejoice"
-    * **there will be joy in heaven**  - "everyone in heaven will rejoice"
-    * **ninety-nine righteous persons who do not need to repent** - "ninety nine people who think that they are righteous and do not need to repent." Jesus was not saying that there really are any righteous people.  Rather he was using a figure of speech called irony, because he was talking to people who assumed that they were righteous, but they were not. (See: [[en:ta:vol1:translate:figs_irony]])
+  * **When he comes to the house** - "When the owner of the sheep comes home" or "When you come home" (UDB). Refer to the owner of the sheep as you did in the previous verse.
+  * **even so** - "in the same way" or "as the shepherd and his friends and neighbors would rejoice"
+  * **there will be joy in heaven** - "everyone in heaven will rejoice"
+  * **ninety-nine righteous persons who do not need to repent** - Jesus was not saying that there really are any righteous people. He is referring to people who thought that they were righteous, but they were not. AT: "99 people who think that they are righteous and do not need to repent." (See: [[:en:ta:vol1:translate:figs_irony]] and [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 **[[:en:bible:notes:luk:15:03|<<]] | [[:en:bible:notes:luk:15:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish rejoice }}
+~~DISCUSSION~~{{tag>publish p2edit rejoice }}
 
 ~~NOCACHE~~

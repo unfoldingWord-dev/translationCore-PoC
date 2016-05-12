@@ -32,29 +32,34 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:unjust]]
-  * [[en:obe:other:judgeposition]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:kt:justice]]
-  * [[en:obe:kt:elect]]
-  * [[en:obe:other:patient]]
-  * [[en:obe:kt:sonofman]]
-  * [[en:obe:kt:faith]]
-  * [[en:obe:other:earth]]
+  * [[:en:obe:kt:unjust]]
+  * [[:en:obe:other:judgeposition]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:justice]]
+  * [[:en:obe:kt:elect]]
+  * [[:en:obe:other:patient]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:other:earth]]
 
 ===== Translation Notes: =====
-Jesus continues speaking to his disciples about prayer.
-  * **Listen to what the unjust judge says**  - "Think about what the unjust judge just said." Translate this in a way that people will understand that Jesus has already told what the judge said.
-  * **Now will not God also bring**  - Jesus used this rhetorical question to indicate that what he was teaching was something that his audience should already be able to figure out. This could also be translated as "God will certainly bring" or "So you can be sure that God will also bring." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **his chosen ones**  - "the people he has chosen"
-  * **Will he not be patient with them?**  - Jesus used this rhetorical question to remind people of something they should already have known about God. This could also be translated as "And you know that he is patient with them." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **Son of Man**  - Jesus is referring to himself.
-  * **will he find faith on the earth**  - The purpose of the parable is to encourage the disciples to keep believing and pray. Jesus is here using another rhetorical question that expects a negative answer. The meaning of the question is "But I know that when I, the Son of Man, return, I will find people who do not believe in me."  (See: [[en:ta:vol1:translate:figs_rquestion]])
+
+  * **General Information:** - Jesus has finished telling his parable and is now commenting about it to his disciples.
+
+  * **Listen to what the unjust judge says** - "Think about what the unjust judge just said." Translate this in a way that people will understand that Jesus has already told what the judge said.
+  * **Now** - This word indicates that Jesus has ended the parable and has started explaining its meaning. 
+  * **will not God also bring...night?** - Jesus uses a question to teach the disciples. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **his chosen ones** - "the people he has chosen"
+  * **Will he not be patient with them?** - Jesus uses a question to teach the disciples. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Son of Man** - Jesus is referring to himself.
+  * **will he find faith on the earth?** - The purpose of the parable is to encourage the disciples to keep believing and pray. Jesus is here using another question that expects a negative answer. AT: "But I know that when I, the Son of Man, return, I will find people who do not believe in me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 **[[:en:bible:notes:luk:18:03|<<]] | [[:en:bible:notes:luk:18:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish  judgeposition elect unjust}}
+~~DISCUSSION~~{{tag>publish p2edit judgeposition elect unjust}}
 
 ~~NOCACHE~~

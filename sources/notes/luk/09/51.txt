@@ -32,35 +32,39 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:heaven]]
-    * [[en:obe:kt:face]]
-    * [[en:obe:other:jerusalem]]
-    * [[en:obe:other:messenger]]
-    * [[en:obe:other:samaria]]
-    * [[en:obe:kt:receive]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:face]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:messenger]]
+  * [[:en:obe:other:samaria]]
+  * [[:en:obe:kt:receive]]
 
 
 ===== Translation Notes: =====
 
-  * **It happened that**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **the days were approaching for him to go up**  - "the time was coming for him to go up" or "it was almost time for him to go up"
-  * **resolutely**  - "determinedly" or "deliberately"
-  * **set his face**  - This is an idiom meaning "made up his mind" or "decided" or "firmly resolved" (UDB). (See: [[en:ta:vol1:translate:figs_idiom]])
-  * **to prepare for him**  - This means to make arrangements for his arrival in the area, possibly including a place to speak, a place to stay, and food.
-  * **did not receive him**  - "did not welcome him" or "did not want him to stay"
+  * **General Information:** - It is now obvious that Jesus has decided to go to Jerusalem.
+
+  * **It happened that** - This phrase is used here to mark the beginning of a new part of the story. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **the days were approaching for him to go up** - "the time was coming for him to go up" or "it was almost time for him to go up"
+  * **resolutely** - "determinedly" or "deliberately"
+  * **set his face** - AT: "made up his mind" or "decided" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to prepare for him** - This means to make arrangements for his arrival in the area, possibly including a place to speak, a place to stay, and food.
+  * **did not receive him** - "did not welcome him" or "did not want him to stay"
 
 ===== Links: =====
 
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 
  
 
-**[[en/bible/notes/luk/09/49|<<]] | [[en/bible/notes/luk/09/54|>>]]**
+**[[:en:bible:notes:luk:09:49|<<]] | [[:en:bible:notes:luk:09:54|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

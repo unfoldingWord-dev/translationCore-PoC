@@ -32,22 +32,23 @@
 
 ===== Translation Notes: =====
 
-
-    * **Jesus turned to the woman** - "Jesus faced the woman." Jesus directed Simon's attention to the woman by turning to her.
-    * **water for my feet … a kiss**  - These were ways of showing of basic courtesy to an invited guest. Jesus is contrasting Simon's lack of courtesy with the woman's extreme actions of gratitude.
-    * **did not stop kissing my feet** - AT: "has continued to kiss my feet."
+  * **Jesus turned to the woman** - "Jesus faced the woman." Jesus directed Simon's attention to the woman by turning to her.
+  * **water for my feet...a kiss** - These were ways of showing of basic courtesy to an invited guest. Jesus is contrasting Simon's lack of courtesy with the woman's extreme actions of gratitude.
+  * **did not stop kissing my feet** - "has continued to kiss my feet"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
 
  
 
-**[[en/bible/notes/luk/07/41|<<]] | [[en/bible/notes/luk/07/46|>>]]**
+**[[:en:bible:notes:luk:07:41|<<]] | [[:en:bible:notes:luk:07:46|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

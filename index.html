@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>translationCore</title>
+</head>
+<body>
+
+  <!-- include css libraries -->
+  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+  
+  <!-- having trouble with this using $.getJSON // Move later -->
+  <script src="./data/glade-gnt-english.js"></script>
+  <script>
+    referenceBibles = {};
+  </script>
+  <script src="./data/ulb/en/Luke.js"></script>
+  <script src="./data/ulb/pt-br/Luke.js"></script>
+  <!-- include injectScript helper -->
+  <script src="./assets/helpers/inject-script.js"></script>
+	<!-- placeholder for application template to render -->
+	<div id="application-placeholder"></div>
+
+	<!-- include frameworks and libraries -->
+	<script src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
+  <script src="https://sdk.amazonaws.com/js/aws-sdk-2.3.10.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/localforage/1.4.0/localforage.min.js"></script>
+
+	<!-- include application controller -->
+	<script src="./assets/controllers/application-controller.js"></script>
+</body>
+</html>

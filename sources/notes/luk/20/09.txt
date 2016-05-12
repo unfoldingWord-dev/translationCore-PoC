@@ -30,25 +30,29 @@
 
   * [[:en:obe:other:parable]]
   * [[:en:obe:other:vineyard]]
-  * [[en:obe:kt:appoint]]
+  * [[:en:obe:kt:appoint]]
   * [[:en:obe:other:servant]]
 ===== Translation Notes: =====
 
-  * **rented it out to vine growers**  - "allowed some vine growers to use it in exchange for money" or "allowed some vine growers to use it and pay him later"
-  * **vine growers**  - These are people who tend grape vines and grow grapes. It can be translated as "grape farmers."
-  * **of the fruit of the vineyard**  - "some of the grapes" or "some of what they produced in the vineyard." It could also refer to things made from grapes or the money they earned by selling the grapes.
-  * **sent him away empty-handed**  - This can be translated as "sent him away without paying him" or "sent him away without the grapes."
+  * **General Information:** - Jesus begins to tell a parable to the people in the temple. (See: [[:en:ta:vol1:translate:figs_parables]])
+
+  * **rented it out to vine growers** - "allowed some vine growers to use it in exchange for money" or "allowed some vine growers to use it and pay him later"
+  * **vine growers** - These are people who tend grape vines and grow grapes. AT: "grape farmers."
+  * **of the fruit of the vineyard** - "some of the grapes" or "some of what they produced in the vineyard." It could also refer to the things they made from grapes or the money they earned by selling the grapes.
+  * **sent him away empty-handed** - AT: "sent him away without paying him" or "sent him away without the grapes"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/07|<<]] | [[en/bible/notes/luk/20/11|>>]]**
+**[[:en:bible:notes:luk:20:07|<<]] | [[:en:bible:notes:luk:20:11|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

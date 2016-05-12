@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 25 He said to them, "Then give to Caesar the things that are Caesar’s, and to God, the things that are God’s."
+\v 25 He said to them, "Then give to Caesar the things that are Caesar's, and to God, the things that are God's."
 \v 26 The scribes and chief priests were not able to criticize what he had said in front of the people. They marveled at his answer and they said nothing.
 </usfm>
 
@@ -35,20 +35,24 @@
 
   * [[:en:obe:other:caesar]]
   * [[:en:obe:kt:god]]
-  * [[en:obe:other:amazed]]
+  * [[:en:obe:other:amazed]]
  
 
 ===== Translation Notes: =====
 
-  * **He said to them**  - "Then Jesus said to them"
-  * **Caesar** - "Caesar" refers to the Roman government. (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **were not able to criticize what he had said**  - "could not find anything wrong with what he said"
-  * **They marveled**  - "They were surprised" or "They were amazed" (UDB)
+  * **Connecting Statement:** - This is the end of this event about the spies and the part of the story which began in [[:en:bible:notes:luk:20:01|20:1]].
+
+  * **He said to them** - "Then Jesus said to them"
+  * **Caesar** - Here "Caesar" refers to the Roman government. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **were not able to criticize what he had said** - "could not find anything wrong with what he said"
+  * **They marveled** - "They were surprised" or "They were amazed" (UDB)
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 **[[:en:bible:notes:luk:20:23|<<]] | [[:en:bible:notes:luk:20:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish caesar }}
+~~DISCUSSION~~{{tag>publish p2edit caesar }}
 
 ~~NOCACHE~~

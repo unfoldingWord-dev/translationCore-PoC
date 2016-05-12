@@ -24,37 +24,41 @@
 <usfm>
 \p
 \v 4 Now, when a large crowd of people had gathered together, including people who were coming to him from many different cities, he spoke to them using a parable.
-\v 5 "A sower went out to sow some seeds. As he sowed, some of the seeds fell by the wayside and they were trampled underfoot, and the birds of the sky devoured them.
+\v 5 "A sower went out to sow some seeds. As he sowed, some of the seeds fell beside the road and they were trampled underfoot, and the birds of the sky devoured them.
 \v 6 Other seeds fell on rocky soil and as soon as they grew into plants, they withered away, because they had no moisture.
 </usfm>
 
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:parable]]
-    * [[en:obe:other:sow]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:other:sow]]
 
 
 ===== Translation Notes: =====
 
-    * **A sower went out to sow some seeds** - AT: “A farmer went out to scatter some seeds in a field.” 
-    * **wayside**  - "road" or "path." The ground would have been hard from the people walking on it.
-    * **they were trampled underfoot**  - AT: "They were stepped on too often for them to grow" or with an active verb as in the UDB. (See: [[en:ta:vol2:translate:figs_activepassive]])
-    * **devoured them**  - "ate them all"
-    * **they withered**  - "the plants became dry and shriveled up"
-    * **they had no moisture**  - AT: "the ground was too dry."
+  * **General Information:** - Jesus tells the parable of the soils to the crowd. He explains its meaning to his disciples. (See: [[:en:ta:vol1:translate:figs_parables]])
+
+  * **Now** - This word marks the beginning of the action in the story.
+  * **A sower went out to sow some seeds** - AT: "A farmer went out to scatter some seeds in a field" 
+  * **they were trampled underfoot** - AT: "They were stepped on too often for them to grow" or use an active verb as in the UDB. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **devoured them** - "ate them all"
+  * **they withered** - "the plants became dry and shriveled up"
+  * **they had no moisture** - AT: "the ground was too dry"
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 
  
 
-**[[en/bible/notes/luk/08/01|<<]] | [[en/bible/notes/luk/08/07|>>]]**
+**[[:en:bible:notes:luk:08:01|<<]] | [[:en:bible:notes:luk:08:07|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish parable sow}}
+{{tag>publish p2edit parable sow}}
 ~~NOCACHE~~

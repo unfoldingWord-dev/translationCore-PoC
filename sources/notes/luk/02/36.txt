@@ -36,37 +36,39 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:prophet]]
-    * [[en:obe:other:tribe]]
-    * [[en:obe:other:asher]]
-    * [[en:obe:kt:temple]]
-    * [[en:obe:kt:worship]]
-    * [[en:obe:kt:god]]
-    * [[en:obe:other:fast]]
-    * [[en:obe:other:pray]]
-    * [[en:obe:kt:redeem]]
-    * [[en:obe:other:jerusalem]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:tribe]]
+  * [[:en:obe:other:asher]]
+  * [[:en:obe:other:biblicaltimeyear]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:kt:worship]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:fast]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:kt:redeem]]
+  * [[:en:obe:other:jerusalem]]
 
 ===== Translation Notes: =====
 
-Anna meets baby Jesus at the temple.
-
-    * **Anna** - "Anna" is the name of a woman. (See: [[:en:ta:vol1:translate:translate_names]])
-    * **Phanuel** - "Phanuel" is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-    * **years** - See [[en:obe:other:biblicaltimeyear]].
-    * **after her marriage**  - "after she married him"
-    * **a widow for eighty-four years** - Possible meanings are 1) she had been a widow for 84 years or 2) she was a widow and was now 84 years old. (See: [[en:ta:vol2:translate:translate_numbers]])
-    * **never left the temple** - This is probably an exaggeration meaning that she spent so much time in the temple that it seemed as though she never left it. AT: "was always at the temple" or "was often at the temple." (See: [[en:ta:vol2:translate:figs_hyperbole]])
-    * **with fasting and prayers** - "by abstaining from food and by praying"
-    * **came up to them** - "approached them" or "went to Mary and Joseph"
-    * **the redemption of Jerusalem** - Here the word "redemption" is used to refer to the the person who would do it. AT: "the one who would redeem Jerusalem" or "the person who would bring God's blessings and favor back to Jerusalem." (See: [[en:ta:vol2:translate:figs_metonymy]])
-
+  * **A prophetess named Anna was also there** - This introduces a new participant into the story. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **was also there** - Only priests could enter the temple. AT: "was also there in the temple courtyard" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Phanuel** - "Phanuel" is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **very advanced in years** - This idiom means "very old." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **seven years** - "7 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **after her marriage** - "after she married him"
+  * **a widow for eighty-four years** - Possible meanings are 1) she had been a widow for 84 years or 2) she was a widow and was now 84 years old. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **never left the temple** - This is probably an exaggeration meaning that she spent so much time in the temple that it seemed as though she never left it. AT: "was always at the temple" or "was often at the temple." (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **with fasting and prayers** - "by abstaining from food and by praying"
+  * **came up to them** - "approached them" or "went to Mary and Joseph"
+  * **the redemption of Jerusalem** - Here the word "redemption" is used to refer to the the person who would do it. AT: "the one who would redeem Jerusalem" or "the person who would bring God's blessings and favor back to Jerusalem." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:33|<<]] | [[:en:bible:notes:luk:02:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish asher  redeem}}
+~~DISCUSSION~~{{tag>publish p2check asher redeem}}
 
 ~~NOCACHE~~

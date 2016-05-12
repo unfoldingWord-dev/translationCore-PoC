@@ -26,34 +26,36 @@
 ===== ULB: =====
 
 <usfm>
-\q \v 50 His mercy is for generation after generation of people who fear him.
-\q \v 51 He has done powerful things with his arm; 
-\q he has scattered those who are proud in their heart.
+\q 
+\v 50 His mercy lasts from generation to generation for those who honor him.  
+\q 
+\v 51 He has displayed strength with his arm;
+\q he hath scattered those who were proud about the thoughts of their hearts.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:mercy]]
-  * [[en:obe:kt:fear]]
-  * [[en:obe:kt:power]]
-  * [[en:obe:other:proud]]
-  * [[en:obe:other:heart]]
+  * [[:en:obe:kt:mercy]]
+  * [[:en:obe:other:generation]]
+  * [[:en:obe:other:proud]]
+  * [[:en:obe:other:heart]]
 
 ===== Translation Notes: =====
 
-  * **His mercy is for** - "God's mercy is for"
-  * **generation after generation of people** - "every generation of people." AT: "people in every time period."
-  * **fear him** - It also means to respect, honor, and obey God.
-  * **with his arm** - "by means of his arm." This is a picture of God's strength. (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **scattered** - "chased away."  AT: "caused them to run away in different directions."
-
+  * **His mercy** - "God's mercy"
+  * **from generation to generation** - "from one generation to the next generation" or "throughout every generation" or "to people in every time period"
+  * **displayed strength with his arm** - "his arm" is a metonymy that refers to his God's power. AT: "shown that he is very powerful." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **scattered** - "chased away in different directions"
+  * **thoughts of their hearts** - "heart" is an idiom that refers to a person's inner thoughts. AT: "thoughts in their inner being." (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:48|<<]] | [[:en:bible:notes:luk:01:52|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

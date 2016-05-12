@@ -24,20 +24,21 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:servant]]
-  * [[en:obe:other:plow]]
+  * [[:en:obe:other:plow]]
   * [[:en:obe:other:sheep]]
 
 ===== Translation Notes: =====
-Jesus continues to teach his disciples.
-  * **But which of you**  - "But who among you" or "But which one of you" This is the beginning of a rhetorical question. It could be translated as a statement starting with "If one of you" or "Suppose that one of you." See the UDB for an example of how to do this. (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **which of you, who has a servant**  - Jesus was asking a group of people about what one of them might do if a certain situation were to come up. It could be translated as "But which of you, if you have servant."
-  * **a servant plowing or keeping sheep**  - "a servant that plows your field or takes care of your sheep"
-  * **Will he not say to him**  - This is a rhetorical question. It can be translated as "Instead you would say to him" or "Instead, this is what you will say to him." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **put a belt around your clothes and serve me**  - "tie your clothes at your waist and serve me" or "dress up properly and take care of me" People would tie their clothes closely around their waist so that their clothes would not get in their way while they worked.
-  * **Then afterward**  - "Then after you serve me"
+
+  * **But which of you, who has a servant** - Jesus asks the group to judge a certain situation with a servant. AT: "But which one of you, if you have servant."
+  * **a servant plowing or keeping sheep** - "a servant that plows your field or takes care of your sheep"
+  * **Will he not say to him** - Jesus uses a question to teach the disciples. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **put a belt around your clothes and serve me** - "tie your clothes at your waist and serve me" or "dress up properly and take care of me." People would tie their clothes closely around their waist so that their clothes would not get in their way while they worked.
+  * **Then afterward** - "Then after you serve me"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:17:00]]
+  * [[:en:bible:questions:comprehension:luk:17]]
 **[[:en:bible:notes:luk:17:05|<<]] | [[:en:bible:notes:luk:17:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit text}}

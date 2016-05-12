@@ -37,19 +37,24 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:test]]
-    * [[en:obe:kt:lordgod]]
-    * [[en:obe:kt:tempt]]
+  * [[:en:obe:kt:test]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:tempt]]
+
 ===== Translation Notes: =====
 
-    * **It is said**  - Jesus quotes Deuteronomy. AT: "Moses has said" or "Moses has said in the scriptures."  [[:en:bible:notes:deu:06:16|6:16]]. (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **You must not test the Lord your God** - Jesus quoted this Scripture to say why he would not put God to the test by jumping down from the temple. This command is for God's people.  AT: "Do not test the Lord your God." 
-    * **until another time**  - "until another occasion"
+  * **Jesus answering said to him** - Jesus refuses to obey the devil, answering him with scripture. This refusal can be stated clearly. AT: "But Jesus replied, 'No, I will not do that'" (UDB). (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **It is said** - Jesus quotes from the writings of Moses in Deuteronomy. This can be stated in active form. AT: "Moses has said" or "Moses has said in the scriptures." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **You must not test the Lord your God** - Possible meanings are 1) Jesus should not test God by jumping off the temple, or 2) the devil should not test Jesus to see if he is the Son of God. It is best to translate the verse as stated rather than to try to explain the meaning.
+  * **until another time** - "until another occasion"
+  * **had finished tempting Jesus** - This does not imply that the devil was successful in his temptation—Jesus resisted every attempt. This can be stated clearly. AT: "had finished trying to tempt Jesus" (UDB) or "stopped trying to tempt Jesus." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:04:09|<<]] | [[:en:bible:notes:luk:04:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

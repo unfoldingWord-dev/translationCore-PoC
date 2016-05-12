@@ -36,27 +36,27 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:other:lawful]]
-    * [[en:obe:kt:good]]
-    * [[en:obe:kt:life]]
-    * [[en:obe:kt:restore]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:lawful]]
+  * [[:en:obe:kt:good]]
+  * [[:en:obe:kt:life]]
+  * [[:en:obe:kt:restore]]
 
 
 ===== Translation Notes: =====
 
-    * **to them**  - "to the Pharisees"
-    * **is it lawful** - This is the beginning of a rhetorical question. Jesus wanted the Pharisees to think about it and acknowledge that it is lawful to heal on the Sabbath. AT: "which is lawful? To do good" or "which does the law of Moses permit us to do?" (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **to do good or to do harm** - "to help someone or to harm someone"
-    * **Stretch out your hand** - "Hold out your hand" or "Extend your hand"
-    * **restored**  - "healed"
-
+  * **to them** - "to the Pharisees"
+  * **is it lawful...save a life...destroy it?** - Jesus wanted to correct the Pharisees' understanding that it was wrong to heal on the Sabbath. He asked the question as a contrast between doing good and doing evil in order to make it obvious which one is lawful and which one is wrong. AT: "which action does God's law permit—to do good and heal, or to do harm and destroy a life?" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **to do good or to do harm** - AT: "to help someone or to harm someone"
+  * **Stretch out your hand** - "Hold out your hand" or "Extend your hand"
+  * **restored** - "healed"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:06|<<]] | [[:en:bible:notes:luk:06:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

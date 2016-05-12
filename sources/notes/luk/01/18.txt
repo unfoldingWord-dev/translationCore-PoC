@@ -29,37 +29,43 @@
 
 <usfm>
 \p
-\v 18 Zechariah said to the angel, "How will I know this will happen? For I am an old man, and my wife also is very old."
-\v 19 The angel answered him, "I am Gabriel. I stand in the presence of God, and I was sent to speak to you and to bring you this good news. 
-\v 20 See, you will be silent and not able to speak until the day when these things happen, because you did not believe my words, which will be fulfilled at the proper time."
+\v 18 Zechariah said to the angel, "How can I know this? For I am an old man and my wife is well advanced in years."  
+\v 19 The angel answered and said to him, "I am Gabriel, who stands in the presence of God. I was sent to speak to you, to bring you this good news.  
+\v 20 And behold, you will be silent, unable to speak, until the day that these things come about. This is because you did not believe my words, which will be fulfilled at the right time."
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:other:zechariahnt]]
-  * [[en:obe:kt:angel]]
-  * [[en:obe:other:gabriel]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:other:send]]
-  * [[en:obe:kt:goodnews]]
-  * [[en:obe:kt:believe]]
-  * [[en:obe:kt:word]]
-  * [[en:obe:kt:fulfill]]
+  * [[:en:obe:other:zechariahnt]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:other:gabriel]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:send]]
+  * [[:en:obe:kt:believe]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:kt:fulfill]]
 
 
 ===== Translation Notes: =====
 
-    * **How will I know this will happen** - AT: "How can I know for sure that what you said will happen?"
-    * **believe my words** - "believe what I said"
-    * **at the proper time** - “at the right time” or “at the appointed time” 
-
+  * **How can I know this?** - "How can I know for sure that what you said will happen?" "know" here means to learn by experience, suggesting Zechariah was asking from a sign as proof. This can be stated clearly as: AT: "What can you do to prove to me that this will happen?"
+  * **well advanced in years** - "very old"
+  * **I am Gabriel, who stands in the presence of God** - This is stated as a rebuke to Zechariah. The presence of Gabriel, coming directly from God, should be enough proof for Zechariah.
+  * **who stands** - "who serves"
+  * **I was sent to speak to you** - This can be stated in active form. AT: "God sent me to speak to you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **behold** - The word "behold" here alerts us to pay attention to the surprising information that follows.
+  * **silent, unable to speak** - These mean the same thing, and are repeated to emphasize the completeness of his silence. AT: "completely unable to speak" or "not able to speak at all." (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **not believe my words** - "not believe what I said"
+  * **at the right time** - "at the appointed time" 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:16|<<]] | [[:en:bible:notes:luk:01:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish gabriel }}
+~~DISCUSSION~~{{tag>publish p2check gabriel}}
 
 ~~NOCACHE~~

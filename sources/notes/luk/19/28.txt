@@ -30,19 +30,23 @@
 
 ===== Translation Notes: =====
 
-  * **When he had said these things** - The word "he" refers to Jesus, not to the king in the previous parable. Some versions make this clear by translating it as "When Jesus had said these things."
+  * **Connecting Statement:** - This is the end of the part of the story about Zacchaeus. This verse tells us what Jesus did after this part of the story. (See: [[End of Story]])
+
+  * **When he had said these things** - "When Jesus had said these things"
   * **going up to Jerusalem** - Jerusalem is about 975 meters higher in elevation then Jericho.
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/26|<<]] | [[en/bible/notes/luk/19/29|>>]]**
+**[[:en:bible:notes:luk:19:26|<<]] | [[:en:bible:notes:luk:19:29|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit talink}}
 ~~NOCACHE~~

@@ -25,25 +25,28 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:pharisee]]
-    * [[en:obe:kt:teacher]]
-    * [[en:obe:kt:lawofmoses]]
-    * [[en:obe:other:galilee]]
-    * [[en:obe:other:judea]]
-    * [[en:obe:other:jerusalem]]
-    * [[en:obe:kt:power]]
-    * [[en:obe:kt:lord]]
-    * [[en:obe:other:heal]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:kt:lawofmoses]]
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:other:judea]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:power]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:heal]]
 
 ===== Translation Notes: =====
 
-    * **It came about** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **Connecting Statement:** - One day when Jesus was teaching in a building, some men brought a paralyzed man for Jesus to heal.
+  
+  * **It came about** - This phrase marks the beginning of a new part of the story. (See: [[:en:ta:vol2:translate:writing_newevent]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
 **[[:en:bible:notes:luk:05:15|<<]] | [[:en:bible:notes:luk:05:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

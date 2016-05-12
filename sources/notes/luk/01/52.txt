@@ -28,38 +28,40 @@
 ===== ULB: =====
 
 <usfm>
-\q \v 52 He has pulled down rulers from their thrones, 
-\q and has raised up lowly people.
-\q \v 53  He has given good things to hungry people, 
-\q and has sent away rich people without anything.
+\q 
+\v 52 He has thrown down princes from their thrones.  
+\q and he has raised up those of low condition.
+\q 
+\v 53 He has filled the hungry with good things,
+\q but the rich he has sent away empty.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:other:ruler]]
-    * [[en:obe:other:throne]]
-    * [[en:obe:kt:raise]]
-    * [[en:obe:other:lowly]]
+  * [[:en:obe:other:prince]]
+  * [[:en:obe:other:throne]]
+  * [[:en:obe:kt:raise]]
+  * [[:en:obe:other:lowly]]
 
 ===== Translation Notes: =====
 
-    * **He has pulled down rulers from their thrones**  - A throne is a chair that a king sits on, and it is a symbol of his authority. If a king is brought down from his throne, it means he no longer has the authority to reign as king.  AT: "He has taken away the authority of kings" or "He has made rulers stop ruling." 
-    * **has raised up lowly people** - In this word picture, people who are important are higher than people who are less important. AT: "has made humble people important" or "has given honor to people whom others have not honored." (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **given good things** - AT: "given good food"
-
+  * **He has thrown down princes from their thrones** - A throne is a chair that a ruler sits on, and it is a symbol of his authority. If a prince is brought down from his throne, it means he no longer has the authority to reign. AT: "He has taken away the authority of princes" or "He has made rulers stop ruling." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **thrown down princes...raised up those of low condition** - The contrast between these two opposite actions should be made clear in the translation if possible.
+  * **low condition** - See how you translated this in [[:en:bible:notes:luk:01:48|1:48]].
+  * **has raised up those of low condition** - In this word picture, people who are important are higher than people who are less important. AT: "has made humble people important" or "has given honor to people whom others have not honored." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **He has filled the hungry...the rich he has sent away empty** - The contrast between these two opposite actions should be made clear in the translation if possible.
+  * **filled the hungry with good things** - Possible meanings are 1) "given the hungry good food to eat" or 2) "given the needy good things."
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
-
-
-
-**[[en/bible/notes:luk/01/50|<<]] | [[en/bible/notes:luk/01/54|>>]]** 
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
+**[[:en/bible/notes:luk/01/50|<<]] | [[:en/bible/notes:luk/01/54|>>]]** 
 
 
 ~~DISCUSSION~~
 
-
-{{tag>publish}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

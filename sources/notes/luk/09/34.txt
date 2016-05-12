@@ -37,22 +37,28 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:voice]]
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:sonofgod]]
+  * [[:en:obe:other:voice]]
+  * [[:en:obe:kt:elect]]
+  * [[:en:obe:kt:sonofgod]]
+  * [[:en:obe:kt:jesus]]
 
  
 
 ===== Translation Notes: =====
 
-    * **while he was saying these things** - "while Peter was saying these things"
-    * **they were afraid** - These adult disciples were not afraid of clouds. This phrase indicates that some kind of unusual fear came over them with the cloud. AT: "they were terrified."
-    * **A voice came out of the cloud, saying** - AT: "God spoke to them from the cloud, saying."
-    * **my chosen Son** - The word "chosen" is adding information about God's Son. It is not saying that God has more than one son. AT: "my Son, whom I have chosen" (UDB) or "my Son, the chosen one." (See: information about Adjectives on [[en:ta:vol2:translate:figs_partsofspeech]])
-    * **those days** - This may refer to the days until Jesus was taken up to Heaven after the resurrection or possibly the days directly after Jesus made the statement.
+  * **while he was saying these things** - "while Peter was saying these things"
+  * **they were afraid** - These adult disciples were not afraid of clouds. This phrase indicates that some kind of unusual fear came over them with the cloud. AT: "they were terrified."
+  * **as they were surrounded by the cloud** - AT: "as the cloud surrounded them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **A voice came out of the cloud, saying** - AT: "God spoke to them from the cloud, saying" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **my chosen Son** - The word "chosen" gives information about God's Son. It is not saying that God has more than one son. AT: "my Son, whom I have chosen" (UDB) or "my Son, the chosen one." (See: information about Adjectives on [[:en:ta:vol2:translate:figs_partsofspeech]] and [[:en:ta:vol2:translate:figs_distinguish]])
+  * **They kept silent, and in those days...the things which they had seen** - This is information that tells what happened after the story as a result of the events in the story itself. (See: [[End of Story]])
+  * **those days** - This may refer to the days until Jesus was taken up to Heaven after the resurrection or possibly the days directly after Jesus made the statement.
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:32|<<]] | [[:en:bible:notes:luk:09:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit talink}}

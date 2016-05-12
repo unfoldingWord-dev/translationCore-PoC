@@ -24,25 +24,28 @@
 
 
 ===== translationWords: =====
- 
+  * [[:en:obe:other:neighbor]]
 
 ===== Translation Notes: =====
 
 
-    * **as they may**  - "because they might"
+  * **as they may** - "because they might"
+  * **and you will be repaid** - AT: "and in this way repay you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 
 
-**[[en/bible/notes/luk/14/10|<<]] | [[en/bible/notes/luk/14/13|>>]]**
+**[[:en:bible:notes:luk:14:10|<<]] | [[:en:bible:notes:luk:14:13|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

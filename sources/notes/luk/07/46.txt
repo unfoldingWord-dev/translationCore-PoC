@@ -27,28 +27,27 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:anoint]]
-    * [[en:obe:other:oil]]
-    * [[en:obe:kt:sin]]
-    * [[en:obe:kt:forgive]]
-    * [[en:obe:kt:love]]
+  * [[:en:obe:kt:anoint]]
+  * [[:en:obe:other:oil]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:kt:love]]
 
 ===== Translation Notes: =====
-Jesus continues speaking to Simon.
 
-    * **anoint my head with oil** - "put oil on my head." This was a way of welcoming an honored guest. AT: "welcome me by anointing my head with oil."
-    * **anointed my feet**  - Though this was probably not a common practice, the woman greatly honored Jesus by doing this.
-    * **has been forgiven much** - AT: "who has received much forgiveness" or "whom God has forgiven much."
-    * **has also loved much** - "has also loved much the one who forgave her" or "has also love God much." Some languages require that the object of "love" be stated. 
-    * **he who is forgiven only a little** - "anyone who is forgiven little." In this sentence Jesus states a general principle. However, Simon was expected to understand that Jesus was saying that Simon had loved little.
-
+  * **anoint my head with oil** - "put oil on my head." This was a way of welcoming an honored guest. AT: "welcome me by anointing my head with oil."
+  * **anointed my feet** - The woman greatly honored Jesus by doing this.
+  * **has been forgiven much** - AT: "who has received much forgiveness" or "whom God has forgiven much" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **has also loved much** - Some languages require that the object of "love" be stated. AT: "has also loved much the one who forgave her" or "has also loved God much."
+  * **he who is forgiven only a little** - "anyone who is forgiven little." In this sentence Jesus states a general principle. However, Simon was expected to understand that Jesus was saying that Simon had loved little. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
 **[[:en:bible:notes:luk:07:44|<<]] | [[:en:bible:notes:luk:07:48|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

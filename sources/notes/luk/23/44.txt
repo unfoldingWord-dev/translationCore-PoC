@@ -13,7 +13,7 @@
 
 <usfm>
 \v 44 Then it was about noontime. But it became dark over all the land until three o'clock in the afternoon.
-\v 45 There was no light from the sun. And the thick curtain that closed off the most holy place in the Temple split into two pieces.
+\v 45 There was no light from the sun. And the thick curtain that closed off the most holy place in the temple split into two pieces.
 </usfm>
 
 
@@ -27,21 +27,24 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:curtain]]
-  * [[en:obe:kt:temple]]
+  * [[:en:obe:other:biblicaltimehour]]
+  * [[:en:obe:other:curtain]]
+  * [[:en:obe:kt:temple]]
 
 
 ===== Translation Notes: =====
 
-  * **It was now about the sixth hour**  - "When it was about noon." This reflects the custom at the time of counting hours beginning with daybreak at 6 a.m. (See: [[:en:obe:other:biblicaltime]])
-  * **darkness came over the whole land**  - "the entire land became dark"
-  * **until the ninth hour**  - "until 3 p.m." This reflects the custom at the time of counting hours beginning with daybreak at 6 a.m. (See: [[:en:obe:other:biblicaltime]])
-  * **the curtain of the temple**  - "the curtain inside the temple"
-  * **was split down the middle**  - "tore (or split) to become two pieces." AT: "God tore the temple curtain into two pieces" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **It was now about the sixth hour** - "When it was about noon." This reflects the custom at the time of counting hours beginning with daybreak at 6 a.m.
+  * **darkness came over the whole land** - "the entire land became dark"
+  * **until the ninth hour** - "until 3 p.m." This reflects the custom at the time of counting hours beginning with daybreak at 6 a.m.
+  * **the curtain of the temple** - "the curtain inside the temple"
+  * **was split down the middle** - "was torn into two pieces." AT: "God tore the temple curtain into two pieces." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:42|<<]] | [[:en:bible:notes:luk:23:46|>>]]**
 
-~~DISCUSSION~~{{tag>publish  biblicaltime}}
+~~DISCUSSION~~{{tag>publish p2edit biblical time}}

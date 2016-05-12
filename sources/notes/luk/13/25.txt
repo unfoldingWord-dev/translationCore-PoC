@@ -22,7 +22,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 25 Once the owner of the house gets up and locks the door, then you will stand outside and pound the door and say, ‘Lord, Lord, let us in.’ And he will answer and say to you, 'I do not know you or where you are from.'
+\v 25 Once the owner of the house gets up and locks the door, then you will stand outside and pound the door and say, 'Lord, Lord, let us in.' And he will answer and say to you, 'I do not know you or where you are from.'
 \v 26 Then you will say, 'We ate and drank in front of you and you taught in our streets.'
 \v 27 But he will reply, 'I say to you, I do not know where you are from. Get away from me, you evildoers!'
 </usfm>
@@ -30,22 +30,25 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:lord]]
-    * [[en:obe:other:evildoer]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:evildoer]]
 
 
 ===== Translation Notes: =====
-Jesus continues talking about entering into God's kingdom.
-    * **the owner of the house** - This refers to God and can be translated as “God.”
-    * **you will stand outside** - Jesus was talking to a crowd. The form of "you" is plural (See: [[en:ta:vol1:translate:figs_you]]). He is addressing them as if they will not enter through the door into the kingdom.
-    * **Get away from me**  - "Go away from me"
-    * **evildoers** - "people who do evil"
+
+  * **the owner of the house** - This refers to God. AT: "God."
+  * **you will stand outside** - Jesus was talking to a crowd. The form of "you" is plural. He is addressing them as if they will not enter through the door into the kingdom. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **pound the door** - "hit on the door"
+  * **Get away from me** - "Go away from me"
+  * **evildoers** - "people who do evil"
  
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:22|<<]] | [[:en:bible:notes:luk:13:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

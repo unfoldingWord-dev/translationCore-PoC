@@ -27,28 +27,31 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:good]]
-    * [[en:obe:kt:fruit]]
-    * [[en:obe:other:fig]]
-    * [[en:obe:other:thorn]]
-    * [[en:obe:other:grape]]
+  * [[:en:obe:kt:good]]
+  * [[:en:obe:kt:fruit]]
+  * [[:en:obe:other:fig]]
+  * [[:en:obe:other:thorn]]
+  * [[:en:obe:other:grape]]
 
 ===== Translation Notes: =====
-Jesus compares people to good and bad trees. (See [[:en:ta:vol1:translate:figs_simile]])
 
-  * **For**  - "because." This links the fact that our character will be exposed as the reason why we should not judge our brother.
-  * **good tree**  - "healthy tree"
-  * **rotten**  - "decaying." AT: "bad". 
-  * **each tree is known**  - "recognized." AT: "people know a tree" or "people recognize a tree."
-  * **fig**  - the sweet-tasting fruit of the fig tree. The fig tree does not have thorns on it.
-  * **thornbush**  - a plant or shrub that has thorns.
-  * **grape**  - the sweet-tasting fruit of the grape vine. The grape vine does not have thorns on it. 
-  * **briar bush**  - a vine or shrub that has thorns.
+  * **General Information:** - People can tell if a tree is good or bad, and what type of tree it is, by the fruit it produces. Jesus uses this as an unexplained metaphor—we know what kind of person someone is when we see their actions. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+  * **For there is** - "Because there is." This indicates that what follows is the reason why we should not judge our brother.
+  * **good tree** - "healthy tree"
+  * **rotten** - "decaying" or "bad" or "worthless" 
+  * **each tree is known** - People recognize the kind of tree by the fruit is bears. This could be stated in active form. AT: "people know the type of a tree" or "people recognize a tree." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **fig** - the sweet-tasting fruit of the fig tree
+  * **thornbush** - a plant or shrub that has thorns
+  * **grape** - the sweet-tasting fruit of the grape vine 
+  * **briar bush** - a vine or shrub that has thorns
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:41|<<]] | [[:en:bible:notes:luk:06:45|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

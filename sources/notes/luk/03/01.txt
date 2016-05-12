@@ -29,35 +29,40 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeyear]]
+  * [[:en:obe:other:caesar]]
+  * [[:en:obe:other:pilate]]
+  * [[:en:obe:other:governor]]
+  * [[:en:obe:other:judea]]
+  * [[:en:obe:other:herodantipas]]
+  * [[:en:obe:other:tetrarch]]
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:kt:highpriest]]
+  * [[:en:obe:other:annas]]
+  * [[:en:obe:other:caiaphas]]
+  * [[:en:obe:kt:wordofgod]]
+  * [[:en:obe:other:johnthebaptist]]
+  * [[:en:obe:other:zechariahnt]]
+  * [[:en:obe:other:desert]]
 
-    * [[en:obe:other:caesar]]
-    * [[en:obe:other:pilate]]
-    * [[en:obe:other:governor]]
-    * [[en:obe:other:judea]]
-    * [[en:obe:other:herodantipas]]
-    * [[en:obe:other:tetrarch]]
-    * [[en:obe:other:galilee]]
-    * [[en:obe:kt:highpriest]]
-    * [[en:obe:other:annas]]
-    * [[en:obe:other:caiaphas]]
-    * [[en:obe:kt:wordofgod]]
-    * [[en:obe:other:johnthebaptist]]
-    * [[en:obe:other:zechariahnt]]
-    * [[en:obe:other:desert]]
 ===== Translation Notes: =====
 
-  * **Now** - This marks a new section of the story.
-  * **fifteenth year** - See [[en:obe:other:biblicaltimeyear]].
+  * **Connecting Statement:** - As the prophet Isaiah had foretold, John begins to preach good news to the people.
+  * **General Information:** - These verses give background information to tell what is happening when Jesus' cousin John begins his ministry. 
+
+  * **Now** - This marks a new section of the story. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **fifteenth year** - (See: [[:en:ta:vol2:translate:translate_ordinal]])
   * **Philip...Lysanias** - These are the names of men. (See: [[:en:ta:vol1:translate:translate_names]])
   * **Ituraea and Trachonitis...Abilene** - These are names of territories. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **during the high priesthood of Annas and Caiaphas**  - They were serving together as high priests.
-
+  * **during the high priesthood of Annas and Caiaphas** - "while Annas and Caiaphas were serving together as the high priest." Annas was the high priest, and the Jews continued to recognize him as such even after the Romans appointed his son-in-law, Caiaphas, to replace him as high priest.
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 
 **[[:en:bible:notes:luk:02:51|<<]] | [[:en:bible:notes:luk:03:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish herodantipas tetrarch caiaphas  highpriest}}
+~~DISCUSSION~~{{tag>publish p2check herodantipas tetrarch caiaphas highpriest}}
 
 ~~NOCACHE~~

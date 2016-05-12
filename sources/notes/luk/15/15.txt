@@ -27,28 +27,29 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:citizen]]
-    * [[:en:obe:other:pig]]
+  * [[:en:obe:other:citizen]]
+  * [[:en:obe:other:pig]]
  
 ===== Translation Notes: =====
-Jesus continues telling his parable.
 
-    * **He went** - The word "he" refers to the younger son.
-    * **hired himself out to**  - This can be translated as  "took a job with" or "began to work for."
-    * **one of the citizens of that country** - "a man of that country"
-    * **to feed pigs**  - "to give food to his pigs"
-    * **would gladly have eaten** - "wished very much that he could eat"
-    * **bean pods** - These are the husks of beans that grow on the carob tree. This can be translated as "carob pods" or "pods" or "bean husks."
+  * **He went** - The word "he" refers to the younger son.
+  * **hired himself out to** - AT: "took a job with" or "began to work for"
+  * **one of the citizens of that country** - "a man of that country"
+  * **to feed pigs** - "to give food to his pigs"
+  * **would gladly have eaten** - "wished very much that he could eat"
+  * **bean pods** - These are the husks of beans that grow on the carob tree. AT: "carob pods" or "pods" or "bean husks."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 
  
 
-**[[en/bible/notes/luk/15/13|<<]] | [[en/bible/notes/luk/15/17|>>]]**
+**[[:en:bible:notes:luk:15:13|<<]] | [[:en:bible:notes:luk:15:17|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

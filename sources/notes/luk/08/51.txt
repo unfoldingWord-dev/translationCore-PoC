@@ -30,25 +30,25 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:peter]]
-    * [[en:obe:other:johntheapostle]]
-    * [[en:obe:other:jamessonofzebedee]]
-    * [[en:obe:other:mourn]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:other:johntheapostle]]
+  * [[:en:obe:other:jamessonofzebedee]]
+  * [[:en:obe:other:mourn]]
 
 
 ===== Translation Notes: =====
 
-Jesus continued on to Jairus' house despite hearing that his daughter was dead.
+  * **Then when he came to the house, he** - AT: "Then when they came to the house, Jesus."
+  * **except Peter, John and James, the father of the girl, and her mother** - "he only allowed Peter, John, and James, the girl's father, and her mother to go inside"
+  * **all the people there were mourning and wailing for her** - AT: "all the people were showing how sad they were and crying loudly because the girl had died"
 
-    * **Then when he came to the house, he**  - Because Jesus did not go alone to the house, it can be translated as "Then when they came to the house, Jesus."
-    * **except Peter, John and James, the father of the girl, and her mother** - "He only allowed Peter, John and James, the girl's father, and her mother to go inside"
-    * **all the people there were mourning and wailing for her**  - "all the people were showing how sad they were and crying loudly because the girl had died"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:49|<<]] | [[:en:bible:notes:luk:08:54|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

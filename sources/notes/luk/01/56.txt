@@ -27,37 +27,40 @@
 
 <usfm>
 \p 
-\v 56 Mary lived with Elizabeth about three months, and then returned to her house.
-\p 
-\v 57 Now when it was time for Elizabeth to deliver her baby, she gave birth to a son.
-\v 58 Her neighbors and relatives heard that the Lord had been very merciful to her, and they rejoiced with her.
+\v 56 Mary stayed with Elizabeth about three months and then returned to her house. 
+\p
+\v 57 Now the time had come for Elizabeth to deliver her baby and she gave birth to a son.
+\v 58 Her neighbors and her relatives heard that the Lord had multiplied his mercy for her, and they rejoiced with her.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:other:mary]]
-    * [[en:obe:other:elizabeth]]
-    * [[en:obe:other:neighbor]]
-    * [[en:obe:kt:mercy]]
-    * [[en:obe:other:rejoice]]
+  * [[:en:obe:other:mary]]
+  * [[:en:obe:other:elizabeth]]
+  * [[:en:obe:other:neighbor]]
+  * [[:en:obe:kt:mercy]]
+  * [[:en:obe:other:rejoice]]
 
   
 ===== Translation Notes: =====
 
-Mary returns home and Elizabeth gives birth to a son.
+  * **Connecting Statement:** - Elizabeth delivers her baby and the Zechariah names their baby. 
 
-    * **three months** - See: [[en:obe:other:biblicaltimemonth]].
-    * **returned to her house** - "Mary returned to her (Mary's) house" or "Mary returned to her own house"
-    * **deliver her baby** - "give birth to her baby" or "bear her child"
-    * **Her neighbors and relatives** - "Elizabeth's neighbors and relatives"
+  * **returned to her house** - "Mary returned to her (Mary's) house" or "Mary returned to her own house"
+  * **Now** - This word marks the beginning of the next event in the story.
+  * **Her neighbors and her relatives** - "Elizabeth's neighbors and relatives"
+  * **multiplied his mercy for her** - "been so kind to her" (UDB)
+
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:54|<<]] | [[:en:bible:notes:luk:01:59|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check talink}}
 
 ~~NOCACHE~~

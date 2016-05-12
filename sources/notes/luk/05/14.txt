@@ -20,24 +20,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:instruct]]
+  * [[:en:obe:other:instruct]]
   * [[:en:obe:kt:priest]]
   * [[:en:obe:other:sacrifice]]
   * [[:en:obe:kt:clean]]
   * [[:en:obe:other:moses]]
-  * [[en:obe:other:command]]
+  * [[:en:obe:other:command]]
   * [[:en:obe:kt:testimony]]
 
 ===== Translation Notes: =====
 
-  * **to tell no one**  - This is an indirect quote. The implied information is "that you have been healed." AT: "Do not tell anyone." (See: [[en:ta:vol2:translate:figs_quotations]], [[en:ta:vol1:translate:figs_explicit]])
-  * **sacrifice for your cleansing**  - The law required a person to make a specific sacrifice after they were cleansed. This allowed the person to be ceremonially clean, and able to again participate in religious rituals.
-  * **for a testimony to them**  - "for a testimony to the priests" or "so that the priests will know that you have truly been healed." The priests in the temple would be confronted with the fact that Jesus had healed the man's leprosy.
+  * **to tell no one** - "Do not tell anyone." This is an indirect quote. It refers back to the healing of the man. This can be stated. AT: "do not tell anyone that you have been healed." (See: [[:en:ta:vol2:translate:figs_quotations]] and [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **sacrifice for your cleansing** - The law required a person to make a specific sacrifice after they were healed. This allowed the person to be ceremonially clean, and able to again participate in religious rituals.
+  * **for a testimony** - "so proof of your healing"
+  * **to them** - Possible meanings are 1) "to the priests" or 2) "to all the people."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
 **[[:en:bible:notes:luk:05:12|<<]] | [[:en:bible:notes:luk:05:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

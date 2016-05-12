@@ -27,28 +27,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:tunic]]
+  * [[:en:obe:other:tunic]]
 
 ===== Translation Notes: =====
-Jesus continues to teach the crowd to love their enemies.
 
-    * **To him who strikes you** - "If anyone hits you"
-    * **on the one cheek**  - "on one side of your face"
-    * **offer him also the other**  - AT: "turn your face so that he can hit the other side, too."
-    * **do not withhold** - "do not prevent him from taking"
-    * **Give to everyone who asks you** - AT: "If anyone asks you for something, give it to him." 
-    * **do not ask him** - "do not require him" or "do not demand"
+  * **To him who strikes you** - "If anyone hits you"
+  * **on the one cheek** - "on one side of your face"
+  * **offer him also the other** - It may be helpful to state what the attacker will do to the person. AT: "turn your face so that he can strike the other cheek also" (UDB). (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **do not withhold** - "do not prevent him from taking"
+  * **Give to everyone who asks you** - "If anyone asks you for something, give it to him" 
+  * **do not ask him** - "do not require him" or "do not demand"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/06/27|<<]] | [[en/bible/notes/luk/06/31|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
+**[[:en:bible:notes:luk:06:27|<<]] | [[:en:bible:notes:luk:06:31|>>]]**
 
 
 ~~DISCUSSION~~
 
-
-{{tag>publish}}
+{{tag>publish p2check}}
 ~~NOCACHE~~

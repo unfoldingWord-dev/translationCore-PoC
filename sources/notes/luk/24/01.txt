@@ -28,19 +28,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:tomb]]
-  * [[en:obe:kt:jesus]]
+  * [[:en:obe:other:biblicaltimeday]]
+  * [[:en:obe:other:biblicaltimeweek]]
+  * [[:en:obe:other:tomb]]
+  * [[:en:obe:kt:jesus]]
 
 ===== Translation Notes: =====
 
-  * **Very early on the first day of the week**  - "Before dawn on Sunday" (UDB) (See: [[en:obe:other:biblicaltimeweek]])
-  * **came to**  - "arrived at." The ULB is written as though the narrator is already at the tomb and sees the women arrive there. The UDB is written as though the narrator sees the women leave an unnamed place and go to the tomb.
+  * **General Information:** - This is the next part of the story. The women return to the tomb with spices to put on Jesus' body.
+
+  * **Very early on the first day of the week** - "Before dawn on Sunday" (UDB) (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **they came to** - "the women arrived at." The ULB is written as though the narrator is already at the tomb and sees the women arrive there. The UDB is written as though the narrator sees the women leave an unnamed place and go to the tomb.
   * **the tomb** - This tomb was cut in the rock of a cliff.
-  * **the stone rolled away**  - a large, cut, round stone big enough to completely block the doorway to the tomb. It required several men to roll.
+  * **the stone rolled away** - AT: "that someone had rolled the stone" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the stone** - This was a large, cut, round stone big enough to completely block the doorway to the tomb. It required several men to roll.
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:23:54|<<]] | [[:en:bible:notes:luk:24:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish tomb}}
+~~DISCUSSION~~{{tag>publish p2edit tomb}}

@@ -28,24 +28,30 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:sabbath]]
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:other:grain]]
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:other:pharisee]]
-    * [[en:obe:other:lawful]]
+  * [[:en:obe:kt:sabbath]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:grain]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:other:lawful]]
 ===== Translation Notes: =====
 
-  * **Now it happened** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **grain fields**  - In this case, these are large sections of land where wheat seed had been scattered to grow more wheat.
-  * **heads of grain**  - This is the topmost part of the wheat plant, which is a kind of large grass. It holds the mature grain or seeds of the plant.
-  * **Why are you doing something that is not lawful to do on the Sabbath day?** - It is a rhetorical question that means "Picking grain on the Sabbath is against God's law!" The word "you" is plural, and refers to the disciples.  AT: "Why are you picking grain on the Sabbath?"  (See: [[:en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol1:translate:figs_you]])
+  * **Connecting Statement:** - Jesus and his disciples now walk through a grain field while some Pharisees begin to question the disciples about what they are doing on a Saturday which, in God's law, has been set aside for God.
+  * **General Information:** - The word "you" here is plural, and refers to the disciples. (See: [[:en:ta:vol1:translate:figs_you]])
+
+  * **Now it happened** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **grain fields** - In this case, these are large sections of land where the people had scattered wheat seed to grow more wheat.
+  * **heads of grain** - This is the topmost part of the grain plant, which is a kind of large grass. It holds the mature, edible seeds of the plant.
+  * **rubbing them between their hands** - They did this to separate the grain seeds. This could be stated clearly. AT: "They rubbed them in their hands to separate the grains from the husks" (UDB). (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Why are you doing something that is not lawful to do on the Sabbath day?** - They asked this question to accuse the disciples of breaking the law. It could be written as a statement. AT: "Picking grain on the Sabbath is against God's law!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **doing something** - The Pharisees considered even the small action of rubbing a handful of grain to be unlawful work. This could be stated clearly. AT: "doing work" (UDB). (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:05:37|<<]] | [[:en:bible:notes:luk:06:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish  lawful}}
+~~DISCUSSION~~{{tag>publish p2check lawful}}
 
 ~~NOCACHE~~

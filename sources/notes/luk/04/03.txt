@@ -13,7 +13,7 @@
 
 <usfm>
 \v 3 Then the devil said to Jesus, "If you really are the Son of God, command these stones to become bread for you to eat!"
-\v 4 Jesus replied, "No, I will not do that, because it is written in the scriptures, “People need more than just food in order to live.”
+\v 4 Jesus replied, "No, I will not do that, because it is written in the scriptures, "People need more than just food in order to live."
 </usfm>
 
 
@@ -27,25 +27,26 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:satan]]
-    * [[en:obe:kt:sonofgod]]
-    * [[en:obe:other:command]]
-    * [[en:obe:other:bread]]
-    * [[en:obe:other:written]]
+  * [[:en:obe:kt:satan]]
+  * [[:en:obe:kt:sonofgod]]
+  * [[:en:obe:other:command]]
+  * [[:en:obe:other:bread]]
+  * [[:en:obe:other:written]]
 
 ===== Translation Notes: =====
 
-  * **If you are the Son of God** - The devil tried to cause Jesus to sin to stop Jesus from becoming the Savior of the world. But Jesus did not sin, proving he is  "the Son of God."
-  * **this stone** - The devil was either holding a stone in his hand or pointing to a nearby stone.
-  * **It is written**  - The quotation is from Moses' writings in the Old Testament. AT: "Moses has written in the scriptures." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **Man shall not live on bread alone** - The word "bread" is used to refer to food in general. The point is that food is not enough to sustain a person. Jesus quoted the scripture to say why he would not turn the stone into bread. AT: "People cannot live on just bread" or "It is not just food that makes a person live." (See: [[en:ta:vol2:translate:figs_synecdoche]]) 
-
+  * **If you are the Son of God** - The devil challenges Jesus to do this miracle in order to prove that he is "the Son of God." (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **this stone** - The devil either holds a stone in his hand or points to a nearby stone.
+  * **Jesus answered him** - Jesus' rejection of the devil's challenge is clearly implied in his answer. It may be helpful to state this clearly for your audience, as the UDB does: "Jesus replied, 'No, I will not do that.'" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **It is written** - The quotation is from Moses' writings in the Old Testament. This could be stated in active form. AT: "Moses has written in the scriptures." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Man shall not live on bread alone** - The word "bread" refers to food in general. Food as compared to God, by itself, is not enough to sustain a person. Jesus quotes the scripture to say why he would not turn the stone into bread. AT: "People cannot live on just bread" or "It is not just food that makes a person live." (See: [[:en:ta:vol2:translate:figs_synecdoche]]) 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:04:01|<<]] | [[:en:bible:notes:luk:04:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish  bread }}
+~~DISCUSSION~~{{tag>publish p2check bread}}
 
 ~~NOCACHE~~

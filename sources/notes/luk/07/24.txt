@@ -30,26 +30,31 @@
 
   * [[:en:obe:other:johnthebaptist]]
   * [[:en:obe:other:desert]]
-  * [[en:obe:other:reed]]
+  * [[:en:obe:other:reed]]
   * [[:en:obe:other:king]]
-  * [[en:obe:other:palace]]
+  * [[:en:obe:other:palace]]
   * [[:en:obe:kt:prophet]]
 
 ===== Translation Notes: =====
-Jesus talks to the people about John the Baptist.
 
-  * **what did you go out to see**  - Jesus used this phrase in three rhetorical questions to cause the people to think about what kind of person John the Baptist was. AT: "did you go out to see …? Of course not!" or "surely you did not go out to see …!" (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **a reed being shaken by the wind**  - It has two possible interpretations. 1) Reeds are easily moved by the wind, so it could refer to a person who is easily motivated to change his mind. 2) Reeds make noise when the wind rattles them, so it could refer to a person who talks a lot but his speech does not result in anything important  AT: "a man who was like a reed being shaken by the wind." (See: [[en:ta:vol1:translate:figs_metaphor]]).
-  * **dressed in soft clothes**  - "wearing expensive clothing." Rich people wore this kind of clothing.
-  * **kings' palaces**  - A palace is a large, expensive house that a king lives in.
-  * **But**  - "If you did not go out to see that, then"
-  * **I say to you**  - Jesus said this to emphasize the importance of what he would say next.
-  * **much more than a prophet**  - "not an ordinary prophet" or "more important than a normal prophet"
+  * **Connecting Statement:** - Jesus begins to speak to the crowd about John the Baptist.
+  * **What...a reed being shaken by the wind?** - This expects a negative answer. "Did you go out to see a reed shaken by the wind? Of course not!" It can also be written as a statement. AT: "Surely you did not go out to see a reed being shaken by the wind!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **a reed being shaken by the wind** - Possible meanings of this metaphor are 1) a person who easily changes his mind, as reeds are easily moved by the wind, or 2) a person who talks a lot but does not say anything important, as reeds rattle when the wind blows. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **But what...a man dressed in soft clothes?** - This also expects a negative answer, since John wore rough garments. "Did you go out to see a man dressed in soft clothes? Of course not!" This could also be written as a statement. AT: You certainly did not go out to see a man dressed in soft clothes!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **dressed in soft clothes** - AT: "wearing expensive clothing" 
+  * **kings' palaces** - A palace is a large, expensive house that a king lives in.
+  * **But what...a prophet?** - This leads to a positive answer. "Did you go out to see a prophet? Of course you did!" This could also be written as a statement. AT: "But you actually went out to see a prophet!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Yes, I say to you** - Jesus said this to emphasize the importance of what he would say next.
+  * **much more than a prophet** - This phrase means that John was indeed a prophet, but that he was even greater than a typical prophet. AT: "not just an ordinary prophet" or "much more important than a normal prophet."
+
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
 **[[:en:bible:notes:luk:07:21|<<]] | [[:en:bible:notes:luk:07:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

@@ -26,27 +26,29 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:bread]]
-  * [[en:obe:kt:body]]
-  * [[en:obe:kt:newcovenant]]
-  * [[en:obe:kt:blood]]
+  * [[:en:obe:other:bread]]
+  * [[:en:obe:kt:body]]
+  * [[:en:obe:kt:newcovenant]]
+  * [[:en:obe:kt:blood]]
  
 
 ===== Translation Notes: =====
 
-  * **bread**  - This bread did not have yeast in it, so it was flat.
-  * **he broke it**  - "he ripped it" or "he tore it." He may have divided it into many pieces or he may have divided it into two pieces and given them to the apostles to divide among themselves. If possible, use an expression that could be used for either situation.
-  * **This is my body**  - Possible meanings are 1) "This bread is my body" and 2) "This bread represents my body."
-  * **my body which is given for you**  - "my body, which I will give for you" or "my body, which I will sacrifice for you." For languages that must state the recipient, it could be translated as "my body, that I give to the authorities to kill for your sake."
-  * **Do this**  - "Eat this bread"
-  * **in remembrance of me**  - "in order to remember me"
-  * **This cup**  - The word "cup" refers to the wine in the cup. It can be translated as "The wine in this cup" or "This wine." (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **is the new covenant in my blood**  - "is the new covenant, which will be put in effect by my blood" or "is the new covenant, which will be made legal by my blood" or "represents the new covenant, which God will establish when my blood is shed"
-  * **my blood, which is poured out for you**  - "my blood, which is poured out in death for you" or "my blood, which will flow out of my wounds for you when I die." Jesus spoke of his death by referring to his body being broken and his blood being shed. This is metonymy.  (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **bread** - This bread did not have yeast in it, so it was flat.
+  * **he broke it** - "he ripped it" or "he tore it." He may have divided it into many pieces or he may have divided it into two pieces and given them to the apostles to divide among themselves. If possible, use an expression that could be used for either situation.
+  * **This is my body** - Possible meanings are 1) "This bread is my body" and 2) "This bread represents my body."
+  * **my body which is given for you** - "my body, which I will give for you" or "my body, which I will sacrifice for you." AT: "my body, that I give to the authorities to kill for your sake." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Do this** - "Eat this bread"
+  * **in remembrance of me** - "in order to remember me"
+  * **This cup** - The word "cup" refers to the wine in the cup. AT: "The wine in this cup" or "This wine." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **is the new covenant in my blood** - "is the new covenant, which will be put in effect by my blood" or "is the new covenant, which will be made legal by my blood" or "represents the new covenant, which God will establish when my blood is shed"
+  * **which is poured out for you** - "my blood, which is poured out in death for you" or "my blood, which will flow out of my wounds for you when I die." Jesus spoke of his death by referring to his body being broken and his blood being shed. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:17|<<]] | [[:en:bible:notes:luk:22:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish newcovenant}}
+~~DISCUSSION~~{{tag>publish p2edit newcovenant}}

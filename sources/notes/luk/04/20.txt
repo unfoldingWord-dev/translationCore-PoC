@@ -25,33 +25,35 @@
 \p 
 \v 20 Then he closed the scroll, gave it back to the synagogue attendant, and sat down. The eyes of all the people in the synagogue were fixed on him. 
 \v 21 He began to speak to them, "Today this scripture has been fulfilled in your hearing." 
-\v 22 Everyone there witnessed what he said and all of them were amazed at the gracious words which were coming out of his mouth. They were saying, "This is only Joseph’s son, is it not?"
+\v 22 Everyone there witnessed what he said and all of them were amazed at the gracious words which were coming out of his mouth. They were saying, "This is only Joseph's son, is it not?"
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:wordofgod]]
-    * [[en:obe:kt:fulfill]]
-    * [[en:obe:kt:witness]]
-    * [[en:obe:other:amazed]]
-    * [[en:obe:kt:grace]]
-    * [[en:obe:kt:word]]
-    * [[en:obe:other:Josephnt]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:kt:wordofgod]]
+  * [[:en:obe:kt:fulfill]]
+  * [[:en:obe:kt:witness]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:kt:grace]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:other:Josephnt]]
 
 ===== Translation Notes: =====
 
-    * **Then he closed the scroll** - "Then Jesus rolled up the scroll"
-    * **synagogue attendant**  - This refers to a synagogue worker who made sure that the scrolls containing the scriptures were brought out and put away with proper care and reverence.
-    * **were fixed on him** - "were focused on him" or "were looking at him"
-    * **this scripture has been fulfilled in your hearing** - Jesus was saying that he was fulfilling that prophecy by his actions and speech at that very time. AT: "What this scripture said would happen has happened now while you listened to it."
-    * **amazed at the gracious words which were coming out of his mouth** - "surprised about the gracious things that he was saying." Here "gracious" may refer to how well or eloquent Jesus spoke. Or, it may mean that Jesus spoke words about God's grace.
-    * **This is only Joseph's son, is it not?**  - People thought that Joseph was Jesus' father. Joseph was not a religious leader, so they were surprised that his son would preach what he did.  AT: "Isn't this just Joseph's son?" or "This is just Joseph's son!" or "His father is only Joseph!"  (See: [[en:ta:vol1:translate:figs_rquestion]]).
-
-
+  * **closed the scroll** - "rolled up the scroll." A scroll was closed by rolling it like a tube to protect the writing inside it.
+  * **synagogue attendant** - This refers to a synagogue worker who brought out and put away with proper care and reverence the scrolls containing the scriptures.
+  * **were fixed on him** - This idiom means "were focused on him" or "were looking intently at him." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **this scripture has been fulfilled in your hearing** - Jesus was saying that he was fulfilling that prophecy by his actions and speech at that very time. This could be stated in active form. AT: "I am fulfilling what this scripture said right now as you are listening to me." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in your hearing** - This idiom means "while you are listening to me." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **amazed at the gracious words which were coming out of his mouth** - "surprised about the gracious things that he was saying." Here "gracious" may refer to 1) how well or how persuasively Jesus spoke, or 2) that Jesus spoke words about God's grace.
+  * **This is only Joseph's son, is it not?** - People thought that Joseph was Jesus' father. Joseph was not a religious leader, so they were surprised that his son would preach what he did. AT: "This is just Joseph's son!" or "His father is only Joseph!" (See: [[:en:ta:vol1:translate:figs_rquestion]]).
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:04:18|<<]] | [[:en:bible:notes:luk:04:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish fulfill }}
+~~DISCUSSION~~{{tag>publish p2check fulfill}}

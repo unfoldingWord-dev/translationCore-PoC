@@ -20,34 +20,36 @@
 ===== ULB: =====
 
 <usfm>
-\v 14 You will have joy and gladness because of him, and many people will rejoice at his birth.
-\v 15 For he will be great in the sight of the Lord, and he will not drink wine or strong drink. He will be filled with the Holy Spirit, even while in his mother’s womb.
+\v 14 You will have joy and gladness, and many will rejoice at his birth. 
+\v 15 For he will be great in the sight of the Lord. He will drink no wine or strong drink, and he will be filled with the Holy Spirit from his mother's womb.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:joy]]
-    * [[en:obe:other:wine]]
-    * [[en:obe:other:strongdrink]]
-    * [[en:obe:kt:filled]]
-    * [[en:obe:other:womb]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:other:wine]]
+  * [[:en:obe:other:strongdrink]]
+  * [[:en:obe:kt:filled]]
+  * [[:en:obe:other:womb]]
    
 ===== Translation Notes: =====
 
-The angel continues to speak to Zechariah. 
-
-    * **For** - "Because" or "In addition to this"
-    * **he will be great in the sight of the Lord** - AT:  "he will do very important things for the Lord"
-    * **He will be filled with the Holy Spirit** - “The Holy Spirit will empower him” or “The Holy Spirit will guide him” Make sure it does not sound similar to what an evil spirit might do to a person. (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **even while in his mother's womb** - The word “even” here indicates that this is especially surprising news. People had been filled with the Holy Spirit before, but no one had heard of an unborn baby's being filled with the Holy Spirit.
+  * **For** - "Because" or "In addition to this"
+  * **joy and gladness** - These two words mean the same thing and could be combined if your language does not have similar terms. AT: "very glad." (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **at his birth** - "because of his birth"
+  * **he will be great in the sight of the Lord** - "he will be a very important person for the Lord" or "God will consider him to be very important" (UDB)
+  * **he will be filled with the Holy Spirit** - This could be stated as an active phrase: AT: "the Holy Spirit will empower him" or "the Holy Spirit will guide him." Make sure it does not sound similar to what an evil spirit might do to a person. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **from his mother's womb** - People had been filled with the Holy Spirit before, but no one had heard of an unborn baby being filled with the Holy Spirit.
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:11|<<]] | [[:en:bible:notes:luk:01:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish filled }}
+~~DISCUSSION~~{{tag>publish p2check filled}}
 
 ~~NOCACHE~~

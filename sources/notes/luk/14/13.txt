@@ -39,16 +39,21 @@
  
 
 ===== Translation Notes: =====
-Jesus continues speaking to the Pharisee who had invited him to his home.
-    * **they cannot repay you**  - AT: "they cannot invite you to a banquet in return"
-    * **in the resurrection of the just**  - "when God brings the righteous people back to life"
+
+  * **Connecting Statement:** - Jesus continues speaking to the Pharisee who had invited him to his home.
+
+  * **you will be blessed** - AT: "God will bless you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they cannot repay you** - AT: "they cannot invite you to a banquet in return"
+  * **you will be repaid in the resurrection of the just** - AT: "God will repay you when he brings the righteous people back to life" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 **[[:en:bible:notes:luk:14:12|<<]] | [[:en:bible:notes:luk:14:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

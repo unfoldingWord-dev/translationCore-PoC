@@ -28,8 +28,8 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:heaven]]
-  * [[en:obe:kt:believe]]
-  * [[en:obe:other:stone]]
+  * [[:en:obe:kt:believe]]
+  * [[:en:obe:other:stone]]
   * [[:en:obe:other:johnthebaptist]] 
   * [[:en:obe:kt:prophet]]
  
@@ -37,20 +37,23 @@
 
 ===== Translation Notes: =====
 
-  * **They reasoned**  - This may also be translated as "They discussed" or "They considered their answer."
-  * **From heaven**  - "From God." Depending on how the question was translated in the previous verse, this may be translated as "God did" or "God authorized him." Some languages might prefer an indirect quote.  The beginning of this sentence can be translated as "If we say that God authorized him." (See: [[en:ta:vol2:translate:figs_quotations]])
+  * **They reasoned** - AT: "They discussed" or "They considered their answer"
+  * **"If we say, 'From heaven,'** - Some languages might prefer an indirect quote. AT: "'If we say that John's authority is from heaven," (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **From heaven** - "From God." Depending on how the question was translated in the previous verse, this may be translated as "God did" or "God authorized him." 
   * **he will say** - "Jesus will say" 
-  * **stone us**  - "kill us by throwing stones on us."  God's Law commanded that his people stone those of his people who mocked him or his prophets.
+  * **stone us** - "kill us by throwing stones on us." God's Law commanded that his people stone those of his people who mocked him or his prophets.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/03|<<]] | [[en/bible/notes/luk/20/07|>>]]**
+**[[:en:bible:notes:luk:20:03|<<]] | [[:en:bible:notes:luk:20:07|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

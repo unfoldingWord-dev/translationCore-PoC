@@ -32,33 +32,32 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:parable]]
-    * [[en:obe:other:pit]]
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:kt:teacher]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:other:pit]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:teacher]]
 
 
 ===== Translation Notes: =====
-Jesus continues to teach the crowd not to judge people.
 
-  * **Can a blind person guide another blind person?**  - Jesus used this rhetorical question to get people to think about something that they already knew. AT: "A blind person cannot guide another blind person, can he?" or "We all know that a blind person cannot guide another blind person." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **If he did**  - Some languages might prefer "if one did."
-  * **they would both fall into a pit, would they not?**  - This is another rhetorical question. AT: "Would they not both fall into a pit?" or "They both would fall into a hole" (UDB).  (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **A disciple is not greater than his teacher**  - This could either mean 1) "A disciple does not have more knowledge than his teacher" or 2) "A disciple does not have more authority than his teacher." AT: "A disciple has not surpassed his teacher."
-  * **everyone when he is completely trained**  - "every disciple who has been trained well." AT: "every disciple whose training has reached its goal" or "every disciple whose teacher has fully taught him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **Connecting Statement:** - Jesus includes some examples to make his point. (See: [[:en:ta:vol1:translate:figs_parables]])
 
+  * **Can a blind person guide another blind person?** - Jesus used this question to get the people to think about something that they already know. This can be written as a statement. AT: "We all know that a blind person cannot guide another blind person." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **blind person** - The person who is "blind" is a metaphor for a person who has not been taught as a disciple. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **If he did** - Some languages might prefer, "if one did." This is an absurd situation that is not likely to actually happen. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **they would both fall into a pit, would they not?** - This can be written as a statement. AT: "both of them would fall into a hole." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **A disciple is not greater than his teacher** - This could either mean 1) "A disciple does not have more knowledge than his teacher" or 2) "A disciple does not have more authority than his teacher." AT: "A disciple does not surpass his teacher."
+  * **everyone when he is completely trained** - "every disciple who has been trained well" or "every disciple whose teacher has fully taught him"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/06/38|<<]] | [[en/bible/notes/luk/06/41|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
+**[[:en:bible:notes:luk:06:38|<<]] | [[:en:bible:notes:luk:06:41|>>]]**
 
 
 ~~DISCUSSION~~
 
-
-{{tag>publish parable disciple teacher}}
+{{tag>publish p2check parable disciple teacher}}
 
 ~~NOCACHE~~

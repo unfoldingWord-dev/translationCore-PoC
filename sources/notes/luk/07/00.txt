@@ -1,0 +1,42 @@
+====== Luke 07 General Notes ======
+
+
+=== Structure and formatting ===
+
+Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent all the lines of 7:27, which is a quotation from the Old Testament.
+
+There are times in the narrative of this chapter where there is an abrupt change in topic. The translator should not feel the need to smooth these rough transitions. 
+
+=== Special concepts in this chapter ===
+
+== Centurion ==
+This situation would have been very unusual in ancient Israel. It would not have been common for a Roman soldier to go to an Israelite for anything. They would have been insignificant to the Romans and they would not have sought healing from a Jew. It would also have been unusual for a wealthy man to be so concerned for his slave. It is a great display of faith.
+
+== John's Baptism ==
+The baptism John gave was different than the baptism the church practices. John's baptism was concerned with the repentance of sin. This is why the Pharisees did not participate in John's baptism. 
+
+== "Sinners" ==
+Luke refers to a group of people as "[[:en:obe:kt:sin|sinner]]." The Jewish leaders thought these people were sinful, but in reality the leaders were also sinful. This can be taken as [[:en:ta:vol1:translate:figs_irony]].
+
+== "Feet" ==
+Feet were considered to be very dirty in the ancient Near East. It would have been a very humble act for this woman to wash Jesus' feet and was a way to show honor to Jesus.
+
+
+=== Other possible translation difficulties in this chapter ===
+
+== Son of Man ==
+Jesus refers to himself as the [[:en:obe:kt:sonofman|Son of Man]] in this passage. Referring to oneself in the third person may not be possible in all languages. 
+
+===== Links: =====
+
+  * **[[:en:bible:notes:luk:07:01|Luke 07:01 Notes]]**
+**[[:en:bible:notes:luk:06:00|<<]] | [[:en:bible:notes:luk:08:00|>>]]**
+
+
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft CHTeam}}

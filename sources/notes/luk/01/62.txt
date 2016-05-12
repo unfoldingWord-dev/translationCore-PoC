@@ -20,30 +20,34 @@
 ===== ULB: =====
 
 <usfm>
-\v 62 They gestured to his father to find out what name he wanted him to be called.
-\v 63 So he asked for a writing tablet and wrote on it, "His name is John." They all were very surprised.
+\v 62 They made signs to his father as to how he wanted him to be named. 
+\v 63 His father asked for a writing tablet, and wrote, "His name is John." They all were astonished at this.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:other:johnthebaptist]]
+  * [[:en:obe:other:johnthebaptist]]
 
 
 ===== Translation Notes: =====
 
-  * **They gestured** - "They" refers to the people who were there for the circumcision ceremony.
+  * **They** - This refers to the people who were there for the circumcision ceremony.
+  * **made signs** - "motioned." Either Zechariah was unable to hear, as well as speak, or the people assumed that he could not hear.
   * **to his father** - "to the baby's father"
-  * **what name he wanted him to be called** - "what he wanted his son to be named" AT: "what name Zechariah wanted the baby to have."
-  * **So he asked for a writing tablet** - He must have used gestures in order to ask for the writing tablet.  AT: "So Zechariah signaled."  
+  * **how he wanted him to be named** - "what name Zechariah wanted to give the baby"
+  * **His father asked for a writing tablet** - It may be helpful to state how Zechariah "asked," since he could not speak. AT: "His father used his hands to show the people that he wanted them to give him a writing tablet" (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **writing tablet** - "something on which to write" 
-  * **very surprised** - "amazed"
+  * **astonished** - "very surprised" or "amazed"
+
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:59|<<]] | [[:en:bible:notes:luk:01:64|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

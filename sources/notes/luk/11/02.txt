@@ -18,27 +18,33 @@
 ===== ULB: =====
 
 <usfm>
-\v 2  Jesus said to them, "When you pray say, 'Father, sanctify your name. Let your kingdom come.
+\v 2  Jesus said to them, "When you pray say, 
+\q 'Father, sanctify your name. 
+\q2 Let your kingdom come.
 </usfm>
 
 
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:Jesus]]
-    * [[en:obe:kt:godthefather]]
-    * [[en:obe:kt:sanctify]]
-    * [[en:obe:kt:name]]
-    * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:Jesus]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:sanctify]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:kt:kingdomofgod]]
 
 ===== Translation Notes: =====
 
-  * **Jesus said to them**  - "Jesus said to his disciples"
-  * **sanctify your name**  - AT: "may all people honor you" or "cause everyone to honor your name."  It means "we want everyone to honor you." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Let your kingdom come**  - "Establish your kingdom." It means "We want you to rule over your people."
+  * **Jesus said to them, "When you pray say, 'Father, sanctify your name** - Jesus, the Son of God, commanded the disciples to honor the name of God "the Father" by addressing God as, "the Father," when praying.
+  * **Jesus said to them** - "Jesus said to his disciples"
+  * **Father** - This is an important title for God. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **sanctify your name** - AT: "may all people honor you" or "cause everyone to honor your name" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Let your kingdom come** - "Establish your kingdom." AT: "We want you to rule over your people." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:01|<<]] | [[:en:bible:notes:luk:11:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish sanctify}}
+~~DISCUSSION~~{{tag>publish p2edit sanctify}}

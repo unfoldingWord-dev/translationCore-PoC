@@ -36,26 +36,30 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:hypocrite]]
-    * [[en:obe:other:interpret]]
-    * [[en:obe:kt:heaven]]
+  * [[:en:obe:kt:hypocrite]]
+  * [[:en:obe:other:interpret]]
+  * [[:en:obe:kt:heaven]]
 
 ===== Translation Notes: =====
 
-  * **A shower is coming**  - "Rain is coming" or "It is going to rain" (UDB)
-  * **the earth and the heavens**  - "the earth and the sky" or "the weather"
-  * **how is it that you do not know how to interpret the present time?** - This rhetorical question is used as a rebuke. It can be translated as "You should know how to interpret the present time." (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **General Information:** - Jesus begins to speak to the crowd.
+
+  * **A shower is coming** - "Rain is coming" or "It is going to rain" (UDB)
+  * **the earth and the heavens** - "the earth and the sky" or "the weather"
+  * **how is it that you do not know how to interpret the present time?** - Jesus uses a question to rebuke the crowd. AT: "You should know how to interpret the present time." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 
  
 
-**[[en/bible/notes/luk/12/51|<<]] | [[en/bible/notes/luk/12/57|>>]]**
+**[[:en:bible:notes:luk:12:51|<<]] | [[:en:bible:notes:luk:12:57|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish hypocrite}}
+{{tag>publish p2edit hypocrite}}
 ~~NOCACHE~~

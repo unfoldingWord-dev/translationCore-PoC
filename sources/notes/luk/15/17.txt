@@ -30,27 +30,28 @@
 
 ===== translationWords: =====
 
-    * [[:en:obe:other:servant]]
-    * [[:en:obe:kt:sin]]
-    * [[en:obe:kt:heaven]]
-    * [[:en:obe:kt:worthy]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:worthy]]
 
 
 ===== Translation Notes: =====
-Jesus continues his story.
 
-    * **came to himself** - "came to his senses" or "understood his situation" or "began to think clearly"
-    * **How many of my father's hired servants have more than enough food** - This is part of an exclamation. It can be translated as "All my father's hired servants have more than enough food to eat" (UDB).
-    * **dying from hunger**  -  This is probably not an exaggeration. The young man may really have been starving.
-    * **I have sinned against heaven** - "I have sinned against God." Jewish people sometimes avoided saying the word "God" and used the word "heaven" instead.
-    * **I am no more worthy to be called your son** - "I am not worthy to be called your son." A son has the legal right to inherit part of his father's property.
-    * **no more worthy** - "no longer worthy" (UDB). It means that in the past he was worthy, but now he was not.
-    * **make me as one of your hired servants** - "hire me as an employee" or "hire me and I will become one of your servants"
+  * **came to himself** - AT: "came to his senses" or "understood his situation" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **How many of my father's hired servants have more than enough food** - This is part of an exclamation. AT: "All my father's hired servants have more than enough food to eat" (UDB).
+  * **dying from hunger** - This is probably not an exaggeration. The young man may really have been starving.
+  * **I have sinned against heaven** - Jewish people sometimes avoided saying the word "God" and used the word "heaven" instead. AT: "I have sinned against God." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **I am no more worthy to be called your son** - "I am not worthy to be called your son." A son has the legal right to inherit part of his father's property. AT: "I am not worthy for you to call me son." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **no more worthy** - "no longer worthy" (UDB). It means that in the past he was worthy, but now he was not.
+  * **make me as one of your hired servants** - "hire me as an employee" or "hire me and I will become one of your servants"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 **[[:en:bible:notes:luk:15:15|<<]] | [[:en:bible:notes:luk:15:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish sin }}
+~~DISCUSSION~~{{tag>publish p2edit sin }}
 
 ~~NOCACHE~~

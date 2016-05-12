@@ -31,26 +31,32 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:sabbath]]
-    * [[en:obe:other:synagogue]]
-    * [[en:obe:other:scribe]]
-    * [[en:obe:other:pharisee]]
-    * [[en:obe:other:heal]]
-    * [[en:obe:other:accuse]]
+  * [[:en:obe:kt:sabbath]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:other:heal]]
+  * [[:en:obe:other:accuse]]
 
 ===== Translation Notes: =====
 
-  * **It happened** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **hand was shriveled**  - The man's hand was damaged in such a way that he could not stretch it. It was probably bent into almost a fist, making it look smaller and wrinkled.
+  * **Connecting Statement:** - The scribes and Pharisees watch as Jesus heals a man on Saturday.
+  * **General Information:** - It is now another Sabbath day and Jesus is in the synagogue.
+
+  * **It happened** - This phrase is used here to mark the beginning of a new event in the story. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **A man was there** - This introduces a new character in the story. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **hand was shriveled** - The man's hand was damaged in such a way that he could not stretch it. It was probably bent into almost a fist, making it look smaller and wrinkled.
   * **were watching him closely** - "were watching Jesus carefully"
-  * **so that they might find** - AT: "because they wanted to find."
-  * **in the middle of everyone** - Jesus wanted the man to stand where everyone there could see him. AT: "in front of everyone" (UDB). 
+  * **so that they might find** - AT: "because they wanted to find"
+  * **doing something wrong** - The Jewish leaders incorrectly considered almost any action on the Sabbath to be "work." This could be stated. AT: "disobeying their laws about not working on the Sabbath" (UDB). (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **in the middle of everyone** - "in front of everyone" (UDB). Jesus wanted the man to stand where everyone there could see him. 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:03|<<]] | [[:en:bible:notes:luk:06:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

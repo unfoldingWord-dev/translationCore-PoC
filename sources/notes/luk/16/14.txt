@@ -36,26 +36,29 @@
   * [[:en:obe:other:lover]]
   * [[:en:obe:other:mock]]
   * [[:en:obe:kt:justify]]
-  * [[en:obe:other:heart]]
-  * [[en:obe:kt:exalt]]
-  * [[en:obe:other:detestable]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:exalt]]
+  * [[:en:obe:other:detestable]]
 
 
 ===== Translation Notes: =====
 
-  * **who were lovers of money**  - "who loved money" or "who loved having money" or "who where very greedy for money"
-  * **they ridiculed him**  - This can also be translated as "the Pharisees ridiculed Jesus."
-  * **And he said to them**  - "And Jesus said to the Pharisees"
-  * **You justify yourselves in the sight of men**  - "You try to make yourselves look good to people"
-  * **God knows your hearts**- "God understands your true desires" or "God knows your motives"
-  * **That which is exalted among men**  - This can also be translated as "Those things that men think are very important."
-  * **is detestable in the sight of God**  - This can also be translated as "God hates" or "are things that God hates."
+  * **Now** - This word marks a shift to the background information.
+  * **who were lovers of money** - "who loved having money" or "who where very greedy for money"
+  * **they ridiculed him** - "the Pharisees ridiculed Jesus"
+  * **And he said to them** - "And Jesus said to the Pharisees"
+  * **You justify yourselves in the sight of men** - AT: "You try to make yourselves look good to people"
+  * **God knows your hearts** - AT: "God understands your true desires" or "God knows your motives" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **That which is exalted among men** - AT: "Those things that men think are very important"
+  * **is detestable in the sight of God** - AT: "God hates" or "are things that God hates"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 **[[:en:bible:notes:luk:16:13|<<]] | [[:en:bible:notes:luk:16:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

@@ -28,26 +28,30 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:kt:life]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:life]]
 
 
 ===== Translation Notes: =====
 
-  * **Therefore I say to you**  - "So" or "For that reason" or "Because of what this story teaches"
-  * **I say to you**  - “I want to tell you something important” or “You need to listen carefully to this”
-  * **about your life—what you will eat**  - AT: "about your life and what you will eat" or "about having enough food in order to live."
-  * **about your body—what you will wear**  - AT: "about your body and what you will wear" or "about having enough clothes to put on your body."
+  * **Connecting Statement:** - Jesus continues teaching his disciples in front of the crowd.
+
+  * **Therefore** - "For that reason" or "Because of what this story teaches"
+  * **I say to you** - "I want to tell you something important" or "you need to listen carefully to this"
+  * **about your life—what you will eat** - AT: "about your life and what you will eat" or "about having enough food in order to live"
+  * **about your body—what you will wear** - AT: "about your body and what you will wear" or "about having enough clothes to put on your body"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 
  
 
-**[[en/bible/notes/luk/12/20|<<]] | [[en/bible/notes/luk/12/24|>>]]**
+**[[:en:bible:notes:luk:12:20|<<]] | [[:en:bible:notes:luk:12:24|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish life }}
+{{tag>publish p2edit life }}
 ~~NOCACHE~~

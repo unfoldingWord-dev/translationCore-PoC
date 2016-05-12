@@ -23,26 +23,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:father]]
+  * [[:en:obe:other:father]]
   * [[:en:obe:other:abraham]]
   * [[:en:obe:kt:mercy]]
-  * [[en:obe:other:anguish]]
+  * [[:en:obe:other:anguish]]
  
 
 ===== Translation Notes: =====
-Jesus continues telling his story.
-    * **And he cried out and said**  - "and the rich man called out to say" or "he yelled out to Abraham"
-    * **Father Abraham** - Abraham was the rich man's ancestor.
-    * **have mercy on me** - This can be translated as "please have pity on me," or "please be merciful to me."
-    * **and send Lazarus** - This can be translated as "by sending Lazarus" or "Please send Lazarus to me" or "and tell Lazarus to come to me." 
-    * **he may dip the tip of his finger** - This indicates the smallness of the amount requested. This can be translated as "he may wet the tip of his finger."
-    * **I am in anguish in this flame** - "I am in terrible pain in this flame" or "I am suffering terribly in this fire"
+
+  * **And he cried out and said** - "And the rich man called out to say" or "He yelled out to Abraham"
+  * **Father Abraham** - Abraham was the rich man's ancestor.
+  * **have mercy on me** - AT: "please have pity on me" or "please be merciful to me"
+  * **and send Lazarus** - AT: "by sending Lazarus" or "and tell Lazarus to come to me" 
+  * **he may dip the tip of his finger** - This indicates the smallness of the amount requested. AT: "he may wet the tip of his finger."
+  * **I am in anguish in this flame** - "I am in terrible pain in this flame" or "I am suffering terribly in this fire"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 **[[:en:bible:notes:luk:16:22|<<]] | [[:en:bible:notes:luk:16:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

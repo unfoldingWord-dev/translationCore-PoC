@@ -28,29 +28,31 @@
 ===== translationWords: =====
 
 
-    * [[:en:obe:kt:lord]]
-    * [[:en:obe:kt:hypocrite]]
-    * [[en:obe:other:donkey]]
-    * [[en:obe:other:cow]]
-    * [[:en:obe:kt:sabbath]]
-    * [[:en:obe:other:abraham]]
-    * [[:en:obe:kt:satan]]
-    * [[en:obe:kt:bond]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:hypocrite]]
+  * [[:en:obe:other:donkey]]
+  * [[:en:obe:other:cow]]
+  * [[:en:obe:kt:sabbath]]
+  * [[:en:obe:other:abraham]]
+  * [[:en:obe:kt:satan]]
+  * [[:en:obe:kt:bond]]
+  * [[:en:obe:other:biblicaltimeyear]]
 ===== Translation Notes: =====
 
-
-    * **The Lord answered him** - "the Lord responded to the synagogue ruler"
-    * **Does not each of you untie your donkey** - This starts a rhetorical question. Jesus used this to get them to think about something they already knew. It can be translated as statement: "You untie your donkey"  (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **donkey or cow** - These are animals that people care for by giving them water.
-    * **daughter of Abraham**  - "descendant of Abraham"
-    * **whom Satan bound** - This is a metaphor. It means "whom Satan kept crippled." The metaphor can be kept and the meaning can be made explicit: "whom Satan bound with this disease." (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **eighteen long years** - The word "long" here emphasizes that eighteen years was a very long time for the woman to suffer. Other languages may have other ways of emphasizing this. 
-    * **should her bonds not be untied** - This rhetorical question implies that the woman's bonds should be untied. It also contains a metaphor. It can be translated as "she should be untied from Satan" or "she should be released from bonds of this illness." (See: [[en:ta:vol1:translate:figs_rquestion]] and [[en:ta:vol1:translate:figs_metaphor]])
+  * **The Lord answered him** - "The Lord responded to the synagogue ruler"
+  * **Does not each of you untie your donkey...Sabbath?** - Jesus uses a question to get them to think about something they already knew. AT: "You untie your donkey...Sabbath." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **donkey or cow** - These are animals that people care for by giving them water.
+  * **daughter of Abraham** - AT: "descendant of Abraham"
+  * **whom Satan bound** - AT: "whom Satan kept crippled" or "whom Satan bound with this disease" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **eighteen long years** - "18 long years." The word "long" here emphasizes that eighteen years was a very long time for the woman to suffer. Other languages may have other ways of emphasizing this. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **should her bonds not be untied...day?** - Jesus uses a question to teach the synagogue rulers. Jesus speaks about the women's disease as if it were ropes that bound her. AT: "it is right to untie her from Satan...day" or "it is right to release her from the bonds of this illness...day." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:12|<<]] | [[:en:bible:notes:luk:13:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish hypocrite}}
+~~DISCUSSION~~{{tag>publish p2edit hypocrite}}
 
 ~~NOCACHE~~

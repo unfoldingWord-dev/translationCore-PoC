@@ -25,27 +25,31 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
+  * [[:en:obe:kt:jesus]]
   * [[:en:obe:other:pilate]]
-  * [[en:obe:other:accuse]]
-  * [[en:obe:other:perverse]]
-  * [[en:obe:other:israel]]
-  * [[en:obe:other:tribute]]
+  * [[:en:obe:other:accuse]]
+  * [[:en:obe:other:perverse]]
+  * [[:en:obe:other:israel]]
+  * [[:en:obe:other:tribute]]
   * [[:en:obe:other:caesar]]
   * [[:en:obe:kt:christ]]
   * [[:en:obe:other:king]]
 
 ===== Translation Notes: =====
 
-  * **The whole company of them**  - "All of the Jewish leaders"
-  * **rose up**  - "stood" or "stood to their feet"
-  * **before Pilate**  - "in front of Pilate." This could be translated as "to stand facing Pilate."
-  * **perverting our nation**  - "causing trouble by telling lies to our people" (UDB)
-  * **forbidding to give tribute**  - "telling them not to pay taxes" (UDB)
+  * **General Information:** - Jesus is brought before Pilate.
+
+  * **The whole company of them** - "All of the Jewish leaders"
+  * **rose up** - "stood" or "stood to their feet"
+  * **before Pilate** - "in front of Pilate." AT: "to stand facing Pilate."
+  * **perverting our nation** - "causing trouble by telling lies to our people" (UDB)
+  * **forbidding to give tribute** - "telling them not to pay taxes" (UDB)
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:22:69|<<]] | [[:en:bible:notes:luk:23:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish pilate caesar}}
+~~DISCUSSION~~{{tag>publish p2edit pilate caesar}}

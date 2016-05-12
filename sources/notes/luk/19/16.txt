@@ -32,19 +32,21 @@
  
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
+
   * **The first** - "The first servant"
-  * **came before him** - The word "him" refers to the nobleman.
+  * **came before him** - "came before the nobleman"
   * **mina** - See how you translated this in [[:en:bible:notes:luk:19:13|19:13]].
-  * **Well done**  - "You have done well." Your language may have a phrase that an employer would use to show approval, such as "Good job."
+  * **Well done** - "You have done well." Your language may have a phrase that an employer would use to show approval, such as "Good job."
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 **[[:en:bible:notes:luk:19:13|<<]] | [[:en:bible:notes:luk:19:18|>>]]**
 
 ~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>publish}}
+{{tag>publish p2edit}}

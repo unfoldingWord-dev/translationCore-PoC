@@ -27,34 +27,39 @@
 
 <usfm>
 \p
-\v 24 After these days, his wife Elizabeth conceived. She hid herself for five months, saying,
-\v 25 "This is what the Lord has done for me. He watched over me, to take away my disgrace among people."
+\v 24 After these days, his wife Elizabeth conceived. She secluded herself for five months. She said, 
+\v 25 "This is what the Lord has done for me when he looked at me with favor in order to take away my shame before people."
 </usfm>
 
 
 
 ===== translationWords: =====
 
-  * [[en:obe:other:elizabeth]]
-  * [[en:obe:other:conceive]]
-  * [[en:obe:kt:lordgod]]
-  * [[en:obe:other:disgrace]]
-  * [[en:obe:other:peoplegroup]]
+  * [[:en:obe:other:biblicaltimeday]]
+  * [[:en:obe:other:elizabeth]]
+  * [[:en:obe:other:biblicaltimemonth]]
+  * [[:en:obe:other:conceive]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:shame]]
 
 
 ===== Translation Notes: =====
 
-    * **his wife**  - "Zechariah's wife"
-    * **five months** - (See: [[en:obe:other:biblicaltimemonth]])
-    * **This is what the Lord has done for me** - This phrase refers to the fact that the Lord allowed her to become pregnant.
-    * **watched over me** - "regarded me kindly" or "had pity on me" (See: [[en:ta:vol1:translate:figs_idiom]])
-
+  * **After these days** - The phrase "these days" refers to the time while Zechariah was serving in the temple. It is possible to state this more clearly. AT: "After Zechariah returned home from his temple service." (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **his wife** - "Zechariah's wife"
+  * **secluded herself** - "did not leave her house" or "stayed inside by herself"
+  * **This is what the Lord has done for me** - This phrase refers to the fact that the Lord allowed her to become pregnant.
+  * **This is what** - This is a positive exclamation. She was very happy with what the Lord had done for her. 
+  * **looked at me with favor** - "to look at" is an idiom that means "to treat" or "to deal with." AT: "regarded me kindly" or "had pity on me" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **my shame** - This refers to the shame she felt because she was not able to have children.
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:21|<<]] | [[:en:bible:notes:luk:01:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish elizabeth }}
+~~DISCUSSION~~{{tag>publish p2check elizabeth}}
 
 ~~NOCACHE~~

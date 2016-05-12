@@ -37,23 +37,25 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:brother]]
-    * [[en:obe:kt:wordofgod]]
-    * [[en:obe:other:obey]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:brother]]
+  * [[:en:obe:kt:wordofgod]]
+  * [[:en:obe:other:obey]]
 
 ===== Translation Notes: =====
 
-  * **brothers** - These were Jesus' younger brothers.
-  * **it was told him**  - "people told him" or "someone told him"
-  * **desiring to see you**  - "waiting to see you" or "and they want to see you"
-  * **My mother and my brothers are those who hear the word of God, and obey it.** - AT: "Those who hear the word of God and obey it are like a mother and brothers to me" or "Those who hear the word of God and obey it are as important to me as my mother and brothers." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **brothers** - These were Jesus' younger half-brothers.
+  * **it was told him** - AT: "people told him" or "someone told him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **desiring to see you** - "waiting to see you" or "and they want to see you"
+  * **My mother and my brothers are those who hear the word of God, and obey it** - AT: "Those who hear the word of God and obey it are like a mother and brothers to me" or "Those who hear the word of God and obey it are as important to me as my mother and brothers" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:16|<<]] | [[:en:bible:notes:luk:08:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

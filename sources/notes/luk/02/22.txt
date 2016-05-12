@@ -26,7 +26,7 @@
 <usfm>
 \p 
 \v 22 When the required number of days for their purification had passed, according to the law of Moses, Joseph and Mary brought their infant son up to the temple in Jerusalem to present him to the Lord.  
-\v 23 As it is written in the law of the Lord, "Every male that opens the womb will be called holy to the Lord."  
+\v 23 As it is written in the law of the Lord, "Every male that opens the womb will be called dedicated to the Lord."  
 \v 24 They also came to offer a sacrifice according to that which is said in the law of the Lord, "a pair of doves or two young pigeons."
 </usfm>
 
@@ -38,26 +38,30 @@
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:kt:lordgod]]
   * [[:en:obe:other:written]]
-  * [[:en:obe:kt:holy]]
+  * [[:en:obe:other:dedicate]]
   * [[:en:obe:other:sacrifice]]
-  * [[en:obe:other:dove]]
+  * [[:en:obe:other:dove]]
 
 ===== Translation Notes: =====
 
-Mary and Joseph take baby Jesus to the temple. 
-
-  * **the required number of days** - AT: "the number of days that God required"
-  * **for their purification** - "for them to become ceremonially clean." or AT: "for God to consider them to be clean again."
+  * **When the required number...had passed** - This shows the passing of time before this new event. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **the required number of days** - This could be stated in active form. AT: "the number of days that God required." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **for their purification** - "for them to become ceremonially clean." You could also state that God's role. AT: "for God to consider them to be clean again." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **to present him to the Lord** - "to bring him to the Lord" or "to bring him into the Lord's presence." This was a ceremony acknowledging God's claim on the firstborn children who were male.
-  * **As it is written** - AT: "As Moses wrote." or "They did this because Moses wrote." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **male that opens the womb** - This is an idiom for "firstborn offspring that is a male." The law was about the firstborn offspring of both people and domestic animals.  AT: "firstborn son." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **As it is written** - This could be stated in active form. AT: "As Moses wrote" or "They did this because Moses wrote." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Every male that opens the womb** - "open the womb" is an idiom that refers to the first baby coming out of the womb. This referred to both animals and people. AT: "Every firstborn offspring that is a male" or "Every firstborn son." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **will be called dedicated** - This could be stated in active form. AT: "you must dedicate" or "you must set apart." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **that which is said in the law of the Lord** - "that which the law of the Lord also says." This is a different place in the law. It refers to all males, whether firstborn or not.
+
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:21|<<]] | [[:en:bible:notes:luk:02:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish purify }}
+~~DISCUSSION~~{{tag>publish p2check purify}}
 
 ~~NOCACHE~~

@@ -35,24 +35,29 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:teacher]]
-    * [[en:obe:kt:spirit]]
-    * [[en:obe:other:plead]]
-    * [[en:obe:kt:disciple]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:other:plead]]
+  * [[:en:obe:kt:disciple]]
  
 
 ===== Translation Notes: =====
 
-  * **It happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **Behold, a man from the crowd**  - The word "behold" alerts us to the new person in the story. Your language may have a way of doing this. English uses "There was a man in the crowd who said…”
-  * **You see, a spirit**  - The phrase "You see" introduces us to the evil spirit in the man's story. Your language may have a way of doing this. English uses "There was an evil spirit…”
-  * **It departs from him with difficulty** - Possible meanings for this are 1) "It hardly ever leaves my child" (UDB) or 2) "It is so hard on my son when it leaves him that..."
-  * **foaming at the mouth**  - When a person has a seizure, they can have trouble breathing or swallowing. This causes white foam to form around their mouths. If you language has a way to describe that, you should use it.
+  * **Connecting Statement:** - The next day after Jesus' dazzling appearance, Jesus heals a demon-possessed boy that the disciples were unable to make better.
+
+  * **It happened** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **Behold, a man from the crowd** - The word "behold" alerts us to the new person in the story. Your language may have a way of doing this. English uses "There was a man in the crowd who said."
+  * **You see, a spirit** - The phrase "You see" introduces us to the evil spirit in the man's story. Your language may have a way of doing this. English uses "There was an evil spirit."
+  * **It departs from him with difficulty** - Possible meanings for this are 1) "It hardly ever leaves my child" (UDB) or 2) "It is so hard on my son when it departs."
+  * **foaming at the mouth** - When a person has a seizure, they can have trouble breathing or swallowing. This causes white foam to form around their mouths. If you language has a way to describe that, you should use it.
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:34|<<]] | [[:en:bible:notes:luk:09:41|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

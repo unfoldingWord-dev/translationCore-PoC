@@ -32,22 +32,26 @@
 
 ===== translationWords: =====
 
-    * [[:en:obe:kt:kingdomofgod]]
-    * [[en:obe:kt:heaven]]
+  * [[:en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:heaven]]
 
 ===== Translation Notes: =====
-Jesus continues to teach the people in the synagogue.
-  * **What is the kingdom of God like**  - This is a rhetorical question that introduces what Jesus wants to talk about it. It can be translated as a statement: "I will tell you what the kingdom of God is like." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **what can I compare it to**  - This is basically the same as the previous rhetorical question. Jesus used it to introduce what he would talk about. Some languages can use both of these, and some would use only one. (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol2:translate:figs_parallelism]])
-  * **a mustard seed**  - Mustard seeds are very small seeds that grow into large plants. If these are not known, it can be translated with the name of another seed like it or simply as "a small seed."
-  * **and threw into his garden**  - "and planted in his garden." People planted some kinds of seeds by throwing them so that they scattered in the garden.
-  * **a big tree**  - This is an exaggeration to make a point. It can also be translated as "a very large shrub." (See:  [[en:ta:vol2:translate:figs_hyperbole]])
-  * **birds of heaven**  - "birds of the sky." It can be translated as "birds that fly in the sky" or simply "birds."
+
+  * **Connecting Statement:** - Jesus begins to tell a parable to the people in the synagogue. (See: [[:en:ta:vol1:translate:figs_parables]])
+
+  * **What is the kingdom of God like** - Jesus uses a question to introduce what he is about to teach. AT: "I will tell you what the kingdom of God is like." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **what can I compare it to** - This is basically the same as the previous question. Jesus used it to introduce what he would talk about. Some languages can use both of these, and some would use only one. (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **It is like a mustard seed** - Mustard seeds are very small seeds that grow into large plants. If these are not known, it can be translated with the name of another seed like it or simply as "a small seed." (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:translate_unknown]])
+  * **and threw into his garden** - "and planted in his garden." People planted some kinds of seeds by throwing them so that they scattered in the garden.
+  * **a big tree** - This is an exaggeration to make a point. AT: "a very large shrub." (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **birds of heaven** - "birds of the sky." AT: "birds that fly in the sky" or "birds."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:17|<<]] | [[:en:bible:notes:luk:13:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

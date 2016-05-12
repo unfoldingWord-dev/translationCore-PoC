@@ -31,30 +31,30 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:tremble]]
-    * [[en:obe:kt:Jesus]]
-    * [[en:obe:other:declare]]
-    * [[en:obe:other:heal]]
-    * [[en:obe:kt:faith]]
-    * [[en:obe:other:peace]]
+  * [[:en:obe:other:tremble]]
+  * [[:en:obe:kt:Jesus]]
+  * [[:en:obe:other:declare]]
+  * [[:en:obe:other:heal]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:other:peace]]
 
 ===== Translation Notes: =====
 
-Jesus continues to speak to the woman while on his way to heal Jairus' daughter.
+  * **that she could not hide what she had done** - "that she could not keep secret what she had done." AT: "that she could not keep it a secret that she was the one who had touched Jesus."
+  * **she came trembling** - AT: "she came trembling with fear"
+  * **Falling down before Jesus** - Possible meanings are 1) "She bowed down in front of Jesus" or 2) "She lay down on the ground at Jesus' feet." She did not fall accidentally. This was a sign of humility and respect for Jesus.
+  * **in the presence** - "in the sight of" or "before"
+  * **Daughter** - This was a kind way of speaking to a woman. Your language may have another way of showing this kindness.
+  * **your faith has made you well** - "because of your faith, you have become well." AT: "Because you believe, you are healed."
+  * **Go in peace** - This is a way of saying, "Goodbye" and giving a blessing at the same time. AT: "As you go, do not worry anymore" or "May God give you peace as you go" (UDB).
 
-    * **that she could not hide what she had done** - "that she could not keep it a secret that she was the one who had touched Jesus"
-    * **she came trembling** - "she came trembling with fear"
-    * **in the presence**  - "in the sight of" or "in the hearing of" or "before"
-    * **Falling down before Jesus** - Possible meanings are 1) “She bowed down in front of Jesus” or 2) “She lay down on the ground at Jesus feet.” She did not fall accidentally. She did this as a sign of humility and respect for Jesus.
-    * **Daughter**  - This was a kind way of speaking to a woman. Your language may have another way of showing this kindness.
-    * **your faith has made you well**  - "because of your faith you have become well." AT: “Because you believe, you are healed.”
-    * **Go in peace**  - This is a way of saying “Goodbye” and giving a blessing at the same time. AT: “As you go, do not worry anymore” or “May God give you peace as you go” (UDB).
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:45|<<]] | [[:en:bible:notes:luk:08:49|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

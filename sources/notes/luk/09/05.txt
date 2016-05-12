@@ -34,22 +34,24 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:receive]]
-    * [[en:obe:kt:testimony]]
-    * [[en:obe:other:proclaim]]
-    * [[en:obe:kt:goodnews]]
-    * [[en:obe:other:heal]]
+  * [[:en:obe:kt:receive]]
+  * [[:en:obe:kt:testimony]]
+  * [[:en:obe:other:proclaim]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:other:heal]]
 
 ===== Translation Notes: =====
-Jesus continues to give directions to his twelve apostles.
-    * **As for those who do not receive you**  - AT: "Here is what you should do about the people who do not receive you."
-    * **they departed** - "they left the place were Jesus was" 
-    * **everywhere** - "everywhere they went"
+
+  * **As for those who do not receive you** - AT: "Here is what you should do about the people who do not receive you"
+  * **they departed** - "they left the place were Jesus was" 
+  * **everywhere** - "everywhere they went"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:03|<<]] | [[:en:bible:notes:luk:09:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish  receive}}
+~~DISCUSSION~~{{tag>publish p2edit receive}}
 
 ~~NOCACHE~~

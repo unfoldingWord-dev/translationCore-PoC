@@ -24,23 +24,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:pray]]
+  * [[:en:obe:other:pray]]
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:disciple]]
   * [[:en:obe:kt:apostle]]
 
 ===== Translation Notes: =====
 
-  * **It happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **in those days**  - "around that time" or "not long after that" or "one day around then"
-  * **he went out**  - "Jesus went out"
-  * **he chose twelve of them**  - "he chose twelve of the disciples"
-  * **whom he also named "apostles."**  - "and he also called them 'apostles'" or "whom he also appointed to be apostles" or "whom he also made apostles"
+  * **General Information:** - Jesus chooses twelve apostles after he prays all night.
+
+  * **It happened in those days** - This phrase is used here to mark the beginning of a new part of the story. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **in those days** - "around that time" or "not long after that" or "one day around then"
+  * **he went out** - "Jesus went out"
+  * **When it was day** - "When it was morning" or "The next day"
+  * **he chose twelve of them** - "he chose twelve of the disciples"
+  * **whom he also named "apostles."** - "and he also called them 'apostles'" or "whom he also appointed to be apostles" or "whom he also made apostles"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:09|<<]] | [[:en:bible:notes:luk:06:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

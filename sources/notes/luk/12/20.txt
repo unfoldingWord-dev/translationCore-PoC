@@ -35,30 +35,33 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:god]]
-    * [[en:obe:kt:foolish]]
-    * [[en:obe:kt:soul]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:foolish]]
+  * [[:en:obe:kt:soul]]
   
 ===== Translation Notes: =====
-Jesus continues telling the parable of the rich man.
 
-    * **tonight your soul is required of you** - AT: "you will die tonight" or "your life is to be taken back from you tonight"
-    * **whose will they be?** - "who will own what you have stored up?" or "who will have what you prepared?" This is a rhetorical questions intended to make the man realize that he would not longer possess those things.  (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **stores up treasure** - "saves up valuable things"
-    * **not rich** - "poor" or "stingy" or "not generous"
-    * **toward God** - The meaning is that this person has not invested in the things that are important to God, or that God will reward. AT: "in the view of God" or "in relation to God." 
+  * **Connecting Statement:** - Jesus quotes how God responds to the rich man, as he finishes telling his parable.
+
+  * **tonight your soul is required of you** - AT: "you will die tonight" or "I will take your life from you tonight" (See: [[:en:ta:vol2:translate:figs_euphemism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the things you have prepared, whose will they be?** - "who will own what you have stored up?" or "who will have what you prepared?" God uses a question to make the man realize that he would no longer possess those things. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **stores up treasure** - "saves up valuable things"
+  * **not rich** - "poor"
+  * **toward God** - The meaning is that this person has not been concerned with the things that are important to God, or that God will reward. AT: "in the view of God" or "in relation to God." 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 
  
 
-**[[en/bible/notes/luk/12/16|<<]] | [[en/bible/notes/luk/12/22|>>]]**
+**[[:en:bible:notes:luk:12:16|<<]] | [[:en:bible:notes:luk:12:22|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

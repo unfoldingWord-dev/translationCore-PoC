@@ -1,0 +1,44 @@
+ ====== Luke 05 General Notes ======
+
+
+
+=== Special concepts in this chapter ===
+
+== "You will catch men" ==
+The New Testament often talks about making disciples or followers of Christ. This is a major ministry of the church. There are many different figures used to describe this in the New testament. In this chapter, Jesus uses the [[:en:ta:vol1:translate:figs_metaphor]] of fishing to explain that the disciples of Christ are to gather together other people to become Christ's disciples. It is possible that the whole story of fishing parallels the bountiful harvest of men who will gathered together to follow Christ. 
+
+== "Sinful people" ==
+The Pharisees refer to a group of people as "[[:en:obe:kt:sin|sinful]]." The Jewish leaders thought these people were sinful, but in reality it was the leaders who were sinful. This can be taken as [[:en:ta:vol1:translate:figs_irony]].
+
+== Fasting and Feasting ==
+Fasting was often done during a time of repentance. It was not done during joyous times. This is used in contrast to weddings, which were a time of great joy and had a large feast. Having Jesus on the Earth was a cause of celebration for mankind.
+
+=== Important figures of speech in this chapter ===
+
+== Hypothetical Situation ==
+Jesus uses a [[:en:ta:vol1:translate:figs_hypo]] to condemn the Pharisees ([[:en:bible:notes:luk:05:29|5:31-32]]). This passage includes "people in good health" and "righteous people." This does not mean that there are people who do not need Jesus. There are no "righteous people," everybody needs Jesus.
+
+=== Other possible translation difficulties in this chapter ===
+
+Implicit knowledge is needed in several parts of this chapter. The UDB can be quite effective in helping the reader to understand unknown figures. (See: [[:en:ta:vol1:translate:translate_unknown]] and [[:en:ta:vol1:translate:figs_explicit]])
+
+== Past Events ==
+Parts of this chapter are a sequence of events that have already happen. In a given passage, Luke sometimes writes as if the events have already happened while other events are still in progress (even though they are complete at the time he writes). This can cause difficulty in translation by creating an illogical order of events. It may be necessary to make these consistent by writing as if all the events have already happened. 
+
+== "Son of Man" ==
+
+Jesus refers to himself as the "Son of Man" in this passage. It may not be possible in every language to have someone speaking in the first person, also speak in the third person.
+
+===== Links: =====
+
+  * **[[:en:bible:notes:luk:05:01|Luke 05:01 Notes]]**
+**[[:en:bible:notes:luk:04:00|<<]] | [[:en:bible:notes:luk:06:00|>>]]**
+
+
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft CHTeam}}

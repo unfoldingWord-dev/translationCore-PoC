@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 52 How terrible it will be for you men who teach the Jewish laws, because you have not let people know God's truth! It is as though you have taken away a key to a house. You do not go into the house yourselves, and you also prevent other people from entering it."
+\v 52 How terrible it will be for you men who teach the Jewish laws. Because of you, people cannot know how to have God rule over them! You do not let God rule over you, and you even get in the way of people who want to have God rule over them."
 
 
 \p
@@ -29,22 +29,25 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:woe]]
-    * [[en:obe:other:scribe]]
-    * [[en:obe:other:know]]
+  * [[:en:obe:kt:woe]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:know]]
 
 ===== Translation Notes: =====
-Jesus continues to tell the teachers of the law how they sin against God.
 
-  * **you have taken away the key of knowledge**  - This is a metaphor. It means "you have prevented people from entering into the place where God's truth is stored." It can be translated as a simile as in the UDB. (See: [[en:ta:vol1:translate:figs_metaphor]], [[en:ta:vol1:translate:figs_simile]])
-  * **the key**  - This represents the means of access, as to a house or storage room.
-  * **you do not enter in yourselves**  - "You yourselves do not go in in order to get knowledge." This metaphor means "You yourselves do make use of the knowledge." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **Connecting Statement:** - Jesus finishes responding to the Jewish teacher.
+
+  * **you have taken away the key of knowledge...hinder those who are entering** - Jesus speaks about God's truth as if it were in a house that the teachers refuse to enter and will not let other enter either. This means the teachers do not truly know God, and they prevent others from knowing him as well. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the key** - This represents the means of access, as to a house or storage room.
+  * **you do not enter in yourselves** - "you yourselves do not go in to get knowledge" 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:49|<<]] | [[:en:bible:notes:luk:11:53|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

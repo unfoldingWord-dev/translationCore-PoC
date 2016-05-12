@@ -27,30 +27,33 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:heart]]
-  * [[en:obe:kt:word]]
-  * [[en:obe:kt:wise]]
-  * [[en:obe:other:adversary]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:kt:wise]]
+  * [[:en:obe:other:adversary]]
 
  
 
 ===== Translation Notes: =====
-Jesus continues speaking to his disciples about the future.
-  * **resolve in your heart**  - "make up your mind" or "decide firmly"
-  * **not to prepare your defense**  - "not to figure out what you will say in order to defend yourself against their accusations"
-  * **words and wisdom**  - "words of wisdom" or "wise words." (See: [[en:ta:vol2:translate:figs_hendiadys]])
-  * **I will give you words and wisdom**  - "I will tell you what wise things to say"
-  * **which all your adversaries will not be able to resist or contradict**  - This means "Your adversaries will not be able to argue against these words or say that these words are wrong." or "your enemies must agree you are right" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+
+  * **Therefore** - "Because of this." Jesus uses this word here to refer back to everything he has said, beginning in [[:en:bible:notes:luk:21:10|21:10]]. (See: [[:en:ta:vol2:translate:writing_connectingwords]])
+  * **resolve in your heart** - AT: "make up your mind" or "decide firmly" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **not to prepare your defense** - "not to figure out what you will say in order to defend yourself against their accusations"
+  * **I will give you words and wisdom** - "I will tell you what wise things to say"
+  * **words and wisdom** - AT: "words of wisdom" or "wise words" (See: [[:en:ta:vol2:translate:figs_hendiadys]])
+  * **which all your adversaries will not be able to resist or contradict** - This can be translated as a new sentence. AT: "Your adversaries will not be able to argue against you or say that you are wrong" or "Your enemies must agree that you are right."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 
  
 
-**[[en/bible/notes/luk/21/12|<<]] | [[en/bible/notes/luk/21/16|>>]]**
+**[[:en:bible:notes:luk:21:12|<<]] | [[:en:bible:notes:luk:21:16|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

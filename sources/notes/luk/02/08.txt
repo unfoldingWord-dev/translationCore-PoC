@@ -28,32 +28,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:shepherd]]
-  * [[en:obe:other:flock]]
-  * [[en:obe:other:sheep]]
-  * [[en:obe:kt:angel]]
-  * [[en:obe:kt:lordgod]]
-  * [[en:obe:kt:glory]]
-  * [[en:obe:kt:fear]]
+  * [[:en:obe:other:shepherd]]
+  * [[:en:obe:other:flock]]
+  * [[:en:obe:other:sheep]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:kt:fear]]
 
 ===== Translation Notes: =====
 
-Shepherds hear the news about Jesus' birth.
-
-    * **In that same region** - "In that area" or AT: "Near Bethlehem"
-    * **keeping watch over their flocks** - "taking care of their flocks" or "guarding their flocks in order to keep them safe"
-    * **flocks of sheep** - "groups of sheep"
-    * **at night** - AT: "after the sun had set and it was dark"
-    * **an angel of the Lord** - AT: "an angel from the Lord" or "an angel who served the Lord"
-    * **appeared to them** - "came to them"
-    * **the glory of the Lord** - This means the bright light that is all around the Lord was also around the angel.
-
+  * **an angel of the Lord** - "an angel from the Lord" or "an angel who served the Lord"
+  * **appeared to them** - "came to the shepherds"
+  * **the glory of the Lord** - The source of the bright light was the glory of the Lord, which appeared at the same time as the angel.
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:06|<<]] | [[:en:bible:notes:luk:02:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish shepherd  glory}}
+~~DISCUSSION~~{{tag>publish p2check shepherd glory}}
 
 ~~NOCACHE~~

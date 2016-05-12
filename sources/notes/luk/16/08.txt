@@ -13,48 +13,48 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 When his master heard what the manager had done, he admired the dishonest manager for the clever thing he had done. The truth is that the ungodly people in this world act more cleverly toward other people than godly people act.
-\v 9 So I tell you this: Use the money that you have here on earth to help others so that they will become your friends. Then when you die, they will welcome you into an eternal home.
-
-
-\p
+\v 8 When the master heard what his manager had done, he admired the dishonest manager for the way he prepared for the fact that he was about to lose his job. The truth is, the ungodly people in this world, who act dishonestly and use deceit, look ahead and prepare for their future more than the godly, who shine like lights in this world.
+\v 9 I tell you, use the money you made dishonestly to help others. When you do, they will become your friends, and when the money is gone, you will have friends who will welcome you into your eternal home.
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 8 The master then commended the unrighteous manager because he had acted shrewdly, since the sons of this world are more shrewd concerning their own people than the sons of the light are.
-\v 9 I say to you, make friends for yourselves by means of worldly wealth, so that when it is gone, they may welcome you into the eternal dwellings.
+\v 8 The master then commended the unrighteous manager because he had acted shrewdly. For the children of this world are more shrewd in dealing with their own people than are the children of light.
+\v 9 I say to you, make friends for yourselves by means of unrighteous money, so that when it is gone, they may welcome you into the eternal dwellings.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:lord]]
-  * [[en:obe:kt:unrighteous]]
-  * [[en:obe:other:manager]]
-  * [[en:obe:kt:son]]
-  * [[en:obe:kt:world]]
-  * [[en:obe:kt:light]]
-  * [[en:obe:kt:eternity]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:unrighteous]]
+  * [[:en:obe:other:manager]]
+  * [[:en:obe:kt:son]]
+  * [[:en:obe:kt:world]]
+  * [[:en:obe:kt:light]]
+  * [[:en:obe:kt:eternity]]
  
 
 ===== Translation Notes: =====
-Jesus continues telling his story.
-    * **The master then commended** - The debtors whose debts the manager had lowered would probably have thought that the master had ordered the manager to lower them, so they would have praised the master for being generous.
-    * **commended**  - "praised" or "spoke well of" or "approved of"
-    *  **he had acted shrewdly**  - "he had acted cleverly" or "he had done a sensible thing"
-    * **the sons of this world** - This refers to those like the unrighteous manager who do not know or care about God. It could also be translated as "the people of this world" or "worldly people."
-    * **the sons of the light** - This refers to righteous people who have nothing to hide. It can also be translated as "the people of the light" or  "the people who live in the light.
-    * **I say to you**  - "I" refers to Jesus. Jesus has finished telling his story. The phrase "I say to you" marks his change to telling the people how to apply it to their lives.
-    * **worldly wealth**  - This refers to physical wealth. It includes clothing, food, money, precious items. 
-    * **eternal dwellings**  - This refers to heaven, where God lives.
+
+  * **Connecting Statement:** - Jesus finishes telling the parable about the master and the manager of his debtors. In verse 9, Jesus continues to teach his disciples.
+
+  * **The master then commended** - The debtors whose debts the manager had lowered would probably have thought that the master had ordered the manager to lower them, so they would have praised the master for being generous.
+  * **commended** - "praised" or "spoke well of" or "approved of"
+  * **he had acted shrewdly** - "he had acted cleverly" or "he had done a sensible thing"
+  * **the children of this world** - This refers to those like the unrighteous manager who do not know or care about God. AT: "the people of this world" or "worldly people."
+  * **the children of light** - This refers to righteous people who have nothing to hide. AT: "the people of the light" or "the people who live in the light.
+  * **I say to you** - "I" refers to Jesus. The phrase "I say to you" marks the end of the story and now Jesus tells the people how to apply the story to their lives.
+  * **eternal dwellings** - This refers to heaven, where God lives.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 **[[:en:bible:notes:luk:16:05|<<]] | [[:en:bible:notes:luk:16:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit p2review}}
 
 ~~NOCACHE~~

@@ -31,34 +31,33 @@
 \p
 \v 15 The people were also bringing to him their infants, so that he might touch them, but when the disciples saw it, they rebuked them.
 \v 16 But Jesus called them to him, saying, "Permit the little children to come to me, and do not forbid them. For the kingdom of God belongs to such ones.
-\v 17 Truly I say to you, whoever will not receive the kingdom of God as a child will definitely not enter it."
+\v 17 Truly I say to you, whoever will not receive the kingdom of God like a child will definitely not enter it."
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:disciple]]
-  * [[en:obe:other:rebuke]]
-  * [[en:obe:kt:amen]]
-  * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:other:rebuke]]
+  * [[:en:obe:kt:amen]]
+  * [[:en:obe:kt:kingdomofgod]]
 
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - This is the next event in the part of the story which began in [[:en:bible:notes:luk:17:20|17:20]]. Jesus welcomes the children and talks about them.
 
-    * **touch them, but** - This could also be translated as separate sentences: "touch them. But."
-    * **rebuked**  - The disciples expressed strong disapproval of the parents who were bringing their babies to Jesus.
-    * **"Permit the little children to come to me, and do not forbid them.** - These two sentences have similar meaning, said twice for emphasis. Some languages emphasize in a different way. AT: Be sure to allow the children to come to me. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-    * **Permit**  - "Allow"
-    * **little children** - This is a different word than "infants" which was used for the babies that the people were bringing. "Little children" were somewhat older than "infants."
-    * **do not forbid them**  - This is a double negative and means "allow them" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-    * **belongs to such ones**  - This could also be translated "belongs to people who are like these little children."
-    * **Truly I say to you**  - "Surely I say to you." Jesus used this expression to emphasize the importance of what he was about to say.
-    * **as a child**  - This is a simile that compares the attitude of a child to people who are entering the kingdom of God. The points of similarity are humility and trust. The simile means "they will humbly receive God's kingdom just as a child is humble and trusting." (See: [[en:ta:vol1:translate:figs_simile]])
-    * **enter it**  - This could also be translated as "enter into God's kingdom" (UDB). 
+  * **touch them, but** - This could also be translated as separate sentences: "touch them. But."
+  * **they rebuked them** - "the disciples tried to stop the parents from bringing their children to Jesus"
+  * **Permit the little children to come to me, and do not forbid them** - These two sentences have similar meaning and they are combined for emphasis. Some languages emphasize in a different way. AT: "You must certainly allow the children to come to me." (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **belongs to such ones** - AT: "belongs to people who are like these little children"
+  * **Truly I say to you** - "Surely I say to you." Jesus used this expression to emphasize the importance of what he was about to say.
+  * **whoever will not receive the kingdom of God like a child will definitely not enter it** - God requires people to accept his rule over them with trust and humility. AT: "whoever wants to enter God's kingdom must receive it with trust and humility like a child." (See: [[:en:ta:vol1:translate:figs_simile]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 **[[:en:bible:notes:luk:18:13|<<]] | [[:en:bible:notes:luk:18:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

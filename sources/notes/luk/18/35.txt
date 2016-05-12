@@ -31,31 +31,36 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:jericho]]
-  * [[en:obe:other:beg]]
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:nazareth]]
+  * [[:en:obe:other:jericho]]
+  * [[:en:obe:other:beg]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:nazareth]]
  
 
 ===== Translation Notes: =====
 
+  * **General Information:** - This is the next part of the story. Jesus heals a blind man while on as he approaches Jericho. These verses give background information and information about the setting of the story. (See: [[:en:ta:vol2:translate:writing_background]])
+
+  * **It came about** - This phrase is used here to mark the beginning of a new part of the story. 
   * **drew near to** - "approached"
-  * **a certain blind man was sitting** - "there was a blind man sitting." Here "certain" means only that the man is important to the story but his name will not be given.
-  * **begging, and hearing** - This could also be translated as two sentences: "begging. When he heard."
-  * **They told him** - People in the crowd told the blind man.
+  * **a certain blind man was sitting** - "there was a blind man sitting." Here "certain" means only that the man is important to the story but Luke does not mention his name.
+  * **begging, and hearing** - AT: "begging. When he heard"
+  * **They told him** - "People in the crowd told the blind man"
   * **Jesus of Nazareth** - Jesus came from the town of Nazareth that was located in Galilee.
   * **was passing by** - "was walking past him"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 
  
 
-**[[en/bible/notes/luk/18/34|<<]] | [[en/bible/notes/luk/18/38|>>]]**
+**[[:en:bible:notes:luk:18:34|<<]] | [[:en:bible:notes:luk:18:38|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish Jericho}}
+{{tag>publish p2edit Jericho}}
 ~~NOCACHE~~

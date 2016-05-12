@@ -27,32 +27,36 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:other:yeast]]
-    * [[en:obe:other:pharisee]]
-    * [[en:obe:kt:hypocrite]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:other:yeast]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:kt:hypocrite]]
 
 ===== Translation Notes: =====
 
-  * **In the meantime**  - "While they were doing that"
-  * **many thousands of the people**  - "a very great crowd"
-  * **they trampled on each other**  - This is an exaggeration in order to express how many people there were. It means "they were stepping on each other." (See: [[en:ta:vol2:translate:figs_hyperbole]])
-  * **he began to say to his disciples first of all**  - "Jesus first started speaking to his disciples, and said to them"
-  * **Beware**  - "Be alert to the danger of" or "Guard yourself against"
-  * **the yeast of the Pharisees, which is hypocrisy.**  - This is a metaphor. Just as yeast spreads through a whole lump of bread dough, their hypocrisy was spreading through the whole community. AT: "the hypocrisy of the Pharisees, which is like yeast." or "Be careful that you do not become hypocrites like the Pharisees. Their evil behavior influences everyone just as yeast affects a lump of dough." (See: [[en:ta:vol1:translate:figs_metaphor]],  [[en:ta:vol1:translate:figs_simile]])
+  * **General Information:** - This is the next part of the story. Jesus begins to teach his disciples in front of thousands of people.
+
+  * **In the meantime** - "While they were doing that"
+  * **when many thousands of the people...they trampled on each other** - This is background information that tells the setting of the story. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **many thousands of the people** - "a very great crowd"
+  * **they trampled on each other** - This is an exaggeration in order to express how many people there were. AT: "they were stepping on each other." (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **he began to say to his disciples first of all** - "Jesus first started speaking to his disciples, and said to them"
+  * **Beware of the yeast of the Pharisees, which is hypocrisy** - Just as yeast spreads through a whole lump of bread dough, their hypocrisy was spreading through the whole community. AT: "Guard yourself against the hypocrisy of the Pharisees, which is like yeast" or "Be careful that you do not become hypocrites like the Pharisees. Their evil behavior influences everyone just as yeast affects a lump of dough." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 
  
 
-**[[en/bible/notes/luk/11/53|<<]] | [[en/bible/notes/luk/12/02|>>]]**
+**[[:en:bible:notes:luk:11:53|<<]] | [[:en:bible:notes:luk:12:02|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish yeast}}
+{{tag>publish p2edit yeast}}
 
 ~~NOCACHE~~

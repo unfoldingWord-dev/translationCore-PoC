@@ -39,31 +39,34 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:wordofgod]]
-  * [[en:obe:other:reject]]
-  * [[en:obe:kt:cornerstone]]
+  * [[:en:obe:kt:wordofgod]]
+  * [[:en:obe:other:reject]]
+  * [[:en:obe:kt:cornerstone]]
 
 ===== Translation Notes: =====
-Jesus continues to speak to the crowd.
 
-  * **But Jesus looked at them**  - "But Jesus stared at them" or "But he looked straight at them."  He did this to hold them accountable to understand what he was saying. 
-  * **What does this scripture mean** - This rhetorical question can also be translated as "Then what was this scripture talking about?" or "You should be able to understand this scripture." (See: [[en:ta:vol1:translate:figs_rquestion]])  
-  * **The stone which the builders rejected, has been made the cornerstone**  -  This metaphor is a prophecy from Psalm [[:en:bible:notes:psa:118:022|118:22]] about how people would reject the Messiah.  (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **The stone which the builders rejected** - "The stone which the builders said was not good enough for building with." In those days people built the walls of houses and other buildings out of stones. 
-  * **the cornerstone**  - This was an important stone for making a building stable. It can be translated as "the chief stone" or "the most important stone."
-  * **Every one that falls on that stone** - "Anyone who falls down onto that stone." This metaphor is a prophecy about what will happen to everyone who rejects the Messiah. (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **will be broken to pieces** - "will break up into pieces." This is a result of falling onto the stone. 
-  * **But on whomever it falls** - "But whomever that stone falls on." This metaphor is a prophecy about the Messiah judging those who reject him. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **Connecting Statement:** - Jesus continues teaching the crowd.
+
+  * **But Jesus looked at them** - "But Jesus stared at them" or "But he looked straight at them." He did this to hold them accountable to understand what he was saying. 
+  * **What does this scripture mean?** - "Then what was this scripture talking about?" Jesus uses a question to teach the crowd. AT: "You should be able to understand this scripture." (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **The stone which the builders rejected, has been made the cornerstone** - This metaphor is a prophecy from the book of Psalms about how people would reject the Messiah. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **The stone which the builders rejected** - "The stone which the builders said was not good enough to use for building." In those days people built the walls of houses and other buildings out of stones. 
+  * **has been made the cornerstone** - This was an important stone for making a building stable. AT: "has become the chief stone" or "has become the most important stone." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Every one that falls on that stone** - "Anyone who falls down onto that stone." This metaphor is a prophecy about what will happen to everyone who rejects the Messiah. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **will be broken to pieces** - "will break up into pieces." This is a result of falling onto the stone. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **But on whomever it falls** - "But whomever that stone falls on." This metaphor is a prophecy about the Messiah judging those who reject him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/15|<<]] | [[en/bible/notes/luk/20/19|>>]]**
+**[[:en:bible:notes:luk:20:15|<<]] | [[:en:bible:notes:luk:20:19|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

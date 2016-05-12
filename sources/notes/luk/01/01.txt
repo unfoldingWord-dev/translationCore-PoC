@@ -29,37 +29,42 @@
 <usfm>
 \c 1 
 \p 
-\v 1 Many people have attempted to write accounts concerning those things which have been fulfilled among us. 
-\v 2 Those who were eyewitnesses from the beginning and had become servants of the word, reported them to us. 
-\v 3 So, it seemed good to me also, having investigated everything accurately from the beginning, to write it down for you in order, most excellent Theophilus. 
-\v 4 I want you to know the certainty of the things that you were taught. 
+\v 1 Many have tried to set in order a narrative about those matters that have been fulfilled among us,   
+\v 2 just as they handed them to us, who from the beginning have been eyewitnesses and servants of the message. 
+\v 3 So to me also, having accurately investigated the course of all these things from the start—it seemed good to me to write them down in their order—most excellent Theophilus. 
+\v 4 This is so that you might know the truth about the things that you were taught. 
 \b
 </usfm>
 
 ===== translationWords: =====
 
   * [[:en:obe:kt:fulfill]]
-  * [[en:obe:kt:witness]]
+  * [[:en:obe:kt:witness]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:kt:wordofgod]]
 
 ===== Translation Notes: =====
 
-Luke explains why he is writing to Theophilus.
+  * **General Information:** - Luke explains why he writes to Theophilus.
 
-  * **accounts**  - "reports" or "true stories"
-  * **among us**  - The word "us" in this section may or may not exclude Theophilus. (See: [[:en:ta:vol2:translate:figs_exclusive|Exclusive]])
-  * **eyewitnesses**  - "observers" or "watchers"
-  * **had become servants of the word**  - AT: "had served God by telling people his message" or "had taught people the good news about Jesus"
-  * **reported them to us**  - The "us" in this phrase does not include Theophilus. (See: [[:en:ta:vol2:translate:figs_exclusive|Exclusive]])
-  * **investigated everything accurately**  - This means he was careful to find out exactly what happened. He probably talked to the different people who saw what happened to make sure that what he wrote down about these events was correct. AT: "carefully researched everything that happened."
-  * **most excellent Theophilus**  - Luke said this to show honor and respect for Theophilus. This manner of address may also mean that Theophilus was an important government official. AT: "honorable" or "noble." Some people may prefer to also put this greeting at the beginning and say, "To...Theophilus" or "Dear...Theophilus."
-  * **Theophilus**  - This name means "friend of God." It may describe this man's character or it may have been his actual name. Most translations have it as a name. (See: [[:en:ta:vol1:translate:translate_names|Translate Names]])
+  * **matters** - "reports" or "true stories"
+  * **among us** - The word "us" in this phrase may or may not exclude Theophilus. (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **handed them to us** - The "us" in this phrase does not include Theophilus. (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **handed them** - "gave them" or "delivered them"
+  * **servants of the message** - You may need to specify what the message is. AT: "had served God by telling people his message" or "had taught people the good news about Jesus" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **accurately investigated** - "carefully researched." Luke was careful to find out exactly what happened. He probably talked to the different people who saw what happened to make sure that what he wrote down about these events was correct. 
+  * **most excellent Theophilus** - Luke said this to show honor and respect for Theophilus. This may mean that Theophilus was an important government official. This section should use the style that your culture uses to address people of high status. Some people may prefer to also put this greeting at the beginning and say, "To...Theophilus" or "Dear...Theophilus."
+  * **most excellent** - "honorable" or "noble" 
+  * **Theophilus** - This name means "friend of God." It may describe this man's character or it may have been his actual name. Most translations have it as a name. (See: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:05|>>]]**
 
-~~DISCUSSION:on~~{{tag>publish}}
+~~DISCUSSION~~
+
+{{tag>publish p2check}}

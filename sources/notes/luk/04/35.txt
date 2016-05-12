@@ -29,39 +29,37 @@
 
 <usfm>
 \v 35 Jesus rebuked the demon, saying, "Be quiet and come out of him!" When the demon had thrown the man down in the middle of them, he came out of him without causing him any harm. 
-\v 36 All the people were very amazed, and they kept talking about it with one with another. They said, "What kind of words are these? For he commands the unclean spirits with authority and power and they come out?" 
+\v 36 All the people were very amazed, and they kept talking about it with one with another. They said, "What kind of words are these? He commands the unclean spirits with authority and power and they come out." 
 \v 37 So news about him began to spread into every part of the surrounding region.
 </usfm>
 
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:rebuke]]
-    * [[en:obe:kt:word]]
-    * [[en:obe:other:command]]
-    * [[en:obe:kt:power]]
+  * [[:en:obe:other:rebuke]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:other:command]]
+  * [[:en:obe:kt:power]]
 
 
 ===== Translation Notes: =====
 
-
-    * **Jesus rebuked the demon, saying**  - "Jesus scolded the demon, saying" or "Jesus sternly said to the demon" 
-    * **come out of him**  - AT: "leave him alone" or "stop bothering him."
-    * **What kind of words are these** - This is a rhetorical question. The people were expressing how amazed they were that Jesus had the authority to command demons to leave a person. AT: "These are amazing words" or "His words are amazing!"  (See: [[:en:ta:vol1:translate:figs_rquestion]])
-    * **he commands the unclean spirits with authority and power** - "he has authority and power to command the unclean spirits"
-    * **news about him began to spread** - "reports about Jesus began to spread" or "people spread the news about Jesus"
-
+  * **Jesus rebuked the demon, saying** - "Jesus scolded the demon, saying" or "Jesus sternly said to the demon" 
+  * **come out of him** - AT: "leave him alone" or "stop bothering him"
+  * **What kind of words are these?** - The people were expressing how amazed they were that Jesus had the authority to command demons to leave a person. This can be written as a statement. AT: "These are amazing words!" or "His words are amazing!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **He commands the unclean spirits with authority and power** - "He has authority and power to command the unclean spirits"
+  * **So news about him began to spread...the surrounding region** - This is a comment about what happened after the story that was cause by the events within the story itself. (See: [[End of Story]])
+  * **news about him began to spread** - "reports about Jesus began to spread" or "people began to spread the news about Jesus"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/04/33|<<]] | [[en/bible/notes/luk/04/38|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
+**[[:en:bible:notes:luk:04:33|<<]] | [[:en:bible:notes:luk:04:38|>>]]**
 
 ~~DISCUSSION~~
 
-{{tag>publish demon}}
+{{tag>publish p2check talink demon}}
 
 ~~NOCACHE~~

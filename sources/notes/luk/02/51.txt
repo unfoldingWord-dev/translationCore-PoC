@@ -30,29 +30,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:nazareth]]
-  * [[en:obe:other:obey]]
-  * [[en:obe:other:heart]]
-  * [[en:obe:kt:wise]]
-  * [[en:obe:kt:favor]]
-  * [[en:obe:kt:god]]
+  * [[:en:obe:other:nazareth]]
+  * [[:en:obe:other:obey]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:wise]]
+  * [[:en:obe:kt:favor]]
+  * [[:en:obe:kt:god]]
 
 ===== Translation Notes: =====
 
-This is the end of the account of Jesus' birth and childhood. 
-
-    * **he went back home with them** - "Jesus went back home with Mary and Joseph"
-    * **was obedient to them** - "obeyed them" or "was always obeying them"
-    * **treasured all these things in her heart** - "carefully remembered all these things" or "joyfully thought about all these things." A treasure is something that is very valuable or precious. Mary considered the things her son did and said to be very precious. (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **grow in wisdom and stature** - "become more wise and strong" (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **increased in favor with God and people** - AT: "God blessed him more and more, and people liked him more and more."
-
+  * **he went back home with them** - "Jesus went back home with Mary and Joseph"
+  * **was obedient to them** - "obeyed them" or "was always obeying them"
+  * **treasured all these things in her heart** - "carefully remembered all these things" or "joyfully thought about all these things." The words "treasured" and "heart" indicate that Mary considered these things to be very deeply personal and important. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **grow in wisdom and stature** - "become wiser and stronger." These refer to mental and physical growth.
+  * **increased in favor with God and people** - This refers to spiritual and social growth. These could be stated separately. AT: "God blessed him more and more, and people liked him more and more."
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:48|<<]] | [[:en:bible:notes:luk:03:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

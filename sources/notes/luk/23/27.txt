@@ -28,19 +28,21 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:mourn]]
-  * [[en:obe:other:jerusalem]]
+  * [[:en:obe:other:mourn]]
+  * [[:en:obe:other:jerusalem]]
 
 ===== Translation Notes: =====
 
   * **mourned for him** - "mourned for Jesus"
   * **were following him** - "were following Jesus"
-  * **Daughters of Jerusalem** - "you women who are from Jerusalem"
+  * **Daughters of Jerusalem** - The "daughter" of a city means the people of the city. AT: "you women who are from Jerusalem."
   * **weep for me** - "cry about my situation"
   * **but weep for yourselves and for your children** - "instead cry for what is going to happen to you and to your children" (UDB)
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:26|<<]] | [[:en:bible:notes:luk:23:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

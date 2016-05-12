@@ -27,31 +27,33 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:voice]]
-    * [[en:obe:kt:sonofgod]]
-    * [[en:obe:kt:mosthigh]]
-    * [[en:obe:other:torment]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:other:seize]]
-    * [[en:obe:kt:bond]]
-    * [[en:obe:other:desert]]
+  * [[:en:obe:other:voice]]
+  * [[:en:obe:kt:sonofgod]]
+  * [[:en:obe:kt:mosthigh]]
+  * [[:en:obe:other:torment]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:seize]]
+  * [[:en:obe:kt:bond]]
+  * [[:en:obe:other:desert]]
 
 ===== Translation Notes: =====
 
-  * **When he saw Jesus**  - "When the man who had the demon saw Jesus"
-  * **he cried out**  - "he screamed" or "he shrieked"
-  * **fell down before him** - “lay down on the ground before Jesus.” He did not fall accidentally. He did this because he was afraid of Jesus.
-  * **With a loud voice he said**  - "He said loudly" or "He shouted out"
-  * **What do I have to do with you**  - AT: "Why are you bothering me."
-  * **Jesus, Son of the Most High God? I beg you, do not torment me.** - The name of Jesus, the Son of God, has power over demons and power over evil. 
-  * **many times it had seized him**  - "many times it had captured the man." This and the next sentence tell about what the demon had done many times before Jesus went to the man.  AT: "many times it had gone into him." 
-  * **Even though he was bound with chains and shackles and kept under guard**  - AT: "Even though the people had bound the man with chains and shackles and guarded him." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **When he saw Jesus** - "When the man who had the demon saw Jesus"
+  * **he cried out** - "he screamed" or "he shrieked"
+  * **fell down before him** - "lay down on the ground before Jesus." He did not fall accidentally.
+  * **With a loud voice he said** - "He said loudly" or "He shouted out"
+  * **What do I have to do with you** - AT: "Why are you bothering me"
+  * **Son of the Most High God** - This is an important title for Jesus. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **many times it had seized him** - "many times it had captured the man" or "many times it had gone into him." This tells about what the demon had done many times before Jesus met the man. 
+  * **Even though he was bound...and kept under guard** - "Even though the people had bound him...and shackles and guarded him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:26|<<]] | [[:en:bible:notes:luk:08:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -30,23 +30,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:justice]]
+  * [[:en:obe:kt:justice]]
 
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
-  * **widow**  - A widow is a woman whose husband has died. Jesus' hearers would have thought of her as without defense against evildoers.
-  * **Help me get justice against** - This could be translated as "Punish" or "Grant me retribution against."
-  * **my opponent**  - "my enemy" or "the person who is trying to harm me." This is an opponent in a lawsuit. It is not clear whether the woman is suing the man or the man is suing the woman.
-  * **fear God**  - "revere God"
-  * **man**  - This refers here to "people" in general.
-  * **causes me trouble**  - This can also be translated as "bothers me."
-  * **wear me out **- "exhaust me"
-  * **by her constant coming**  - "by continually coming to me"
+
+  * **Now there was a widow** - Jesus uses this phrase to introduce a new character to the story. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **widow** - A widow is a woman whose husband has died. Jesus' hearers would have thought of her as a person who had no one to protect her from those who wanted to harm her.
+  * **she came often to him** - The word "him" refers to the judge.
+  * **Help me get justice against** - AT: "Punish" or "Help me"
+  * **my opponent** - "my enemy" or "the person who is trying to harm me." This is an opponent in a lawsuit. It is not clear whether the woman is suing the man or the man is suing the woman.
+  * **fear God** - "revere God"
+  * **man** - This refers here to "people" in general.
+  * **causes me trouble** - AT: "bothers me"
+  * **wear me out** - "exhaust me"
+  * **by her constant coming** - "by continually coming to me"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 **[[:en:bible:notes:luk:18:01|<<]] | [[:en:bible:notes:luk:18:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish justice}}
+~~DISCUSSION~~{{tag>publish p2edit justice}}

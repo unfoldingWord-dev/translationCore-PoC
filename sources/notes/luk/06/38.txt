@@ -31,17 +31,18 @@
 
 
 ===== Translation Notes: =====
-Jesus continues to teach the crowd not to judge people.
 
-    * **and it will be given to you** -  Jesus did not say explicitly who would give. Possible meanings are 1) “someone will give it to you” or 2) "God will give it to you." Both of these translations make the giver explicit.(See: [[en:ta:vol1:translate:figs_explicit]], [[en:ta:vol2:translate:figs_activepassive]])
-    * **A generous amount** - "A large amount"
-    * **A generous amount ... your lap** - The order of this sentence can be reversed and active verbs can be used. "They will pour into your lap a generous amount that they have pressed down and shaken together and that is spilling over." Jesus used the metaphor of a grain merchant giving a generous amount. It could be translated as a simile "Like a grain merchant who presses down the grain and shakes it together and pours in so much grain that it spills over, they will give generously to you." (See: [[en:ta:vol1:translate:figs_metaphor]],  [[en:ta:vol1:translate:figs_simile]])
-    * **that same standard will be used to measure for you** - AT: "They will use that same size measure to measure things for you" or "They will measure things for you by that same standard."
+  * **it will be given to you** - Jesus did not say exactly who would give. Possible meanings are 1) "someone will give it to you" or 2) "God will give it to you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **A generous amount...your lap** - The order of this sentence can be reversed. AT: "They will pour into your lap a generous amount that they have pressed down and shaken together until it is spilling over." Jesus used the metaphor of a grain merchant giving a generous amount. AT: "Like a grain merchant who presses down the grain and shakes it together and pours in so much grain that it spills over, they will give generously to you." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_simile]])
+  * **A generous amount** - "A large amount"
+  * **that same standard will be used to measure for you** - Jesus did not say exactly who would measure. Possible meanings are 1) "they will measure things for you by that same standard" or 2) "God will use that same standard to measure for you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:37|<<]] | [[:en:bible:notes:luk:06:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

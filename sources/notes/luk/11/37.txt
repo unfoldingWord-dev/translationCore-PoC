@@ -28,20 +28,23 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:pharisee]]
-    * [[en:obe:kt:jesus]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:kt:jesus]]
 
 
 ===== Translation Notes: =====
 
-    * **reclined** - “sat down at the table.” It was the custom for a relaxed meal such as this dinner for men to eat while laying down comfortably around the table.
-    * **wash** -  "wash his hands" or "wash his hands in order to be ritually clean." The Pharisees had a rule that people must wash their hands in order to be ceremonially clean before God. 
+  * **General Information:** - This is the beginning of the next part of the story. Jesus is invited to eat at a Pharisee's house.
+
+  * **reclined** - "sat down at the table." It was the custom for a relaxed meal such as this dinner for men to eat while laying down comfortably around the table.
+  * **wash** - The Pharisees had a rule that people must wash their hands in order to be ceremonially clean before God. AT: "wash his hands" or "wash his hands in order to be ritually clean." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:33|<<]] | [[:en:bible:notes:luk:11:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

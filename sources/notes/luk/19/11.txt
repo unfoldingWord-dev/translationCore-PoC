@@ -31,22 +31,26 @@
   * [[:en:obe:other:parable]]
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:kt:kingdomofgod]]
-  * [[en:obe:other:noble]]
+  * [[:en:obe:other:noble]]
   * [[:en:obe:other:kingdom]]
 
 
 ===== Translation Notes: =====
 
-  * **that the kingdom of God was about to appear immediately**  - "that Jesus would immediately begin to rule over God's kingdom"
-  * **A certain nobleman**  - "A certain man who was a member of the ruling class" or "A certain man from an important family." It can also be translated as "An important man" or "A man of high position."
-  * **to receive for himself a kingdom**  - "to be made king" or "to become king of the country he lived in."
+  * **General Information:** - Jesus begins to tell a parable to the crowd. Verse 11 gives background information about why Jesus tells the parable. (See: [[:en:ta:vol1:translate:figs_parables]] and [[:en:ta:vol2:translate:writing_background]])
+
+  * **that the kingdom of God was about to appear immediately** - AT: "that Jesus would immediately begin to rule over God's kingdom"
+  * **A certain nobleman** - "A certain man who was a member of the ruling class" or "A certain man from an important family." AT: "An important man" or "A man of high position."
+  * **to receive for himself a kingdom** - This is the image of a lesser king going to a greater king. The greater king would give the lesser king the right and authority to rule over his own country. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 **[[:en:bible:notes:luk:19:08|<<]] | [[:en:bible:notes:luk:19:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

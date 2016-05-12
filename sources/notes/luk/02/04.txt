@@ -6,7 +6,7 @@
 <usfm>
 \v 4 So, because Joseph was a descendant of \add King\add* David, he went up from Nazareth, the town in Galilee \add district where he lived\add*, to Bethlehem town in Judea \add district\add*. That was the town where \add King\add* David \add grew up\add*.
 \v 5 Joseph went with Mary, who \add was considered\add* \f + \ft Or:whom \add people considered\add* \f* \add to be\add* his wife, who was now pregnant. They went so that they could put his name and Mary's name \add in the record book\add*.
-</usfm>   
+</usfm> 
 
 
 ===== UDB: =====
@@ -26,29 +26,33 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:josephnt]]
-    * [[en:obe:other:nazareth]]
-    * [[en:obe:other:galilee]]
-    * [[en:obe:other:judea]]
-    * [[en:obe:other:bethlehem]]
-    * [[en:obe:other:cityofdavid]]
-    * [[en:obe:other:descendant]]
-    * [[en:obe:other:family]]
-    * [[en:obe:other:david]]
-    * [[en:obe:other:mary]]
+  * [[:en:obe:other:josephnt]]
+  * [[:en:obe:other:nazareth]]
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:other:judea]]
+  * [[:en:obe:other:bethlehem]]
+  * [[:en:obe:other:cityofdavid]]
+  * [[:en:obe:other:descendant]]
+  * [[:en:obe:other:family]]
+  * [[:en:obe:other:david]]
+  * [[:en:obe:other:mary]]
 ===== Translation Notes: =====
 
-  * **traveled to the Judean town of Bethlehem** - "went up to the town of Bethlehem in Judea." Bethlehem was higher in elevation than Nazareth. 
-  * **city of David **- Bethlehem was called a city because of its importance, not its size. King David was born there and there was a prophecy that the Messiah would be born there. AT: "city of King David."
-  * **to register**  - AT: "to have his name written in the register" or "to be included in the count"
-  * **along with Mary**  - Mary traveled with Joseph from Nazareth. It is likely that women were also taxed, so Mary would have needed to travel and be registered as well.
-  * **who was engaged to him**  - An engaged couple was considered legally married, but there would not have been physical intimacy between them.  AT: "his fiancée" or "who was promised to him."
+  * **General Information:** - The UDB rearranges these two verses into a verse bridge in order to make it easier to shorten the sentences. (See: [[:en:ta:vol2:translate:translate_versebridge]])
 
+  * **Joseph also** - This introduces Joseph as a new participant in the story. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **the city of Nazareth in Galilee** - "the city of Nazareth in the region of Galilee"
+  * **which is known as the city of David** - This is background information about the importance of Bethlehem. Although it was a small town, King David was born there, and there was a prophecy that the Messiah would be born there. AT: "city of King David." (See: [[:en:ta:vol2:translate:writing_background]])
+  * **because he was a descendant** - "because Joseph was a descendant"
+  * **to register** - This means to report to the officials there so they could include him in the count. Use a term for an official government count if possible.
+  * **along with Mary** - Mary traveled with Joseph from Nazareth. It is likely that women were also taxed, so Mary would have needed to travel and be registered as well. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **who was engaged to him** - "his fiancee" or "who was promised to him." An engaged couple was considered legally married, but there would not have been physical intimacy between them.
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:01|<<]] | [[:en:bible:notes:luk:02:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish josephnt  cityofdavid}}
+~~DISCUSSION~~{{tag>publish p2check josephnt cityofdavid}}

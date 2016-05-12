@@ -26,32 +26,36 @@
 \p
 \v 1 Now it happened, while the people were crowding around Jesus and listening to the word of God, that he was standing by the lake of Gennesaret.
 \v 2 He saw two boats pulled up by the edge of the lake. The fishermen had gotten out of them and were washing their nets.
-\v 3 Jesus got into one of the boats, which was Simon’s, and asked him to put it out in the water a short distance from the land. Then he sat down and taught the people out of the boat.
+\v 3 Jesus got into one of the boats, which was Simon's, and asked him to put it out in the water a short distance from the land. Then he sat down and taught the people out of the boat.
 </usfm>
 
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:wordofgod]]
-    * [[en:obe:other:seaofgalilee]]
-    * [[en:obe:other:fisherman]]
-    * [[en:obe:other:peter]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:wordofgod]]
+  * [[:en:obe:other:seaofgalilee]]
+  * [[:en:obe:other:fisherman]]
+  * [[:en:obe:other:peter]]
 
 ===== Translation Notes: =====
 
-  * **Now it happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **washing their nets**  - They were cleaning their fishing nets in order to use them again them again to catch fish.
-  * **asked him to put it out in the water**  - "asked Peter to move the boat farther from the shore"
-  * **he sat down and taught the people**  - Sitting was the normal position for a teacher.
-  * **taught the people out of the boat**  - "taught the people while he sat in the boat." Jesus was in the boat a short distance from the shore and he was speaking to the people who were on the shore.
+  * **Connecting Statement:** - Jesus preaches from Simon Peter's boat at the lake of Gennesaret.
 
+  * **Now it happened** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **the lake of Gennesaret** - This is another name for the Sea of Galilee. Galilee was on the west side of the lake, and the land of Gennesaret was on the east side, so it was called by both names.
+  * **washing their nets** - They were cleaning their fishing nets in order to use them again them again to catch fish.
+  * **one of the boats, which was Simon's** - "the boat belonging to Simon"
+  * **asked him to put it out in the water a short distance from the land** - "asked Simon to move the boat farther from the shore"
+  * **he sat down and taught the people** - Sitting was the normal position for a teacher.
+  * **taught the people out of the boat** - "taught the people while he sat in the boat." Jesus was in the boat a short distance from the shore and he was speaking to the people who were on the shore.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
 **[[:en:bible:notes:luk:04:42|<<]] | [[:en:bible:notes:luk:05:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish  seaofgalilee}}
+~~DISCUSSION~~{{tag>publish p2check seaofgalilee}}
 
 ~~NOCACHE~~

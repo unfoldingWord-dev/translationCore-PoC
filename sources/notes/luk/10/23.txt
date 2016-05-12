@@ -33,23 +33,25 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:kt:bless]]
-    * [[en:obe:kt:prophet]]
-    * [[en:obe:other:king]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:king]]
 
 ===== Translation Notes: =====
 
 
-    * **he said privately**  - "to them alone." This was possibly at a later time. The UDB makes this explicit: "Then when his disciples were alone with him." (See: [[en:ta:vol1:translate:figs_explicit]])
-    * **Blessed are those who see the things that you see** - This probably refers to all of the people who were coming to listen to Jesus.  AT: "How good it is for those who see the things that you are seeing." 
-    * **the things that you see** - "the things you have seen me do"
-    * **the things that you hear** - "the things that you have heard me say"
+  * **Turning to the disciples, he said privately** - This was possibly at a later time. AT: "Later, when his disciples were alone with him, he said" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Blessed are those who see the things that you see** - This probably refers to all of the people who were coming to listen to Jesus. AT: "How good it is for those who see the things that you are seeing." 
+  * **the things that you see** - "the things you have seen me do"
+  * **the things that you hear** - "the things that you have heard me say"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 **[[:en:bible:notes:luk:10:22|<<]] | [[:en:bible:notes:luk:10:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

@@ -29,28 +29,32 @@
 
 
 ===== translationWords: =====
-  * [[en:obe:other:ox]]
+  * [[:en:obe:other:ox]]
 
 
 ===== Translation Notes: =====
 
-Jesus continues telling his parable.
-    * **to make excuses** - Here it means "to say why they could not come to the dinner."
-    * **Please excuse me**  - "Please forgive me" or "Please accept my apology"
-    * **five pairs of oxen** -  Oxen are cows or bulls that people use to pull heavy loads or do other hard work. Oxen usually work in pairs. 
-    * **married a wife**  - Use an expression that is natural in your language. Some languages may say "gotten married" or "taken a wife."
+  * **Connecting Statement:** - Jesus continues telling his parable. 
+  * **General Information:** - All of the people who the servant invited gave him an excuse about why they they couldn't come to the banquet.
+
+  * **to make excuses** - "to say why they could not come to the dinner"
+  * **Please excuse me** - "Please forgive me" or "Please accept my apology"
+  * **five pairs of oxen** - AT: "10 oxen to work in my fields" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **married a wife** - Use an expression that is natural in your language. Some languages may say "gotten married" or "taken a wife."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 
  
 
-**[[en/bible/notes/luk/14/15|<<]] | [[en/bible/notes/luk/14/21|>>]]**
+**[[:en:bible:notes:luk:14:15|<<]] | [[:en:bible:notes:luk:14:21|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish }}
+{{tag>publish p2edit }}
 
 
 ~~NOCACHE~~

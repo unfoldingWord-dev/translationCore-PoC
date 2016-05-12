@@ -29,8 +29,8 @@
 
   * [[:en:obe:other:rejoice]]
   * [[:en:obe:other:praise]]
-  * [[en:obe:other:voice]]
-  * [[en:obe:kt:works]]
+  * [[:en:obe:other:voice]]
+  * [[:en:obe:kt:works]]
   * [[:en:obe:kt:bless]]
   * [[:en:obe:other:king]]
   * [[:en:obe:kt:name]]
@@ -41,21 +41,23 @@
  
 ===== Translation Notes: =====
 
-  * **As he was now drawing near**  - "As Jesus was going near" or "as Jesus was approaching."  Jesus' disciples were traveling with him.
-  * **mighty works which they had seen**  - This can be translated as "great things they had seen Jesus do."
+  * **As he was now drawing near** - "As Jesus was going near" or "as Jesus was approaching." Jesus' disciples were traveling with him.
+  * **mighty works which they had seen** - AT: "great things they had seen Jesus do"
   * **Blessed is the king** - They were saying this about Jesus.
-  * **the Lord** - This refers to God.
-  * **glory in the highest**- This can be translated as "Let glory be given to the One in the highest" or "Let praise be given to the Highest One." It can be translated with an active verb and a noun saying who will give praise to God, as in the UDB. (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **in the name of the Lord** - Here "name" refers to power and authority. Also, "Lord" refers to God. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **glory in the highest** - AT: "let everyone give glory to the One in the highest" or "let everyone praise the Highest One"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/32|<<]] | [[en/bible/notes/luk/19/39|>>]]**
+**[[:en:bible:notes:luk:19:32|<<]] | [[:en:bible:notes:luk:19:39|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish mountofolives}}
+{{tag>publish p2edit mountofolives}}
 ~~NOCACHE~~

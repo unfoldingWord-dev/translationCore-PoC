@@ -26,27 +26,25 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:other:capernaum]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:capernaum]]
 
 
 ===== Translation Notes: =====
 
-  * **in the hearing of the people**  - AT: “to the people who were listening” or “to the people” or “for the people to hear.”
+  * **General Information:** - Jesus enters Capernaum where Jesus heals a centurian's servant.
 
-
+  * **in the hearing of the people** - The idiom "in the hearing" emphasizes that he wanted them to hear what he said. AT: "to the people who were listening to him" or "to the people who were present" or "for the people to hear." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **he entered Capernaum** - This begins a new event in the story. (See: [[:en:ta:vol2:translate:writing_newevent]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/06/49|<<]] | [[en/bible/notes/luk/07/02|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
+**[[:en:bible:notes:luk:06:49|<<]] | [[:en:bible:notes:luk:07:02|>>]]**
 
 
 ~~DISCUSSION~~
 
-
-{{tag>publish capernaum}}
+{{tag>publish p2check capernaum}}
 ~~NOCACHE~~

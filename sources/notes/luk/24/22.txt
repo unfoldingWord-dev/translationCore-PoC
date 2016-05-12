@@ -30,20 +30,24 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:amazed]]
-  * [[en:obe:other:tomb]]
-  * [[en:obe:other:vision]]
-  * [[en:obe:kt:angel]]
-  * [[en:obe:kt:life]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:other:tomb]]
+  * [[:en:obe:other:vision]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:kt:life]]
  
 ===== Translation Notes: =====
 
-    * **But also**  - The men considered the women's report to be a good thing, not another bad thing in addition to Jesus' death. 
-    * **having been at the tomb** - The women were the ones who were at the tomb. 
-    * **a vision of angels** - "angels in a vision"
+  * **Connecting Statement:** - The two men finish responding to Jesus.
+
+  * **But also** - The men considered the women's report to be a good thing, not another bad thing in addition to Jesus' death. 
+  * **having been at the tomb** - The women were the ones who were at the tomb. 
+  * **a vision of angels** - "angels in a vision"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:21|<<]] | [[:en:bible:notes:luk:24:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

@@ -35,22 +35,26 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:voice]]
-    * [[en:obe:other:womb]]
-    * [[en:obe:kt:bless]]
-    * [[en:obe:kt:wordofgod]]
+  * [[:en:obe:other:voice]]
+  * [[:en:obe:other:womb]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:wordofgod]]
 
 ===== Translation Notes: =====
 
-  * **It happened that**  - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
-  * **raised her voice above the crowd**  - "spoke loudly above the noise of the crowd"
-  * **Blessed is the womb that bore you and the breasts that nursed you**  - The parts of a woman's body are used to refer to the whole woman. AT: "How good it is for the woman who bore you and nursed you at her breasts" or "How happy the woman who bore you and nursed you at her breasts must be." (See: [[en:ta:vol2:translate:figs_synecdoche]]).
-  * **blessed** - AT: "how happy" or "blessed by God" (UDB). 
+  * **General Information:** - This is a break in Jesus' teachings. A woman speaks a blessing and Jesus responds.
+
+  * **It happened that** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+  * **raised her voice above the crowd** - "spoke loudly above the noise of the crowd"
+  * **Blessed is the womb that bore you and the breasts that nursed you** - The parts of a woman's body are used to refer to the whole woman. AT: "How good it is for the woman who bore you and nursed you at her breasts" or "How happy the woman who bore you and nursed you at her breasts must be." (See: [[:en:ta:vol2:translate:figs_synecdoche]]).
+  * **Rather, blessed are they** - "It is even better for those"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:24|<<]] | [[:en:bible:notes:luk:11:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

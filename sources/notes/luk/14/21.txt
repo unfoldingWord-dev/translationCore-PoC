@@ -29,19 +29,21 @@
 
   * [[:en:obe:other:servant]]
   * [[:en:obe:kt:lord]]
-  * [[en:obe:other:command]]
+  * [[:en:obe:other:command]]
 
 
 ===== Translation Notes: =====
 
-Jesus continues telling his parable.
-    * **became angry**  - "became angry with the people he had invited"
-    * **The servant said** - It may be necessary to state clearly the implied information that the servant did what the master commanded him as  in the UDB: "After the servant went out and did that, he came back and said."  (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **became angry** - "became angry with the people he had invited"
+  * **The servant said** - It may be necessary to state clearly the implied information that the servant did what the master commanded him. AT: "After the servant went out and did that, he came back and said." (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **what you commanded has been done** - AT: "I have done what you commanded" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 **[[:en:bible:notes:luk:14:18|<<]] | [[:en:bible:notes:luk:14:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

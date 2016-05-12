@@ -40,24 +40,30 @@
  
 
 ===== Translation Notes: =====
-The Sadducees continue speaking and tell Jesus a story.
+
+  * **Connecting Statement:** - The Sadducees finish asking Jesus their question.
+  * **General Information:** - The Sadducees tell Jesus short story in verses 29-32. This is a story they made up as an example. In verse 33, they ask Jesus a question about the story the told.
+
   * **There were seven brothers** - This may have happened, but it is probably a story that they made up to test Jesus.
-  * **died childless** - "died without having any children" or "died, but did not have any children"
-  * **the second as well** - This can be translated as "the second married her and the same thing happened" or "the second brother married her and died without having any children."
-  * **The third took her**  - "the third married her"
-  * **likewise the seven also left no children, and died** - This can be translated as "in the same way the rest of the seven brothers married her and had no children and died."
-  * **In the resurrection**  - "when people are raised from the dead" or "when dead people will become alive again" (UDB). Some languages have a way of showing that the Sadducees did not believe that there would be a resurrection, such as "In the supposed resurrection" or "When dead people are supposedly raised from the dead."
+  * **the first...the second...The third** - See: [[:en:ta:vol2:translate:translate_ordinal]]
+  * **and died childless** - "died without having any children" or "and died, but did not have any children"
+  * **the second as well** - AT: "the second married her and the same thing happened" or "the second brother married her and died without having any children"
+  * **The third took her** - "the third married her"
+  * **likewise the seven also left no children, and died** - AT: "in the same way the rest of the seven brothers married her and had no children and died"
+  * **In the resurrection** - "when people are raised from the dead" or "when dead people will become alive again" (UDB). Some languages have a way of showing that the Sadducees did not believe that there would be a resurrection, such as "In the supposed resurrection" or "When dead people are supposedly raised from the dead."
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/27|<<]] | [[en/bible/notes/luk/20/34|>>]]**
+**[[:en:bible:notes:luk:20:27|<<]] | [[:en:bible:notes:luk:20:34|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

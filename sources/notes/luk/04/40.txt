@@ -34,24 +34,26 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:hand]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:kt:sonofgod]]
-    * [[en:obe:other:rebuke]]
-    * [[en:obe:kt:christ]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:kt:sonofgod]]
+  * [[:en:obe:other:rebuke]]
+  * [[:en:obe:kt:christ]]
  
 ===== Translation Notes: =====
 
-    * **Demons also came out from many of them, crying out and saying, "You are the Son of God!"** - Demons fear the words "the Son of God" when they refer to Jesus.
-    * **crying out**  - "screaming" or "shouting"
-    * **rebuked the demons** - "spoke sternly to the demons"
-    * **would not let them** - "did not allow them"
+  * **laid his hands on** - "placed his hands on" or "touched"
+  * **Demons also came out** - It is implied that Jesus made the demons leave the demon-possessed people. This can be stated clearly. AT: "Jesus also forced demons to come out." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **crying out and saying** - These mean about the same thing, and probably refer to cries of fear or anger. Some translations use only one term. AT: "screaming" or "shouting." (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **Son of God** - This is an important title for Jesus. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **rebuked the demons** - "spoke sternly to the demons"
+  * **would not let them** - "did not allow them to"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:04:38|<<]] | [[:en:bible:notes:luk:04:42|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

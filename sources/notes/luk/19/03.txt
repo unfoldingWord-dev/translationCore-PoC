@@ -27,27 +27,29 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
+  * [[:en:obe:kt:jesus]]
  
 
 ===== Translation Notes: =====
 
 
-  * **He was trying to see who Jesus was**  - "Zacchaeus was trying to see who Jesus was"
-  * **a sycamore tree**  - "a sycamore fig tree." It produces small round fruit about 2.5 centimeters across. This can be translated simply as "a fig tree" or "a tree."
+  * **He was trying** - "Zacchaeus was trying"
   * **because he was small in height** - "because he was short"
+  * **a sycamore tree** - "a sycamore fig tree." It produces small round fruit about 2.5 centimeters across. AT: "a fig tree" or "a tree."
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/01|<<]] | [[en/bible/notes/luk/19/05|>>]]**
+**[[:en:bible:notes:luk:19:01|<<]] | [[:en:bible:notes:luk:19:05|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

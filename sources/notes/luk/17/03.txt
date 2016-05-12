@@ -33,24 +33,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:brother]]
+  * [[:en:obe:kt:brother]]
   * [[:en:obe:kt:sin]]
-  * [[en:obe:other:rebuke]]
+  * [[:en:obe:other:rebuke]]
   * [[:en:obe:kt:repent]]
   * [[:en:obe:kt:forgive]]
  
 
 ===== Translation Notes: =====
 
-  * **If your brother sins**  - This is a conditional statement that talks about an event that will probably happen in the future.
-  * **your brother**  - This normally includes "your fellow-believer" as well as actual "brothers" who were born to the same mother and father.
-  * **rebuke him**  - "warn him strongly" or "tell him strongly that what he did was wrong" or "correct him"
-  * **If he sins against you seven times**  - This is a hypothetical future situation. It may never happen, but even if it does, Jesus tells people to forgive.
-  * **seven times in the day**  - This could be translated as "many times in a day." The number seven in the Bible is a symbol for completeness.
+  * **If your brother sins** - This is a conditional statement that talks about an event that will probably happen in the future.
+  * **your brother** - AT: "a fellow believer"
+  * **rebuke him** - "tell him strongly that what he did was wrong" or "correct him"
+  * **If he sins against you seven times** - This is a hypothetical future situation. It may never happen, but even if it does, Jesus tells people to forgive. (See: [[:en:phase1:team-info:training:quick-reference:discourse:hypothetical]])
+  * **seven times in the day** - The number seven in the Bible is a symbol for completeness. AT: "many times in a day." 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:17:00]]
+  * [[:en:bible:questions:comprehension:luk:17]]
 **[[:en:bible:notes:luk:17:01|<<]] | [[:en:bible:notes:luk:17:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

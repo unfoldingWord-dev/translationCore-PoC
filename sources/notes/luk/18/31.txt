@@ -27,26 +27,34 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:thetwelve]]
-  * [[en:obe:other:jerusalem]]
-  * [[en:obe:other:written]]
-  * [[en:obe:kt:prophet]]
-  * [[en:obe:kt:sonofman]]
-  * [[en:obe:other:gentile]]
-  * [[en:obe:other:mock]]
-  * [[en:obe:other:shame]]
-  * [[en:obe:kt:raise]]
+  * [[:en:obe:kt:thetwelve]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:written]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:other:mock]]
+  * [[:en:obe:other:shame]]
+  * [[:en:obe:other:biblicaltimeday]]
+  * [[:en:obe:kt:raise]]
 
 ===== Translation Notes: =====
 
-  * **See**  - This indicates a significant change in the ministry of Jesus as he goes to Jerusalem for the final time.
-  * **the prophets**  - This refers to the Old Testament prophets.
-  * **will be accomplished**  - "will happen" or "will occur"
-  * **Son of Man**  - Jesus speaks of himself as "the Son of Man" and uses "he" to refer to himself.
-  * **on the third day**  - This refers to the third day after his death. However, the disciples did not yet understand this, so it is best not to add this explanation when translating this verse.
+  * **Connecting Statement:** - This is the next event in this part of the story which begin in [[:en:bible:notes:luk:17:20|17:20]]. Jesus is not talking to his disciples alone.
+
+  * **See** - This indicates a significant change in the ministry of Jesus as he goes to Jerusalem for the final time.
+  * **that have been written by the prophets** - AT: "that the prophets have written" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the prophets** - This refers to the Old Testament prophets.
+  * **Son of Man** - Jesus speaks of himself as "the Son of Man" and uses "he" to refer to himself.
+  * **will be accomplished** - AT: "will happen" or "will occur" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **For he will be given over to the Gentiles** - AT: "For the Jewish leaders will give him over to the Gentiles" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **and will be mocked, and shamefully treated, and spit upon** - AT: "and they will mock him, treat him shamefully, and spit on him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **on the third day** - This refers to the third day after his death. However, the disciples did not yet understand this, so it is best not to add this explanation when translating this verse. (See: [[:en:ta:vol2:translate:translate_ordinal]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 **[[:en:bible:notes:luk:18:28|<<]] | [[:en:bible:notes:luk:18:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish thetwelve  }}
+~~DISCUSSION~~{{tag>publish p2edit thetwelve}}

@@ -26,21 +26,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:good]]
-  * [[en:obe:other:heart]]
-  * [[en:obe:kt:evil]]
+  * [[:en:obe:kt:good]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:evil]]
 
 ===== Translation Notes: =====
-Jesus compares the thoughts of a person to their physical treasures. (See: [[en:ta:vol1:translate:figs_metaphor]])
 
-  * **The good man**  - "The good person." The word "good" here refers to righteousness or moral goodness. The word "man" here refers to a person, male or female. AT: "A good person" or "Good people" (UDB).
-  * **the good treasure of his heart**  - "the good things he keeps in his heart" or "what he values" (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **brings out** - AT: "lives his life" or "demonstrates" or "shows" (UDB). (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **that which is good**  - "good things"
-  * **from the abundance of his heart his mouth speaks**  - "what he thinks in his heart affects what he says with his mouth" or "what he values in his heart determines what he says with his mouth." AT: "what a person says shows what he constantly thinks about" or "what he thinks about affects what he says."
+  * **General Information:** - Jesus compares the thoughts of a person to their good or evil treasure. The good thoughts of good people cause good actions. The evil thoughts of evil people cause evil actions. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+
+  * **The good man** - The word "good" here refers to righteousness or moral goodness.
+  * **good man** - The word "man" here refers to a person, male or female. AT: "good person." (See: [[:en:ta:vol2:translate:figs_gendernotations]])
+  * **the good treasure of his heart** - "the good things he keeps in his heart" or "the good things he values" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **brings out that which is good** - Bringing out treasure is a metaphor for doing actions. This could be stated. AT: "lives his life and shows that which is good" or "does the things that are good." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **that which is good** - "good things"
+  * **the evil treasure of his heart** - "the evil things he keeps in his heart" or "the evil things he values" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **from the abundance of his heart his mouth speaks** - "what he thinks in his heart affects what he says with his mouth" or "what he values in his heart determines what he says with his mouth."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:43|<<]] | [[:en:bible:notes:luk:06:46|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2check}}

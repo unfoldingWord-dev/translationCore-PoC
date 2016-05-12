@@ -40,27 +40,31 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:lamp]]
-  * [[en:obe:other:lampstand]]
-  * [[en:obe:kt:good]]
-  * [[en:obe:kt:light]]
-  * [[en:obe:kt:darkness]]
+  * [[:en:obe:other:lamp]]
+  * [[:en:obe:other:lampstand]]
+  * [[:en:obe:kt:good]]
+  * [[:en:obe:kt:light]]
+  * [[:en:obe:kt:darkness]]
   
 
 ===== Translation Notes: =====
-Jesus continues to teach the crowds. Jesus did not intend for everyone in the crowd to understand this teaching. Therefore, it might be best to simply translate the images, rather than explaining them.
-  * **places it in a dark closet**  - "hides it in a closet"
-  * **on a lampstand**  - "on a table" or "they put it on a shelf"
-  * **Your eye is the lamp of the body**  - This has several figures of speech. The eye is a metonym for vision, which is a metaphor for understanding. The body is a synecdoche for a person's life. It can be translated as "Your eye is the lamp of your life" or "Your vision is the lamp of your life."  Since Jesus was saying something that is true of everyone, it can be translated as "The eye is the lamp of a person's body." (See: [[en:ta:vol2:translate:figs_metonymy]], [[en:ta:vol1:translate:figs_metaphor]], [[en:ta:vol2:translate:figs_synecdoche]])
-  * **When your eye is good**  - "When your vision is good" or "when you see well"  (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **the whole body is filled with light**  - Light is a metaphor for truth. This metaphor means "your whole life is filled with the light of truth" or "his whole life is filled with truth."(See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **when your eye is bad, your body is full of darkness.**  - Darkness is a metaphor for falsehood. This metaphor means "when your vision is bad, your whole life is full of falsehood."  (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **Connecting Statement:** - Jesus finishes teaching the crowd.
+
+  * **places it in a dark closet** - "hides it in a closet"
+  * **but on a lampstand** - AT: "but they place it on a table" or " but they put it on a shelf" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Your eye is the lamp of the body** - This has several figures of speech. The eye is a metonym for vision, which is a metaphor for understanding. The body is a synecdoche for a person's life. AT: "Your eye is the lamp of your life" or "Your vision is the lamp of your life." Since Jesus was saying something that is true of everyone, it can be translated as "The eye is the lamp of a person's body." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **When your eye is good** - AT: "When your vision is good" or "when you see well" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **the whole body is filled with light** - Jesus speaks about truth as if it were light. AT: "the light of truth will fill your whole life" or "your whole life is full of truth." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **when your eye is bad, your body is full of darkness** - Jesus speaks about falsehood as if it were darkness. AT: "when your vision is bad, your whole life is full of falsehood." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **then your whole body will be like when a lamp shines its brightness on you** - Jesus speaks of people who are full of truth as if they are a lamp that shines brightly. (See: [[:en:ta:vol1:translate:figs_simile]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:32|<<]] | [[:en:bible:notes:luk:11:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

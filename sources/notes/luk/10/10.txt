@@ -37,25 +37,26 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:kingdomofgod]]
-    * [[en:obe:kt:judgmentday]]
-    * [[en:obe:other:sodom]]
+  * [[:en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:judgmentday]]
+  * [[:en:obe:other:sodom]]
 
 ===== Translation Notes: =====
-Jesus continues to give directions to the 70 people he was sending out.
 
-    * **and they do not receive you** - "if they reject you"
-    * **Even the dust from your city that clings to our feet we wipe off against you!**  - Since Jesus was sending these people out in groups of two, it would be two people saying this. So languages that have a dual form of 'we' would use it. AT: "Just as you rejected us, we thoroughly reject you. We even reject the dust from your city that clings to our feet." (See: [[en:ta:vol2:translate:figs_pluralpronouns]])
-    * **But know this, that the kingdom of God has drawn near** - This phrase introduces a warning. It means "Even though you reject us, it does not change the fact that the kingdom of God is here!"
-    * **the kingdom of God has drawn near**  - "the kingdom of God is all around you."
-    * **I say to you**  - Jesus was saying this to the 70 people he was sending out. He said this to show that he was about to say something very important.
-    * **the judgment day** - The phrase simply says "that day." But the disciples would have understood that this refers to the time of final judgment of sinners. (See: [[en:ta:vol1:translate:figs_explicit]])
-    * **it will be more tolerable for Sodom than for that city**  - "Sodom will not be judged as severely as that city will be judged." This means "that city will be judged more severely than Sodom."
+  * **and they do not receive you** - "if they reject you"
+  * **Even the dust from your city that clings to our feet we wipe off against you!** - Since Jesus was sending these people out in groups of two, it would be two people saying this. So languages that have a dual form of 'we' would use it. AT: "Just as you rejected us, we thoroughly reject you. We even reject the dust from your city that clings to our feet." (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **But know this, that the kingdom of God has drawn near** - The phrase "But know this" introduces a warning. It means "Even though you reject us, it does not change the fact that the kingdom of God is here!"
+  * **the kingdom of God has drawn near** - "the kingdom of God is all around you"
+  * **I say to you** - Jesus was saying this to the 70 people he was sending out. He said this to show that he was about to say something very important.
+  * **the judgment day** - The phrase simply says "that day." But the disciples would have understood that this refers to the time of final judgment of sinners. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **it will be more tolerable for Sodom than for that city** - "God will not judge Sodom as severely as he will judge that city." AT: "God will judge the people of that city more severely than he will judge the people of Sodom." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 **[[:en:bible:notes:luk:10:08|<<]] | [[:en:bible:notes:luk:10:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish judgmentday}}
+~~DISCUSSION~~{{tag>publish p2edit judgmentday}}
 
 ~~NOCACHE~~

@@ -33,21 +33,23 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:lord]]
-  * [[en:obe:other:peter]]
-  * [[en:obe:kt:word]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:kt:word]]
 
  
 
 ===== Translation Notes: =====
 
-  * **the word of the Lord**  - "Jesus' words" or "what Jesus had said"
-  * **today**  - Jesus had spoken the previous evening about what would happen shortly before dawn or at dawn. So it can also be translated as "tonight."
+  * **the word of the Lord** - AT: "Jesus' words" or "what Jesus had said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **today** - Jesus had spoken the previous evening about what would happen shortly before dawn or at dawn. AT: "tonight."
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:59|<<]] | [[:en:bible:notes:luk:22:63|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

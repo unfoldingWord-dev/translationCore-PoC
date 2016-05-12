@@ -41,26 +41,29 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:amazed]]
-    * [[en:obe:kt:god]]
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:kt:word]]
-    * [[en:obe:kt:sonofman]]
-    * [[en:obe:other:hand]]
-    * [[en:obe:other:understand]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:other:hand]]
+  * [[:en:obe:other:understand]]
  
 ===== Translation Notes: =====
 
-  * **They were all amazed at the greatness of God**  - Jesus performed the miracle, but the crowd recognized that God was the power behind the healing.
-  * **which he did**  - "that Jesus did"
-  * **Let these words go deeply into your ears**  - This is an idiom that means "Listen carefully and remember" or "Do not forget this." (See: [[en:ta:vol1:translate:figs_idiom]])
-  * **the Son of Man**  - Jesus is speaking about himself in the third person. AT: "I, the son of Man." (See: [[en:ta:vol2:translate:figs_123person]])
-  * **delivered over into the hands**  - "handed over to" (UDB). Here "hands" refer to power or control. AT: "Men will hand the Son of Man over to the authorities." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **they did not understand**- AT: "they did not know he was talking about his death."
+  * **They were all amazed at the greatness of God** - Jesus performed the miracle, but the crowd recognized that God was the power behind the healing.
+  * **which he did** - "that Jesus did"
+  * **Let these words go deeply into your ears** - AT: "Listen carefully and remember" or "Do not forget this" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **for the Son of Man will be delivered over into the hands of men** - Here "hands" refer to power or control. AT: "Men will hand the Son of Man over to the authorities." (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the Son of Man** - Jesus is speaking about himself in the third person. AT: "I, the son of Man." (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **they did not understand what this statement meant** - AT: "they did not know he was talking about his death" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **and it was concealed from them** - AT: "God hid the meaning from them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:41|<<]] | [[:en:bible:notes:luk:09:46|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit talink}}

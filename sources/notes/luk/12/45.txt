@@ -28,28 +28,29 @@
 ===== translationWords: =====
 
 
-    * [[:en:obe:other:servant]]
-    * [[:en:obe:other:heart]]
-    * [[:en:obe:kt:lord]]
-    * [[en:obe:other:drunk]]
-    * [[en:obe:kt:appoint]]
-    * [[:en:obe:kt:unfaithful]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:drunk]]
+  * [[:en:obe:kt:appoint]]
+  * [[:en:obe:kt:unfaithful]]
 
 ===== Translation Notes: =====
-Jesus continues to tell his disciples a parable.
 
-    * **that servant** - This refers to the servant whose lord has put him in charge of the other servants.
-    * **says in his heart** - AT: "thinks to himself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-    * **My lord delays his return** - AT: "My master will not return soon"
-    * **male and female servants** - The words that are translated here as “male and female servants” are normally translated as “boys” and "girls". They may indicate that the servants were young or that they were dear to their master.
-    * **appoint a place for him with the unfaithful**  - "put him with the unfaithful people" or "sends him to the place where he sends those who are unfaithful"
-
+  * **that servant** - This refers to the servant whose lord has put him in charge of the other servants.
+  * **says in his heart** - AT: "thinks to himself" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **My lord delays his return** - AT: "My master will not return soon"
+  * **male and female servants** - The words that are translated here as "male and female servants" are normally translated as "boys" and "girls." They may indicate that the servants were young or that they were dear to their master.
+  * **in a day when he does not expect** - "when the servant is not expecting him"
+  * **appoint a place for him with the unfaithful** - Possible meanings are 1) this is a hyperbole for the master dealing out harsh punishment toward the slave, or 2) This describes the manner in which the servant will be executed as punishment.
   
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:41|<<]] | [[:en:bible:notes:luk:12:47|>>]]**
 
-~~DISCUSSION~~{{tag>publish  unfaithful}}
+~~DISCUSSION~~{{tag>publish p2edit unfaithful}}
 
 ~~NOCACHE~~

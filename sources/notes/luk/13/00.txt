@@ -1,0 +1,26 @@
+====== Luke 13 General Notes ======
+
+=== Important figures of speech in this chapter ===
+
+== Assumed Knowledge ==
+This chapter begins with references to two events, whose stories have not been preserved ([[:en:bible:notes:luk:13:01|13:1-5]]). Despite this lack of knowledge, the teaching still makes sense to the modern reader. (See: [[:en:ta:vol1:translate:figs_explicit]])
+
+=== Other possible translation difficulties in this chapter ===
+
+== The use of paradox ==
+
+This is a statement that seems absurd, that appears to contradict itself. A paradox occurs in this chapter: "the last are the first, and the first will be last" ([[:en:bible:notes:luk:13:28|13:30]]).
+
+===== Links: =====
+
+  * **[[:en:bible:notes:luk:13:01|Luke 13:01 Notes]]**
+**[[:en:bible:notes:luk:12:00|<<]] | [[:en:bible:notes:luk:14:00|>>]]**
+
+
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft CHTeam}}

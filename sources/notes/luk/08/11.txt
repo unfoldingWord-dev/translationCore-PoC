@@ -23,35 +23,37 @@
 
 <usfm>
 \v 11 Now this is what the parable means. The seed is the word of God.
-\v 12 The seeds that fell by the wayside are people who have heard the word, but then the devil comes and takes away the word from their heart, so that they may not believe and be saved.
+\v 12 The seeds that fell beside the road are people who have heard the word, but then the devil comes and takes away the word from their heart, so that they may not believe and be saved.
 \v 13 Then, the ones that fell on the rocky ground are people who, when they have heard the word, receive it with joy, but they do not have any roots; they only believe for a while, and then during a time of testing they fall away.
 </usfm>
 
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:parable]]
-    * [[en:obe:kt:wordofGod]]
-    * [[en:obe:kt:satan]]
-    * [[en:obe:other:heart]]
-    * [[en:obe:kt:believe]]
-    * [[en:obe:kt:save]]
-    * [[en:obe:kt:joy]]
-    * [[en:obe:kt:test]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:kt:wordofGod]]
+  * [[:en:obe:kt:satan]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:believe]]
+  * [[:en:obe:kt:save]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:kt:test]]
 
 ===== Translation Notes: =====
-Jesus continues speaking to his disciples. He explains the meaning of the parable.
 
-  * **the devil comes and takes away the word from their heart**  - This means that he causes them to forget the word of God that they have heard.
-  * **takes away**  - In the parable this was a metaphor of a bird snatching away the seeds. Try to use words in your language that keep that image. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **Connecting Statement:** - Jesus begins to explain the meaning of the parable of the soils to his disciples.
+
+  * **the devil comes and takes away the word from their heart** - This means that he causes them to forget the word of God that they have heard.
+  * **takes away** - In the parable this was a metaphor of a bird snatching away the seeds. Try to use words in your language that keep that image. (See: [[:en:ta:vol1:translate:figs_metaphor]])
   * **from their heart** - This means the devil takes away their desire to believe the word of God. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **so that they may not believe and be saved**  - Since this is the devil's purpose, it can be translated as "because the devil thinks, 'They must not believe and they must not be saved.'" AT: "so they may not believe with the result that God saves them."  (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **during a time of testing they fall away**  - "when they experience hardship they fall away from the faith" or "when they experience hardship they stop believing"
+  * **so that they may not believe and be saved** - Since this is the devil's purpose, it can be translated as AT: "because the devil thinks, 'They must not believe and they must not be saved'" or "so they may not believe with the result that God saves them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **during a time of testing they fall away** - AT: "when they experience hardship they fall away from the faith" or "when they experience hardship they stop believing"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:09|<<]] | [[:en:bible:notes:luk:08:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish wordofgod }}
+~~DISCUSSION~~{{tag>publish p2edit wordofgod }}

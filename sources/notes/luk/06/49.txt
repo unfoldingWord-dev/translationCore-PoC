@@ -18,30 +18,35 @@
 ===== ULB: =====
 
 <usfm>
-\v 49 But the person who hears my words and does not obey them, he is like a man who built a house on top of the ground without a foundation. When the torrent of water flowed against that house, it immediately collapsed, and the ruin of that house was complete.
+\v 49 But the person who hears my words and does not obey them, he is like a man who built a house on top of the ground without a foundation. When the torrent of water flowed against that house, it immediately collapsed, and the ruin of that house was complete."
 </usfm>
 
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:word]]
-    * [[en:obe:other:obey]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:other:obey]]
+  * [[:en:obe:other:foundation]]
+  * [[:en:obe:other:flood]]
 
 ===== Translation Notes: =====
-Jesus continues to teach the crowd about the importance of obeying him.
 
-    * **a man who built a house...** - This metaphor now compares a man building a house without a foundation to a person who does not obey the teachings of Jesus. (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **foundation** - "base" or "support" (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **without a foundation** - AT: "but he did not dig down and build a foundation first." 
-    * **torrent of water** - "fast-moving water" or "river" (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **flowed against** - "crashed against" (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **collapsed** - "fell down" or "came apart" (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **General Statement:** - Jesus compares the person who hears but does not obey his teaching to a man who builds a house without a foundation so it will collapse in a flood. (See: [[:en:ta:vol1:translate:figs_simile]])
+
+  * **But the person** - "But" shows a strong contrast to the previous person who built with a foundation.
+  * **on top of the ground without a foundation** - Some cultures may not know that a house with a foundation is stronger. Additional information may be helpful. AT: "but he did not dig down and build first a foundation." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **foundation** - "base" or "firm support"
+  * **torrent of water** - "fast-moving water" or "river"
+  * **flowed against** - "crashed against"
+  * **collapsed** - "fell down" or "came apart"
+  * **the ruin of that house was complete** - "that house was completely destroyed"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:46|<<]] | [[:en:bible:notes:luk:07:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish disobey}}
+~~DISCUSSION~~{{tag>publish p2check disobey}}
 
 ~~NOCACHE~~

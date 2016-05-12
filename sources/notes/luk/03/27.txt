@@ -29,23 +29,21 @@
 
 
 ===== translationWords: =====
-  * [[en:obe:other:zerubbabel]]
+  * [[:en:obe:other:zerubbabel]]
 
 ===== Translation Notes: =====
-This is a continuation of the list of Jesus' ancestors. (See: [[:en:ta:vol1:translate:translate_names]])
 
-    * **the son of Joanan, the son of Rhesa...** - Use the same wording as you used in the previous verses. AT: “who was the son of Joanan, who was the son of Rhesa...” or “Joda was the son of Joanan, Joanan was the son of Rhesa...” or “Joda's father was Joanan, Joanan's father was Rhesa....” 
+  * **the son of Joanan, the son of Rhesa...Levi** - This is a continuation of the list of Jesus' ancestors. Use the same format as you used in the previous verses. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
-
-
-**[[en/bible/notes:luk/03/25|<<]] | [[en/bible/notes:luk/03/30|>>]]** 
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
+**[[:en/bible/notes:luk/03/25|<<]] | [[:en/bible/notes:luk/03/30|>>]]** 
 
 
 ~~DISCUSSION~~
-
  
-{{tag>publish}}
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

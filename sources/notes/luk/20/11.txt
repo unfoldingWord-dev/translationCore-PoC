@@ -28,26 +28,27 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:servant]]
-  * [[en:obe:other:shame]]
+  * [[:en:obe:other:shame]]
  
 
 ===== Translation Notes: =====
 
-Jesus continues telling his parable.
-  * **treated him shamefully**  - "humiliated him"
-  * **wounded him**  - "injured him" 
-  * **yet a third**  - "even a third servant." The word "yet" hints at the fact that the landowner should not have had to send the second servant, but he went beyond that and sent a third servant.
+  * **treated him shamefully** - "humiliated him"
+  * **wounded him** - "injured him" 
+  * **yet a third** - "even a third servant" or "yet another servant." The word "yet" hints at the fact that the landowner should not have had to send the second servant, but he went beyond that and sent a third servant. (See: [[:en:ta:vol2:translate:translate_ordinal]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/09|<<]] | [[en/bible/notes/luk/20/13|>>]]**
+**[[:en:bible:notes:luk:20:09|<<]] | [[:en:bible:notes:luk:20:13|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

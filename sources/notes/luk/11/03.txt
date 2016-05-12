@@ -24,33 +24,41 @@
 ===== ULB: =====
 
 <usfm>
+\q
 \v 3 Give us each day our daily bread.
-\v 4  Forgive us our sins, for we ourselves forgive everyone who is in debt to us. Do not lead us into temptation.'"
+\q 
+\v 4  Forgive us our sins, 
+\q2 as we ourselves forgive everyone 
+\q2 who is in debt to us.
+\q Do not lead us into temptation.'"
 </usfm>
 
 
 ===== translationWords: =====
 
 
-    * [[en:obe:other:bread]]
-    * [[en:obe:kt:forgive]]
-    * [[en:obe:kt:sin]]
-    * [[en:obe:kt:tempt]]
+  * [[:en:obe:other:bread]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:tempt]]
 
 ===== Translation Notes: =====
-Jesus continues to teach his disciples how to pray
 
-  * **our daily bread**  - Bread was in inexpensive food that people ate everyday. It is used here to refer to food in general. AT: "the food we need each day." 
-  * **Forgive us our sins**  - "Forgive us for sinning against you" or "Forgive our sins"
-  * **for we ourselves forgive**  - "since we also forgive"
-  * **who is in debt to us**  - "who have sinned against us" or "who have done wrong things to us"
-  * **Do not lead us into temptation**  - This is a figure of speech that means "Lead us away from temptation." (See: [[en:ta:vol2:translate:figs_doublenegatives]])
+  * **Connecting Statement:** - Jesus continues to teach his disciples how to pray.
+
+  * **our daily bread** - Bread was in inexpensive food that people ate everyday. It is used here to refer to food in general. AT: "the food we need each day." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Forgive us our sins** - "Forgive us for sinning against you" or "Forgive our sins"
+  * **as we ourselves forgive** - "since we also forgive"
+  * **who is in debt to us** - "who have sinned against us" or "who have done wrong things to us"
+  * **Do not lead us into temptation** - AT: "Lead us away from temptation" (See: [[:en:ta:vol2:translate:figs_litotes]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:02|<<]] | [[:en:bible:notes:luk:11:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish bread  tempt}}
+~~DISCUSSION~~{{tag>publish p2edit bread tempt}}
 
 ~~NOCACHE~~

@@ -29,24 +29,28 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:scribe]]
-    * [[en:obe:other:pharisee]]
-    * [[en:obe:kt:word]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:kt:word]]
 
 ===== Translation Notes: =====
 
+  * **General Information:** This is the end of the part of the story where Jesus ate at the Pharisee's house. These verses tell the reader what happens after the main part of the story ends.
+
   * **After Jesus left there** - "After Jesus left the Pharisee's house"
-  * **trying to trap him in his own words** - This is a metaphor. They wanted Jesus to say something wrong so that they could accuse him. It can be translated without the metaphor as in the UDB. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **trying to trap him in his own words** - This means they wanted Jesus to say something wrong so that they could accuse him. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 
  
 
-**[[en/bible/notes/luk/11/52|<<]] | [[en/bible/notes/luk/12/01|>>]]**
+**[[:en:bible:notes:luk:11:52|<<]] | [[:en:bible:notes:luk:12:01|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

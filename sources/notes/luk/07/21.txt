@@ -15,8 +15,8 @@
 
 <usfm>
 \v 21 At that same time Jesus was healing many people from sicknesses and serious diseases, and from  evil spirits. He also healed many blind people so that they were able to see.
-\v 22 So he answered those two men, "Go back and report to John what you have seen and heard: People who were blind are now seeing. People who were lame are now walking . People who had skin diseases are being healed. People who were deaf can now hear. People who were dead are being made to live again and good news is being proclaimed to the poor.
-\v 23 And also tell him, "God will bless anyone who does not stop believing in me because he is angry at the things I do."
+\v 22 So he answered those two men, "Go back and report to John what you have seen and heard: People who were blind are now seeing. People who were lame are now walking. People who had skin diseases are being healed. People who were deaf can now hear. People who were dead are being made to live again and good news is being proclaimed to the poor.
+\v 23 And also tell him, "God will bless anyone who sees what I do and hears what I teach and does not turn away from me."
 
 
 \p
@@ -26,7 +26,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 21 In that hour he cured many people from sicknesses and afflictions and from evil spirits, and he granted many blind people the ability to see.
+\v 21 In that hour he cured many people from sicknesses and afflictions and from evil spirits, and to many blind people he gave sight.
 \v 22 Jesus answered and said to them, "After you have gone on your way, report to John what you have seen and heard.  Blind people are receiving sight, lame people are walking, lepers are being cleansed, deaf people are hearing, dead people are being raised back to life, and needy people are being told the good news.
 \v 23 The person who does not stop believing in me because of my actions is blessed."
 </usfm>
@@ -34,38 +34,36 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:hour]]
-    * [[:en:obe:other:heal]]
-    * [[en:obe:kt:afflict]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:other:Johnthebaptist]]
-    * [[en:obe:other:leprosy]]
-    * [[en:obe:kt:clean]]
-    * [[en:obe:kt:death]]
-    * [[en:obe:kt:raise]]
-    * [[en:obe:kt:life]]
-    * [[en:obe:kt:goodnews]]
-    * [[en:obe:kt:believe]]
-    * [[en:obe:kt:bless]]
+  * [[:en:obe:kt:hour]]
+  * [[:en:obe:other:heal]]
+  * [[:en:obe:kt:afflict]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:Johnthebaptist]]
+  * [[:en:obe:other:leprosy]]
+  * [[:en:obe:kt:clean]]
+  * [[:en:obe:kt:raise]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:kt:believe]]
+  * [[:en:obe:kt:bless]]
 
 ===== Translation Notes: =====
 
   * **In that hour** - "At that time"
-  * **and from evil spirits**  - AT: "and he set people free from evil spirits."
-  * **granted** - "gave"
-  * **needy people**  - "poor people"
-  * **report to John**  - "tell John"
-  * **The person who does not stop believing in me because of my actions is blessed** - AT: "How good it is for the person who does not stop believing in me because of my actions."
-  * **The person** - Since this is not a specific person, it can be translated as "People" or "Anyone" or "Whoever."
-  * **not stop** - "not stop" is a double negative and means "continues to." (See: [[:en:ta:vol2:translate:figs_doublenegatives]]) 
+  * **and from evil spirits** - It may be helpful restate the healing. AT: "and healed them from evil spirits" or "and he set people free from evil spirits." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **said to them** - "said to John's messengers" or "said to the messengers that John sent"
+  * **report to John** - "tell John"
+  * **needy people** - "poor people"
+  * **The person who does not stop believing in me because of my actions is blessed** - This could be stated in active form. AT: "God will bless the person who does not stop believing in me because of my actions." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The person** - "People" or "Anyone" or "Whoever." This is not a specific person.
+  * **not stop** - This double negative means "continues to." (See: [[:en:ta:vol2:translate:figs_doublenegatives]]) 
   * **believing in me** - "trusting me completely"
-
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
 **[[:en:bible:notes:luk:07:18|<<]] | [[:en:bible:notes:luk:07:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish  raise}}
+~~DISCUSSION~~{{tag>publish p2check raise}}
 
 ~~NOCACHE~~

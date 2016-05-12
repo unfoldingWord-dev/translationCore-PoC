@@ -29,24 +29,27 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:castout]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:other:amazed]]
-    * [[en:obe:other:beelzebul]]
-    * [[en:obe:other:ruler]]
+  * [[:en:obe:other:castout]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:other:beelzebul]]
+  * [[:en:obe:other:ruler]]
  
 ===== Translation Notes: =====
 
+  * **General Information:** - This is the next part of the story. Jesus is questioned after he drives a demon out of a mute man.
 
-    * **Jesus was driving out a demon** - "Jesus was driving a demon out of a person" or "Jesus was making a demon leave a person"
-    * **it was mute** -  It is unlikely that the demon could not speak. The readers would have probably understood that this demon had power to prevent people from speaking. AT: "the demon caused the man to be unable to speak." (See: [[en:ta:vol1:translate:figs_explicit]])
-    * **It happened that** - This phrase is used here to mark where the action starts. If your language has a way for doing this, you could consider using it here. When the demon comes out of the man, some of the people criticize Jesus, and that leads to Jesus teaching about evil spirits.
-    * **when the demon had come out** - "when the demon came out of the man" or "when the demon left the man" (See: [[en:ta:vol1:translate:figs_explicit]])
-    * **the mute man spoke**  - "the man who had been unable to speak spoke"
-    * **By Beelzebul...he drives out demons**  - "He drives out demons by the power of Beelzebul, the ruler of demons"
+  * **Jesus was driving out a demon** - AT: "Jesus was driving a demon out of a person" or "Jesus was making a demon leave a person" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **it was mute** - It is unlikely that the demon could not speak. The readers would have probably understood that this demon had power to prevent people from speaking. AT: "the demon caused the man to be unable to speak." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **It happened that** - This phrase is used here to mark where the action starts. If your language has a way for doing this, you could consider using it here. When the demon comes out of the man, some of the people criticize Jesus, and that leads to Jesus teaching about evil spirits.
+  * **when the demon had come out** - "when the demon came out of the man" or "when the demon left the man" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the mute man spoke** - "the man who had been unable to speak now spoke"
+  * **By Beelzebul, the ruler of demons, he drives out demons** - "He drives out demons by the power of Beelzebul, the ruler of demons"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:11|<<]] | [[:en:bible:notes:luk:11:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish beelzebul}}
+~~DISCUSSION~~{{tag>publish p2edit beelzebul}}

@@ -1,4 +1,4 @@
-====== Luke 17:34-37 ======
+====== Luke 17:34-36 ======
 
 ===== TFT: =====
 
@@ -17,30 +17,29 @@
 ===== ULB: =====
 
 <usfm>
-\v 34 I tell you, in that night there will be two men in one bed. One will be taken, and the other will be left.
+\v 34 I tell you, in that night there will be two people in one bed. One will be taken, and the other will be left.
 \v 35 There will be two women grinding together. One will be taken, and the other will be left."
 \v 36 \f + \ft Luke 17:36 the best ancient copies omit, vs. 36 \fqa There will be two in the field; one will be taken and the other left.  \f*
 </usfm>
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:lord]]
 
 ===== Translation Notes: =====
-Jesus continues speaking.
 
-  * **in that night**  - This refers to what will happen if the Son of Man comes during the night.
-  * **there will be two men in one bed**  - This is a hypothetical situation about what two people might be doing at the time. It can be translated as "there may be two men on one couch." (See: [[en:ta:vol1:translate:figs_hypo]])
-  * **bed**  - "couch" or "cot"
-  * **One will be taken, and the other will be left**  - "one man will be taken and the other man will be left behind." AT: "God will take one man and leave the other," or "angels will take one and leave behind the other." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **There will be two women grinding together**  - This is a hypothetical situation about what two women might be doing at the time. AT: "There may be two women grinding grain together." (See: [[en:ta:vol1:translate:figs_hypo]])
-  * **Where, Lord?**  - "Lord, where will this happen?" (UDB)
-  * **Where there is a body, there will the vultures also be gathered together**  - Apparently this is a proverb that means "It will be obvious" or "You will know it when it happens." It can also be translated as a simile: "As vultures gathering shows that there is a dead body, so these things show that the Son of Man is being revealed." (See: [[en:ta:vol1:translate:figs_simile]])
-  * **vultures**  - Vultures are large birds that fly together and eat the flesh of dead animals that they find. You could describe birds this way or use the word for a local bird that does this.
+  * **I tell you** - Jesus addresses his audience again, as he is speaking to them, to emphasize the importance of what he is telling them.
+  * **in that night** - This refers to what will happen if the Son of Man comes during the night.
+  * **there will be two people in one bed** - AT: "there may be two people sleeping on one couch" 
+  * **bed** - "couch" or "cot"
+  * **One will be taken, and the other will be left** - "One person will be taken and the other person will be left behind." AT: "God will take one person and leave the other" or "angels will take one and leave behind the other." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **There will be two women grinding together** - This is a hypothetical situation about what two women might be doing at the time. AT: "There may be two women grinding grain together." (See: [[:en:ta:vol1:translate:figs_hypo]])
+
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
-**[[:en:bible:notes:luk:17:32|<<]] | [[:en:bible:notes:luk:18:01|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:17:00]]
+  * [[:en:bible:questions:comprehension:luk:17]]
+**[[:en:bible:notes:luk:17:32|<<]] | [[:en:bible:notes:luk:17:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish text}}
+~~DISCUSSION~~{{tag>publish p2edit}}

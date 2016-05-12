@@ -1,0 +1,38 @@
+====== Luke 03 General Notes ======
+
+
+=== Structure and formatting ===
+
+Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 3:4-6, which is a quotation from the Old Testament.
+
+=== Special concepts in this chapter ===
+
+== Justice ==
+John's instructions to the soldiers and tax collectors in this chapter are not complicated. They are things that should have been obvious to them. He instructed them to live [[:en:obe:kt:justice|justly]]. (See: [[:en:bible:notes:luk:03:12|3:12-15]])
+
+== Genealogy ==
+A genealogy is a list which records a person's ancestors or descendants. Such lists were very important in determining who had the right be king, because the king's authority was usually passed down or inherited from his father. It was also common for other important people to have a recorded genealogy.
+
+=== Important figures of speech in this chapter ===
+
+== Metaphor ==
+Prophecy often involves the use of [[:en:ta:vol1:translate:figs_metaphor]] to express its meaning. Spiritual discernment is needed for proper interpretation of the prophecy. The prophecy of Isaiah is an extended metaphor describing the ministry of John the Baptist ([[:en:bible:notes:luk:03:04|3:4-6]]). Translation is difficult. It is suggested that the translator treat each line of the ULB as a separate metaphor. 
+
+=== Other possible translation difficulties in this chapter ===
+
+== "He (Herod) had John locked up in prison" ==
+This event can cause confusion because the author says John was imprisoned and then says he was baptizing Jesus. The author probably uses this phrase as an anticipation of Herod's imprisonment of John. This would mean that this statement is still in the future at the time of the narrative.
+
+===== Links: =====
+
+  * **[[:en:bible:notes:luk:03:01|Luke 03:01 Notes]]**
+**[[:en:bible:notes:luk:02:00|<<]] | [[:en:bible:notes:luk:04:00|>>]]**
+
+
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft CHTeam}}

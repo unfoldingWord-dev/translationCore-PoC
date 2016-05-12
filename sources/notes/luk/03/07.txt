@@ -25,25 +25,26 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:johnthebaptist]]
+  * [[:en:obe:kt:baptize]]
+  * [[:en:obe:other:offspring]]
+  * [[:en:obe:other:serpent]]
+  * [[:en:obe:kt:wrath]]
 
-    * [[en:obe:other:johnthebaptist]]
-    * [[en:obe:kt:baptize]]
-    * [[en:obe:other:offspring]]
-    * [[en:obe:other:serpent]]
-    * [[en:obe:kt:wrath]]
 ===== Translation Notes: =====
 
-    * **to be baptized by him** - "for John to baptize them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **You offspring of poisonous snakes** - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **who warned you**  - He wasn't really expecting them to answer. John was rebuking the people because they were asking him to baptize them so that God would not punish them, but they did not want to stop sinning. AT: "You can't flee from God's wrath like this" or "Do you think that you can flee from God's wrath just by being baptized?"  (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **from the wrath that is coming** - The word "wrath" is used here to refer to God's punishment because his wrath precedes it. AT: "from the punishment that God is sending" or "from God's wrath on which he is about to act" (See: [[en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **to be baptized by him** - This can be stated in active form. AT: "for John to baptize them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **You offspring of poisonous snakes** - In this metaphor, poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **who warned you...coming?** - He wasn't really expecting them to answer. John was rebuking the people because they were asking him to baptize them so that God would not punish them, but they did not want to stop sinning. AT: "you can't flee from God's wrath like this" or "you can not escape from God's wrath just by being baptized." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **from the wrath that is coming** - The word "wrath" is used here to refer to God's punishment because his wrath precedes it. AT: "from the punishment that God is sending" or "from God's wrath on which he is about to act" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 
 **[[:en:bible:notes:luk:03:05|<<]] | [[:en:bible:notes:luk:03:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish johnthebaptist wrath}}
+~~DISCUSSION~~{{tag>publish p2check johnthebaptist wrath}}
 
 ~~NOCACHE~~

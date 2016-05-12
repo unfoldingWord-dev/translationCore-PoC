@@ -14,8 +14,8 @@
 
 <usfm>
 \v 7 Jesus noticed that the people who had been invited to the meal were  choosing to sit in the places where important people usually sit. Then he gave this advice to them:
-\v 8 “When one of you is invited by someone to a wedding feast, do not sit in a place where important people sit. It may be that a man more important than you has also been invited to the feast.
-\v 9 When that man comes, the man who invited both of you will come to you (sg) and say to you, ‘Let this man take your seat!’ Then you (sg) will have to take the least important seat, and you will be ashamed.
+\v 8 "When one of you is invited by someone to a wedding feast, do not sit in a place where important people sit. It may be that a man more important than you has also been invited to the feast.
+\v 9 When that man comes, the man who invited both of you will come say to you, 'Let this man take your seat!' Then you will have to take the least important seat, and you will be ashamed.
 </usfm>
 
 
@@ -32,23 +32,28 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:honor]]
-    * [[:en:obe:other:parable]]
-    * [[:en:obe:other:feast]]
-    * [[en:obe:other:shame]]
+  * [[:en:obe:other:honor]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:other:feast]]
+  * [[:en:obe:other:shame]]
 
 
 ===== Translation Notes: =====
-Jesus continues to speak to the people at the Pharisee's house.
-    * **the seats of honor**  - the seats for people who were given honor
-    * **and then in shame **  - "Then you will feel ashamed and"
+
+  * **those who were invited** - AT: "those whom the leader of the Pharisees had invited to the meal" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the seats of honor** - "the seats for honored people" or "the seats for important people"
+  * **When you are invited by someone** - AT: "When someone invites you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **because someone may have been invited who is more honored than you** - AT: "because someone may have invited a person who is more important than you are" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **and then in shame** - "Then you will feel ashamed and"
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 **[[:en:bible:notes:luk:14:04|<<]] | [[:en:bible:notes:luk:14:10|>>]]**
 
-~~DISCUSSION~~{{tag>publish  feast}}
+~~DISCUSSION~~{{tag>publish p2edit feast text}}
 
 ~~NOCACHE~~

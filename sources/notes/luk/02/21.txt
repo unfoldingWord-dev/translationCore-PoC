@@ -29,23 +29,28 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:circumcise]]
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:angel]]
-    * [[en:obe:other:conceive]]
-    * [[en:obe:other:womb]]
+  * [[:en:obe:kt:circumcise]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:other:conceive]]
+  * [[:en:obe:other:womb]]
 
 ===== Translation Notes: =====
 
-    * **the name he had been given by the angel** - AT: "the name the angel had called him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **General Information:** - The laws God gave the Jewish believers told them when to circumcise a boy baby and what sacrifice the parents had to bring.
 
+  * **When it was the eighth day** - This phrase shows the passing a time before this new event. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **it was the eighth day** - "it was eight days after his birth" or "he was eight days old"
+  * **they named** - Joseph and Mary named him.
+  * **the name he had been given by the angel** - This can be stated in active form. AT: "the name the angel had called him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:17|<<]] | [[:en:bible:notes:luk:02:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

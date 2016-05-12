@@ -25,25 +25,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:parable]]
-  * [[en:obe:other:pray]]
-  * [[en:obe:other:judgeposition]]
-  * [[en:obe:kt:fear]]
-  * [[en:obe:kt:god]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:other:judgeposition]]
+  * [[:en:obe:kt:fear]]
+  * [[:en:obe:kt:god]]
 
 ===== Translation Notes: =====
 
-Jesus continues speaking to his disciples.
+  * **Connecting Statement:** - Jesus begins to tell a parable as he continues to teach his disciples. This is the same part of the story that begin in [[:en:bible:notes:luk:17:20|17:20]]. Verse 1 gives us a description of the parable Jesus is about to tell. (See: [[:en:ta:vol1:translate:figs_parables]])
+
   * **Then he** - "Then Jesus"
+  * **they should always pray, and not become discouraged** - These two clauses have similar meaning which Jesus used to emphasize his point. Some languages have different ways of emphasizing. AT: "always keep on praying." (See: [[:en:ta:vol2:translate:figs_parallelism]])
   * **saying** - This could also begin a new sentence: "He said" (UDB).
-  * **they should always pray, and not become discouraged**  - These two clauses have similar meaning Jesus used to emphasize his point. Some languages have different ways of emphasizing. For example this could also be translated as "always keep on praying" (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **There was in a particular city, a judge**  - The word "particular" is used to as a way to say this this happened, but without identifying the judge or the city.
-  * **fear**  - "revere" (UDB)
-  * **did not respect people**  - "paid no regard to a person"
+  * **There was in a particular city, a judge** - The word "particular" is used as a way to say this happened, but without identifying the judge or the city.
+  * **fear** - "revere" (UDB)
+  * **did not respect people** - "paid no regard to a person"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Checking Questions]]**
-**[[:en:bible:notes:luk:17:34|<<]] | [[:en:bible:notes:luk:18:03|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
+**[[:en:bible:notes:luk:17:37|<<]] | [[:en:bible:notes:luk:18:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish judgeposition}}
+~~DISCUSSION~~{{tag>publish p2edit judgeposition p2review}}

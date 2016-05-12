@@ -26,41 +26,41 @@
 ===== ULB: =====
 
 <usfm>
-\q \v 54 He has helped his servant Israel,
-\q  in order to be merciful
-\q \v 55 to Abraham and his descendants forever, 
-\q just as he promised to our ancestors he would do."
+\q 
+\v 54 He has given help to Israel his servant, 
+\q  so as to remember to show mercy 
+\q 
+\v 55 (as he said to our fathers) to Abraham and his descendants forever."
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:other:servant]]
-    * [[en:obe:other:israel]]
-    * [[en:obe:kt:mercy]]
-    * [[en:obe:other:abraham]]
-    * [[en:obe:other:descendant]]
-    * [[en:obe:kt:forever]]
-    * [[en:obe:kt:promise]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:other:israel]]
+  * [[:en:obe:kt:mercy]]
+  * [[:en:obe:other:abraham]]
+  * [[:en:obe:other:descendant]]
+  * [[:en:obe:kt:forever]]
 
 ===== Translation Notes: =====
 
-Mary finishes praising God for what he has done.
+  * **General Information:** - The UDB rearranges these verses into a verse bridge in order to keep the information about Israel together. (See: [[:en:ta:vol2:translate:translate_versebridge]])
 
-    * **He has helped** - AT: "The Lord has helped" 
-    * **his servant Israel** - If readers confuse this with the the man named Israel, it could be translated as AT: "his servant, the nation of Israel" or "Israel, his servants." 
-    * **his descendants** - "Abraham's descendants"
-    * **just as he promised to our ancestors he would do** - AT: "because he promised our ancestors he would be merciful"
-
-
-
-
+  * **He has given help to** - "The Lord has helped" 
+  * **Israel his servant** - If readers confuse this with the the man named Israel, it could be translated as "his servant, the nation of Israel" or "Israel, his servants." 
+  * **so as to** - "in order to"
+  * **to remember** - God cannot forget. When God "remembers," it is an idiom that means God acts upon his earlier promise. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **as he said to our fathers** - "just as he promised our ancestors he would do." This phrase supplies background information about God's promise to Abraham. AT: "because he promised our ancestors he would be merciful." (See: [[:en:ta:vol2:translate:writing_background]])
+  * **his descendants** - "Abraham's descendants"
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:52|<<]] | [[:en:bible:notes:luk:01:56|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

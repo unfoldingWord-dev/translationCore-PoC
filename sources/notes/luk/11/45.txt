@@ -29,21 +29,24 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:scribe]]
-    * [[en:obe:kt:teacher]]
-    * [[en:obe:kt:woe]]
-    * [[en:obe:other:burden]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:kt:woe]]
+  * [[:en:obe:other:burden]]
 
 ===== Translation Notes: =====
 
+  * **General Information:** - Jesus begins to respond to a Jewish teacher.
 
-    * **you burden men with burdens hard to carry** - "You put burdens on people that are heavy for them to carry." This is a metaphor in which giving people many rules is compared to giving them heavy things to carry. AT: "You burden people by giving them too many rules to follow."  (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **but you do not even touch those burdens with one of your own fingers** - "but you do not even use one of your fingers to help them carry the burdens." It means "but you do not do anything at all to help them obey your rules."
+  * **you burden men with burdens hard to carry** - "You put burdens on people that are heavy for them to carry." Jesus speaks about someone giving people many rules as if the person were giving them heavy things to carry. AT: "You burden people by giving them too many rules to follow." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **but you do not even touch those burdens with one of your own fingers** - "but you do not even use one of your fingers to help them carry the burdens." AT: "but you do not do anything at all to help them obey your rules." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:43|<<]] | [[:en:bible:notes:luk:11:47|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

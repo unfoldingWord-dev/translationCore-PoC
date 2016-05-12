@@ -30,23 +30,28 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:johnthebaptist]]
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:kt:lord]]
+  * [[:en:obe:other:johnthebaptist]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:lordgod]]
 
 ===== Translation Notes: =====
 
-    * **told him** - "told John"
-    * **all these things** - "all the things Jesus was doing"
-    * **sent them to the Lord to say** - "(John) sent them to the Lord to ask (Jesus)"
-    * **has sent us to you to say, 'Are you the Coming One** - "(John) has sent us to you. He asks 'Are you the Coming One'" or "(John) has sent us to to ask you, 'Are you the Coming One'" (UDB)
-    * **we should be looking for** - "we should be waiting for" or "we should be expecting to come"
+  * **Connecting Statement:** - John sends two of his disciples to question Jesus. 
+
+  * **John's disciples told him about all these things** - This introduces a new event in the story. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **told him** - "told John"
+  * **all these things** - "all the things Jesus was doing"
+  * **sent them to the Lord to say** - (John) "sent them to the Lord to ask" (Jesus)
+  * **the Coming One** - This is possibly a way people referred to the coming Messiah.
+  * **the men said, "John the Baptist has sent us...we should be looking for?** - This sentence can be rewritten so that it only has one direct quote. AT: "the men said that John the Baptist had sent them to him to ask, 'Are you the Coming One, or is there another person we should be looking for?'" or "the men said, 'John the Baptist has sent us to you to ask if you are the Coming One, or if there is another person we should be looking for?'" (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **we should be looking for** - "for whom we should be waiting" or "we should be expecting to come"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
 **[[:en:bible:notes:luk:07:16|<<]] | [[:en:bible:notes:luk:07:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

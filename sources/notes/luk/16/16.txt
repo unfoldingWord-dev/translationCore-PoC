@@ -32,28 +32,30 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:lawofmoses]]
-  * [[en:obe:kt:prophet]]
+  * [[:en:obe:kt:prophet]]
   * [[:en:obe:other:johnthebaptist]]
   * [[:en:obe:kt:goodnews]]
   * [[:en:obe:kt:kingdomofgod]]
-  * [[en:obe:other:preach]]
+  * [[:en:obe:other:preach]]
   * [[:en:obe:kt:heaven]]
-  * [[en:obe:other:earth]]
+  * [[:en:obe:other:earth]]
 
 ===== Translation Notes: =====
-Jesus continues teaching the Pharisees.
-    * **The law and the prophets**  - This refers to all of God's word that had been written up to that time. 
-    * **John came**  - This could be translated as "John the Baptist came and preached."
-    * **the gospel of the kingdom of God is preached** - This could also be translated as "we are teaching people about the gospel of the kingdom of God."
-    * **everyone tries to force their way into it** - This could be translated as “many people are doing everything they can to enter it.” This refers to the people who were listening to and accepting the teaching of Jesus.
-    * **it is easier for heaven and earth to pass away than for** - “just as you know that heaven and earth cannot pass away, you can be sure that” 
-    * **one stroke of a letter**  - "the smallest part of a letter." This could also be translated as "the smallest detail of the law."
-    * **to become invalid** - "to be removed from the law"
+
+  * **The law and the prophets** - This refers to all of God's word that had been written up to that time. 
+  * **John came** - AT: "John the Baptist came and preached" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the gospel of the kingdom of God is preached** - AT: "we are teaching people about the gospel of the kingdom of God" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **everyone tries to force their way into it** - This refers to the people who were listening to and accepting the teaching of Jesus. AT: "many people are doing everything they can to enter it."
+  * **it is easier for heaven and earth to pass away than for** - "just as you know that heaven and earth cannot pass away, you can be sure that" 
+  * **than for one stroke of a letter of the law to become invalid** - The phrase "one stroke of a letter" means the smallest part of a letter. It refers to something in the law that may seem to be the least important. AT: "than for someone to remove even the smallest detail of the law." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 **[[:en:bible:notes:luk:16:14|<<]] | [[:en:bible:notes:luk:16:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

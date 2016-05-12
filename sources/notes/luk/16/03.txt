@@ -27,23 +27,24 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:manager]]
-  * [[en:obe:kt:lord]]
-  * [[en:obe:other:shame]]
-  * [[en:obe:other:beg]]
+  * [[:en:obe:other:manager]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:shame]]
+  * [[:en:obe:other:beg]]
  
 ===== Translation Notes: =====
-Jesus continues telling his story.
-    * **What should I do?**  - The manager asks this of himself, as a means of reviewing his options.
-    * **my master**  - This refers to the wealthy man. It could also be translated as "my employer." The manager was not a slave.
-    * **I do not have strength to dig**  - "I am not strong enough to dig the ground" or "I am not able to dig"
-    * **when I am removed from my management job** - This could also be translated as, "when I lose my management job."
 
+  * **What should I do...job?** - The manager asks this of himself, as a means of reviewing his options.
+  * **my master** - This refers to the wealthy man. The manager was not a slave. AT: "my employer." 
+  * **I do not have strength to dig** - "I am not strong enough to dig the ground" or "I am not able to dig"
+  * **when I am removed from my management job** - AT: "when I lose my management job" or "when my master takes away my management job" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 **[[:en:bible:notes:luk:16:01|<<]] | [[:en:bible:notes:luk:16:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish manager}}
+~~DISCUSSION~~{{tag>publish p2edit manager}}
 
 ~~NOCACHE~~

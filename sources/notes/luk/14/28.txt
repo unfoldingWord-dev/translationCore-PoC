@@ -29,32 +29,33 @@
 
 
 ===== translationWords: =====
-  * [[en:obe:other:watchtower]]
-  * [[en:obe:other:foundation]]
-  * [[en:obe:other:mock]]
+  * [[:en:obe:other:watchtower]]
+  * [[:en:obe:other:foundation]]
+  * [[:en:obe:other:mock]]
  
 ===== Translation Notes: =====
 
-Jesus continues speaking to the crowds.
-  * **For which of you**  - This is the beginning of a rhetorical question. Jesus used it to get people to think about what they would do in a particular situation. It can also be translated as a statement: If one of you wanted to build a tower, you would certainly first sit down and count the cost." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **tower**  - This may have been a watchtower in a vineyard. Some languages might translate it as "a tall building" or "a high lookout platform."
-  * **Otherwise**  - "If he does not first count the cost"
-  * **when he has laid a foundation**  - "when he has built a base." It can also be translated as "when he started building."
+  * **For which of you, who desires to build a tower, does not first sit down and count the cost to calculate if he has what he needs to complete it?** - Jesus uses a question to get people to think about what they would do in a particular situation. AT: "If a person wanted to build a tower, he would certainly first sit down and determine if he had enough money to complete it." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **tower** - This may have been a watchtower in a vineyard. AT: "a tall building" or "a high lookout platform."
+  * **Otherwise** - "If he does not first count the cost"
+  * **when he has laid a foundation** - "when he has built a base." AT: "when he started building."
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 
  
 
-**[[en/bible/notes/luk/14/25|<<]] | [[en/bible/notes/luk/14/31|>>]]**
+**[[:en:bible:notes:luk:14:25|<<]] | [[:en:bible:notes:luk:14:31|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 
 ~~NOCACHE~~

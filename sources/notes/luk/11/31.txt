@@ -24,24 +24,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:queen]]
-  * [[en:obe:kt:judgmentday]]
-  * [[en:obe:kt:condemn]]
-  * [[en:obe:kt:wise]]
-  * [[en:obe:other:solomon]]
+  * [[:en:obe:other:queen]]
+  * [[:en:obe:kt:judgmentday]]
+  * [[:en:obe:kt:condemn]]
+  * [[:en:obe:kt:wise]]
+  * [[:en:obe:other:solomon]]
 
  
 ===== Translation Notes: =====
 
-  * **Queen of the South**  - This refers to the Queen of Sheba. Sheba was a kingdom south of Israel.
-  * **will rise up at the judgment with** - "will also stand up and judge"
-  * **she came from the ends of the earth** - "she came a very great distance." "From the ends of the earth" is an idiom that means "from a place very far away." (See: [[en:ta:vol1:translate:figs_idiom]])
-  * **someone greater than Solomon is here** - The rebuke that Jesus wanted them to understand was "but you have not listened to me." 
+  * **Queen of the South** - This refers to the Queen of Sheba. Sheba was a kingdom south of Israel.
+  * **will rise up at the judgment with the men of this generation** - "will also stand up and judge the people of this time"
+  * **she came from the ends of the earth** - AT: "she came a very great distance" or "she came from a place very far away" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **someone greater than Solomon is here** - Jesus is speaking about himself. AT: "I am greater than Solomon but you have not listened to me." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:29|<<]] | [[:en:bible:notes:luk:11:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish  judgmentday}}
+~~DISCUSSION~~{{tag>publish p2edit judgmentday}}
 
 ~~NOCACHE~~

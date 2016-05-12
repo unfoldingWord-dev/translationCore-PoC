@@ -29,7 +29,7 @@
 
 <usfm>
 \v 51 Do you think that I came to bring peace on the earth? No, I tell you, but rather division.
-\v 52 For from now on there will be five in one house divided—three people against two, or two people against three.
+\v 52 For from now on there will be five in one house divided—three people against two, and two people against three.
 \v 53 They will be divided, father against son, and son against father; mother against daughter, and daughter against mother; mother-in-law against her daughter-in-law, and daughter-in-law against mother-in-law."
 </usfm>
 
@@ -37,20 +37,22 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:peace]]
-    * [[en:obe:other:earth]]
+  * [[:en:obe:other:peace]]
+  * [[:en:obe:other:earth]]
 
 
 ===== Translation Notes: =====
 
-Jesus continues to teach his disciples.
-    * **Do you think that I came to bring peace on the earth?** - This is a rhetorical question. People expected the Messiah to bring them peace from their enemies. This can be translated as "You should not think that I have come to bring peace on earth." (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **but rather division** - "but I came to bring division"
-    * **division** - "hostility" or "discord"
-    * **there will be five in one house divided** - This is an example of the kind of division there will be even within families.
+  * **Do you think that I came to bring peace on the earth?** - Jesus uses a question to teach his disciples. People expected the Messiah to bring them peace from their enemies. AT: "You should not think that I have come to bring peace on earth." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **but rather division** - "but I came to bring division" or "people will divide from each other because I have come"
+  * **division** - "hostility" or "discord"
+  * **there will be five in one house divided** - This is an example of the kind of division there will be even within families.
+  * **there will be five in one house** - AT: "there will be five people in one house" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:49|<<]] | [[:en:bible:notes:luk:12:54|>>]]**
 
-~~DISCUSSION~~{{tag>publish peace }}
+~~DISCUSSION~~{{tag>publish p2edit peace }}

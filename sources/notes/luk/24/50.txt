@@ -28,24 +28,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:bethany]]
-  * [[en:obe:kt:bless]]
-  * [[en:obe:kt:heaven]]
+  * [[:en:obe:other:bethany]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:heaven]]
 
 ===== Translation Notes: =====
 
-    * **It happened**  - "It came about"
-    * **while he was blessing them** - "While Jesus was asking God to do good to them"
-    * **was carried**  - Since Luke does not specify who **carried** Jesus up, we don't know if it was God himself or one or more angels. If your language has to specify who did the carrying, it would be best to go with the UDB "went." 
+  * **It happened** - "It came about"
+  * **while he was blessing them** - "while Jesus was asking God to do good to them"
+  * **was carried** - Since Luke does not specify who carried Jesus up, we don't know if it was God himself or one or more angels. If your language has to specify who did the carrying, it would be best to go with the UDB "went." (See: [[:en:ta:vol2:translate:figs_activepassive]])
  
   
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:48|<<]] | [[:en:bible:notes:luk:24:52|>>]]**
 
 ~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>publish bethany}}
+{{tag>publish p2edit bethany}}

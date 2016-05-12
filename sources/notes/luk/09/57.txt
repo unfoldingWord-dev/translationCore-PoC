@@ -29,23 +29,25 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:sonofman]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:sonofman]]
 
 ===== Translation Notes: =====
 
-  * **someone**  - This was not one of the disciples.
-  * **Foxes have holes…nowhere to lay his head**  - Jesus was implying that if the the man were to follow him, that man too might not have a home. The implied information can be made explicit: "So do not expect that you will have a home." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **Foxes**  - These are land animals similar to small dogs. They sleep in a den or a burrow in the ground.
-  * **birds of the sky**  - "birds that fly in the air"
-  * **Son of Man**  - Jesus is speaking about himself in the third person. AT: "I, the Son of Man." (See: [[en:ta:vol2:translate:figs_123person]])
-  * **nowhere to lay his head**  - "nowhere to rest my head" or "nowhere to sleep." This is a hyperbole. Jesus is exaggerating in order to get across the point that he was not welcome anywhere to live. (See: [[en:ta:vol2:translate:figs_hyperbole]])
+  * **someone** - This was not one of the disciples.
+  * **Foxes have holes...nowhere to lay his head** - Jesus responds with a proverb to teach the man about being Jesus' disciple. Jesus implies that if the man were to follow him, that man too might not have a home. AT: "Foxes have holes...nowhere to lay his head. So do not expect that you will have a home." (See: [[:en:ta:vol2:translate:writing_proverbs]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **Foxes** - These are land animals similar to small dogs. They sleep in a den or a burrow in the ground.
+  * **birds of the sky** - "birds that fly in the air"
+  * **Son of Man** - Jesus is speaking about himself in the third person. AT: "I, the Son of Man." (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **nowhere to lay his head** - "nowhere to rest my head" or "nowhere to sleep." Jesus is exaggerating in order to get across the point that he was not welcome anywhere to live. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:54|<<]] | [[:en:bible:notes:luk:09:59|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

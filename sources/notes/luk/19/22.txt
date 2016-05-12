@@ -27,32 +27,34 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:noble]]
-  * [[en:obe:kt:word]]
+  * [[:en:obe:other:noble]]
+  * [[:en:obe:kt:word]]
   * [[:en:obe:kt:judge]]
-  * [[en:obe:kt:evil]]
+  * [[:en:obe:kt:evil]]
  
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
 
-  * **that I am a severe man, taking up…** - The nobleman was repeating what the servant had said about him. He was not saying that it was true.
-  * **a severe man**  - "a harsh man"
-  * **why did you not put my money** - This starts a rhetorical question. It is used as a rebuke. It can be translated as "you should have put my money." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **put my money in the bank** - This can be translated as  "lent my money to a bank." Cultures that do not have banks might translate it as "let someone borrow my money."
-  * **bank**  - A bank is a business that safely holds money for people. Banks lend that money to others for a profit. Therefore it pays an extra amount, or interest, to the people who keep their money in the bank.
-  * **I would have collected it with interest** - This can be translated as "I could have collected that amount plus the interest it would have earned" (UDB) or "I would gain a profit from it."
-  * **interest**  - Interest is money that a bank pays people who put their money in the bank.
+  * **By your own words** - AT: "Based on what you have said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **that I am a severe man, taking up** - The nobleman was repeating what the servant had said about him. He was not saying that it was true.
+  * **a severe man** - "a harsh man"
+  * **why did you not put my money...interest?** - The nobleman uses a question to rebuke the wicked servant. AT: "you should have put my money...interest." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **put my money in the bank** - "lent my money to a bank." Cultures that do not have banks might translate it as "let someone borrow my money."
+  * **bank** - A bank is a business that safely holds money for people. Banks lend that money to others for a profit. Therefore it pays an extra amount, or interest, to the people who keep their money in the bank.
+  * **I would have collected it with interest** - AT: "I could have collected that amount plus the interest it would have earned" (UDB) or "I would have gained a profit from it"
+  * **interest** - Interest is money that a bank pays people who put their money in the bank.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/20|<<]] | [[en/bible/notes/luk/19/24|>>]]**
+**[[:en:bible:notes:luk:19:20|<<]] | [[:en:bible:notes:luk:19:24|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

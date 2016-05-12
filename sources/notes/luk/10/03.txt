@@ -24,23 +24,23 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:lamb]]
-  * [[en:obe:other:wolf]]
-  * [[en:obe:other:sandal]]
+  * [[:en:obe:other:wolf]]
+  * [[:en:obe:other:sandal]]
 
 ===== Translation Notes: =====
-Jesus continues to give directions to the 70 people he was sending out.
 
-  * **Go on your way**  - AT: "Go to the cities" or "Go to the people" or "Go bring in the people."
-  * **I send you out as lambs in the midst of wolves**  - This is a simile that means the people Jesus was sending out could be attacked by the people they were going to. The names of other animals could be substituted. AT: "When I send you out, people will want to harm you as wolves attack sheep."  (See: [[en:ta:vol1:translate:figs_simile]])
-  * **lambs**  - Lambs are baby sheep. They can't defend themselves against animals that attack them.
-  * **wolves**  - Wolves are similar to large wild dogs. They attack and eat other animals, such as lambs. "Wolves" can be translated with a generic term like "wild dogs" or "fierce dogs" or with the name of a specific animal like a dog that your people know of, such as "coyotes" or "jackals" (See: [[en:ta:vol1:translate:translate_unknown]])
-  * **Carry no bag of money**  - "Do not take a bag of money with you"
-  * **greet no one on the way**  - Jesus was emphasizing that they go quickly to the towns and do this work. He was not telling them to be rude.
+  * **Go on your way** - "Go to the cities" or "Go to the people"
+  * **I send you out as lambs in the midst of wolves** - This means that there are people who could harm those that Jesus is sending out. The names of other animals could be substituted. AT: "When I send you out, people will want to harm you as wolves attack sheep." (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **wolves** - This can be translated with a generic term like "wild dogs" or "fierce dogs" or with the name of a specific animal like a dog that your people know of, such as "coyotes" or "jackals." (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **Carry no bag of money** - "Do not take a bag of money with you"
+  * **greet no one on the way** - Jesus was emphasizing that they go quickly to the towns and do this work. He was not telling them to be rude.
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 **[[:en:bible:notes:luk:10:01|<<]] | [[:en:bible:notes:luk:10:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish lamb}}
+~~DISCUSSION~~{{tag>publish p2edit lamb}}

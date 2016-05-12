@@ -22,7 +22,7 @@
 \q And because of that, this Savior, who is like the rising sun, 
 \q will come to us from heaven to help us. 
 \q
-\v 79 His message will shine on people who live in spiritual darkness and in the fear of death. 
+\v 79 He will shine on people who live in spiritual darkness and in the fear of death. 
 \q He will guide us so that we will live peacefully.
 
 
@@ -32,43 +32,43 @@
 ===== ULB: =====
 
 <usfm>
-\q \v 78 Our God will forgive us because of his tender mercy. 
-\q By this mercy, the Savior, who is like the morning sun, will come from heaven to help us.
-\q \v 79 He will shine upon people who sit in darkness and the shadow of death; 
-\q he will guide our feet into the path of peace."
+\q 
+\v 78 This will happen because of the tender mercy of our God,    
+\q because of which the sunrise from on high will come to us,
+\q 
+\v 79 to shine on them who sit in darkness and in the shadow of death.
+\q He will do this to guide our feet into the path of peace."
 </usfm>
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:god]]
-  * [[:en:obe:kt:forgive]]
   * [[:en:obe:kt:mercy]]
-  * [[:en:obe:kt:savior]]
-  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:god]]
   * [[:en:obe:kt:darkness]]
   * [[:en:obe:kt:death]]
   * [[:en:obe:other:peace]]
 
 ===== Translation Notes: =====
 
-Zechariah finishes his prophecy.
+  * **General Information:** - Throughout these verses "us" includes all people. 
 
-  * **Our God**  - Throughout these verses "us" and "our" are inclusive. (See: [[:en:ta:vol2:translate:figs_inclusive]])
-  * **because of his tender mercy** - AT: "because he is compassionate and merciful to us"
-  * **like the morning sun** - "like the sunrise" or "like the dawn" (See: [[:en:ta:vol1:translate:figs_simile]])
-  * **He will shine upon** - AT: "He will give knowledge to" or "He will give spiritual light to" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **people who sit in darkness** - AT: "people who do not know the truth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **the shadow of death** - AT: "who are about to die" or "who are afraid that they will soon die" (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **guide** - "direct." or AT: "teach." (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **our feet**  - AT: "us" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
-  * **into the path of peace** - "into the way of peace." Make sure your translation of this fits with how you translate "our feet."  AT: "into a peaceful life" or "to walk along a path that leads to peace"  (See: [[:en:ta:vol1:translate:figs_metaphor]])
-
+  * **because of the tender mercy of our God** - It might be helpful to state that God's mercy helps people. AT: "because God is compassionate and merciful to us." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the sunrise from on high...to shine on** - Light is often a metaphor for truth. Here, the way a sunrise lights up the earth is used as an example of how the Savior will provide spiritual truth to people. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **shine on** - "give knowledge to" or "give spiritual light to"
+  * **them who sit in darkness** - Darkness is here a metaphor for people without the truth. AT: "people who do not know the truth" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **darkness...shadow of death** - These two phrases work together to emphasize the deep spiritual darkness of people before God shows them mercy. (See: [[:en:ta:vol2:translate:figs_doublet]]) 
+  * **in the shadow of death** - The shadow is a metaphor for something that is approaching. Here, it refers to their spiritual darkness which will cause them to die. AT: "who are about to die." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **guide our feet** - Guiding the walk of a person is a metaphor for guiding their spiritual understanding. AT: "guide us" or "teach us." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **our feet** - "feet" is used to represent the whole person. AT: "us" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **into the path of peace** - "the path of peace" is a metaphor for the way of life that causes a person to have peace with God. AT: "to live a peaceful life" or "to walk along a path that leads to peace." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * [[:en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:76|<<]] | [[:en:bible:notes:luk:01:80|>>]]**
 
-~~DISCUSSION~~{{tag>publish savior }}
+~~DISCUSSION~~{{tag>publish p2check savior}}
 
 ~~NOCACHE~~

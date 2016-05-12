@@ -32,37 +32,41 @@
 \p
 \v 1 It happened soon afterwards that Jesus began traveling around to different cities and villages, preaching and proclaiming the good news about the kingdom of God and the twelve went with him,
 \v 2 as well as certain women who had been healed of evil spirits and diseases. They were Mary who was called Magdalene, from whom seven demons had been driven out,
-\v 3 Joanna, the wife of Chuza, Herod’s manager, Susanna, and many other women, who provided for them from their own material resources.
+\v 3 Joanna, the wife of Chuza, Herod's manager, Susanna, and many other women, who provided for them from their own material resources.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:preach]]
-  * [[en:obe:other:proclaim]]
-  * [[en:obe:kt:goodnews]]
-  * [[en:obe:kt:kingdomofgod]]
-  * [[en:obe:kt:thetwelve]]
-  * [[en:obe:other:heal]]
-  * [[en:obe:kt:demon]]
-  * [[en:obe:other:marymagdalene]]
-  * [[en:obe:other:castout]]
-  * [[en:obe:other:herodantipas]]
-  * [[en:obe:other:manager]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:other:proclaim]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:thetwelve]]
+  * [[:en:obe:other:heal]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:marymagdalene]]
+  * [[:en:obe:other:castout]]
+  * [[:en:obe:other:herodantipas]]
+  * [[:en:obe:other:manager]]
 
 ===== Translation Notes: =====
 
-  * **It happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **who had been healed of evil spirits and diseases**  - AT: "whom Jesus had set free from evil spirits and healed of diseases." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **Mary … and many other women**  - Three of the women were named: Mary, Joanna, and Susanna. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Joanna, the wife of Chuza, Herod's manager**  - Joanna was Chuza's wife, and Chuza was Herod's manager.  AT: "Joanna, the wife of Herod's manager, Chuza."  (See: [[:en:ta:vol1:translate:translate_names]])
+  * **General Information:** - These verses give background information about Jesus' preaching while traveling.
+
+  * **It happened** - This phrase is used here to mark a new part of the story. 
+  * **who had been healed of evil spirits and diseases** - "whom Jesus had set free from evil spirits and healed of diseases" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Mary...and many other women** - Three of the women were named: Mary, Joanna, and Susanna. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Joanna, the wife of Chuza, Herod's manager** - Joanna was Chuza's wife, and Chuza was Herod's manager. "Joanna, the wife of Herod's manager, Chuza." (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:07:48|<<]] | [[:en:bible:notes:luk:08:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish goodnews marymagdalene }}
+~~DISCUSSION~~{{tag>publish p2edit goodnews marymagdalene }}
 
 ~~NOCACHE~~

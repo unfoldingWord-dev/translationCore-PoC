@@ -30,27 +30,31 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:thetwelve]]
-    * [[en:obe:kt:power]]
-    * [[en:obe:kt:authority]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:other:heal]]
-    * [[en:obe:other:send]]
-    * [[en:obe:other:preach]]
-    * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:thetwelve]]
+  * [[:en:obe:kt:power]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:heal]]
+  * [[:en:obe:other:send]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:kt:kingdomofgod]]
 
 
 ===== Translation Notes: =====
 
-  * **power and authority**- These two terms are used together to show that the twelve had both the ability and the right to heal people. Translate this phrase with a combination of words that include both of these ideas.
-  * **diseases**  - "sicknesses." This refers to what makes a person sick.
-  * **sent them out**  - AT: "sent them to various places" or "told them to go."
+  * **Connecting Statement:** - Jesus reminds his disciples not to depend on money and their things, gives them power, and then sends them out to various places.
+
+  * **power and authority** - These two terms are used together to show that the twelve had both the ability and the right to heal people. Translate this phrase with a combination of words that include both of these ideas.
+  * **diseases** - "sicknesses" 
+  * **sent them out** - AT: "sent them to various places" or "told them to go"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:08:54|<<]] | [[:en:bible:notes:luk:09:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish thetwelve}}
+~~DISCUSSION~~{{tag>publish p2edit thetwelve}}
 
 ~~NOCACHE~~

@@ -29,22 +29,23 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:synagogue]]
-  * [[en:obe:other:ruler]]
-  * [[en:obe:kt:authority]]
-  * [[en:obe:kt:holyspirit]]
-  * [[en:obe:other:teach]]
-  * [[en:obe:kt:hour]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:other:teach]]
+  * [[:en:obe:kt:hour]]
 
 ===== Translation Notes: =====
-Jesus continues speaking to his disciples.
 
-  * **before the synagogues**  - "into the synagogues to question you before the religious leaders" (UDB)
-  * **authorities**  - "other people who have power in the country" (UDB)
-  * **in that hour**  - "at that time" or "then"
+  * **before the synagogues** - "into the synagogues to question you before the religious leaders" (UDB)
+  * **authorities** - "other people who have power in the country" (UDB)
+  * **in that hour** - "at that time" or "then"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:08|<<]] | [[:en:bible:notes:luk:12:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish ruler}}
+~~DISCUSSION~~{{tag>publish p2edit ruler}}

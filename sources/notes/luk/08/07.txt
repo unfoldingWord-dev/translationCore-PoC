@@ -33,32 +33,33 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:thorn]]
-    * [[en:obe:kt:jesus]]
+  * [[:en:obe:other:thorn]]
+  * [[:en:obe:kt:jesus]]
 
 
 ===== Translation Notes: =====
 
-Jesus continues telling his parable.
+  * **Connecting Statement:** - Jesus finishes telling the parable to the crowd.
 
-  * **choked them**  - The thorn plants took all the nutrients, water, and sunlight, so the farmer's plants could not grow well.
-  * **produced a crop**  - "grew a harvest" or "grew more seeds"
-  * **Whoever has ears to hear, let him hear**  - It may be more natural in some languages to use the second person: "You who have ears to hear, hear." (See: [[en:ta:vol2:translate:figs_123person]])  
-  * **Whoever has ears to hear**  - "Whoever can hear" or "Whoever hears me" 
-  * **let him hear**  - "let him listen well" or "let him pay attention to what I say"
+  * **choked them** - The thorn plants took all the nutrients, water, and sunlight, so the farmer's plants could not grow well.
+  * **produced a crop** - "grew a harvest" or "grew more seeds"
+  * **Whoever has ears to hear, let him hear** - It may be more natural in some languages to use the second person: "You who have ears to hear, hear." (See: [[:en:ta:vol2:translate:figs_123person]]) 
+  * **Whoever has ears to hear** - "Whoever can hear" or "Whoever hears me" 
+  * **let him hear** - "let him listen well" or "let him pay attention to what I say"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 
  
 
-**[[en/bible/notes/luk/08/04|<<]] | [[en/bible/notes/luk/08/09|>>]]**
+**[[:en:bible:notes:luk:08:04|<<]] | [[:en:bible:notes:luk:08:09|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

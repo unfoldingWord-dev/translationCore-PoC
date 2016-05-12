@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 38 Then Jesus left the synagogue and went to Simon’s house. Simon's mother-in-law was sick and had a high fever. Some people who were there asked Jesus to heal her.
+\v 38 Then Jesus left the synagogue and went to Simon's house. Simon's mother-in-law was sick and had a high fever. Some people who were there asked Jesus to heal her.
 \v 39 So he bent over her and commanded the fever to leave her. Immediately she became well! She got up and served them some food.
 
 
@@ -25,28 +25,37 @@
 
 <usfm>
 \p 
-\v 38 Then Jesus left the synagogue and entered into the house of Simon. Now Simon’s mother-in-law was suffering with a high fever, and they pleaded with him on her behalf. 
+\v 38 Then Jesus left the synagogue and entered into the house of Simon. Now Simon's mother-in-law was suffering with a high fever, and they pleaded with him on her behalf. 
 \v 39 So he stood over her and rebuked the fever, and it left her. Immediately she got up and started serving them.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:other:peter]]
-    * [[en:obe:other:plead]]
-    * [[en:obe:other:serve]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:other:plead]]
+  * [[:en:obe:other:serve]]
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Jesus is still in Capernaum, but he is now at the house of Simon, where he heals Simon's mother-in-law and many people.
 
-    * **was suffering with a high fever**  - In some languages people would say "was sick and her skin was very hot."
-    * **Simon's mother-in-law**  - "the mother of Simon's wife"
-    * **rebuked the fever** - "spoke sternly to the fever" or "commanded the fever to leave her" (UDB). AT: "commanded that her skin should become cool" or "commanded the sickness to leave her."
+  * **Then Jesus left** - This introduces a new event. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **Simon's mother-in-law** - "the mother of Simon's wife"
+  * **was suffering with** - This is an idiom that means "was sick with." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **a high fever** - "her skin was very hot"
+  * **pleaded with him on her behalf** - This means they asked Jesus to heal her from the fever. This can be stated clearly. AT: "asked Jesus to heal her from the fever" or "asked Jesus to cure her fever." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **So he stood** - The word "So" make it clear that he did this because the people pleaded with him on behalf of Simon's mother-in-law.
+  * **stood over her** - "went to her and leaned over her"
+  * **rebuked the fever** - "spoke sternly to the fever" or "commanded the fever to leave her" (UDB). It may be helpful to state clearly what he told the fever to do. AT: "commanded that her skin should become cool" or "commanded the sickness to leave her." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **started serving them** - This here means she began to prepare food for Jesus and the other people in the house.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:04:35|<<]] | [[:en:bible:notes:luk:04:40|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

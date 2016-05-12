@@ -20,34 +20,39 @@
 
 <usfm>
 \p
-\v 8 One day while Zechariah was performing his duties as a priest before God in the order of his division,
-\v 9 the priests followed their custom and chose him by lot to enter the temple of the Lord and burn incense.
-\v 10 The whole assembly of the people was praying outside when it was time to burn the incense.
+\v 8 Now it came about that Zechariah was in God's presence, carrying out the priestly duties in the order of his division. 
+\v 9 According to the customary way of choosing which priest would serve, he had been chosen by lot to enter into the temple of the Lord and so he might burn incense.  
+\v 10 The whole crowd of people was praying outside at the hour when the incense was burned.
 </usfm>
 
 ===== translationWords: =====
 
-  * [[en:obe:other:lots]]
-  * [[en:obe:kt:temple]]
-  * [[en:obe:other:incense]]
-  * [[en:obe:other:jerusalem]]
-  * [[en:obe:kt:assembly]]
-  * [[en:obe:other:peoplegroup]]
-  * [[en:obe:other:pray]]
+  * [[:en:obe:other:lots]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:incense]]
+  * [[:en:obe:other:pray]]
 
 ===== Translation Notes: =====
 
-  * **before God** - "in God's presence." For clarity, some translators might want to add the implied information "in the temple at Jerusalem." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **their custom**  - "their tradition" or "their usual way of making important decisions"
-  * **chose him by lot** - A lot was a marked stone that was thrown or rolled on the ground in order to help them decide something. The priests believed that God guided the lot to show them which priest he wanted them to choose. (See: [[:en:ta:customs:religious:bylot]])
-  * **The whole assembly of the people** - "A large number of people" or "Many people"
-  * **outside** -  The courtyard was the enclosed area surrounding the temple. AT: “outside the temple building" or "in the courtyard outside the temple."
+  * **Now it came about** - This phrase is used to mark a shift in the story from the background information to the participants.
+  * **in the order of his division** - "when it was his group's turn" or "when the time came for his group to serve"
+  * **According to the customary way of choosing...and so he might burn incense** - This sentence gives us information about priestly duties. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **the customary way** - "the traditional method" or "their usual way"
+  * **chosen by lot** - A lot was a marked stone that was thrown or rolled on the ground in order to help them decide something. The priests believed that God guided the lot to show them which priest he wanted them to choose. (See: [[:en:ta:customs:religious:bylot]])
+  * **so he might burn incense** - The priests were to burn sweet-smelling incense as an offering to God each morning and evening on a special altar inside the temple.
+  * **The whole crowd of people** - "A large number of people" or "Many people"
+  * **outside** - The courtyard was the enclosed area surrounding the temple. AT: "outside the temple building" or "in the courtyard outside the temple." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **at the hour** - "at the set time." It is unclear if this was the morning or evening time for the incense offering.
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:05|<<]] | [[:en:bible:notes:luk:01:11|>>]]**
 
-{{tag>publish lots incense }}
+{{tag>publish p2check lots incense}}
+
+~~DISCUSSION~~
 
 ~~NOCACHE~~

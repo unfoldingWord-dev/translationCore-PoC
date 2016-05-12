@@ -31,23 +31,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:disciple]]
-  * [[en:obe:kt:cross]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:cross]]
 
 
 ===== Translation Notes: =====
 
+  * **General Information:** - Jesus begins to teach the crowd that was travelling with him.
 
-    * **If anyone comes to me and does not hate his own father...he cannot be my disciple.** - This can also be expressed positively: "If anyone comes to me, he can be my disciple only if he hates his own father."
-    * **hate**  - This is an exaggeration to show how important it is to love Jesus much more than anyone else. If the hyperbole would be misunderstood, it can be translated as "If anyone comes to me and does not love me more than he loves his father...he cannot be my disciple" or positively as "If anyone comes to me, he can be my disciple only if he loves me more than he loves his own father." (See: [[en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
-    * **yes, and his own life also**  - "and even his own life"
-    * **Whoever does not carry his own cross and come after me cannot be my disciple** - This can be expressed positively: "If anyone wants to be my disciple, he must carry his own cross and follow me."
-    * **carry his own cross**  - This means "be willing to die." People who were condemned to die were often forced to carry the cross on which they would be hung and killed.  People who followed Christ would have to be willing to suffer persecution that could come.
+  * **If anyone comes to me and does not hate his own father...he cannot be my disciple** - Here, "hate" is an exaggeration to show how important it is to love Jesus much more than anyone else. AT: "If anyone comes to me and does not love me more than he loves his father...he cannot be my disciple" or "Only if a person loves me more than he loves his own father...can he be my disciple." (See: [[:en:ta:vol2:translate:figs_hyperbole]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **yes, and his own life also** - "and even his own life"
+  * **Whoever does not carry his own cross and come after me cannot be my disciple** - AT: "If anyone wants to be my disciple, he must carry his own cross and follow me"
+  * **carry his own cross** - The Romans often made a person carry his own cross before they crucified him. Jesus does not mean every Christian must be crucified. He means they must be willing to suffer in any way to be his disciple. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 **[[:en:bible:notes:luk:14:23|<<]] | [[:en:bible:notes:luk:14:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -24,21 +24,25 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:biblicaltimeyear]]
   * [[:en:obe:other:josephnt]]
 
 ===== Translation Notes: =====
 
-  * **Now**  - This word is used here to mark a change from the story to background information about about Jesus’ age and ancestors. It ends after Luke 3:37. If your language has a way of showing that what follows is background information, you should use it here. (See: [[en:ta:vol2:translate:writing_background]])
+  * **General Information:** - Luke lists the ancestors of Jesus through the line of his supposed father, Joseph.
+
+  * **Now** - This word is used here to mark a change from the story to background information about about Jesus' age and ancestors. (See: [[:en:ta:vol2:translate:writing_background]])
   * **Jesus himself** - "this Jesus" or "this person Jesus" 
-  * **thirty years of age** - AT: "30 years old" (See: [[:en:ta:vol2:translate:translate_numbers]] and  [[en:obe:other:biblicaltimeyear]])
-  * **He was the son (as was supposed) of Joseph** -  AT: "It was thought that he was the son of Joseph" or "People assumed that he was the son of Joseph"
-  * **the son of Heli**  - AT: "Joseph was the son of Heli" or "Joseph's father was Heli" (See: [[en:ta:vol1:translate:translate_names]])
-  * **the son of Heli, the son of Matthat, the son of Levi…**  - The phrase "the son" is implied information. The text simply says "of Heli, of Matthat, of Levi…" Consider how people normally list ancestors in your language. You can use the same wording throughout the whole list.  AT: "who was the son of Heli, who was the son of Matthat, who was the son of Levi…" or "Joseph was the son of Heli, Heli was the son of Matthat, Matthat was the son of Levi" or "Heli's father was Matthat, Matthat's father was Levi…."  (See: [[:en:ta:vol1:translate:figs_explicit]] and [[en:ta:vol1:translate:translate_names]])
+  * **thirty years of age** - "30 years old" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **He was the son (as was supposed) of Joseph** - "It was thought that he was the son of Joseph" or "People assumed that he was the son of Joseph"
+  * **the son of Heli, the son of Matthat, the son of Levi** - Consider how people normally list ancestors in your language. You should use the same wording throughout the whole list. Possible formats are 1) "who was the son of Heli, who was the son of Matthat, who was the son of Levi" or 2) "Joseph was the son of Heli, Heli was the son of Matthat, Matthat was the son of Levi" or 3) "Heli's father was Matthat, Matthat's father was Levi." (See: [[:en:ta:vol1:translate:translate_names]])
+
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
-
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 **[[:en:bible:notes:luk:03:21|<<]] | [[:en:bible:notes:luk:03:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2check}}

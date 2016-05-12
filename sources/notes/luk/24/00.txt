@@ -1,0 +1,38 @@
+====== Luke 24 General Notes ======
+
+
+=== Structure and formatting ===
+
+The structure of the ULB indicates that the the last line of chapter probably belongs with the material in chapter 24.
+
+=== Special concepts in this chapter ===
+
+== Faith of the women ==
+It appears Luke purposefully contrasts the faith of the women in this chapter with the twelve disciples.
+
+== Resurrection ==
+Luke goes to great lengths in this chapter to defend Jesus's physically rose from the dead. Luke shows that it was not possible for another person to have died in Jesus' place. He also shows that the resurrection was not a [[:en:ta:vol1:translate:figs_metaphor]].
+
+
+=== Other possible translation difficulties in this chapter ===
+
+== Son of Man ==
+
+Jesus refers to himself as the "Son of Man." Every language may not have the ability to have a person refer to himself in the third person.
+
+== "On the third day" ==
+Jesus is said to have risen from the dead on the third day. He died on a Friday afternoon (before sunset) and was raised on a Sunday. In ancient Israel, a day began and ended at sunset. They also counted any part of the day as a "day." 
+
+===== Links: =====
+
+  * **[[:en:bible:notes:luk:24:01|Luke 24:01 Notes]]**
+**[[:en:bible:notes:luk:23:00|<<]] | **
+
+
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft CHTeam}}
