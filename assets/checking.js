@@ -115,7 +115,7 @@
     },
     verse_data: function(reference){
       var verses = {};
-      $.each(reference_bibles, function(name, bible){
+      $.each(referenceBibles, function(name, bible){
         var quotes = checking.quote.split('...');
         quotes.push(checking.data.quote);
         var verse = bible[reference.book][reference.chapter][reference.verse];
