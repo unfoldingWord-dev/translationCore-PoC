@@ -114,7 +114,7 @@
       if (this.source.index !== null) {
         this.getGNT();
         this.getVerses();
-        this.loadSaveData();
+        this.loadData();
       }
 		},
     reload: function(){
@@ -168,31 +168,41 @@
       if (this.saveData[type][book][chapter][verse] === undefined){ this.saveData[type][book][chapter][verse] = {} }
       if (this.saveData[type][book][chapter][verse][quote] === undefined){ this.saveData[type][book][chapter][verse][quote] = {} }
     },
-    loadSaveData: function(){
-      localforage.getItem('checkData', function(err, value){
-        if (err) { console.log(err); } else {
-          if (value !== null) {
-            checkModel.saveData = value;
-            checkModel.prepSaveData();
-            checkModel.target = checkModel.saveData[checkModel.source.type.id][checkModel.source.reference.book][checkModel.source.reference.chapter.toString()][checkModel.source.reference.verse.toString()][checkModel.source.quote];
-            checkModel.highlightTargetQuote();
-          } else {
-            console.log('localStorage checkData is empty.')
-            checkModel.saveData = {};
-            checkModel.prepSaveData();
-          }
-          // TODO: move this somewhere more appropriate
-          checkController.view(checkModel);
-        }
+    loadData: function(){
+      // get data from AWS
+      this.loadAWS(function(){
+        checkModel.prepSaveData();
+        checkModel.target = checkModel.saveData[checkModel.source.type.id][checkModel.source.reference.book][checkModel.source.reference.chapter.toString()][checkModel.source.reference.verse.toString()][checkModel.source.quote];
+        checkModel.highlightTargetQuote();
+        checkController.view(checkModel);
       });
     },
     save: function(){
       this.saveData[this.source.type.id][this.source.reference.book][this.source.reference.chapter.toString()][this.source.reference.verse.toString()][this.source.quote] = this.target;
-      localforage.setItem('checkData', this.saveData, function (err) {
-        if (err) { console.log(err); }
-        checkModel.reload();
+      this.saveAWS();
+    },
+    saveAWS: function(){
+      AWS.config.update({accessKeyId: applicationModel.aws_config.accessKeyId, secretAccessKey: applicationModel.aws_config.secretAccessKey});
+      var bucket = new AWS.S3({params: {Bucket: applicationModel.aws_config.bucket}});
+      var params = {Key: 'checkData.json', Body: JSON.stringify(this.saveData)};
+      bucket.upload(params, function (err, data) {
+        if (err) {
+          console.log(err);
+        } else {
+          checkModel.reload();
+        }
       });
+    },
+    loadAWS: function(callback){
+      AWS.config.update({accessKeyId: applicationModel.aws_config.accessKeyId, secretAccessKey: applicationModel.aws_config.secretAccessKey});
+      var bucket = new AWS.S3({params: {Bucket: applicationModel.aws_config.bucket}});
+      bucket.getObject({Key: 'checkData.json'}).on('success', function(response) {
+        checkModel.saveData = JSON.parse(response.data.Body.toString('utf-8'));
+        callback();
+      }).send();
     }
 	};
+
+  // translationcore/pt-br/Ephesians/metaphor/1.json
 
 }(this, this.document));
