@@ -28,27 +28,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:crucify]]
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:kt:godthefather]]
-  * [[en:obe:kt:forgive]]
-  * [[en:obe:other:lots]]
+  * [[:en:obe:kt:crucify]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:other:lots]]
  
- 
-
 ===== Translation Notes: =====
 
-  * **When they came**  - The word "they" includes the soldiers, the criminals, and Jesus.
-  * **they crucified him**  - "the soldiers crucified Jesus"
-  * **one on the right**  - "one of the criminals was crucified on a cross located at the right side of Jesus"
-  * **the other on the left**  - "the other criminal was crucified on a cross located at the left side of Jesus" 
-  * **forgive them** - The word "them" refers to those who were crucifying Jesus.
-  * **for they do not know what they are doing**  - "because they do not understand what they are doing." The soldiers did not understand that they were crucifying the Son of God. This can also be translated as "for they do not really know who they are doing this do."
-  * **they cast lots**  - The soldiers participated in a type of gambling. It can be translated as "they gambled."
-  * **dividing up his garments**  - "to decide who among the soldiers would take home each piece of Jesus' clothing"
+  * **When they came** - The word "they" includes the soldiers, the criminals, and Jesus.
+  * **they crucified him** - "the soldiers crucified Jesus"
+  * **one on the right** - "one of the criminals was located at the right side of Jesus"
+  * **the other on the left** - "the other criminal was located at the left side of Jesus" 
+  * **Father, forgive them** - The word "them" refers to those who were crucifying Jesus. Jesus speaks to his Father with compassion toward the men crucifying him.
+  * **Father** - This is an important title for God. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **for they do not know what they are doing** - "because they do not understand what they are doing." The soldiers did not understand that they were crucifying the Son of God. AT: "for they do not really know whom they are crucifying." 
+  * **they cast lots** - The soldiers participated in a type of gambling. AT: "they gambled."
+  * **dividing up his garments** - "to decide who among the soldiers would take home each piece of Jesus' clothing"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:32|<<]] | [[:en:bible:notes:luk:23:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish crucify}}
+~~DISCUSSION~~{{tag>publish p2edit crucify}}

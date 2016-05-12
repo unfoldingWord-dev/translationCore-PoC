@@ -36,22 +36,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:peter]]
-  * [[en:obe:kt:amen]]
-  * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:kt:amen]]
+  * [[:en:obe:kt:kingdomofgod]]
   * [[:en:obe:kt:eternity]]
 
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - This is the end of the conversation about entering the kingdom of heaven.
 
-    * **everything that is our own** - "all our wealth" or "all our possessions"
-    * **Truly, I say to you** - Jesus used this expression to stress the importance of what he is about to say.
-    * **there is no one who has left…who will not receive** - This can be stated positively: "everyone who has left...will receive" (UDB). 
-    * **and in the world to come, eternal life** - This could also be translated as "and also eternal life in the world to come."
+  * **everything that is our own** - "all our wealth" or "all our possessions"
+  * **Truly, I say to you** - Jesus used this expression to stress the importance of what he is about to say.
+  * **there is no one who has left...who will not receive** - AT: "everyone who has left...will receive" (UDB)
+  * **and in the world to come, eternal life** - "and also eternal life in the world to come"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 **[[:en:bible:notes:luk:18:26|<<]] | [[:en:bible:notes:luk:18:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}

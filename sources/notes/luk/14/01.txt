@@ -32,26 +32,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:sabbath]]
-  * [[en:obe:other:pharisee]]
-  * [[en:obe:other:bread]]
-  * [[en:obe:other:scribe]]
-  * [[en:obe:other:lawful]]
-  * [[en:obe:other:heal]]
+  * [[:en:obe:kt:sabbath]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:other:bread]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:lawful]]
+  * [[:en:obe:other:heal]]
  
 ===== Translation Notes: =====
+  * **General Information:** - This is the next part of the story. It is the Sabbath and Jesus is at at Pharisee's house. Verse 1 gives use background information about the setting of the story. (See: [[:en:ta:vol2:translate:writing_background]])
 
-  * **to eat bread**  - "to eat" or "for a meal." Bread was an important part of a meal and is used in this sentence to refer to a meal. (See: [[en:ta:vol2:translate:figs_synecdoche]])
-  * **watching him closely **  - They wanted to see if they could accuse him of doing anything wrong.
-  * **Behold, there in front of him was a man**  - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There in front of him was a man who was…”
-  * **was suffering from edema**  - Edema is swelling caused by water building up in parts of the body. Some languages may have a name for this condition. This phrase can be translated as “was suffering because parts of his body were swollen with water.”
-  * **Is it lawful to heal**  - "Does the law permit us to heal"
-
+  * **to eat bread** - "to eat" or "for a meal." Bread was an important part of a meal and is used in this sentence to refer to a meal. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **watching him closely** - They wanted to see if they could accuse him of doing anything wrong.
+  * **Behold, there in front of him was a man** - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There in front of him was a man."
+  * **was suffering from edema** - Edema is swelling caused by water building up in parts of the body. Some languages may have a name for this condition. AT: "was suffering because parts of his body were swollen with water."
+  * **Is it lawful to heal...not?** - "Does the law permit us to heal...not?"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 **[[:en:bible:notes:luk:13:34|<<]] | [[:en:bible:notes:luk:14:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

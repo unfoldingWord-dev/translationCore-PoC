@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 13 No servant is able to serve two different masters at the same time. If he tried to do that, he would hate one of them and love the other one, or he would be loyal to one of them and despise the other one. Similarly, you cannot devote your life to serving God if you are devoting your life to acquiring money and other material possessions."
+\v 13 No servant is able to serve two different masters at the same time. If he tried to do that, he would hate one of them and love the other one, or he would be loyal to one of them and despise the other one. You cannot devote your life to serving God if you are also devoting your life to acquiring money and other material possessions."
 
 
 \p
@@ -30,29 +30,33 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:servant]]
+  * [[:en:obe:other:servant]]
   * [[:en:obe:kt:lord]]
-  * [[en:obe:kt:god]]
+  * [[:en:obe:kt:god]]
 
 
 ===== Translation Notes: =====
-Jesus continues to teach the people.
-  * **No servant can**  - This can also be translated as, "A servant cannot."
-  * **he will hate**  - "the servant will hate"
-  * **devoted**  - "dedicated" or "loyal"
-  * **despise the other**  - "hold the other in contempt" or "sneer at at other" or "hate the other"
-  * **You cannot serve**  - Jesus was talking to a group of people, so languages that have a plural form of "you" would use that. (See: [[en:ta:vol1:translate:figs_you]])
-  * **serve**  - "be a slave to"
+
+  * **General Information:** - This is a break in Jesus teachings, as verse 14 tells us background information about how the Pharisees ridiculed Jesus. In verse 15, Jesus continues teaching and responds to the Pharisees. (See: [[:en:ta:vol2:translate:writing_background]])
+
+  * **No servant can** - AT: "A servant cannot"
+  * **he will hate** - "the servant will hate"
+  * **devoted** - "dedicated" or "loyal"
+  * **despise the other** - "hold the other in contempt" or "hate the other"
+  * **You cannot serve** - Jesus was talking to a group of people, so languages that have a plural form of "you" would use that. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **serve** - "be a slave to"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 
  
 
-**[[en/bible/notes/luk/16/10|<<]] | [[en/bible/notes/luk/16/14|>>]]**
+**[[:en:bible:notes:luk:16:10|<<]] | [[:en:bible:notes:luk:16:14|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish lord}}
+{{tag>publish p2edit lord}}
 ~~NOCACHE~~

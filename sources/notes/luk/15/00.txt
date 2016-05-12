@@ -1,0 +1,26 @@
+====== Luke 15 General Notes ======
+
+
+=== Structure and formatting ===
+
+== The Parable of the prodigal son ==
+Luke [[:en:bible:notes:luk:15:13|15:13-32]] form a single parable, known the the parable of the prodigal son. There are three figures in the story. It is generally agreed that the father represent God (the Father), the sinful younger son represents those who repent and come to faith in Jesus, and the self-righteous older son who represents the pharisees. The forgiveness shown to the lost and sinful son becomes a stumbling block for the older son, causing him to reject the father.
+
+=== Special concepts in this chapter ===
+
+== "Sinners" ==
+The Pharisees refers to a group of people as "[[:en:obe:kt:sin|sinners]]." The Jewish leaders thought these people were sinful, but in reality the leaders were also sinful. This can be taken as [[:en:ta:vol1:translate:figs_irony]].
+
+===== Links: =====
+
+  * **[[:en:bible:notes:luk:15:01|Luke 15:01 Notes]]**
+**[[:en:bible:notes:luk:14:00|<<]] | [[:en:bible:notes:luk:16:00|>>]]**
+
+
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft CHTeam}}

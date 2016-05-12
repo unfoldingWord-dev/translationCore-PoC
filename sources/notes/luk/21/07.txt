@@ -34,32 +34,33 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:teacher]]
-  * [[en:obe:kt:sign]]
-  * [[en:obe:kt:deceive]]
-  * [[en:obe:kt:name]]
-  * [[en:obe:other:terror]]
-
- 
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:kt:sign]]
+  * [[:en:obe:kt:deceive]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:other:terror]]
 
 ===== Translation Notes: =====
 
-  * **they asked him**  - "the disciples asked Jesus" or "Jesus' disciples asked him"
-  * **these things** - the things Jesus had just spoken about. Jesus had just spoken about the temple being destroyed.
-  * **that you are not deceived**  - "that you do not believe lies." or "that you have true belief" (See: [[:en:ta:vol2:translate:figs_doublenegatives]]) Jesus was talking to his disciples. The word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
+  * **they asked him** - "the disciples asked Jesus" or "Jesus' disciples asked him"
+  * **these things** - This refers to what Jesus just said about enemies destroying the temple.
+  * **that you are not deceived** - Jesus was talking to his disciples. The word "you" is plural. AT: "that you do not believe lies" or "that no one deceives you." (See: [[:en:ta:vol1:translate:figs_you]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **in my name** - AT: "claiming to be me" or "claiming to have my authority" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **the end will not happen immediately**  - "the end of the world will not happen immediately after the wars and riots". The noun "the end" can also be translated as a verb: "the world will not end immediately after those things happen." (See: [[en:ta:vol2:translate:figs_partsofspeech]])
-  * **the end**  - "the end of the world" or "the end of everything"
+  * **do not be terrified** - "do not let these things terrify you" or "do not be afraid"
+  * **the end will not happen immediately** - AT: "the end of the world will not happen immediately after the wars and riots" or "the world will not end immediately after those things happen"
+  * **the end** - "the end of everything" or "the end of the age"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 
  
 
-**[[en/bible/notes/luk/21/05|<<]] | [[en/bible/notes/luk/21/10|>>]]**
+**[[:en:bible:notes:luk:21:05|<<]] | [[:en:bible:notes:luk:21:10|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

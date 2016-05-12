@@ -27,22 +27,24 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:other:peter]]
-    * [[en:obe:kt:power]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:kt:power]]
 
 ===== Translation Notes: =====
-Jesus is still on the way to heal Jairus' daughter.
 
-    * **Master**  - The word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to  someone who owns someone else. AT: "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
-    * **the crowds of people are pressing in on you and crowding you** - By saying this, Peter was implying that anyone could have touched Jesus. This implicit information can be made explicit if necessary as in the UDB. (See [[en:ta:vol1:translate:figs_explicit]])
-    * **I knew that power was going out from me** - "I felt healing power go out from me." Jesus did not lose power or become weak, but his power healed the woman.
+  * **Master** - The word that is translated here as "Master" is a not the normal word for "Master." This one refers to someone who has authority, and not to someone who owns someone else. AT: "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as "Sir."
+  * **the crowds of people are pressing in on you and crowding you** - By saying this, Peter was implying that anyone could have touched Jesus. This implicit information can be made explicit if necessary as in the UDB. (See [[:en:ta:vol1:translate:figs_explicit]])
+  * **I knew that power was going out from me** - "I felt healing power go out from me." Jesus did not lose power or become weak, but his power healed the woman.
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:43|<<]] | [[:en:bible:notes:luk:08:47|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

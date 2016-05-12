@@ -28,41 +28,43 @@
 ===== ULB: =====
 
 <usfm>
-\v 36 See, Elizabeth your relative also has conceived a son in her old age; she is in her sixth month of pregnancy, even though she was called barren.
-\v 37 For nothing is impossible for God."
-\v 38 Mary said, "Indeed, I am the Lord's servant. Let this happen to me according to your word." And the angel left her.
+\v 36 And see, your relative Elizabeth has also conceived a son in her old age. This is the sixth month for her, she who was called barren. 
+\v 37 For nothing will be impossible for God."  
+\v 38 Mary said, "See, I am the female servant of the Lord. Let it be for me according to your message." Then the angel left her.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:other:elizabeth]]
-  * [[en:obe:other:conceive]]
-  * [[en:obe:kt:barren]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:other:mary]]
-  * [[en:obe:kt:lordgod]]
-  * [[en:obe:other:servant]]
-  * [[en:obe:kt:word]]
-  * [[en:obe:kt:angel]]
+  * [[:en:obe:other:elizabeth]]
+  * [[:en:obe:other:conceive]]
+  * [[:en:obe:kt:barren]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:mary]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:angel]]
 
 
 ===== Translation Notes: =====
 
-The angel finishes speaking to Mary.
-
-    * **your relative** - If you need to state a specific relationship, Elizabeth was probably Mary's aunt or great-aunt.
-    * **also has conceived a son in her old age** - "has also become pregnant with a son, even though she is already very old" or "even though she is old, has also become pregnant and will bear a son" Make sure it doesn't sound as though both Mary and Elizabeth were old when they conceived.
-    * **nothing is impossible for God** - "because God can do anything" What God had done for Elizabeth was proof that God was able to do anything, and that he could even enable Mary to become pregnant without her sleeping with a man. (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-    * **I am the Lord's servant** - "I am a servant of the Lord" Choose an expression that shows her humility and obedience to the Lord. She was not boasting about being the Lord's servant.
-    * **Let this happen to me** - Mary was expressing her willingness for the things to happen that the angel had told her were about to happen.
-
+  * **And see** - This expression here emphasizes the importance of the statement about Elizabeth that follows. 
+  * **your relative Elizabeth** - If you need to state a specific relationship, Elizabeth was probably Mary's aunt or great-aunt.
+  * **has also conceived a son in her old age** - "has also become pregnant with a son, even though she is already very old" or "even though she is old, has also become pregnant and will bear a son." Make sure it does not sound as though both Mary and Elizabeth were old when they conceived.
+  * **the sixth month for her** - "the sixth month of her pregnancy"
+  * **For** - "Because" or "This shows that"
+  * **nothing will be impossible for God** - The double negatives in this statement can be stated with positive terms. AT: "This shows that God can do anything." Elizabeth's pregnancy was proof that God was able to do anything—even enable Mary to become pregnant without her sleeping with a man. (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **See** - Mary uses the same expression as the angel to emphasize how serious she was about her decision to submit to the Lord.
+  * **I am the female servant of the Lord** - Choose an expression that shows her humility and obedience to the Lord. She was not boasting about being the Lord's servant.
+  * **Let it be for me** - "Let this happen to me." Mary was expressing her willingness for the things to happen that the angel had told her were about to happen.
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:34|<<]] | [[:en:bible:notes:luk:01:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

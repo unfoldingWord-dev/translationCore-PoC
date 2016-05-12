@@ -31,26 +31,28 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:cross]]
-    * [[en:obe:kt:save]]
+  * [[:en:obe:kt:cross]]
+  * [[:en:obe:kt:save]]
 
 ===== Translation Notes: =====
 
 
-    * **He said** - This refers to Jesus.
-    * **to them all** -This refers to the disciples who were with Jesus.
-    * **to come after me** - "to follow after me" or "to be my follower" or "to come with me as a disciple"
-    * **deny himself** - AT: "not give in to his own desires," or "forsake his own desires."
-    * **take up his cross daily** - "lift up his cross and carry it every day." This has the meaning of "be ready to suffer daily." 
-    * **follow me** - "go along with me" or "begin to follow me and keep on following me"
-    * **What does it benefit a man** - AT: "how does a person profit." or "It does not benefit a man" or "A man does not receive anything good." (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **if he gains the whole world** - "if he gets everything in the world"
-    * **loses or forfeits his own self** - AT: "he himself is lost or destroyed."  
+  * **He said** - "Jesus said"
+  * **to them all** - This refers to the disciples who were with Jesus.
+  * **to come after me** - "to follow after me" or "to come with me as a disciple"
+  * **deny himself** - AT: "not give in to his own desires," or "forsake his own desires."
+  * **take up his cross daily** - "lift up his cross and carry it every day." This does not mean they must literally carry a cross every day. It means his followers must deny the things they want and be willing to suffer and even die to obey Jesus. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **follow me** - "go along with me" or "begin to follow me and keep on following me"
+  * **What does it benefit a man...self?** - Jesus uses a question to teach his disciples. AT: "A man does not receive anything good...self." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **if he gains the whole world** - "if he gets everything in the world"
+  * **loses or forfeits his own self** - AT: "he himself perishes" 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:20|<<]] | [[:en:bible:notes:luk:09:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish cross }}
+~~DISCUSSION~~{{tag>publish p2edit cross }}
 
 ~~NOCACHE~~

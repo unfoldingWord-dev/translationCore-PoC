@@ -26,25 +26,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:bread]]
-  * [[en:obe:kt:bless]]
-  * [[en:obe:other:heart]]
-  * [[en:obe:kt:wordofgod]]
+  * [[:en:obe:other:bread]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:wordofgod]]
 
 ===== Translation Notes: =====
 
-  * **It happened**  - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
-  * **Then their eyes were opened**  - "then they understood" or "then they realized"
+  * **It happened** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
   * **the bread** - This refers to bread made without yeast. It does not refer to food in general. 
-  * **blessed it** - This can be translated as "gave thanks for it" or "thanked God for it."
+  * **blessed it** - "gave thanks for it" or "thanked God for it"
+  * **Then their eyes were opened** - AT: "then they understood" or "then they realized" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
   * **he vanished out of their sight** - This means that suddenly he was no longer there. It does not mean that he became invisible.
-  * **Was not our heart burning…**  -  "Our hearts were burning within us" (UDB). This is a rhetorical question. (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **burning within us** - This is a metaphor that describes the intense feelings they had while talking to Jesus. The entire question could be translated as "We had such intense feelings while he was speaking to us..." (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **within us**  - The two men were speaking to each other. So the word "us" is dual inclusive for languages that make these distinctions. (See: [[en:ta:vol2:translate:figs_pluralpronouns]], [[en:ta:vol2:translate:figs_inclusive]])
-  * **while he opened to us the scriptures** - "while he explained the scriptures to us." Jesus did not open a book or scroll.
+  * **Was not our heart burning...scriptures?** - They use a question to emphasize how amazed they were about their encounter with Jesus. AT: "Our hearts were burning within us...scriptures." (UDB) (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **burning within us** - This is a metaphor that describes the intense feelings they had while talking to Jesus. AT: "We had such intense feelings while he was speaking to us." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **within us** - The two men were speaking to each other. So the word "us" is dual inclusive for languages that make these distinctions. (See: [[:en:ta:vol2:translate:figs_pronouns]] and [[:en:ta:vol2:translate:figs_inclusive]])
+  * **while he opened to us the scriptures** - Jesus did not open a book or scroll. AT: "while he explained the scriptures to us."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:28|<<]] | [[:en:bible:notes:luk:24:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}

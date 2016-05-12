@@ -30,27 +30,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:shem]]
-  * [[en:obe:other:noah]]
-  * [[en:obe:other:lamech]]
-  * [[en:obe:other:enoch]]
-  * [[en:obe:other:seth]]
-  * [[en:obe:other:adam]]
-  * [[en:obe:kt:god]]
+  * [[:en:obe:other:shem]]
+  * [[:en:obe:other:noah]]
+  * [[:en:obe:other:lamech]]
+  * [[:en:obe:other:enoch]]
+  * [[:en:obe:other:seth]]
+  * [[:en:obe:other:adam]]
+  * [[:en:obe:kt:god]]
+
 ===== Translation Notes: =====
-This is a continuation of the list of Jesus' ancestors. (See: [[:en:ta:vol1:translate:translate_names]])
 
-  * **the son of Cainan, the son of Arphaxad...** - Use the same wording as you used in the previous verses.  AT: “who was the son of Cainan, who was the son of Arphaxad...” or “Levi was the son of Cainan, Cainan was the son of Arphaxad...” or “Shelah's father was Cainan, Cainan's father was Arphaxad....” 
-  * **Adam, the son of God** - AT: "Adam, created by God" or "Adam, who was from God" or "Adam, the son, we could say, of God" 
-
+  * **the son of Cainan, the son of Arphaxad...Adam** - This is a continuation of the list of Jesus' ancestors. Use the same format as you used in the previous verses. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **Adam, the son of God** - "Adam, created by God" or "Adam, who was from God" or "Adam, the son, we could say, of God" 
 
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
-
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 **[[:en:bible:notes:luk:03:33|<<]] | [[:en:bible:notes:luk:04:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish shem  adam }}
+~~DISCUSSION~~{{tag>publish p2check shem adam}}
 
 ~~NOCACHE~~

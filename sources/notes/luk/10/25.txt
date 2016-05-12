@@ -35,37 +35,43 @@
 \v 28 Jesus said to him, "You have answered correctly. Do this, and you will live."
 </usfm>
 
-
 ===== translationWords: =====
 
-    * [[en:obe:kt:teacher]]
-    * [[en:obe:kt:lawofmoses]]
-    * [[en:obe:kt:test]]
-    * [[en:obe:kt:inherit]]
-    * [[en:obe:kt:eternity]]
-    * [[en:obe:kt:life]]
-    * [[en:obe:other:written]]
-    * [[en:obe:kt:love]]
-    * [[en:obe:kt:lordgod]]
-    * [[en:obe:other:heart]]
-    * [[en:obe:kt:soul]]
-    * [[en:obe:other:neighbor]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:kt:lawofmoses]]
+  * [[:en:obe:kt:test]]
+  * [[:en:obe:kt:inherit]]
+  * [[:en:obe:kt:eternity]]
+  * [[:en:obe:kt:life]]
+  * [[:en:obe:other:written]]
+  * [[:en:obe:kt:love]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:soul]]
+  * [[:en:obe:other:strength]]
+  * [[:en:obe:other:mind]]
+  * [[:en:obe:other:neighbor]]
 
 ===== Translation Notes: =====
 
-  * **Behold**  - This event happens at a later time. You can make this clear to the reader as in the UDB: "One day as Jesus was teaching people."
-  * **Behold, a certain teacher**  - The word "Behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There was a certain teacher…"
-  * **tested him**  - "challenged Jesus"
-  * **What is written in the law**  - AT: "What did Moses write in the law" or "What do the scriptures say?" (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **How do you read it?**  - "What have you read in it?" or "What do you understand it to say?"
-  * **You must love...** - The man replied by quoting portions of Deuteronomy [[:en:bible:notes:deu:06:04|6:5]] and Leviticus [[:en:bible:notes:lev:19:17|19:18]].
-  * **your heart...your soul...your strength...your mind** - These all mean that a person must completely love God with all of their being.
-  * **your neighbor**  - This refers to a member of your community. AT: "your fellow-citizen" or "the people of your community."
+  * **Connecting Statement:** - Jesus replies with a story to a Jewish teacher who wants to test Jesus. (See: [[:en:ta:vol1:translate:figs_parables]])
+
+  * **Behold, a certain teacher** - This event happens at a later time. AT: "One day as Jesus was teaching people, a certain teacher." (UDB) (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Behold** - This alerts us to a new person in the story. Your language may have a way of doing this.
+  * **tested him** - "challenged Jesus"
+  * **What is written in the law?** - Jesus uses a question to teach the Jewish teacher. AT: "Tell me what Moses wrote in the law." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **How do you read it?** - "What have you read in it?" or "What do you understand it to say?"
+  * **You must love...neighbor as yourself** - The man is quoting what Moses wrote in the law.
+  * **your heart...your soul...your strength...your mind** - These all mean that a person must completely love God with all of their being. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **your neighbor** - This refers to a member of your community. AT: "your fellow-citizen" or "the people of your community."
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 **[[:en:bible:notes:luk:10:23|<<]] | [[:en:bible:notes:luk:10:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

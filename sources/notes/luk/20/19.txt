@@ -28,30 +28,31 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:scribe]]
-  * [[en:obe:other:chiefpriests]]
-  * [[en:obe:kt:hour]]
-  * [[en:obe:other:parable]]
-  * [[en:obe:kt:fear]]
-  * [[en:obe:kt:righteous]]
-  * [[en:obe:kt:authority]]
-  * [[en:obe:other:governor]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:kt:hour]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:kt:fear]]
+  * [[:en:obe:kt:righteous]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:other:governor]]
  
 ===== Translation Notes: =====
 
-  * **sought to lay hands on him**  - AT: "looked for a way to arrest Jesus." (See: [[:en:ta:vol1:translate:figs_idiom]])
-  * **in that very hour**  - "immediately"
-  * **they were afraid of the people**  - This is the reason that they did not arrest Jesus right away. The people respected Jesus, and the religious leaders were afraid of what the people might do if they arrested him. Some translations may need to make this explicit: "But they did not arrest him because they were afraid of the people." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **they sent out spies**  - "the scribes and chief priests sent spies to watch Jesus"
-  * **that they might find fault with his speech**  - "they wanted to accuse Jesus of saying something bad"
-  * **so as to deliver him up to**  - "in order to bring him to" or "so that they might hand him over to"
-  * **to the rule and to the authority of the governor**  - "Rule" and "authority" are two ways of saying the same thing. It can be translated with one or both expressions. The reason for handing Jesus over to the governor can be made explicit: "so that the governor would punish Jesus." (See: [[en:ta:vol1:translate:figs_explicit]])
-
+  * **sought to lay hands on him** - AT: "looked for a way to arrest Jesus" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **in that very hour** - "immediately"
+  * **they were afraid of the people** - This is the reason that they did not arrest Jesus right away. The people respected Jesus, and the religious leaders were afraid of what the people might do if they arrested him. AT: "But they did not arrest him because they were afraid of the people." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **they sent out spies** - "the scribes and chief priests sent spies to watch Jesus"
+  * **that they might find fault with his speech** - "because they wanted to accuse Jesus of saying something bad"
+  * **so as to deliver him up to** - "in order to bring him to" or "so that they might hand him over to"
+  * **to the rule and to the authority of the governor** - "Rule" and "authority" are two ways of saying the same thing. It can be translated with one or both expressions. AT: "so that the governor would punish Jesus." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 **[[:en:bible:notes:luk:20:17|<<]] | [[:en:bible:notes:luk:20:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

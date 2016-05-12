@@ -31,25 +31,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:serve]]
-
- 
+  * [[:en:obe:other:serve]]
 
 ===== Translation Notes: =====
 
-Jesus continues to teach his disciples.
+  * **Connecting Statement:** - Jesus continues teaching his apostles.
+
   * **it must not be like this with you** - "you should not act like that"
-  * **the youngest** - "the least important." As leaders were most often older people and called "elders," "the youngest" would be the least likely to lead. (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **For** - This connects Jesus' commands in verse 26 with the whole of verse 27. The idea is "Let the most important serve because I am servant." Jesus, the most important among them, serves them, so the one who is most important among them must serve. 
+  * **the youngest** - As leaders were most often older people and called "elders," "the youngest" would be the least likely to lead. AT: "the least important." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **For** - This connects Jesus' commands in verse 26 with the whole of verse 27. It means that the most important person should serve because Jesus is a servant.
   * **the one who serves** - "a servant"
-  * **which is greater** - "which one is greater" or "who is more important." Jesus asked this rhetorical question to introduce his answer to the apostles' question about greatness. This rhetorical question can be translated as "I want you to think about who is greater." ([[en:ta:vol1:translate:figs_rquestion]])
-  * **the one who sits at the table** - This can also be translated as "the one who is dining"
+  * **which is greater...serves?** - "who is more important...serves?" Jesus uses a question to introduce his answer to the apostles' question about greatness. AT: "I want you to think about who is greater...serves." ([[:en:ta:vol1:translate:figs_rquestion]])
+  * **the one who sits at the table** - "the one who is dining"
   * **the one who serves** - "the one who serves the food" or "the one who serves the one who sits." This refers to a servant.
-  * **Is it not the one who sits at the table?** - This is also a rhetorical question. The implied answer is "Of course the one who sits at the table is more important than the servant!"   ([[en:ta:vol1:translate:figs_rquestion]])
-  * **Yet I am among you as one who serves** - The word "yet" is here because there is a contrast between what people would expect Jesus to be like and what he really was like. This can also be translated as "Yet I am serving you."
+  * **Is it not the one who sits at the table?** - Jesus uses another question to teach the disciples. AT: "Of course the one who sits at the table is more important than the servant!" ([[:en:ta:vol1:translate:figs_rquestion]])
+  * **Yet I am among you as one who serves** - "Yet I am serving you." The word "yet" is here because there is a contrast between what people would expect Jesus to be like and what he really was like.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:24|<<]] | [[:en:bible:notes:luk:22:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish serve}}
+~~DISCUSSION~~{{tag>publish p2edit serve}}

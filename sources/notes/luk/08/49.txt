@@ -28,24 +28,25 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:synagogue]]
-    * [[en:obe:kt:teacher]]
-    * [[en:obe:kt:believe]]
-    * [[en:obe:kt:save]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:kt:believe]]
+  * [[:en:obe:kt:save]]
 
 ===== Translation Notes: =====
-A messenger arrives from Jairus' house as Jesus finishes speaking to the woman that he healed.
 
-    * **While he was still speaking** - "While Jesus was still speaking to the woman"
-    * **synagogue leader**  - This refers to Jairus. He was one of the leaders at the local synagogue.
-    * **he answered him** - "Jesus answered Jairus." Jesus was speaking to the synagogue ruler, and not to the messenger.
-    * **she will be saved** - "she will well" or "she will live again" (UDB)
+  * **While he was still speaking** - AT: "While Jesus was still speaking to the woman"
+  * **synagogue leader** - This refers to Jairus. (See: [[:en:bible:notes:luk:08:40|8:41]])
+  * **he answered him** - "Jesus answered Jairus"
+  * **she will be saved** - AT: "I will heal her" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:47|<<]] | [[:en:bible:notes:luk:08:51|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

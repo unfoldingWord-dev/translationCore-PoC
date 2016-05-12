@@ -28,20 +28,26 @@
 
 ===== translationWords: =====
 
-    * [[:en:obe:other:parable]]
-    * [[:en:obe:other:fig]]
-    * [[:en:obe:other:vineyard]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:other:fig]]
+  * [[:en:obe:other:vineyard]]
+  * [[:en:obe:other:biblicaltimeyear]]
 
 
 ===== Translation Notes: =====
-Jesus continues speaking to the crowd.
-    * **Jesus told this parable** - He spoke the parable to explain his statement in the previous verse that they should repent or perish. 
-    * **Why let it waste the ground** - This is a rhetorical question. It can be translated as a statement as it is in the UDB or as a command: "Do not let it waste the ground." (See: [[en:ta:vol1:translate:figs_rquestion]])
+
+  * **General Information:** - Jesus begins to tell a parable to explain his last statement, "But if you do not repent, all of you will also perish." (See: [[:en:ta:vol1:translate:figs_parables]])
+
+  * **Someone had a fig tree planted** - AT: "A person planted a fig tree" (See:[[:en:ta:vol2:translate:figs_activepassive]])
+  * **three years** - "3 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Why let it waste the ground?** - The man uses a question to emphasize that the tree is useless and the gardener should cut it down. AT: "Do not let it waste the ground." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:04|<<]] | [[:en:bible:notes:luk:13:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish fig vineyard}}
+~~DISCUSSION~~{{tag>publish p2edit fig vineyard}}
 
 ~~NOCACHE~~

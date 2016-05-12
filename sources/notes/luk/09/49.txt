@@ -35,25 +35,28 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:johntheapostle]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:kt:name]]
-    * [[en:obe:kt:jesus]]
+  * [[:en:obe:other:johntheapostle]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:kt:jesus]]
 
 
 ===== Translation Notes: =====
 
+  * **John answered and said** - John was responding to what Jesus had said about being the greatest. He was not answering a question. He wanted to know what rank this man who was forcing out demons would have among the disciples. AT: "In reply, John said" or "John replied to Jesus." 
+  * **Master** - The word that is translated here as "master" is a not the normal word for "master." Here it refers to someone who has authority, and not to someone who owns someone else. AT: "Boss" or "Sir."
+  * **in your name** - This means the person was speaking with the power and authority of Jesus. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Do not stop him** - AT: "Allow him to continue"
+  * **he that is not against you is for you** - Some modern languages have sayings that mean the same thing. AT: "if a person does not hinder you, it is as if they were helping you" or "if someone is not working contrary to you, he is working in your favor." 
 
-    * **John answered and said**  - "In reply, John said" or "John replied to Jesus." John was responding to what Jesus had said about being the greatest. He was not answering a question. He wanted to know what rank this man who was forcing out demons would have among the disciples. 
-    * **Master**  - The word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to  someone who owns someone else. AT: "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
-    * **in your name** - This means the person was speaking with the power and authority of Jesus. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-    * **Do not stop him** This is a double negative. In some languages it is more natural to use a positive. AT: "allow him to continue" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-    * **he that is not against you is for you** - Some modern languages have sayings that mean the same thing.  AT: "if a person does not hinder you, it is if they were helping you" or "if someone is not working contrary to you, he is working in your favor." 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:46|<<]] | [[:en:bible:notes:luk:09:51|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

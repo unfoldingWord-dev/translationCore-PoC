@@ -30,25 +30,29 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:jerusalem]]
-  * [[en:obe:kt:passover]]
-  * [[en:obe:other:feast]]
-  * [[en:obe:kt:jesus]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:passover]]
+  * [[:en:obe:other:feast]]
+  * [[:en:obe:kt:jesus]]
 
 ===== Translation Notes: =====
 
-Jesus goes to Jerusalem with his family when he is 12 years old. 
+  * **Connecting Statement:** - When Jesus is 12 years old, he goes to Jerusalem with his family. While he is there, he asks and answers questions of the temple teachers.
 
+  * **His parents went...Festival of the Passover** - This is background information. (See: [[:en:ta:vol2:translate:writing_background]])
   * **His parents** - "Jesus' parents"
   * **they again went up** - Jerusalem was on a hill, so people had to go up to it.
-  * **After they had stayed the full number of days for the feast** - "When all the days of celebrating the feast were over" or "After celebrating the feast for the required number of days"
+  * **at the customary time** - "at the normal time" or "as they did every year"
+  * **After they had stayed the full number of days for the feast** - "When the entire time for celebrating the feast was over" or "After celebrating the feast for the required number of days"
+  * **the feast** - This was another name for the Festival of the Passover, since it involved eating a ceremonial meal.
   * **They assumed** - "They thought"
   * **they traveled a day's journey** - "they traveled one day" or "they went as far as people walk in one day"
-
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:39|<<]] | [[:en:bible:notes:luk:02:45|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}

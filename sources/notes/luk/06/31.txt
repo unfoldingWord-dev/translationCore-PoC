@@ -35,24 +35,22 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:love]]
-    * [[en:obe:kt:sin]]
-    * [[en:obe:kt:good]]
+  * [[:en:obe:kt:love]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:good]]
 
 ===== Translation Notes: =====
-Jesus continues to teach the crowd to love their enemies.
 
-    * **As you want people to do to you, you should do the same to them** - In some languages it may be more natural to reverse the order. "You should do to people the same as what you want them to do to you" or "Treat people they way you want them to treat you."
-    * **what credit is that to you?** - This is a rhetorical question. Another possible meaning is "What reward will you receive?"  AT: "You will not receive any credit for that."  or "What praise will you receive for doing that?" or "Will anyone think that you have done something special?" (See: [[en:ta:vol1:translate:figs_rquestion]]) 
-
-
- 
+  * **As you want people to do to you, you should do the same to them** - In some languages it may be more natural to reverse the order. AT: "You should do to people the same as what you want them to do to you" or "Treat people they way you want them to treat you."
+  * **what credit is that to you?** - "What reward will you receive?" or "What praise will you receive for doing that?" This could be written as a statement. AT: "You will not receive any reward for that" or "God will not reward you for that." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **receive the same amount back again** - The law of Moses commanded the Jews not to receive interest on money they loaned to each other. (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:29|<<]] | [[:en:bible:notes:luk:06:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

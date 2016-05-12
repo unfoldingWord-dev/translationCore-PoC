@@ -30,25 +30,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:satan]]
-  * [[en:obe:other:kingdom]]
-  * [[en:obe:other:judgeposition]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:satan]]
+  * [[:en:obe:other:kingdom]]
+  * [[:en:obe:other:judgeposition]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:kingdomofgod]]
 
 ===== Translation Notes: =====
-Jesus continues to speak to the crowd about demons.
 
-  * **If Satan is divided against himself**  - "If Satan and members of his kingdom are fighting among themselves."
-  * **how will his kingdom stand**  - This is a rhetorical question. AT: "Satan's kingdom cannot stand," or "Satan's kingdom will fall apart." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **For you say I cast out demons by Beelzebul**  - "For you say that it is by the power of Beelzebul that I make demons leave people." The next part of his argument can be stated explicitly: "that would mean that Satan is divided against himself." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **by whom do your followers drive them out**  - "by whose power do you followers force demons to leave people." This is a rhetorical question. AT: "then we must agree that your followers also drive out demons by Beelzebul's power." The implied evaluation of that statement can be made explicit: "But we know that that is not true."  (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol1:translate:figs_explicit]])
-  * **they will be your judges**  - "your followers who cast out demons by God's power will judge you for saying that I cast out demons by Beelzebul's power."
-  * **by the finger of God**  - The "finger of God" refers to God's power. (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **then the kingdom of God has come to you**  - "this shows that God's kingdom has come to you"
+  * **If Satan is divided against himself** - "Satan" here is referring to the demons who joined Satan in rebelling against God. AT: "If Satan and members of his kingdom are fighting among themselves" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **how will his kingdom stand?** - Jesus uses a question to teach the people. AT: "Satan's kingdom will not last" or "Satan's kingdom will fall apart." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **For you say I cast out demons by Beelzebul** - "For you say that it is by the power of Beelzebul that I make demons leave people." The next part of his argument can be stated explicitly: "that would mean that Satan is divided against himself." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **by whom do your followers drive them out** - "by whose power do your followers force demons to leave people." Jesus uses a question to teach the people. The meaning of Jesus' question can be made explicit. AT: "then we must agree that your followers also drive out demons by Beelzebul's power. But we know that that is not true." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **they will be your judges** - "your followers who cast out demons by God's power will judge you for saying that I cast out demons by Beelzebul's power."
+  * **by the finger of God** - The "finger of God" refers to God's power. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **then the kingdom of God has come to you** - "this shows that God's kingdom has come to you"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:16|<<]] | [[:en:bible:notes:luk:11:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish beelzebul judgeposition  }}
+~~DISCUSSION~~{{tag>publish p2edit beelzebul judgeposition}}

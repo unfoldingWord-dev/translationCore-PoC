@@ -26,30 +26,34 @@
 ===== ULB: =====
 
 <usfm>
-\v 47 That servant, having known his lord’s will, and not having prepared or done according to his will, will be beaten with many blows.
+\v 47 That servant, having known his lord's will, and not having prepared or done according to his will, will be beaten with many blows.
 \v 48 But he who did not know, and did things worthy of a beating, will be beaten with a few blows. Everyone to whom much is given, much will be required of him, and to whom they entrust much, they will ask even more of him.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[:en:obe:other:servant]]
-    * [[:en:obe:kt:lord]]
-    * [[en:obe:kt:worthy]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:worthy]]
 
 ===== Translation Notes: =====
-Jesus continues to tell his disciples a parable.
-    * **will be beaten with many blows**  - "will be hit many times" or "will be whipped many times." AT: "his master will hit him many times" or "his master will punish him severely."
-    * **Everyone to whom much is given, much will be required of him** - AT: "They will require more of anyone who has received much" or "the master will require more of everyone he has given much to."
-    * **they entrust … they will ask** - The word "they" here does not refer to a specific group of people. AT: "the master entrusts ... the master will ask." If you translated the previous sentences with a passive, consider following the UDB. (See: [[en:ta:vol2:translate:figs_activepassive]])
-    * **to whom they entrust much** - "to whom they give much property to take care of" or "to whom they give much responsibility" (See: [[en:ta:vol2:translate:figs_activepassive]])
+
+  * **Connecting Statement:** - Jesus finishes telling the parable.
+
+  * **will be beaten with many blows** - "will be hit many times" or "will be whipped many times." AT: "his master will hit him many times" or "his master will punish him severely." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Everyone to whom much is given, much will be required of him** - AT: "They will require more of anyone who has received much" or "The master will require more of everyone he has given much to" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to whom they entrust much** - AT: "to whom they give much property to take care of" or "to whom they give much responsibility" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they entrust...they will ask** - The word "they" here does not refer to a specific group of people. AT: "the master entrusts...the master will ask." If you translated the previous sentences with a passive verb, consider following the UDB. (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
   
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:45|<<]] | [[:en:bible:notes:luk:12:49|>>]]**
 
-~~DISCUSSION~~{{tag>publish servant }}
+~~DISCUSSION~~{{tag>publish p2edit servant }}
 
 ~~NOCACHE~~

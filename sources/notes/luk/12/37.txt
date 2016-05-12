@@ -30,23 +30,25 @@
   * [[:en:obe:kt:bless]]
   * [[:en:obe:other:servant]]
   * [[:en:obe:kt:lord]]
-  * [[en:obe:kt:amen]]
+  * [[:en:obe:kt:amen]]
+  * [[:en:obe:other:biblicaltimewatch]]
 
 ===== Translation Notes: =====
-Jesus continues to tell his disciples a parable.
 
-  * **Blessed are**  - "How good it is for"
-  * **whom the master will find watching when he comes**  - "whose master finds them waiting for him when he returns" or "who are ready when the master returns"
-  * **he will tuck…make them sit down**  - This is a reversal the previous verses. Because the servants have been faithful to their master, the master will now reward them by serving them.
-  * **he will tuck his long robe in his belt**  - AT: “He will prepare to serve by tucking his clothes into his belt” or “He will dress to serve.” (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **in the second watch of the night**  - The second watch was between 9:00 p.m. and midnight. AT: "late at night" or "just before midnight."  (See: [[en:obe:other:biblicaltimewatch]])
-  * **or if even in the third watch**  - The third watch was from midnight to 3:00 a.m. AT: "or if he comes very late at night."  (See: [[en:obe:other:biblicaltimewatch]])
+  * **Blessed are** - "How good it is for"
+  * **whom the master will find watching when he comes** - "whose master finds them waiting for him when he returns" or "who are ready when the master returns"
+  * **he will tuck...make them sit down** - Because the servants have been faithful and ready to serve their master, the master will now reward them by serving them.
+  * **he will tuck his long robe in his belt** - AT: "he will prepare to serve them by tucking his clothes into his belt" or "he will dress to serve" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **in the second watch of the night** - The second watch was between 9:00 p.m. and midnight. AT: "late at night" or "just before midnight."
+  * **or if even in the third watch** - The third watch was from midnight to 3:00 a.m. AT: "or if he comes very late at night."
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:35|<<]] | [[:en:bible:notes:luk:12:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish biblicaltime serve}}
+~~DISCUSSION~~{{tag>publish p2edit biblicaltime serve}}
 
 ~~NOCACHE~~

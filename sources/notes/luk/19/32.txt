@@ -36,27 +36,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:lord]]
-  * [[en:obe:kt:jesus]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:jesus]]
  
 
 ===== Translation Notes: =====
 
-
-  * **Those who were sent** - This can be translated with an active verb: "Those Jesus had sent" or "The two disciples that Jesus sent" (See: [[en:ta:vol2:translate:figs_activepassive]]). 
-  * **threw their garments upon the colt**  - "put their robes on the young donkey." Garments are clothes. In this case it refers to their outer robes or cloaks.
-  * **they spread their garments**  - This can be translated as "people spread their garments" or "others spread their cloaks" (UDB).
+  * **Those who were sent** - AT: "Those Jesus had sent" or "The two disciples that Jesus sent" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **threw their garments upon the colt** - "put their robes on the young donkey." Garments are clothes. In this case it refers to their outer robes or cloaks.
+  * **they spread their garments** - "people spread their garments" or "others spread their cloaks." This is a sign of giving honor to someone. (See: [[:en:ta:vol2:translate:translate_symaction]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/29|<<]] | [[en/bible/notes/luk/19/37|>>]]**
+**[[:en:bible:notes:luk:19:29|<<]] | [[:en:bible:notes:luk:19:37|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

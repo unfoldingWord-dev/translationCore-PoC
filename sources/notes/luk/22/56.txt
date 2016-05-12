@@ -30,25 +30,24 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:servant]]
-  * [[en:obe:other:peter]]
-
- 
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:other:peter]]
 
 ===== Translation Notes: =====
 
-
-    * **looked straight at him and said**  - "looked straight at Peter and said to the other people in the courtyard"
-    * **This man also was with him**  - The woman was telling the people about Peter being with Jesus. She probably did not know Peter's name.
-    * **But Peter denied it**  - "But Peter said that it was not true"
-    * **Woman, I do not know him** - Peter did not know the woman's name. He was not insulting her by calling her "woman." If people would think he was insulting her, you could use a culturally acceptable way for a man to address a woman he does not know, or you could leave out the word.
-    * **Man, I am not** - See the note above about "woman."
+  * **looked straight at him and said** - "looked straight at Peter and said to the other people in the courtyard"
+  * **This man also was with him** - The woman was telling the people about Peter being with Jesus. She probably did not know Peter's name.
+  * **But Peter denied it** - "But Peter said that it was not true"
+  * **Woman, I do not know him** - Peter did not know the woman's name. He was not insulting her by calling her "woman." If people would think he was insulting her, you could use a culturally acceptable way for a man to address a woman he does not know, or you could leave out the word.
+  * **Man, I am not** - See the note above about "woman."
 
 
   
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:54|<<]] | [[:en:bible:notes:luk:22:59|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

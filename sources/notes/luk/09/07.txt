@@ -36,32 +36,36 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:herodantipas]]
-    * [[en:obe:other:tetrarch]]
-    * [[en:obe:other:johnthebaptist]]
-    * [[en:obe:kt:raise]] 
-    * [[en:obe:kt:death]]
-    * [[en:obe:other:elijah]]
-    * [[en:obe:kt:prophet]]
+  * [[:en:obe:other:herodantipas]]
+  * [[:en:obe:other:tetrarch]]
+  * [[:en:obe:other:johnthebaptist]]
+  * [[:en:obe:kt:raise]] 
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:other:elijah]]
+  * [[:en:obe:kt:prophet]]
 
 ===== Translation Notes: =====
 
+  * **General Information:** - These verses interrupt to give information about Herod.
 
-    * **Herod, the tetrarch** - This refers to Herod Antipas, who was the ruler of one-fourth of Israel.
-    * **was very disturbed**  - "was very upset" or "was troubled by the news" or "was perplexed" (UDB)
-    * **I beheaded John**  - AT: "I commanded my soldiers to cut off John's head."
+  * **Now** - This word is used here to mark a break in the main storyline. Here Luke tells background information about Herod. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **Herod, the tetrarch** - This refers to Herod Antipas, who was the ruler of one-fourth of Israel.
+  * **was very disturbed** - "was very upset" or "was perplexed" (UDB)
+  * **I beheaded John** - AT: "I commanded my soldiers to cut off John's head" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 
  
 
-**[[en/bible/notes/luk/09/05|<<]] | [[en/bible/notes/luk/09/10|>>]]**
+**[[:en:bible:notes:luk:09:05|<<]] | [[:en:bible:notes:luk:09:10|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish herodantipas tetrarch}}
+{{tag>publish p2edit herodantipas tetrarch}}
 ~~NOCACHE~~

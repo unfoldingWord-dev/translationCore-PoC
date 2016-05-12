@@ -15,7 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 20 Then again he said, "I will tell you in another what it will be like when God shows himself as king.
+\v 20 Then again he said, "I will tell you in another way what it will be like when God shows himself as king.
 \v 21 It is like a little bit of yeast that a woman mixed with about twenty-five  kilograms of flour. That small amount of yeast made the whole batch of dough swell up."
 
 
@@ -36,21 +36,25 @@
 
 
 
-    * [[:en:obe:kt:kingdomofgod]]
-    * [[:en:obe:other:yeast]]
+  * [[:en:obe:kt:kingdomofgod]]
+  * [[:en:obe:other:yeast]]
 
 ===== Translation Notes: =====
-Jesus continues speaking in the synagogue.
-    * **To what can I compare the kingdom of God?** - This is another rhetorical question that introduces what Jesus wants to talk about it. It can be translated as a statement as in the UDB.  (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **It is like yeast** - Only a little bit of yeast was needed to make a lot of dough rise. This can be made clear as it is in the UDB. 
-    * **three measures of flour** - It can be translated as "a large amount of flour" or with a term that your culture uses for measuring a large amount of flour. 
+
+  * **Connecting Statement:** - Jesus finishes speaking to the people in the synagogue. This is the end of this part of the story.
+
+  * **To what can I compare the kingdom of God?** - Jesus uses another question to introduce what he is about to teach. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **It is like yeast** - Only a little bit of yeast was needed to make a lot of dough rise. This can be made clear as it is in the UDB. (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **three measures of flour** - AT: "a large amount of flour" or with a term that your culture uses for measuring a large amount of flour. 
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:18|<<]] | [[:en:bible:notes:luk:13:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish  yeast}}
+~~DISCUSSION~~{{tag>publish p2edit yeast}}
 
 ~~NOCACHE~~

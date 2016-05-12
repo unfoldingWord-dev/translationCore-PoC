@@ -28,25 +28,28 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:nation]]
-    * [[en:obe:kt:godthefather]]
+  * [[:en:obe:other:nation]]
+  * [[:en:obe:kt:godthefather]]
  
 ===== Translation Notes: =====
 
-Jesus continues to teach his disciples.
-  * **Do not look for what you will eat and what you will drink**  - "Do not focus on what you will eat and drink" or "do not greatly desire more to eat and drink"
-  * **all the nations of the world**  - "Nations" is used here as a metonymy for "unbelievers." AT: "all people of other nations" or "all the unbelievers in the world."  (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **Do not look for what you will eat and what you will drink** - "Do not focus on what you will eat and drink" or "Do not greatly desire more to eat and drink"
+  * **all the nations of the world** - Here "nations" refers to "unbelievers." AT: "all people of other nations" or "all the unbelievers in the world." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **your Father knows that you need these things** - Jesus' Father, God the Father, also becomes the Father of those who believe in Jesus.
+  * **Father** - This is an important title for God. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 
  
 
-**[[en/bible/notes/luk/12/27|<<]] | [[en/bible/notes/luk/12/31|>>]]**
+**[[:en:bible:notes:luk:12:27|<<]] | [[:en:bible:notes:luk:12:31|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

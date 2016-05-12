@@ -24,38 +24,40 @@
 ===== ULB: =====
 
 <usfm>
-\v 22 Blessed are you when people hate you and when they separate you from their company, they hate you, and they reject your name as being evil, for the sake of the Son of Man.
+\v 22 Blessed are you when people hate you and when they exclude you and they treat your name as being evil, for the sake of the Son of Man.
 \v 23 Rejoice in that day and leap for joy, because you will surely have a great reward in heaven, for their ancestors treated the prophets in the same way.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:other:reproach]]
-    * [[en:obe:other:reject]]
-    * [[en:obe:kt:name]]
-    * [[en:obe:kt:evil]]
-    * [[en:obe:kt:sonofman]]
-    * [[en:obe:other:rejoice]]
-    * [[en:obe:kt:joy]]
-    * [[en:obe:kt:heaven]]
-    * [[en:obe:kt:prophet]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:other:reject]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:kt:evil]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:other:rejoice]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:prophet]]
 
 ===== Translation Notes: =====
-Jesus continues to teach his disciples.
 
-    * **Blessed are you**- “You receive God's favor” or “You benefit” or “How good it is for you”
-    * **separate you from their company** - "exclude you" or "reject you"
-    * **reject your name** - AT: "reject you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
-    * **for the sake of the Son of Man**  - "because of the Son of Man" or "because you associate with the Son of Man" or "because they reject the Son of Man"
-    * **in that day** - "when they do those things" or "when that happens"
-    * **a great reward** -  "a good payment" or "good gifts because of it"
+  * **Blessed are you** - "You receive God's favor" or "You benefit" or "How good it is for you"
+  * **separate you** - "exclude you" or "reject you"
+  * **reject your name** - AT: "reject you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **for the sake of the Son of Man** - "because of the Son of Man" or "because you associate with the Son of Man" or "because they reject the Son of Man"
+  * **in that day** - "when they do those things" or "when that happens"
+  * **leap for joy** - This idiom means "be extremely joyful." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **a great reward** - "a large payment" or "good gifts"
   
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:20|<<]] | [[:en:bible:notes:luk:06:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish evil }}
+~~DISCUSSION~~{{tag>publish p2check evil}}
 
 ~~NOCACHE~~

@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 8 Produce good fruit by doing things that show you have truly turned away from your sinful behavior! And do not start saying to yourself, ''We are descendants of Abraham!' Because I tell you that God could make even these stones become descendants of Abraham!
+\v 8 Do the things that show that you have truly turned away from your sinful behavior! And do not start saying to yourself, 'We are descendants of Abraham!' Because I tell you that God could make even these stones become descendants of Abraham!
 </usfm>
 
 
@@ -24,26 +24,28 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:fruit]]
+  * [[:en:obe:kt:repent]]
+  * [[:en:obe:other:abraham]]
+  * [[:en:obe:other:father]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:children]]
 
-    * [[en:obe:kt:fruit]]
-    * [[en:obe:kt:repent]]
-    * [[en:obe:other:abraham]]
-    * [[en:obe:other:father]]
-    * [[en:obe:kt:god]]
-    * [[en:obe:kt:children]]
 ===== Translation Notes: =====
-John continues speaking to the crowds.
 
-    * **Produce fruits that are worthy of repentance** - In this word picture, a person's behavior is compared to fruit. Just as a plant is expected to produce fruit that is appropriate for that kind of plant, a person who says that he has repented is expected to live righteously.  AT: "Produce the kind of fruit that shows that you have repented" or "Do the good things that show that you have turned away from your sin."  (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **saying within yourselves** - "saying to yourselves" or "thinking"
-    * **We have Abraham for our father** - "Abraham is our ancestor" or "We are Abraham's descendants." If it is unclear why they would say this, you may also add the implied information: "So God won't punish us." 
-
+  * **Produce fruits that are worthy of repentance** - In this metaphor, a person's behavior is compared to fruit. Just as a plant is expected to produce fruit that is appropriate for that kind of plant, a person who says that he has repented is expected to live righteously. AT: "Produce the kind of fruit that shows that you have repented" or "Do the good things that show that you have turned away from your sin." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **saying within yourselves** - "saying to yourselves" or "thinking"
+  * **We have Abraham for our father** - "Abraham is our ancestor" or "We are Abraham's descendants." If it is unclear why they would say this, you may also add the implied information: "So God won't punish us." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **raise up children for Abraham** - This idiom means "create children for Abraham" or "cause people to become descendants of Abraham."
+  * **out of these stones** - John was probably referring to the actual stones along the Jordan River.
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 
 **[[:en:bible:notes:luk:03:07|<<]] | [[:en:bible:notes:luk:03:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish repent p2review}}
+~~DISCUSSION~~{{tag>publish p2check repent}}
 
 ~~NOCACHE~~

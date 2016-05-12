@@ -33,30 +33,31 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:love]]
-    * [[en:obe:other:adversary]]
-    * [[en:obe:kt:good]]
-    * [[en:obe:kt:reward]]
-    * [[en:obe:kt:son]]
-    * [[en:obe:kt:mosthigh]]
-    * [[en:obe:kt:evil]]
-    * [[en:obe:kt:mercy]]
-    * [[en:obe:kt:godthefather]]
+  * [[:en:obe:kt:love]]
+  * [[:en:obe:other:adversary]]
+  * [[:en:obe:kt:good]]
+  * [[:en:obe:kt:reward]]
+  * [[:en:obe:kt:son]]
+  * [[:en:obe:kt:mosthigh]]
+  * [[:en:obe:kt:evil]]
+  * [[:en:obe:kt:mercy]]
+  * [[:en:obe:kt:godthefather]]
 
 ===== Translation Notes: =====
-Jesus continues to teach the crowd to love their enemies.
 
-    * **your reward will be great**  - "you will receive a great reward"  or "you will receive good payment" or "you will receive good gifts because of it"
-    * **You will be sons of the Most High**  - The words "sons of" is an idiom meaning "like." It indicates that people who love their enemies act like God acts. Make sure that the word "sons" is plural so it is not confused with Jesus' title "The Son of God."  AT: "You will be acting like children of the Most High God"  or "You will be like the Most High God." 
-    * **unthankful and evil people** - "people who who do not thank him and who are evil"
-    * **your Father** - This refers to God. AT: "your Father in heaven."
+  * **your reward will be great** - "you will receive a great reward" or "you will receive good payment" or "you will get good gifts because of it"
+  * **You will be sons of the Most High** - It is best to translate "sons with the same word your language would naturally use to refer to a human son or child.
+  * **sons of the Most High** - Make sure that the word "sons" is plural so it is not confused with Jesus' title "The Son of the Most High."
+  * **unthankful and evil people** - "people who who do not thank him and who are evil"
+  * **your Father** - This refers to God. It is best to translate "Father" with the same word your language would naturally use to refer to a human father.
  
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:31|<<]] | [[:en:bible:notes:luk:06:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish mercy reward}}
+~~DISCUSSION~~{{tag>publish p2check mercy reward}}
 
 ~~NOCACHE~~

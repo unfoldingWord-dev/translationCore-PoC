@@ -34,29 +34,33 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:amen]]
+  * [[:en:obe:kt:amen]]
   * [[:en:obe:other:generation]]
   * [[:en:obe:kt:heaven]]
-  * [[en:obe:other:earth]]
+  * [[:en:obe:other:earth]]
   * [[:en:obe:kt:word]]
  
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Jesus continues teaching his disciples.
+
   * **this generation** - Possible meanings are 1) the generation that will see the first of the signs Jesus spoke of or 2) the generation Jesus was speaking to. The first is more likely.
-  * **will not pass away, until** - This is a double negative. AT: "will still be alive when" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **will not pass away, until** - AT: "will still be alive when"
   * **Heaven and earth will pass away** - "Heaven and earth will cease to exist." The word "heaven" here refers to the sky and the universe beyond it.
-  * **my words will never pass away**  - "my words will never cease to exist" or "my words will never fail." This can also be translated as "my words will certainly be fulfilled" or "what I say will surely happen."
+  * **my words will never pass away** - "my words will never cease to exist" or "my words will never fail." AT: "what I say will surely happen." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 
  
 
-**[[en/bible/notes/luk/21/29|<<]] | [[en/bible/notes/luk/21/34|>>]]**
+**[[:en:bible:notes:luk:21:29|<<]] | [[:en:bible:notes:luk:21:34|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

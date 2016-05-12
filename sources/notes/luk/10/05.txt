@@ -30,26 +30,27 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:peace]]
-    * [[en:obe:other:house]]
-    * [[en:obe:kt:worthy]]
+  * [[:en:obe:other:peace]]
+  * [[:en:obe:other:house]]
+  * [[:en:obe:kt:worthy]]
 
 ===== Translation Notes: =====
-Jesus continues to give directions to the 70 people he was sending out.
 
-    * **May peace be on this house** -  "May the people in this household receive peace." This was both a greeting and a blessing.
-    * **a person of peace**  - "a peaceful person." This is a person who wants peace with God and with people.
-    * **your peace will rest upon him**  - AT: "he will have the peace you blessed him with."
-    * **if not**  - "if there is no person of peace there" or "if the owner of the house is not a peaceful person"
-    * **it will return to you** - "you will have that peace"
-    * **Remain in that same house** - Jesus was not saying that they should stay in the house all day, but that they should sleep at the same house every night they were there. AT: "Continue to sleep at that house." 
-    * **for the laborer is worthy of his wages** - This is a general principle that Jesus was applying to the men he was sending out. Since they would be teaching and healing the people, the people should provide them with a place to stay and food.
-    * **Do not go from house to house** - This means "Do not go sleep at a different house each night."
+  * **May peace be on this house** - This was both a greeting and a blessing. Here "house" refers to those who live in the house. AT: "May the people in this household receive peace." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a person of peace** - "a peaceful person." This is a person who wants peace with God and with people.
+  * **your peace will rest upon him** - AT: "he will have the peace you blessed him with"
+  * **if not** - AT: "if there is no person of peace there" or "if the owner of the house is not a peaceful person" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **it will return to you** - "you will have that peace" or "he will not receive the peace you blessed him with"
+  * **Remain in that same house** - Jesus was not saying that they should stay in the house all day, but that they should sleep at the same house every night they were there. AT: "Continue to sleep at that house." 
+  * **for the laborer is worthy of his wages** - This is a general principle that Jesus was applying to the men he was sending out. Since they would be teaching and healing the people, the people should provide them with a place to stay and with food.
+  * **Do not go from house to house** - AT: "Do not go sleep at a different house each night"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 **[[:en:bible:notes:luk:10:03|<<]] | [[:en:bible:notes:luk:10:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

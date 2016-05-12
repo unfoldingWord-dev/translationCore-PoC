@@ -28,25 +28,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:judasiscariot]]
-  * [[en:obe:kt:thetwelve]]
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:kiss]]
-  * [[en:obe:kt:betray]]
-  * [[en:obe:kt:sonofman]]
+  * [[:en:obe:other:judasiscariot]]
+  * [[:en:obe:kt:thetwelve]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:kiss]]
+  * [[:en:obe:kt:betray]]
+  * [[:en:obe:kt:sonofman]]
  
 
 ===== Translation Notes: =====
 
-  * **behold, a crowd appeared**  - The word "behold" alerts us to a new group in the story. Your language may have a way of doing this. English uses "There was a crowd that appeared…”
-  * **leading them** -  This can be translated as "leading them to Jesus." Judas was showing the people where Jesus was. He was not telling the crowd what to do.
-  * **to kiss him** - This can be translated as "to greet him with a kiss" or "to greet him by kissing him." When men greeted other men who where family or friends, they would kiss them on one cheek or both cheeks. If your readers would find it embarrassing to say that a man would kiss another man, you could translate it in a more general way: "to give him a friendly greeting." (See: [[en:ta:vol1:translate:translate_unknown]])
-  * **the Son of Man**  - Jesus is using this term to refer to himself.
-  * **are you betraying the Son of Man with a kiss** - Jesus used this rhetorical question to rebuke Judas: "It is a kiss you are using to betray the Son of Man!" Judas could have chosen to use a hand signal or words like "Jesus is the one by the large stone" to point to Jesus, but instead he acted out a lie by using a kiss, the sign of love. (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **behold, a crowd appeared** - The word "behold" alerts us to a new group in the story. Your language may have a way of doing this. AT: "there was a crowd that appeared."
+  * **leading them** - Judas was showing the people where Jesus was. He was not telling the crowd what to do. AT: "leading them to Jesus."
+  * **to kiss him** - "to greet him with a kiss" or "to greet him by kissing him." When men greeted other men who were family or friends, they would kiss them on one cheek or both cheeks. If your readers would find it embarrassing to say that a man would kiss another man, you could translate it in a more general way: "to give him a friendly greeting." (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **are you betraying the Son of Man with a kiss** - Jesus uses a question to rebuke Judas for betraying him with a kiss. Normally a kiss is a sign of love. AT: "It is a kiss you are using to betray the Son of Man!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the Son of Man** - Jesus is using this term to refer to himself.
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:45|<<]] | [[:en:bible:notes:luk:22:49|>>]]**
 
-~~DISCUSSION~~{{tag>publish judasiscariot kiss}}
+~~DISCUSSION~~{{tag>publish p2edit judasiscariot kiss}}

@@ -15,8 +15,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 23 How terrible it will be the for the pregnant women and those nursing their babies in those days, because there will be great suffering in the land, and its people will suffer enormously because God will be angry with them.
-\v 24 Many of them will die because of the soldiers attacking them. Others will become prisoners and will have to go all over the earth. The Gentiles will keep trampling through Jerusalem for as long as God allows."
+\v 23 How terrible it will be for the pregnant women and those nursing their babies in those days, because there will be great suffering in the land, and its people will suffer enormously because God will be angry with them.
+\v 24 Many of them will die because the soldiers attacked them with weapons. Others will become prisoners and they will be sent to many places around the world. The Gentiles will keep marching their troops through the streets of Jerusalem for as long as God allows."
 
 
 \p
@@ -36,31 +36,34 @@
 
   * [[:en:obe:kt:woe]]
   * [[:en:obe:kt:wrath]]
-  * [[en:obe:other:sword]]
-  * [[en:obe:other:captive]]
-  * [[en:obe:other:nation]]
+  * [[:en:obe:other:sword]]
+  * [[:en:obe:other:captive]]
+  * [[:en:obe:other:nation]]
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:gentile]]
   * [[:en:obe:kt:fulfill]]
  
 
 ===== Translation Notes: =====
-Jesus continues speaking to his disciples about the future.
-  * **there will be great distress upon the land**  - Possible meanings are 1) the people of the land will be distressed and 2) there will be physical disasters in the land.
-  * **wrath to this people**  - "there will be wrath to this people." This can be translated as "this people will experience God's anger" or "God will be very angry with this people." The implied information about punishment can be made clear: "this people will be punished" or "God will punish this people." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **they will fall by the edge of the sword**  - "they will be killed by the edge of the sword." This refers to being killed by enemy soldiers. (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **they will be led captive into all the nations** - This can be translated with an active clause: "Their enemies will capture them and take them to other countries." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **Jerusalem will be trampled by the Gentiles**  - Possible meanings are 1) the Gentiles will conquer Jerusalem and occupy it or 2) the Gentiles will destroy the city of Jerusalem or 3) the Gentiles will destroy the people of Jerusalem.
+
+  * **there will be great distress upon the land** - Possible meanings are 1) the people of the land will be distressed or 2) there will be physical disasters in the land.
+  * **wrath to this people** - "there will be wrath to this people." AT: "this people will experience God's anger" or "God will be very angry and will punish this people." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **they will fall by the edge of the sword** - "they will be killed by the edge of the sword." AT: "the enemy soldiers will kill them." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they will be led captive into all the nations** - AT: "their enemies will capture them and take them to other countries" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Jerusalem will be trampled by the Gentiles** - Possible meanings are 1) the Gentiles will conquer Jerusalem and occupy it or 2) the Gentiles will destroy the city of Jerusalem or 3) the Gentiles will destroy the people of Jerusalem. (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the times of the Gentiles are fulfilled** - AT: "the period of the Gentiles has come to an end" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 
  
 
-**[[en/bible/notes/luk/21/20|<<]] | [[en/bible/notes/luk/21/25|>>]]**
+**[[:en:bible:notes:luk:21:20|<<]] | [[:en:bible:notes:luk:21:25|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish gentile wrath}}
+{{tag>publish p2edit gentile wrath}}
 ~~NOCACHE~~

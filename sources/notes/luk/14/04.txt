@@ -37,20 +37,22 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:other:ox]]
-    * [[en:obe:other:well]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:ox]]
+  * [[:en:obe:other:well]]
 
 
 ===== Translation Notes: =====
 
-  * **But they kept silent**  - The religious leaders refused to answer Jesus' question.
-  * **Which of you who has a son or an ox … will not immediately pull him out**  - This was a rhetorical question. He wanted them to admit that they would help their son or ox, even on the Sabbath, so therefore, it was right for him to heal people even on the Sabbath. This can be translated as "If one of you had a son or an ox that fell into a well on the Sabbath, you would surely pull him out immediately." (See: [[en:ta:vol1:translate:figs_rquestion]]).
-  * **They were not able to give an answer**  - This can be translated as "They had nothing to say." It's not that they did not know the answer to Jesus' question. Rather, they knew that he was right and they did not want to say anything about it.
+  * **But they kept silent** - The religious leaders refused to answer Jesus' question.
+  * **Which of you who has a son or an ox...will not immediately pull him out?** - Jesus uses a question because he wanted them to admit that they would help their son or ox, even on the Sabbath. Therefore, it was right for him to heal people even on the Sabbath. AT: "If one of you has a son or an ox...you would surely pull him out immediately." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **They were not able to give an answer** - They knew the answer and that Jesus was right, but they did not want to say anything about it. AT: "They had nothing to say."
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 **[[:en:bible:notes:luk:14:01|<<]] | [[:en:bible:notes:luk:14:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}

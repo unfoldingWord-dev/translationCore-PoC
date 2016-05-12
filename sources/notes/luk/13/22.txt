@@ -14,7 +14,7 @@
 
 <usfm>
 \v 22 Jesus continued traveling toward Jerusalem. He stopped in all the towns and villages along the way and taught the people.
-\v 23 Someone asked him, "Lord, will God only save a few people?” Jesus replied,
+\v 23 Someone asked him, "Lord, will God only save a few people?" Jesus replied,
 \v 24 "You need to try hard to enter the narrow doorway. I tell you that many people will try some other way, but they will not be able to get in.
 </usfm>
 
@@ -32,21 +32,26 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:jerusalem]]
-    * [[en:obe:kt:lord]]
-    * [[en:obe:kt:save]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:save]]
 
 
 ===== Translation Notes: =====
 
-  * **Struggle to enter through the narrow door**  - "Work hard to go through the narrow doorway." This is part of a metaphor about God's kingdom . In this metaphor, God's kingdom is represented by a house. Jesus was speaking to a group of people. So the "you" implied in this command is plural. (See: [[en:ta:vol1:translate:figs_metaphor]], [[en:obe:kt:kingdomofgod]], [[en:ta:vol1:translate:figs_you]])
-  * **the narrow door**  - Becoming part of the kingdom is represented by entering the narrow door. The fact that the door is narrow implies that only a few people at a time can go through it. Translate it in a way to keep this restrictive meaning. (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **General Information:** - This is the next part of the story. Jesus responds to a question by telling a parable about entering God's kingdom. (See: [[:en:ta:vol1:translate:figs_parables]])
 
+  * **Jesus visited each town and village...and taught them** - This is background information that tell us what Jesus had been doing when this event occurred. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **are only a few people to be saved** - AT: "will God save only a few people" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Struggle to enter through the narrow door** - "Work hard to go through the narrow doorway." Jesus is speaking about God's kingdom as if it were a house. Since Jesus is talking to a group, the "you" implied in this command is plural. (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol1:translate:figs_you]])
+  * **the narrow door** - Jesus represents entering the kingdom of God as entering a narrow door. The fact that the door is narrow implies that only a few people at a time can go through it. Translate it in a way to keep this restrictive meaning. (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:20|<<]] | [[:en:bible:notes:luk:13:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

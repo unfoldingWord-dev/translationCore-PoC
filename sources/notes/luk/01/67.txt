@@ -26,34 +26,43 @@
 
 <usfm>
 \p 
-\v 67 His father Zechariah was filled with the Holy Spirit, and he spoke this prophecy,
-\q \v 68 "Praise the Lord, the God of Israel, 
-\q because he has come to us and has made a way to set his people free.
+\v 67 His father Zechariah was filled with the Holy Spirit and prophesied, saying,  
+\q 
+\v 68 "Praised be the Lord, the God of Israel, 
+\q for he has helped and worked redemption for his people.
 </usfm>
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:zechariahnt]]
   * [[:en:obe:kt:filled]]
   * [[:en:obe:kt:prophet]]
   * [[:en:obe:other:israel]]
+  * [[:en:obe:kt:redeem]]
   * [[:en:obe:kt:peopleofgod]]
 
 ===== Translation Notes: =====
 
-Zechariah begins to prophesy and praise God for what he has done. 
+  * **Connecting Statement:** - Zechariah tells what will happen with his son John.
 
-  * **His father Zechariah was filled with the Holy Spirit** - "The Holy Spirit filled his father Zechariah" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **spoke this prophecy** - Consider natural ways of introducing direct quotes in your language.  AT: "prophesied and said" or "prophesied, and this is what he said"   (See: [[:en:ta:vol2:translate:figs_quotations]])
-  * **the God of Israel** -  AT: "the God who reigns over Israel" or "the God whom Israel worships." Israel here refers to the nation of Israel. Zechariah, as well as the people to whom he was talking, all belonged to the nation of Israel. 
-  * **has come to us** - AT: "has come to help us" (See: [[en:ta:vol1:translate:figs_idiom]])
-  * **his people**  - "God's people"
+  * **His father Zechariah was filled with the Holy Spirit** - This could be stated in active form. AT: "The Holy Spirit filled his father Zechariah." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **His father** - John's father
+  * **prophesied, saying** - Consider natural ways of introducing direct quotes in your language. AT: "prophesied and said" or "prophesied, and this is what he said" (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **the God of Israel** - "Israel" here refers to the nation of Israel. The relationship between God and Israel could be stated more directly. AT: "the God who reigns over Israel" or "the God whom Israel worships." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **his people** - "God's people"
+  * **worked redemption for his people** - "accomplished redemption for his people" or "paid to set his people free"
+
 
 ===== Links: =====
 
-  * [[:en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:64|<<]] | [[:en:bible:notes:luk:01:69|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~
+
+{{tag>publish p2check}}
 
 ~~NOCACHE~~

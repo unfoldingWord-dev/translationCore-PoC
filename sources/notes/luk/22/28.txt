@@ -38,21 +38,23 @@
 
   * [[:en:obe:kt:tempt]]
   * [[:en:obe:other:kingdom]]
-  * [[en:obe:kt:godthefather]]
+  * [[:en:obe:kt:godthefather]]
   * [[:en:obe:other:throne]]
   * [[:en:obe:kt:judge]]
   * [[:en:obe:other:12tribesofisrael]]
 ===== Translation Notes: =====
-Jesus continues to teach his disciples.
-  * **have continued with me in my temptations**  - "have stayed with me through my struggles"
-  * **I give to you a kingdom, even as my Father has given a kingdom to me**  - Some languages may need to change the order. "Just as my father has given a kingdom to me, I give it to you."
-  * **I give to you a kingdom**  - "I make you rulers in God's kingdom" (UDB) or "I give you authority to rule in the kingdom" or "I will make you kings"
-  * **even as my Father has given a kingdom to me**  - "just as my Father gave me authority to rule as king in his kingdom"
-  * **you will sit on thrones**  - "Sit on thrones" is a metonym for "do the work of kings." This means "you will work as kings" or "you will do the work of kings." (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **thrones**  - This can be translated as "kings' chairs" or "chairs made for kings."
+
+  * **have continued with me in my temptations** - "have stayed with me through my struggles"
+  * **I give to you a kingdom, even as my Father has given a kingdom to me** - Some languages may need to change the order. "Just as my father has given a kingdom to me, I give it to you."
+  * **I give to you a kingdom** - "I make you rulers in God's kingdom" or "I give you authority to rule in the kingdom" or "I will make you kings"
+  * **even as my Father has given a kingdom to me** - "just as my Father has given me authority to rule as king in his kingdom"
+  * **you will sit on thrones** - AT: "you will work as kings" or "you will do the work of kings" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **thrones** - AT: "kings' chairs" or "chairs made for kings"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:26|<<]] | [[:en:bible:notes:luk:22:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish throne 12tribesofisrael}}
+~~DISCUSSION~~{{tag>publish p2edit throne 12tribesofisrael}}

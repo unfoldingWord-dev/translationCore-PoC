@@ -28,24 +28,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:parable]]
-  * [[en:obe:kt:righteous]]
-  * [[en:obe:kt:temple]]
-  * [[en:obe:other:pray]]
-  * [[en:obe:other:pharisee]]
-  * [[en:obe:other:taxcollector]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:kt:righteous]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:other:taxcollector]]
  
 ===== Translation Notes: =====
 
+  * **General Information:** - Jesus begins to tell another parable to some other people who were persuaded that they themselves were righteous. (See: [[:en:ta:vol1:translate:figs_parables]])
+
   * **Then he** - "Then Jesus"
-  * **some**  - "some people"
-  * **who were persuaded in themselves that they were righteous**  - "who were self-righteous" or "who thought they were righteous" (UDB)
-  * **despised**  - "devalued" or "thought they were better than"
+  * **some** - "some people"
+  * **who were persuaded in themselves that they were righteous** - "who were self-righteous" or "who thought they were righteous" (UDB)
+  * **despised** - "devalued" or "thought they were better than"
   * **into the temple** - "into the temple courtyard"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 **[[:en:bible:notes:luk:18:06|<<]] | [[:en:bible:notes:luk:18:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}

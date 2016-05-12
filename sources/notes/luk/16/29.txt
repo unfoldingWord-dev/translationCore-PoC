@@ -15,7 +15,7 @@
 <usfm>
 \v 29 But Abraham replied, 'No, I will not do that, because your brothers have what Moses and the prophets wrote long ago. They should obey what they wrote!'
 \v 30 But the rich man replied, 'No, Father Abraham, that will not be enough! But if someone from those who have died goes back to them and warns them, they will turn from their sinful behavior.'
-\v 31 Abraham said to him, 'No! If they do not listen to what Moses and the prophets wrote, even if someone would rise from among the dead and go warn them, they would still not be convinced that they should turn from their sinful behavior.’”
+\v 31 Abraham said to him, 'No! If they do not listen to what Moses and the prophets wrote, even if someone would rise from among the dead and go warn them, they would still not be convinced that they should turn from their sinful behavior.'"
 </usfm>
 
 
@@ -30,24 +30,27 @@
 
 ===== translationWords: =====
 
-    * [[:en:obe:other:moses]]
-    * [[:en:obe:kt:prophet]]
-    * [[:en:obe:kt:repent]]
-    * [[:en:obe:kt:raise]]
+  * [[:en:obe:other:moses]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:repent]]
+  * [[:en:obe:kt:raise]]
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Jesus finishes telling the story about the rich man and Lazarus.
 
-    * **They have Moses and the prophets** - "your brothers have what Moses and the prophets wrote." This could also be translated as "They have heard what Moses and the prophets wrote."
-    * **let them listen to them** - "your brothers should pay attention to Moses and the prophets"
-    * **if someone would go to them from the dead** - This could be translated as "if a person who has died would go to them" or "if someone who has died would go and warn them."
-    *  **If they do not listen to Moses and the prophets**  - "If they do not pay attention to what Moses and the prophets wrote"
-    * **neither will they be persuaded** - "they will not be convinced" or "they will not believe"
+  * **They have Moses and the prophets** - AT: "Your brothers have what Moses and the prophets wrote" or "They have heard what Moses and the prophets wrote" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **let them listen to them** - "your brothers should pay attention to Moses and the prophets"
+  * **if someone would go to them from the dead** - AT: "if a person who has died would go to them" or "if someone who has died would go and warn them"
+  * **If they do not listen to Moses and the prophets** - "If they do not pay attention to what Moses and the prophets wrote" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **neither will they be persuaded if someone rises from the dead** - AT: "neither will a person who comes back from the dead be able to convince them" or "they will not believe even if a person comes back from the dead" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 **[[:en:bible:notes:luk:16:27|<<]] | [[:en:bible:notes:luk:17:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

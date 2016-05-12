@@ -33,17 +33,21 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:passover]]
+  * [[:en:obe:kt:passover]]
 
 ===== Translation Notes: =====
-Jesus continues giving instructions to Peter and John.
+
+  * **Connecting Statement:** - Jesus continues giving instructions to Peter and John.
+
   * **He will show you** - "The owner of the house will show you" 
   * **upper room** - "room upstairs." If your community does not have houses with rooms above other rooms, you may need to consider how to describe buildings in the city.
   * **So they went** - "So Peter and John went"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:10|<<]] | [[:en:bible:notes:luk:22:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

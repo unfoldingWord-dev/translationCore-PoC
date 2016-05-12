@@ -27,31 +27,34 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:kt:son]]
-  * [[en:obe:other:david]]
-  * [[en:obe:kt:mercy]]
-  * [[en:obe:other:rebuke]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:son]]
+  * [[:en:obe:other:david]]
+  * [[:en:obe:kt:mercy]]
+  * [[:en:obe:other:rebuke]]
 
 
 ===== Translation Notes: =====
 
-  * **cried out**  - "called out" or "shouted"
-  * **son of David**  - Jesus was a descendant of David, Israel's most important king.
-  * **have mercy on me**  - "show me pity" or "show me compassion"
-  * **The ones**  - "The people"
-  * **to be quiet**  - "to be silent" or "not to shout"
+  * **So** - This word marks an event that happened because of something else that happened first. In this case, the crowd had told the blind man that Jesus was walking by.
+  * **cried out** - "called out" or "shouted"
+  * **son of David** - Jesus was a descendant of David, Israel's most important king.
+  * **have mercy on me** - "show me pity" or "show me compassion"
+  * **The ones** - "The people"
+  * **to be quiet** - "to be silent" or "not to shout"
   * **cried out all the more** - This could mean that he cried out louder or that he cried out more persistently.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 
  
 
-**[[en/bible/notes/luk/18/35|<<]] | [[en/bible/notes/luk/18/40|>>]]**
+**[[:en:bible:notes:luk:18:35|<<]] | [[:en:bible:notes:luk:18:40|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish david}}
+{{tag>publish p2edit david}}
 ~~NOCACHE~~

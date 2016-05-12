@@ -22,21 +22,22 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:moses]]
-  * [[en:obe:other:elijah]]
-  * [[en:obe:kt:glory]]
-  * [[en:obe:kt:fulfill]]
-  * [[en:obe:other:jerusalem]]
+  * [[:en:obe:other:moses]]
+  * [[:en:obe:other:elijah]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:kt:fulfill]]
+  * [[:en:obe:other:jerusalem]]
 
 ===== Translation Notes: =====
 
-  * **Behold, there were two men talking**  - The word “behold” here alerts us to pay attention to the surprising information that follows. AT: "Suddenly there were two men talking" or "Suddenly two men were talking."
-  * **who looked glorious**  - This relative clause is adding information about Moses and Elijah. AT: "and they looked glorious." (See: description of Relative Clauses in the  [[en:ta:vol2:translate:figs_sentences]] information)
-  * **his departure**  - "his leaving" or "how he would leave this world." AT: "his death." (See: [[en:ta:vol2:translate:figs_euphemism]])
-
+  * **Behold, there were two men talking** - The word "behold" here alerts us to pay attention to the surprising information that follows. AT: "Suddenly there were two men talking" or "Suddenly two men were talking."
+  * **who looked glorious** - This relative clause gives information about Moses and Elijah. AT: "and they looked glorious." (See: [[:en:ta:vol2:translate:figs_distinguish]])
+  * **his departure** - "his leaving" or "how he would leave this world." AT: "his death." (See: [[:en:ta:vol2:translate:figs_euphemism]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:28|<<]] | [[:en:bible:notes:luk:09:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish elijah}}
+~~DISCUSSION~~{{tag>publish p2edit elijah}}

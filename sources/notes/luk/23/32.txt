@@ -25,18 +25,18 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:criminal]]
-  * [[en:obe:kt:death]]
+  * [[:en:obe:other:criminal]]
+  * [[:en:obe:kt:death]]
 
 ===== Translation Notes: =====
 
-  * **Other men, two criminals** - "Two other men who were criminals" (UDB)
-  * **were led away with him** - "were led away with Jesus" or "The soldiers led away with Jesus two other men who were criminals"
-  * **to be put to death** - "to kill them" or "to execute them"
+  * **Other men, two criminals, were led away with him to be put to death** - AT: "The soldiers led away with Jesus two criminals to execute them also" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:29|<<]] | [[:en:bible:notes:luk:23:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

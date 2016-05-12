@@ -24,27 +24,26 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:parable]]
+  * [[:en:obe:other:parable]]
 
 
 ===== Translation Notes: =====
 
-  * **No man tears**  - "No one tears" or "People never rip" (UDB)
-  * **mend**  - "repair"
-  * **would not fit with**  - "would not match" or "would not be the same as"
+  * **General Information:** - Jesus tells a story to the scribes and pharisees who were at Levi's house. (See: [[:en:ta:vol1:translate:figs_parables]])
 
+  * **No man tears** - "No one rips" or "People never tear" (UDB)
+  * **mend** - "repair"
+  * **If he did that** - This hypothetical statement explains the reason why a person would not actually mend a garment in that way. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **would not fit with** - "would not match" or "would not be the same as"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/05/33|<<]] | [[en/bible/notes/luk/05/37|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
+**[[:en:bible:notes:luk:05:33|<<]] | [[:en:bible:notes:luk:05:37|>>]]**
 
 
 ~~DISCUSSION~~
 
-
-{{tag>publish parable}}
+{{tag>publish p2check parable}}
 ~~NOCACHE~~

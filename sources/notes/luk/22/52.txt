@@ -31,26 +31,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:chiefpriests]]
-  * [[en:obe:kt:temple]]
-  * [[en:obe:other:elder]]
-  * [[en:obe:other:hand]]
-  * [[en:obe:kt:hour]]
-  * [[en:obe:kt:authority]]
-  * [[en:obe:kt:darkness]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:elder]]
+  * [[:en:obe:other:hand]]
+  * [[:en:obe:kt:hour]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:kt:darkness]]
  
 
 ===== Translation Notes: =====
 
-  * **Do you come out as against a robber, with swords and clubs??**  - "Do you come out with swords and clubs because you think I am a robber?" This a rhetorical question. It can be translated as "You know that I am not a robber, yet you come out to me bringing swords and clubs." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **I was daily with you**  - "I was among you every day"
-  * **in the temple**  - This can be translated as "in the temple courts" or "at the temple."
-  * **lay your hands on me**  - This idiom means "arrest me." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **Do you come out as against a robber, with swords and clubs?** - "Do you come out with swords and clubs because you think I am a robber?" Jesus uses this question to scold the Jewish leaders. AT: "You know that I am not a robber, yet you come out to me bringing swords and clubs." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **I was daily with you** - "I was among you every day"
+  * **in the temple** - AT: "in the temple courts" or "at the temple"
+  * **lay your hands on me** - AT: "arrest me" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **your hour** - "your time"
-  * **the authority of darkness**  - This could be translated as "the time of the ruler of darkness" or "the time when Satan is doing the evil things as he wants to do" (UDB). The "authority of darkness" is a metonym for the evil ruler, Satan. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **the authority of darkness** - This refers to the evil ruler, Satan. AT: "the time of the ruler of darkness" or "the time when Satan is doing the evil things as he wants to do" (UDB). (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:49|<<]] | [[:en:bible:notes:luk:22:54|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}

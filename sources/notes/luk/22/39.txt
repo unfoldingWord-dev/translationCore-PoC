@@ -28,23 +28,24 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:MountofOlives]]
-  * [[en:obe:kt:disciple]]
-  * [[en:obe:other:pray]]
-  * [[en:obe:kt:tempt]]
+  * [[:en:obe:other:MountofOlives]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:kt:tempt]]
  
 
 ===== Translation Notes: =====
 
+  * **General Information:** - This is the next part of the story. Jesus got to the Mount of Olives to pray.
 
-    * **After supper** - This refers to the completion of the Passover meal. 
-    * **that you do not enter into temptation** - This can be translated as "that you are not tempted" or "that you do not sin when you are tempted" or "that you are not tempted so severely that that you sin."
-
-
+  * **After supper** - This refers to the completion of the Passover meal. 
+  * **that you do not enter into temptation** - "that you are not tempted" or "that nothing tempts you and causes you to sin"
   
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:37|<<]] | [[:en:bible:notes:luk:22:41|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

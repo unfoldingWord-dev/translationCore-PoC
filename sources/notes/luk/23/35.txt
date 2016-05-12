@@ -11,7 +11,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 35 Many people stood nearby, watching. Even the Jewish leaders were mocking Jesus: “He saved other people! If God has really chosen him to be the Messiah, he should save himself!"
+\v 35 Many people stood nearby, watching. Even the Jewish leaders were mocking Jesus: "He saved other people! If God has really chosen him to be the Messiah, he should save himself!"
 </usfm>
 
 
@@ -24,22 +24,24 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:ruler]]
-  * [[en:obe:other:mock]]
-  * [[en:obe:kt:save]]
-  * [[en:obe:kt:christ]]
-  * [[en:obe:kt:elect]]
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:other:mock]]
+  * [[:en:obe:kt:save]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:elect]]
 
 ===== Translation Notes: =====
 
   * **stood** - "were standing there"
   * **him** - This refers to Jesus.
   * **Let him save himself** - "Jesus should be able to save himself" or "We would like to see him prove who he is by saving himself from the cross"
-  * **the chosen one** - This could also be translated as "the one that God chose."
+  * **the chosen one** - AT: "the one that God has chosen"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:33|<<]] | [[:en:bible:notes:luk:23:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}

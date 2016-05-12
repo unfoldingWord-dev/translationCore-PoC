@@ -32,26 +32,29 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:nazareth]]
-    * [[en:obe:kt:sabbath]]
-    * [[en:obe:kt:wordofgod]]
-    * [[en:obe:other:scroll]]
-    * [[en:obe:kt:prophet]]
-    * [[en:obe:other:isaiah]]
+  * [[:en:obe:other:nazareth]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:kt:sabbath]]
+  * [[:en:obe:kt:wordofgod]]
+  * [[:en:obe:other:scroll]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:isaiah]]
 
 ===== Translation Notes: =====
 
-  * **where he had been brought up**  - AT: "where his parents had raised him" or "where he grew up" or "where he lived when he was as a child".
-  * **As was his custom**  - "As he normally did". It was his usual practice to go to the synagogue on the Sabbath day.
-  * **The scroll of the prophet Isaiah was handed to him**  - AT: "Someone gave him the scroll of the prophet Isaiah." (See [[en:ta:vol2:translate:figs_activepassive]])
-  * **scroll of the prophet Isaiah**  - This refers to the book of Isaiah written on a scroll. Isaiah had written the words many years before, and someone else had copied them onto a scroll.
-  * **the place where it was written**  - "the place in the scroll where it said" or "the place in the scroll with these words"
-
+  * **One day** - This begins a new event. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **where he had been brought up** - where his parents had raised him" or "where he lived when he was as a child" or "where he grew up" (UDB)
+  * **As was his custom** - "As he normally did." It was his usual practice to go to the synagogue on the Sabbath day.
+  * **The scroll of the prophet Isaiah was handed to him** - This can be stated in active form. AT: "Someone gave him the scroll of the prophet Isaiah." (See [[:en:ta:vol2:translate:figs_activepassive]])
+  * **scroll of the prophet Isaiah** - This refers to the book of Isaiah written on a scroll. Isaiah had written the words many years before, and someone else had copied them onto a scroll.
+  * **the place where it was written** - "the place in the scroll with these words." This sentence continues on into the next verse.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:04:14|<<]] | [[:en:bible:notes:luk:04:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish  scroll }}
+~~DISCUSSION~~{{tag>publish p2check scroll}}
 
 ~~NOCACHE~~

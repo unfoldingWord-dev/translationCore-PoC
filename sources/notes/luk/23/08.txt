@@ -31,21 +31,21 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:herodantipas]]
-  * [[en:obe:kt:miracle]]
-  * [[en:obe:kt:word]]
-  * [[en:obe:other:chiefpriests]]
-  * [[en:obe:other:scribe]]
-  * [[en:obe:other:accuse]]
+  * [[:en:obe:other:herodantipas]]
+  * [[:en:obe:kt:miracle]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:accuse]]
  
 
 ===== Translation Notes: =====
 
-  * **he was very glad**  - "Herod was very glad"
-  * **he had wanted to see him**  - "Herod had wanted to see Jesus"
-  * **He had heard about him**  - "Herod had heard about Jesus"
-  * **he hoped**  - "Herod hoped"
-  * **see some miracle done by him**  - This could be stated in active voice: "he wanted to see him perform some kind of miracle" (UDB). (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **he was very glad** - "Herod was very glad"
+  * **he had wanted to see him** - "Herod had wanted to see Jesus"
+  * **He had heard about him** - "Herod had heard about Jesus"
+  * **he hoped** - "Herod hoped"
+  * **to see some miracle done by him** - AT: "to see him perform some kind of miracle" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **Herod questioned Jesus in many words** - AT: "Herod asked Jesus a lot of questions"
   * **answered him nothing** - "did not reply" (UDB) or "did not give Herod an answer"
   * **stood** - "were standing there"
@@ -53,7 +53,9 @@
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:06|<<]] | [[:en:bible:notes:luk:23:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish herodantipas}}
+~~DISCUSSION~~{{tag>publish p2edit herodantipas}}

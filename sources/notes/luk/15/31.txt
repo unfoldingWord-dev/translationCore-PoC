@@ -27,21 +27,23 @@
 
 ===== translationWords: =====
 
-    * [[:en:obe:kt:death]]
-    * [[:en:obe:kt:life]]
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:life]]
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
 
-    * **this brother of yours** - The father was reminding the older son that the one who just came home was his brother. 
-    * **was dead, and is now alive** - This is a metaphor. The son's leaving his family for a long period of time is compared to being dead, and his returning is compared to being alive again. It can be translated as a simile as it is in the UDB. (See: [[en:ta:vol1:translate:figs_metaphor]])
-    *  **he was lost, and has now been found** - This is a metaphor. The younger brother's being away from his family for a long period of time is compared to being lost, and his return home is compared to being found. This can be translated as "It is as though he was lost and has now been found" (UDB) or "he was lost and has returned home."   (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **The father said to him** - The word "him" refers to the older son.
+  * **this brother of yours** - The father was reminding the older son that the one who just came home was his brother. 
+  * **was dead, and is now alive** - The son's leaving his family for a long period of time is compared to being dead, and his returning is compared to being alive again. It can be translated as a simile as it is in the UDB. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **he was lost, and has now been found** - The younger brother's being away from his family for a long period of time is compared to being lost, and his return home is compared to being found. AT: "it is as though he was lost and now I have found him" or "he was lost and has now returned home." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 **[[:en:bible:notes:luk:15:28|<<]] | [[:en:bible:notes:luk:16:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

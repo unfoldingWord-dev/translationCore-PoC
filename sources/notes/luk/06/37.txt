@@ -25,19 +25,20 @@
   * [[:en:obe:kt:forgive]]
 
 ===== Translation Notes: =====
-Jesus teaches the crowd not to judge people.
 
-  * **Do not judge**  - "Do not judge people" or "Do not criticize people"
-  * **and**  - AT: "and as a result"
-  * **you will not be judged**  - Jesus did not say who would not judge. Possible meanings are 1) "God will not judge you" or 2) "no one will judge you." Both of these translations make it explicit who will not judge. (See: [[en:ta:vol1:translate:figs_explicit]], [[en:ta:vol2:translate:figs_activepassive]])
-  * **Do not condemn**  - "Do not condemn people"
-  * **you will not be condemned**  - Jesus did not say who would not condemn. Possible meanings are 1) "God will not condemn you" or 2) "no one will condemn you." Both of these translations make it explicit who will not condemn. (See: [[en:ta:vol1:translate:figs_explicit]] and [[en:ta:vol2:translate:figs_activepassive]])
-  * **you will be forgiven**  - Jesus did not say who would forgive. Possible meanings are 1) "God will forgive you" or 2) "they will forgive you." The first translation makes it explicit who will forgive. (See: [[en:ta:vol1:translate:figs_explicit]], [[en:ta:vol2:translate:figs_activepassive]])
+  * **Do not judge** - "Do not judge people" or "Do not harshly criticize people" (UDB)
+  * **and you** - "and as a result you"
+  * **you will not be judged** - Jesus did not say who would not judge. Possible meanings are 1) "God will not judge you" or 2) "no one will judge you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Do not condemn** - "Do not condemn people"
+  * **you will not be condemned** - Jesus did not say who would not condemn. Possible meanings are 1) "God will not condemn you" or 2) "no one will condemn you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **you will be forgiven** - Jesus did not say who would forgive. Possible meanings are 1) "God will forgive you" or 2) "people will forgive you." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:35|<<]] | [[:en:bible:notes:luk:06:38|>>]]**
 
-~~DISCUSSION~~{{tag>publish judge condemn }}
+~~DISCUSSION~~{{tag>publish p2check judge condemn}}
 
 ~~NOCACHE~~

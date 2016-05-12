@@ -27,25 +27,30 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:other:proverb]]
-    * [[en:obe:other:heal]]
-    * [[en:obe:other:capernaum]]
-    * [[en:obe:kt:prophet]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:proverb]]
+  * [[:en:obe:other:heal]]
+  * [[:en:obe:other:capernaum]]
+  * [[:en:obe:kt:prophet]]
 
 
 ===== Translation Notes: =====
 
-    * **in your hometown**  - This was in Nazareth, the town Jesus had grown up in. 
-    * **no prophet is accepted in his own country** - Jesus was rebuking the people for refusing to believe him just because they thought they knew him.
-    * **own country**  - AT: "own town" or "hometown."
+  * **General Information:** - Nazareth is the town in which Jesus grew up. 
 
+  * **Certainly** - "Surely" or "Without doubt." This is a strong affirmation.
+  * **Doctor, heal yourself!** - If a doctor does not appear to be healthy, there is no reason to believe he is really a doctor. When the people speak this proverb to Jesus, they will mean they don't believe he is a prophet because he doesn't look like one. (See: [[:en:ta:vol2:translate:writing_proverbs]])
+  * **Whatever we heard...in your hometown too** - The people of Nazareth did not believe Jesus could be a prophet because of his low status as Joseph's son. They will not believe unless they personally see him do miracles.
+  * **Truly I say to you** - "It is certainly true." This is an emphatic statement about what follows.
+  * **no prophet is accepted in his own country** - Jesus uses the form a a proverb to rebuke the people. He means that they refuse to believe the reports of his miracles in Capernaum because they thought they already knew all about him. (See: [[:en:ta:vol2:translate:writing_proverbs]])
+  * **own country** - "own town" or "hometown"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:04:20|<<]] | [[:en:bible:notes:luk:04:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

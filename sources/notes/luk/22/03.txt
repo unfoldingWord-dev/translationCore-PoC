@@ -28,23 +28,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:Satan]]
-  * [[en:obe:other:judasiscariot]]
-  * [[en:obe:kt:thetwelve]]
-  * [[en:obe:other:chiefpriests]]
+  * [[:en:obe:kt:Satan]]
+  * [[:en:obe:other:judasiscariot]]
+  * [[:en:obe:kt:thetwelve]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:kt:deliverer]]
 
  
 
 ===== Translation Notes: =====
 
-  * **Satan entered into Judas Iscariot**  - This was probably very similar to demon possession. (See: [[en:obe:kt:demonpossessed]])
-  * **chief priests**  - "the leaders of the priests"
-  * **captains**  - "leaders of the temple guards"
-  * **about how he could deliver Jesus to them**  - This can be translated as "about how he could help them arrest Jesus."
+  * **General Information:** - This is the beginning of the action in this part of the story.
+
+  * **Satan entered into Judas Iscariot** - This was probably very similar to demon possession.
+  * **chief priests** - "the leaders of the priests"
+  * **captains** - "leaders of the temple guards"
+  * **about how he could deliver Jesus to them** - AT: "about how he could help them arrest Jesus"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:01|<<]] | [[:en:bible:notes:luk:22:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

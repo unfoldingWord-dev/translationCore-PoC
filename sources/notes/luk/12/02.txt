@@ -32,29 +32,31 @@
 
 
 ===== translationWords: =====
-   * [[en:obe:kt:reveal]]
-   * [[en:obe:other:proclaim]]
+  * [[:en:obe:kt:reveal]]
+  * [[:en:obe:other:proclaim]]
 
 ===== Translation Notes: =====
-Jesus continues to warn his disciples against hypocrisy.
 
-  * **But there is nothing concealed, that will not be revealed**  - AT: "But everything that is hidden will be shown" or "But people will find out about everything that people do secretly."
-  * **and nothing hidden, that will not be known**  - This part of the sentence uses different words to say the same thing as the first part in order to emphasize its truth. (See: [[en:ta:vol2:translate:figs_parallelism]])
-  * **spoken in the ear**  - AT: "whispered to another person."
-  * **in the inner rooms**  - "in a closed room." AT: "behind closed doors" or "in privacy" or "secretly."
-  * **will be proclaimed**  - "will be shouted loudly" or "people will proclaim"
-  * **upon the housetops**  - Houses in Israel had flat roofs, so people could go up and stand on top of them. If readers would be distracted trying to imagine how people would get up on the house tops, this could also be translated with a more general expression, such as "from a high place where everyone will be able to hear."
+  * **But there is nothing concealed, that will not be revealed** - "But everything that is hidden will be shown." The word "but" is a connecting word. AT: "But people will find out about everything that people do secretly." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:writing_connectingwords]])
+  * **and nothing hidden, that will not be known** - This means the same thing as the first part of the sentence in order to emphasize its truth. AT: "and people will learn about what others try to hide." (See: [[:en:ta:vol2:translate:figs_parallelism]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **will be heard in the light** - AT: "people will hear in the light" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **spoken in the ear** - AT: "whispered to another person" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **in the inner rooms** - "in a closed room." AT: "in privacy" or "secretly."
+  * **will be proclaimed** - "will be shouted loudly." AT: "people will proclaim" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **upon the housetops** - Houses in Israel had flat roofs, so people could go up and stand on top of them. If readers would be distracted trying to imagine how people would get up on the house tops, this could also be translated with a more general expression, such as "from a high place where everyone will be able to hear."
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 
  
 
-**[[en/bible/notes/luk/12/01|<<]] | [[en/bible/notes/luk/12/04|>>]]**
+**[[:en:bible:notes:luk:12:01|<<]] | [[:en:bible:notes:luk:12:04|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

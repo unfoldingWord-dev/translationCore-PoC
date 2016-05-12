@@ -13,16 +13,16 @@
 ===== UDB: =====
 
 <usfm>
-\v 12 When Jesus saw her, he called her over to him. He said to her, "Woman, I am going to heal you of this illness!"
+\v 12 When Jesus saw her, he called her over to him. He said to her, "Woman, I have healed you of this illness!"
 \v 13 He put his hands on her. Immediately she stood up straight and began praising God!
-\v 14 But the leader of the synagogue was angry because Jesus had healed her on the Jewish rest day. So he said to the people, “There are six days each week in which our laws permit people to work. If you need healing, those are the days to come to the synagogue and be healed." Do not come on our day of rest!"
+\v 14 But the leader of the synagogue was angry because Jesus had healed her on the Jewish rest day. So he said to the people, "There are six days each week in which our laws permit people to work. If you need healing, those are the days to come to the synagogue and be healed." Do not come on our day of rest!"
 </usfm>
 
 
 ===== ULB: =====
 
 <usfm>
-\v 12 When Jesus saw her, he called to her and said, "Be free of your weakness." 
+\v 12 When Jesus saw her, he called to her and said, "Woman, you are freed from your weakness." 
 \v 13 He placed his hands on her, and immediately she was straightened up and she glorified God.
 \v 14 But the synagogue ruler was indignant because Jesus had healed on the Sabbath. So the ruler answered and said to the crowd, "There are six days in which it is necessary to work. Come and be healed then, not on the Sabbath day."
 </usfm>
@@ -31,28 +31,30 @@
 ===== translationWords: =====
 
 
-    * [[:en:obe:kt:jesus]]
-    * [[:en:obe:kt:glorify]]
-    * [[:en:obe:kt:god]]
-    * [[:en:obe:other:synagogue]]
-    * [[en:obe:other:ruler]]
-    * [[:en:obe:other:heal]]
-    * [[:en:obe:kt:sabbath]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:glorify]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:other:heal]]
+  * [[:en:obe:kt:sabbath]]
 
 
 ===== Translation Notes: =====
 
-
-    * **Be free of your weakness** - "You are healed from your disease." By saying this, Jesus was making it happen. It can be translated as a command (ULB) or as a statement (UDB). (See [[en:ta:vol2:translate:figs_sentences]])
-    * **He placed his hands on her**  - "He touched her"
-    * **was indignant because Jesus had healed** - This can be translated as "was angry that Jesus healed."
-    * **answered and said** - "said" or "responded"
-    * **Come and be healed then**  - "Come for healing during those six days"
+  * **you are freed from your weakness** - "you are healed from your disease." By saying this, Jesus was making it happen. (See: [[:en:ta:vol2:translate:figs_sentences]])
+  * **He placed his hands on her** - "He touched her"
+  * **she was straightened up** - AT: "she stood up straight" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **was indignant because Jesus had healed** - AT: "was angry because Jesus healed"
+  * **answered and said** - "said" or "responded"
+  * **Come and be healed then** - AT: "Come and let someone heal you during those six days" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:10|<<]] | [[:en:bible:notes:luk:13:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish sabbath }}
+~~DISCUSSION~~{{tag>publish p2edit sabbath }}
 
 ~~NOCACHE~~

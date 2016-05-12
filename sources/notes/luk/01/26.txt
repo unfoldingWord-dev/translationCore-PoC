@@ -24,47 +24,50 @@
 
 <usfm>
 \p
-\v 26 Now in the sixth month of Elizabeth's pregnancy, the angel Gabriel was sent by God to a city in Galilee, named Nazareth,
-\v 27 to a virgin who was engaged to a man named Joseph. He was a descendant of David, and the virgin’s name was Mary.
-\v 28 The angel came to her, and said, "Greetings, highly favored one! The Lord is with you!"
-\v 29 But she was very troubled by his words, and wondered what kind of greeting this might be.
+\v 26 Now in her sixth month, the angel Gabriel was sent from God to a city in Galilee named Nazareth, 
+\v 27 to a virgin engaged to a man whose name was Joseph. He belonged to the house of David, and the virgin's name was Mary.
+\v 28 He came to her and said, "Greetings, you who are highly favored! The Lord is with you.  
+\v 29 But she was very confused by his words and she wondered what kind of greeting this could be.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:angel]]
-  * [[en:obe:other:gabriel]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:other:galilee]]
-  * [[en:obe:other:nazareth]]
-  * [[en:obe:other:virgin]]
-  * [[en:obe:other:josephnt]]
-  * [[en:obe:other:descendant]]
-  * [[en:obe:other:david]]
-  * [[en:obe:other:mary]]
-  * [[en:obe:kt:favor]]
-  * [[en:obe:other:trouble]]
-  * [[en:obe:kt:word]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:other:gabriel]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:other:nazareth]]
+  * [[:en:obe:other:virgin]]
+  * [[:en:obe:other:josephnt]]
+  * [[:en:obe:other:david]]
+  * [[:en:obe:other:mary]]
+  * [[:en:obe:kt:favor]]
+  * [[:en:obe:kt:word]]
 
 ===== Translation Notes: =====
 
-Mary finds out she will have a child who will be the Son of God.
+  * **General Information:** - The angel Gabriel announces to Mary that she is going to be the mother of the one who is the Son of God. 
 
-    * **the angel Gabriel was sent by God** - AT: "God told the angel Gabriel to go" (See: [[en:ta:vol2:translate:figs_activepassive]])
-    * **engaged** - "pledged" or "promised to be married." Mary's parents had made a commitment for her to marry Joseph.
-    * **came to her** - "came to where Mary was" or "went to where Mary was"
-    * **Greetings** - This was a common greeting. AT: “Rejoice” or "Be glad."
-    * **highly favored one** - "you who have received great grace" or "you who have received special kindness”
-    * **was very troubled** - "was disturbed" or "was afraid and confused"
-    * **what kind of greeting this might be** - Mary understood the meaning of the individual words, but she did not understand why the angel said them to her.
-
+  * **Now** - This word marks a shift in the story to a new event.
+  * **in her sixth month** - "in the sixth month of Elizabeth's pregnancy." It may be necessary to state this clearly if it would be confused with the sixth month of the year. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the angel Gabriel was sent from God** - This can be stated in active form: AT: "God told the angel Gabriel to go" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He belonged to the house of David** - "He belonged to the same tribe as David" or "He was a descendent of King David" (UDB)
+  * **engaged** - "pledged" or "promised to be married." Mary's parents had made a commitment for her to marry Joseph.
+  * **the virgin's name was Mary** - This introduces Mary as a new character in the story. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **He came to her** - "The angel came to Mary"
+  * **Greetings** - This was a common greeting. It means: AT: "Rejoice" or "Be glad."
+  * **you who are highly favored!** - "you who have received great grace!" or "you who have received special kindness!"
+  * **The Lord is with you** - "with you" is an idiom that implies support and acceptance. AT: "The Lord is pleased with you." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **she was very confused...wondered what kind of greeting this could be** - Mary understood the meaning of the individual words, but she did not understand why the angel said this amazing greeting to her.
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:24|<<]] | [[:en:bible:notes:luk:01:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish gabriel nazareth virgin  mary}}
+~~DISCUSSION~~{{tag>publish p2check gabriel nazareth virgin mary}}
 
 ~~NOCACHE~~

@@ -30,42 +30,38 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:true]]
-    * [[en:obe:other:israel]]
-    * [[en:obe:other:elijah]]
-    * [[en:obe:kt:heaven]]
-    * [[en:obe:other:famine]]
-    * [[en:obe:other:sidon]]
-    * [[en:obe:other:leprosy]]
-    * [[en:obe:other:elisha]]
-    * [[en:obe:kt:prophet]]
-    * [[en:obe:other:naaman]]
-    * [[en:obe:other:syria]]
-
+  * [[:en:obe:kt:true]]
+  * [[:en:obe:other:israel]]
+  * [[:en:obe:other:elijah]]
+  * [[:en:obe:other:famine]]
+  * [[:en:obe:other:sidon]]
+  * [[:en:obe:other:leprosy]]
+  * [[:en:obe:other:elisha]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:naaman]]
+  * [[:en:obe:other:syria]]
 
 ===== Translation Notes: =====
-Jesus continues to speak to the people in the synagogue.
 
-  * **I say to you in truth**  - "I tell you truthfully." This phrase was used to emphasize the importance, truth, and accuracy of the statement that follows.
-  * **widows**  - A widow is a woman whose husband has died.
-  * **during Elijah's time**  - The people Jesus was speaking to would have known that Elijah was one of God's prophets. If your readers would not know that, you can make this implicit information explicit as in the UDB.  AT: "when Elijah was prophesying in Israel."  (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **when the sky was shut up with no rain**  - This is a metaphor. The sky is pictured as a ceiling that was closed up to keep the water above it from coming down as rain. AT: "when no rain came down from the sky" or "when there was no rain at all." (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **when there was a great famine**  - "when there was a serious lack of food" or "when the people did not have enough food." A famine is a long period of time when the crops do not produce enough food for the people.
-  * **a widow living in Zarephath**  - The people living in the town of Zarephath were Gentiles, not Jews. The people listening to Jesus would have understood that the people of Zarephath were Gentiles. AT: "a Gentile widow living in Zarephath." (See: [[en:ta:vol1:translate:figs_explicit]], [[:en:ta:vol1:translate:translate_names]])
-  * **Naaman the Syrian**  - A Syrian is a person from the country of Syria. The people of Syria were Gentiles, not Jews. AT: "the Gentile Naaman from Syria." (See:  [[:en:ta:vol1:translate:translate_names]])
+  * **General Information:** - Jesus reminds the people, who are listening to him in the synagogue, about Elijah and Elisha who were prophets about whom they knew. (See: [[:en:ta:vol2:translate:writing_background]])
+
+  * **I say to you in truth** - "I tell you truthfully." This phrase was used to emphasize the importance, truth, and accuracy of the statement that follows.
+  * **widows** - A widow is a woman whose husband has died.
+  * **during Elijah's time** - The people to whom Jesus was speaking would have known that Elijah was one of God's prophets. If your readers would not know that, you can make this implicit information explicit as in the UDB. AT: "when Elijah was prophesying in Israel." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **when the sky was shut up with no rain** - This is a metaphor. The sky is pictured as a ceiling that was closed up to keep the water above it from coming down as rain. AT: "when no rain came down from the sky" or "when there was no rain at all." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **when there was a great famine** - "when there was a serious lack of food" or "when the people did not have enough food." A famine is a long period of time when the crops do not produce enough food for the people.
+  * **a widow living in Zarephath** - The people living in the town of Zarephath were Gentiles, not Jews. The people listening to Jesus would have understood that the people of Zarephath were Gentiles. AT: "a Gentile widow living in Zarephath." (See: [[:en:ta:vol1:translate:figs_explicit]], [[:en:ta:vol1:translate:translate_names]])
+  * **Naaman the Syrian** - A Syrian is a person from the country of Syria. The people of Syria were Gentiles, not Jews. AT: "the Gentile Naaman from Syria." (See: [[:en:ta:vol1:translate:translate_names]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/04/23|<<]] | [[en/bible/notes/luk/04/28|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
+**[[:en:bible:notes:luk:04:23|<<]] | [[:en:bible:notes:luk:04:28|>>]]**
 
 ~~DISCUSSION~~
 
-
-{{tag>publish elijah elisha}}
+{{tag>publish p2check elijah elisha}}
 
 ~~NOCACHE~~

@@ -39,14 +39,18 @@
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - The women go to tell the apostles about how the found the tomb.
 
-    * **remembered his words**  - "remembered Jesus' words" 
-    * **returned from the tomb**  - The narrator's point of observation is from the path between the tomb and apostles (ULB). The UDB has the point of observation at the tomb, noting that the women have left. In either case, the women left the tomb and went to where the apostles were.
-    * **all the rest** - "all the rest of the disciples that were with the eleven apostles"
+  * **remembered his words** - AT: "remembered what Jesus said" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **returned from the tomb** - The narrator's point of observation is from the path between the tomb and apostles (ULB). The UDB has the point of observation at the tomb, noting that the women have left. In either case, the women left the tomb and went to where the apostles were.
+  * **all the rest** - "all the rest of the disciples that were with the eleven apostles"
+  * **Now** - This word is used here to mark a break in the main storyline. Here Luke gives the names of some of the women and explains how the apostles reacted to what they said.
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:06|<<]] | [[:en:bible:notes:luk:24:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish marymagdalene}}
+~~DISCUSSION~~{{tag>publish p2edit marymagdalene}}

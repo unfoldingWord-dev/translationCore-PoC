@@ -25,29 +25,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:ax]]
+  * [[:en:obe:other:ax]]
 
 
 
 ===== Translation Notes: =====
-John continues speaking to the crowd.
 
-    * **the ax has been placed against the root of the trees **- This word picture means that the punishment is about to start. AT: "It is as though the ax has already been placed against the root of the trees" or "God is like a man who has placed his ax against the root of the trees." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[en:ta:vol1:translate:figs_metaphor]])
-    * **every tree that does not produce good fruit is chopped down ** - AT: "He chops down every tree that does not produce good fruit." (See: [[en:ta:vol2:translate:figs_activepassive]] and [[en:ta:vol1:translate:figs_metaphor]])
-    * **thrown into the fire **- AT: "throws it into the fire" (See: [[en:ta:vol2:translate:figs_activepassive]] and [[en:ta:vol1:translate:figs_metaphor]])
-
+  * **the ax has been placed against the root of the trees** - The ax that is ready to cut the roots of a tree is a metaphor for the punishment is about to start. It can also be stated in active form. AT: "God is like the man who has placed his ax against the root of the trees." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **every tree that does not produce good fruit is chopped down** - This can be stated in active form. AT: "He chops down every tree that does not produce good fruit." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **thrown into the fire** - "fire" is also a metaphor for punishment. This can be stated in active form. AT: "throws it into the fire" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
-
-
-
-**[[en/bible/notes:luk/03/08|<<]] | [[en/bible/notes:luk/03/10|>>]]** 
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
+**[[:en/bible/notes:luk/03/08|<<]] | [[:en/bible/notes:luk/03/10|>>]]** 
 
 
 ~~DISCUSSION~~
 
- 
-{{tag>publish ax p2review}}
+{{tag>publish p2check ax}}
 
 ~~NOCACHE~~

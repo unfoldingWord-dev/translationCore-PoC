@@ -35,18 +35,20 @@
 
   * [[:en:obe:kt:apostle]]
   * [[:en:obe:other:peter]]
-  * [[en:obe:kt:raise]]
+  * [[:en:obe:kt:raise]]
   * [[:en:obe:other:tomb]]
  
 ===== Translation Notes: =====
 
-  * **But this message seemed like idle talk to the apostles**  - "But the apostles thought that what the women said was foolish talk"
-  * **rose up**  - This is a Hebrew idiom that means "began to act." Whether Peter was sitting or standing when he decided to act is not important. It can also be translated as "started out." (See: [[en:ta:vol1:translate:figs_idiom]])
-  * **stooping**  - "bending over" in order to look into the tomb
-  * **the linen cloths by themselves**  - "only the linen cloths"
+  * **But this message seemed like idle talk to the apostles** - "But the apostles thought that what the women said was foolish talk"
+  * **rose up** - This is an idiom that means "began to act." Whether Peter was sitting or standing when he decided to act is not important. AT: "started out." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **stooping** - "bending over." Peter had to bend over in order to look into the tomb.
+  * **the linen cloths by themselves** - "only the linen cloths"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:08|<<]] | [[:en:bible:notes:luk:24:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

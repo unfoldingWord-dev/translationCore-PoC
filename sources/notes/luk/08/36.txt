@@ -27,20 +27,22 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:save]]
+  * [[:en:obe:kt:save]]
 
 ===== Translation Notes: =====
 
-    * **the ones who had seen what happened told**  -  These were the people who had been with the man when Jesus made the demons leave him.
-    * **had been saved** - "had been rescued" or "had been set free" or "had been healed"
-    * **region of the Gerasenes**  -  "that area" or "the area where the Gerasene people lived"
-    * **gripped with great fear**  -  "had become very fearful"
+  * **the ones who had seen what happened** - These were the people who had been with the man when Jesus made the demons leave him.
+  * **the man who was controlled by demons had been saved** - AT: "Jesus had saved the man that demons had controlled" or Jesus had healed the man that demons had controlled" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **region of the Gerasenes** - "that area of the Gerasenes" or "the area where the Gerasene people lived"
+  * **they were gripped with great fear** - "they became very fearful." or AT: "great fear filled them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:34|<<]] | [[:en:bible:notes:luk:08:38|>>]]**
 
-~~DISCUSSION~~{{tag>publish save }}
+~~DISCUSSION~~{{tag>publish p2edit save }}
 
 ~~NOCACHE~~

@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 31 One day he went with his disciples down to Capernaum, a city in the district of Galilee. On the next Sabbath, he taught the people in the synagogue.
+\v 31 One day he went down to Capernaum, a city in the district of Galilee. On the next Sabbath, he taught the people in the synagogue.
 \v 32 They were continually amazed at what he was teaching, because he spoke with confidence.
 </usfm>
 
@@ -28,27 +28,31 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:capernaum]]
-    * [[en:obe:other:galilee]]
-    * [[en:obe:kt:sabbath]]
-    * [[en:obe:other:teach]]
-    * [[en:obe:other:synagogue]]
-    * [[en:obe:other:amazed]]
-    * [[en:obe:kt:authority]]
+  * [[:en:obe:other:capernaum]]
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:kt:sabbath]]
+  * [[:en:obe:other:teach]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:kt:authority]]
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Jesus then goes to Capernaum, teaches the people in the synagogue there, and commands a demon to leave a man.
 
-    * **he went down** - "Jesus went downhill." Capernaum was lower in altitude than Nazareth.
-    * **Capernaum, a city in Galilee** - AT: "Capernaum, another city in Galilee." 
-    * **astonished**  - "greatly surprised" or "impressed"
-    * **he spoke with authority** - AT: "his word had authority" or "he spoke as one with authority."
+  * **Then he** - "Then Jesus." This indicates a new event. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **went down** - "went downhill." Capernaum was lower in altitude than Nazareth.
+  * **Capernaum, a city in Galilee** - AT: "Capernaum, another city in Galilee" 
+  * **One Sabbath** - "On the next Sabbath" (UDB)
+  * **astonished** - "greatly surprised" or "impressed"
+  * **he spoke with authority** - "he spoke as one with authority" or "his words had great power"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:04:28|<<]] | [[:en:bible:notes:luk:04:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish capernaum }}
+~~DISCUSSION~~{{tag>publish p2check capernaum}}
 
 ~~NOCACHE~~

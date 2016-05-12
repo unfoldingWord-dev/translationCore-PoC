@@ -27,24 +27,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:lord]]
-  * [[en:obe:kt:teacher]]
-  * [[en:obe:kt:passover]]
-  * [[en:obe:kt:disciple]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:kt:passover]]
+  * [[:en:obe:kt:disciple]]
  
 
 ===== Translation Notes: =====
 
-  * **He answered**  - The word "He" refers to Jesus.
-  * **a man bearing a pitcher of water will meet you** - This can also be translated as "you will see a man carrying a pitcher of water."
+  * **He answered them** - "Jesus answered Peter and John"
+  * **a man bearing a pitcher of water will meet you** - "you will see a man carrying a pitcher of water"
   * **bearing a pitcher of water** - "carrying a jar with water in it." He probably would have carried the jar on his shoulder.
-  * **Follow him into the house** - This can be translated as "Follow him, and go into the house."
-  * **The Teacher says to you** - This begins a direct quotation where Jesus tells the disciples what they should say. The UDB renders this as an indirect quotation: "Our teacher says to show us." (See: [[en:ta:vol2:translate:figs_quotations]])
+  * **Follow him into the house** - AT: "Follow him, and go into the house"
+  * **The Teacher says to you** - This begins a direct quotation where Jesus tells the disciples what they should say. The UDB renders this as an indirect quotation: "Our teacher says to show us." (See: [[:en:ta:vol2:translate:figs_quotations]])
   * **The Teacher** - This refers to Jesus. 
   * **eat the Passover** - "eat the Passover meal"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:07|<<]] | [[:en:bible:notes:luk:22:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

@@ -24,23 +24,29 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:love]]
-  * [[en:obe:other:adversary]]
-  * [[en:obe:kt:bless]]
-  * [[en:obe:kt:curse]]
-  * [[en:obe:other:pray]]
-  * [[en:obe:other:wrong]]
+  * [[:en:obe:kt:love]]
+  * [[:en:obe:other:adversary]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:curse]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:other:wrong]]
 
 ===== Translation Notes: =====
-Apparently Jesus begins to speak to the whole crowd that was there, including those who were not his disciples.
 
-  * **love… do good… bless… pray**  - Each of these commands are to be done continually, not just a single time.
-  * **love your enemies**  - "care about your enemies" or "do what is good for your enemies"
-  * **those who curse you**  - "those who habitually curse you"
-  * **those who mistreat you**  - "those who habitually mistreat you"
+  * **Connecting Statement:** - Jesus continues to speak to his disciples and the crowd who is listening to him as well.
+
+  * **to you who are listening** - Jesus now begins to speak to the entire crowd, rather than just to his disciples. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **love...do good...Bless...pray** - Each of these commands are to be done continually, not just a single time.
+  * **love your enemies** - This does not mean they were to only love their enemies and not their friends. This can be stated. AT: "Love your enemies, not only your friends!" (UDB). (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **love...do good to** - These two phrases mean the same thing, and together emphasize the point. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **Bless those** - God is the one who blesses. This idiom could be rewritten. AT: "Ask God to bless those" (UDB). (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **those who curse you** - "those who habitually curse you"
+  * **those who mistreat you** - "those who habitually mistreat you"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:26|<<]] | [[:en:bible:notes:luk:06:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}

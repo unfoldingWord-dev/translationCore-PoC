@@ -28,32 +28,34 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:nation]]
+  * [[:en:obe:other:nation]]
   * [[:en:obe:other:kingdom]]
-  * [[en:obe:other:famine]]
-  * [[en:obe:other:plague]]
+  * [[:en:obe:other:famine]]
+  * [[:en:obe:other:plague]]
   * [[:en:obe:kt:sign]]
   * [[:en:obe:kt:heaven]]
  
 
 ===== Translation Notes: =====
 
-  * **Then he said to them**  - "Then Jesus said to his disciples." Since this is just a continuation of Jesus speaking from the previous verse, some languages may prefer not to say "Then he said to them."
-  * **Nation will rise against nation**  - This can be translated as "One nation will attack another nation."
+  * **Then he said to them** - "Then Jesus said to his disciples." Since this is just a continuation of Jesus speaking from the previous verse, some languages may prefer not to say "Then he said to them."
+  * **Nation will rise against nation** - AT: "One nation will attack another nation"
   * **Nation** - This refers to ethnic groups of people rather than to countries. 
-  * **kingdom against kingdom**  - "kingdom will rise against kingdom" or "one kingdom will attack another" (See: [[en:ta:vol2:translate:figs_ellipsis]])
-  * **famines and plagues**  - "there will be famines and plagues" or "times of hunger and diseases that kill many people"
-  * **terrifying events**  - "events that terrify people" or "events that cause people to be very afraid"
+  * **kingdom against kingdom** - AT: "kingdom will rise against kingdom" or "armies from one kingdom will attack armies from another kingdom" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **famines and plagues** - "there will be famines and plagues" or "times of hunger and diseases that kill many people" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **terrifying events** - "events that terrify people" or "events that cause people to be very afraid"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 
  
 
-**[[en/bible/notes/luk/21/07|<<]] | [[en/bible/notes/luk/21/12|>>]]**
+**[[:en:bible:notes:luk:21:07|<<]] | [[:en:bible:notes:luk:21:12|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

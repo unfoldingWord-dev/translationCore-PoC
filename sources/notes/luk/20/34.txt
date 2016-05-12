@@ -30,38 +30,40 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:son]]
-  * [[en:obe:kt:world]]
+  * [[:en:obe:kt:son]]
+  * [[:en:obe:kt:world]]
   * [[:en:obe:kt:judge]]
-  * [[en:obe:kt:worthy]]
+  * [[:en:obe:kt:worthy]]
   * [[:en:obe:kt:resurrection]]
   * [[:en:obe:kt:death]]
   * [[:en:obe:kt:eternity]]
   * [[:en:obe:kt:angel]]
-  * [[en:obe:kt:sonsofgod]]
+  * [[:en:obe:kt:sonsofgod]]
 
 
 ===== Translation Notes: =====
 
-  * **The sons of this world**  - "The people of this world" or "The people of this time." This is in contrast with those in heaven or the people who live after the resurrection.
-  * **marry, and are given in marriage**  - In that culture they spoke of men marrying women and women being given in marriage to their husband. This can also be translated as "get married."
-  * **they who are judged to be worthy** - "the people whom God has considered to be worthy"
-  * **to receive the resurrection** - "to be raised from the dead" or "to rise from the dead"
+  * **Connecting Statement:** - Jesus begins to answer the Sadducees.
+
+  * **The sons of this world** - "The people of this world" or "The people of this time." This is in contrast with those in heaven or the people who live after the resurrection.
+  * **marry, and are given in marriage** - In that culture they spoke of men marrying women and women being given in marriage to their husband. AT: "get married." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they who are judged to be worthy** - AT: "the people whom God has considered to be worthy" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to receive the resurrection from the dead** - "to be raised from the dead" or "to rise from the dead"
   * **neither marry, nor are given in marriage** - "will not get married." This is after the resurrection.
-  * **Neither can they die anymore** - This can be translated as "They will not be able to die anymore." This is after the resurrection.
-  * **and are sons of God, being sons of the resurrection** - This can be translated as "will be shown to be sons of God, when they have been raised from the dead."
-  * **sons of God**  - "children of God"
-  * **sons of the resurrection**  - "people who have been raised from the dead"
+  * **Neither can they die anymore** - This is after the resurrection. AT: "They will not be able to die anymore." 
+  * **and are sons of God, being sons of the resurrection** - AT: "are children of God because he has brought them back from the dead"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/29|<<]] | [[en/bible/notes/luk/20/37|>>]]**
+**[[:en:bible:notes:luk:20:29|<<]] | [[:en:bible:notes:luk:20:37|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish resurrection eternity }}
+{{tag>publish p2edit resurrection eternity }}
 ~~NOCACHE~~

@@ -25,22 +25,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:teach]]
-  * [[en:obe:kt:temple]]
-  * [[en:obe:other:preach]]
-  * [[en:obe:kt:goodnews]]
-  * [[en:obe:other:chiefpriests]]
-  * [[en:obe:other:scribe]]
-  * [[en:obe:other:elder]]
-  * [[en:obe:kt:authority]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:teach]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:elder]]
+  * [[:en:obe:kt:authority]]
 
 ===== Translation Notes: =====
 
-  * **It came about**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
+  * **Connecting Statement:** - The chief priests, scribes, and elders questioned Jesus in the temple. 
+
+  * **It came about** - This phrase is used here to mark the beginning of a new part of the story. (See: [[:en:ta:vol2:translate:writing_newevent]])
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 **[[:en:bible:notes:luk:19:47|<<]] | [[:en:bible:notes:luk:20:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish chiefpriests  authority}}
+~~DISCUSSION~~{{tag>publish p2edit chiefpriests authority}}

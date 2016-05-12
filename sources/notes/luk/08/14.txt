@@ -33,33 +33,33 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:word]]
-    * [[en:obe:kt:fruit]]
-    * [[en:obe:other:heart]]
-    * [[en:obe:other:perseverance]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:kt:fruit]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:other:perseverance]]
 
 
 ===== Translation Notes: =====
 
-Jesus continues to explain the meaning of the parable.
-
-    *  **they become choked with the cares…** - "the cares and riches and pleasures of this life choke them" or "as weeds prevent good plants from growing, the cares, riches, and pleasures of this life keep these people from becoming mature" (See: (See: [[en:ta:vol2:translate:figs_activepassive]], [[en:ta:vol1:translate:figs_metaphor]])
-    * **cares** - "the things that people worry about"
-    * **pleasures of this life** - "the things in this life that people enjoy"
-    * **so they bring no fruit to maturity** - "they do not bear ripe fruit." AT: "so like a plant that does not become mature and bear fruit, they do not become mature and produce good works."  (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **produce fruit with perseverance**  - "produce fruit by persevering." AT: "like healthy plants that produce good fruit, they produce good works by persevering."   (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **they become choked with the cares** - "the cares and riches and pleasures of this life choke them." AT: "as weeds prevent good plants from growing, the cares, riches, and pleasures of this life keep these people from becoming mature." (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_metaphor]])
+  * **cares** - "the things that people worry about"
+  * **pleasures of this life** - "the things in this life that people enjoy"
+  * **so they bring no fruit to maturity** - "they do not bear ripe fruit." AT: "so like a plant that does not become mature and bear fruit, they do not become mature and produce good works." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **produce fruit with perseverance** - "produce fruit by persevering." AT: "like healthy plants that produce good fruit, they produce good works by persevering." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 
  
 
-**[[en/bible/notes/luk/08/11|<<]] | [[en/bible/notes/luk/08/16|>>]]**
+**[[:en:bible:notes:luk:08:11|<<]] | [[:en:bible:notes:luk:08:16|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish word fruit heart}}
+{{tag>publish p2edit word fruit heart}}
 
 ~~NOCACHE~~

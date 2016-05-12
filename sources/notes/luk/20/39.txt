@@ -39,19 +39,21 @@
 
 ===== Translation Notes: =====
 
-  * **Some of the scribes answered**  - "Some of the scribes said to Jesus"
-  * **they did not dare ask him**  - "they were afraid to ask him" or "they did not risk asking him." The implied information about the purpose of the questions and their reason for not asking can be made explicit. "They did ask him any more tricky questions because they feared that his wise answers would make them appear foolish again." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **Some of the scribes answered** - "Some of the scribes said to Jesus." There were scribes present when the Sadducees were questioning Jesus. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **they did not dare ask him** - "they were afraid to ask him" or "they did not risk asking him." The implied information about the purpose of the questions and their reason for not asking can be made explicit. AT: "They did ask him any more tricky questions because they feared that his wise answers would make them appear foolish again." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/37|<<]] | [[en/bible/notes/luk/20/41|>>]]**
+**[[:en:bible:notes:luk:20:37|<<]] | [[:en:bible:notes:luk:20:41|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

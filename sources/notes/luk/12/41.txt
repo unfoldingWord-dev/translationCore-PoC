@@ -41,16 +41,21 @@
 
 ===== Translation Notes: =====
 
-  * **Who then is**  - This is the beginning of a rhetorical question. Jesus did not answer Peter's question directly, but expected those who wanted to be faithful managers to understand that the parable was about them. It can be introduced with a statement: "I said it for everyone who is." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **the faithful and wise manager**  - Jesus tells another parable about how servants should be faithful while they wait for their master to return. (See: [[en:ta:vol1:translate:figs_parables]])
-  * **whom his lord will set over his other servants**  - "whom his lord puts in charge of his other servants" (See: [[en:ta:vol1:translate:figs_parables|Parables]])
-  * **Blessed is that servant**  - "How good it is for that servant" (See: [[en:ta:vol1:translate:figs_parables]])
-  * **whom his lord finds doing that when he comes**  - AT: "if his lord finds him doing that work when he comes back." (See: [[en:ta:vol1:translate:figs_parables]])
+  * **Connecting Statement:** - In verse 42, Jesus continuing telling the parable.
+  * **General Information:** - In verse 41, there is a break in the storyline as Peter asks Jesus a question about the parable. 
+
+  * **Who then is...right time?** - Jesus uses a question to teach the people. Jesus did not answer Peter's question directly, but expected those who wanted to be faithful managers to understand that the parable was about them. AT: "I said it for everyone who is...right time." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the faithful and wise manager** - Jesus tells another parable about how servants should be faithful while they wait for their master to return. (See: [[:en:ta:vol1:translate:figs_parables]])
+  * **whom his lord will set over his other servants** - "whom his lord puts in charge of his other servants" (See: [[:en:ta:vol1:translate:figs_parables]])
+  * **Blessed is that servant** - "How good it is for that servant" (See: [[:en:ta:vol1:translate:figs_parables]])
+  * **whom his lord finds doing that when he comes** - AT: "if his lord finds him doing that work when he comes back" (See: [[:en:ta:vol1:translate:figs_parables]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:39|<<]] | [[:en:bible:notes:luk:12:45|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

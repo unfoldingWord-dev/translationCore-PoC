@@ -20,35 +20,40 @@
 ===== ULB: =====
 
 <usfm>
-\v 34 Then Mary said to the angel, "How will this happen, since I am a virgin?"
-\v 35 The angel answered her, "The Holy Spirit will come over you and the power of the Most High will overshadow you. Therefore, the holy one who will be born will be called the Son of God.
+\v 34 Mary said to the angel, "How will this happen, since I have not slept with any man?"  
+\v 35 The angel answered and said to her, "The Holy Spirit will come upon you, and the power of the Most High will come over you. So the holy one to be born will be called the Son of God.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:other:virgin]]
-    * [[en:obe:kt:holyspirit]]
-    * [[en:obe:kt:power]]
-    * [[en:obe:kt:holyone]]
-    * [[en:obe:kt:sonofgod]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:kt:power]]
+  * [[:en:obe:kt:holyone]]
+  * [[:en:obe:kt:sonofgod]]
 
 
 ===== Translation Notes: =====
 
-    * **How will this happen** - AT: "How is this possible?" Though Mary did not understand how it could happen, she did not doubt that it would happen.
-    * **will come over you** - This phrase and the next one are ways of saying that the Holy Spirit would __supernaturally__ cause Mary to become pregnant even while she still remained a virgin. Make sure it is clear that there was no physical or sexual union involved; this was a miracle.
-    * **the power of** - AT: "by his power"
-    * **will overshadow you** - Again, make sure this does not imply any physical or sexual union. "will cover you like a shadow" or AT: "will cause this to happen."
-    * **the holy one** - AT: "the holy child" or "the holy baby"
-    * **will be called** -  Possible meanings are 1) “people will call him” or 2) “God will call him.” (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **Therefore, the holy one who will be born will be called the Son of God** - Jesus was called "the Son of God" because Jesus' father was the Spirit of God. Jesus' mother Mary was a human into whom God supernaturally placed a child. This child was God the Son, "called the Son of God," the human Jesus. There was no sexual activity in Jesus' conception because it was a miraculous event completed by the Spirit of God.
+  * **How will this happen** - AT: "How is this possible?" Though Mary did not understand how it could happen, she did not doubt that it would happen.
+  * **I have not slept with any man** - Mary used this polite expression to say that she had not engaged in sexual activity. AT: "I am a virgin." (UDB) (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **The Holy Spirit will come upon you** - The process of Mary's conception would begin with the Holy Spirit coming to her.
+  * **will come upon** - "will overtake" or "will happen to"
+  * **the power of the Most High** - It was God's "power" that would supernaturally cause Mary to become pregnant even while she still remained a virgin. Make sure this does not imply any physical or sexual union—this was a miracle. 
+  * **will come over you** - "will cover you like a shadow"
+  * **the holy one** - AT: "the holy child" or "the holy baby"
+  * **will be called** - Possible meanings are 1) "people will call him" or 2) "God will call him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **So the holy one to be born will be called the Son of God** - Even though Jesus' mother Mary was a human, God supernaturally placed Jesus within her as a child. Therefore, God was his father, and Jesus was called the "Son of God."
+  * **Son of God** - This is an important title for Jesus. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:30|<<]] | [[:en:bible:notes:luk:01:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish mary virgin }}
+~~DISCUSSION~~{{tag>publish p2check mary virgin}}
 
 ~~NOCACHE~~

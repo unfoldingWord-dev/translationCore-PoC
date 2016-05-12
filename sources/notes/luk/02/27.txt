@@ -36,30 +36,33 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:temple]]
-    * [[en:obe:kt:lawofmoses]]
-    * [[en:obe:other:praise]]
-    * [[en:obe:other:servant]]
-    * [[en:obe:other:peace]]
-    * [[en:obe:kt:wordofgod]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:kt:lawofmoses]]
+  * [[:en:obe:other:praise]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:other:peace]]
+  * [[:en:obe:kt:wordofgod]]
 
 ===== Translation Notes: =====
 
-    * **came** - AT: "went"
-    * **led by the Holy Spirit** - "directed by God." AT: "the Holy Spirit directed him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **the parents** - "Jesus' parents"
-    * **the custom of the law required** - "the law of God required"
-    * **received him** - "took him"
-    * **Now let your servant depart in peace**  - Simeon was referring to himself.  AT: "I am your servant; let me depart in peace." 
-    * **depart** -  "die" (See: [[en:ta:vol2:translate:figs_euphemism]])
-    * **according to your word** - AT: "as you have said" or "because you said you would"
-
+  * **One day** - This introduces a new event. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **came** - Some languages may say "went."
+  * **into the temple** - "into the temple courtyard." Only priests could enter the temple building. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **led by the Holy Spirit** - This could be stated in active form. AT: "as the Holy Spirit directed him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the parents** - "Jesus' parents"
+  * **the custom of the law required** - "the law of God required"
+  * **received him** - "took him"
+  * **Now let your servant depart in peace** - "I am your servant; let me depart in peace." Simeon was referring to himself. 
+  * **depart** - This is a euphemism meaning "die." (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **according to your word** - "as you have said" or "because you said you would"
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:25|<<]] | [[:en:bible:notes:luk:02:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

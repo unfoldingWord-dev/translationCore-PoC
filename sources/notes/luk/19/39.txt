@@ -33,30 +33,31 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:pharisee]]
-  * [[en:obe:kt:teacher]]
-  * [[en:obe:other:rebuke]]
-  * [[en:obe:kt:disciple]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:other:rebuke]]
+  * [[:en:obe:kt:disciple]]
 
- 
 
 ===== Translation Notes: =====
 
-  * **rebuke your disciples**  - AT: "tell your disciples to stop doing these things"
-  * **I tell you**  - Jesus said this to emphasize what he would say next.
-  * **if these were silent**  - This is a hypothetical situation. Some translators may need to  make it clear what Jesus was implying when he said this: "No, I will not rebuke them, for if these people were to be silent..." (See: [[en:ta:vol1:translate:figs_hypo]], [[en:ta:vol1:translate:figs_explicit]])
-  * **the stones would cry out**  - "the stones would call out praises"
+  * **rebuke your disciples** - "tell your disciples to stop doing these things"
+  * **I tell you** - Jesus said this to emphasize what he would say next.
+  * **if these were silent** - This is a hypothetical situation. Some translators may need to make it clear what Jesus was implying when he said this: "No, I will not rebuke them, for if these people were to be silent." (See: [[:en:ta:vol1:translate:figs_hypo]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **the stones would cry out** - "the stones would call out praises"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/37|<<]] | [[en/bible/notes/luk/19/41|>>]]**
+**[[:en:bible:notes:luk:19:37|<<]] | [[:en:bible:notes:luk:19:41|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

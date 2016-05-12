@@ -38,8 +38,8 @@
 
 <usfm>
 \p
-\v 41 Jesus said to them, "How do they say that the Christ is David’s son?
-\v 42 For David himself says in the book of Psalms, 
+\v 41 Jesus said to them, "How do they say that the Christ is David's son?
+\v 42 For David himself says in The Book of Psalms, 
 \q The Lord said to my Lord,
 \q 'Sit at my right hand,
 \q
@@ -54,27 +54,31 @@
   * [[:en:obe:kt:christ]]
   * [[:en:obe:other:david]]
   * [[:en:obe:kt:son]]
-  * [[en:obe:other:psalm]]
+  * [[:en:obe:other:psalm]]
   * [[:en:obe:kt:lord]]
-  * [[en:obe:kt:righthand]]
-  * [[en:obe:other:adversary]]
-  * [[en:obe:other:footstool]]
+  * [[:en:obe:kt:righthand]]
+  * [[:en:obe:other:adversary]]
+  * [[:en:obe:other:footstool]]
 
 
 ===== Translation Notes: =====
 
-  * **How do they say**  - This is a rhetorical question. It can be translated as "Why do they say" or "Let's think about them saying" or "I will talk about them saying." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **David's son**  - "King David's descendant." The word "son" is used here to refer to a descendant. In this case it refers to the one who would reign over God's kingdom.  (See: [[en:ta:vol2:translate:figs_synecdoche]])
-  * **The Lord said to my Lord**  - This can be translated as "The Lord God said to my Lord" or "God said to my Lord." This is a quotation from Psalm [[:en:bible:notes:psa:110:001|110:1]] which says "Yahweh said to my Lord." But the Jews stopped saying "Yahweh" and often said "Lord" instead.
-  * **my Lord**  - David was referring to the Christ as "my Lord."
-  * **my right hand**  - The right side is the place of honor. God was honoring the Messiah by saying "Sit at my right hand."
-  * **until I make your enemies your footstool**  - This is a metaphor. It can be translated as "until I make your enemies like a footstool for you" or "until I conquer your enemies for you." (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **so how is he David's son?**  - "so how can the Christ be David's son?" This is a rhetorical question. It can be translated as "This shows that the Christ is not merely David's descendant."  (See: [[en:ta:vol1:translate:figs_rquestion]])
+  * **General Information:** - Jesus asks the scribes a question.
+
+  * **How do they say...son?** - "Why do they say...son?" Jesus uses a question to make the scribes think about what he is saying. AT: "Let's think about them saying...son." or "I will talk about them saying...son." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **David's son** - "King David's descendant." The word "son" is used here to refer to a descendant. In this case it refers to the one who would reign over God's kingdom. (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **The Lord said to my Lord** - This is a quotation from the book of Psalms which says "Yahweh said to my Lord." But the Jews stopped saying "Yahweh" and often said "Lord" instead. AT: "The Lord God said to my Lord" or "God said to my Lord." 
+  * **my Lord** - David was referring to the Christ as "my Lord."
+  * **my right hand** - The right side is the place of honor. God was honoring the Messiah by saying "Sit at my right hand."
+  * **until I make your enemies your footstool** - AT: "until I make your enemies like a footstool for you" or "until I conquer your enemies for you" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **so how is he David's son?** - "so how can the Christ be David's son?" AT: "This shows that the Christ is not merely David's descendant." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 **[[:en:bible:notes:luk:20:39|<<]] | [[:en:bible:notes:luk:20:45|>>]]**
 
-~~DISCUSSION~~{{tag>publish  david}}
+~~DISCUSSION~~{{tag>publish p2edit david}}
 
 ~~NOCACHE~~

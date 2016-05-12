@@ -20,7 +20,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 27 Consider the lilies—how they grow.They do not labor, neither do they spin. Yet I say to you, even Solomon in all his glory was not clothed like one of these.
+\v 27 Consider the lilies—how they grow. They do not labor, neither do they spin. Yet I say to you, even Solomon in all his glory was not clothed like one of these.
 \v 28 If God so clothes the grass in the field, which exists today, and tomorrow is thrown into the oven, how much more will he clothe you, O you of little faith!
 </usfm>
 
@@ -28,24 +28,26 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:labor]]
-    * [[en:obe:other:solomon]]
-    * [[en:obe:kt:glory]]
-    * [[en:obe:kt:god]]
-    * [[en:obe:kt:faith]]
+  * [[:en:obe:other:labor]]
+  * [[:en:obe:other:solomon]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:faith]]
 
 ===== Translation Notes: =====
-Jesus continues to teach his disciples.
 
-  * **lilies**  - Lilies are beautiful flowers that grow wild in the fields. If your language does not have a word for lily, you can use the name of another flower like that or translate it as "flowers."
-  * **neither do they spin**  - "neither do they make thread in order to make cloth" or "and they do not make yarn"
-  * **Solomon in all his glory**  - "Solomon who had great wealth" or "Solomon who wore beautiful clothes"
-  * **If God so clothes the grass in the field**  - "If God clothes the grass in the field like that" or "If God gives the grass in the field such beautiful clothing." "Clothes the grass" is a metaphor for "makes the grass beautiful." (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **how much more will he clothe you**  - This is an exclamation emphasizing that he will certainly take care of people even better than he does the grass. (See the section on Sentence Types in [[en:ta:vol2:translate:figs_sentences]].)
+  * **lilies** - Lilies are beautiful flowers that grow wild in the fields. If your language does not have a word for lily, you can use the name of another flower like that or translate it as "flowers." (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **neither do they spin** - "neither do they make thread in order to make cloth" or "and they do not make yarn"
+  * **Solomon in all his glory** - "Solomon who had great wealth" or "Solomon who wore beautiful clothes"
+  * **If God so clothes the grass in the field** - "If God clothes the grass in the field like that" or "If God gives the grass in the field such beautiful clothing." AT: "If God makes the grass in the field beautiful like this." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **is thrown into the oven** - AT: "someone throws it into a fire" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **how much more will he clothe you** - This is an exclamation not a question. Jesus emphasizes that he will certainly take care of people even better than he does the grass. (See the section on Sentence Types in [[:en:ta:vol2:translate:figs_sentences]].)
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:24|<<]] | [[:en:bible:notes:luk:12:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish solomon}}
+~~DISCUSSION~~{{tag>publish p2edit solomon}}

@@ -14,7 +14,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 37 And no one puts newly squeezed wine into old skin bags to store it. If anyone did that, the skin bags would tear open because they would not stretch when the new wine fermented and expanded. Then the skin bags would be ruined, and the wine would also be ruined because it would spill out..
+\v 37 And no one puts newly squeezed wine into old skin bags to store it. If anyone did that, the skin bags would tear open because they would not stretch when the new wine fermented and expanded. Then the skin bags would be ruined, and the wine would also be ruined because it would spill out.
 \v 38 On the contrary, new wine must be put into new skin bags.
 \p
 \v 39 Furthermore, those who have drunk only old wine are content with that. They do not want to drink the new wine, because they say, 'The old wine is good!'"
@@ -32,29 +32,27 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:wine]]
+  * [[:en:obe:other:wine]]
 
 ===== Translation Notes: =====
-Jesus tells the religious leaders another parable.
 
-    * **no man puts** - "no one puts" (UDB) or "people never put"
-    * **new wine**  - "grape juice." This refers to wine that has not fermented yet.
-    * **wineskins** - These were bags made out of animal skins. They could also be called "wine bags" or "skin bags" (UDB).
-    * **the new wine would burst the skins** -  "when the new wine ferments and expands, it would burst the old skins because they could no longer stretch out." Jesus' audience would have understood the implicit information about the wine fermenting and expanding. (See: [[en:ta:vol1:translate:figs_explicit]])
-    * **the wine would be spilled** - "the wine would spill out of the bags"
-    * **fresh wineskins** - "new wineskins" or "new wine bags." This refers to wineskins that have not been used.
-    * **old wine** - "wine that has fermented"
-    * **he says, 'The old is better'**  - It may be helpful to add "and is therefore not willing to try the new wine." This is a metaphor that contrasts the old teaching of the religious leaders against the new teaching of Jesus. The point is that people who is used to the old teaching are not willing to listen to the new things that Jesus is teaching. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **no man puts** - "people never put" or "no one puts" (UDB)
+  * **new wine** - "grape juice." This refers to wine that has not yet fermented.
+  * **wineskins** - These were bags made out of animal skins. They could also be called "wine bags" or "bags made of skin."
+  * **the new wine would burst the skins** - When the new wine ferments and expands, it breaks the old skins because they can no longer stretch out. Jesus' audience would have understood the information about the wine's fermenting and expanding. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the wine would be spilled** - This could be stated in active form. AT: "the wine would spill out of the bags" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **fresh wineskins** - "new wineskins" or "new wine bags." This refers to new wineskins, unused.
+  * **drinking old wine...desires new wine** - This metaphor contrasts the old teaching of the religious leaders against the new teaching of Jesus. The point is that people who is used to the old teaching are not willing to listen to the new things that Jesus is teaching. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **old wine** - "wine that has fermented"
+  * **he says, 'The old is better.'** - It may be helpful to add: "and is therefore not willing to try the new wine." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/05/36|<<]] | [[en/bible/notes/luk/06/01|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
+**[[:en:bible:notes:luk:05:36|<<]] | [[:en:bible:notes:luk:06:01|>>]]**
 
 ~~DISCUSSION~~
 
-{{tag>publish wine}}
+{{tag>publish p2check wine}}
 ~~NOCACHE~~

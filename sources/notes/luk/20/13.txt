@@ -27,27 +27,29 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:lord]]
-  * [[en:obe:kt:beloved]]
-  * [[en:obe:kt:son]]
-  * [[en:obe:other:heir]]
-  * [[en:obe:kt:inherit]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:beloved]]
+  * [[:en:obe:kt:son]]
+  * [[:en:obe:other:heir]]
+  * [[:en:obe:kt:inherit]]
  
 ===== Translation Notes: =====
-Jesus continues telling his parable.
+
   * **when the vine growers saw him** - "when the farmers saw the owner's son"
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/11|<<]] | [[en/bible/notes/luk/20/15|>>]]**
+**[[:en:bible:notes:luk:20:11|<<]] | [[:en:bible:notes:luk:20:15|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

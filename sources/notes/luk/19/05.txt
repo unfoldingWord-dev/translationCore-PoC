@@ -37,19 +37,21 @@
 
 ===== Translation Notes: =====
 
-  * **the place**  - "the tree" or "where Zacchaeus was"
-  * **He has gone in to visit a man who is a sinner**  - "Jesus has gone into the house of a sinner to visit him"
-  * **a sinner** - "an obvious sinner" or "a real sinner" (UDB) or "clearly a sinner"
+  * **the place** - "the tree" or "where Zacchaeus was"
+  * **He has gone in to visit a man who is a sinner** - "Jesus has gone into the house of a sinner to visit him"
+  * **a sinner** - "an obvious sinner" or "a real sinner" (UDB)
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/03|<<]] | [[en/bible/notes/luk/19/08|>>]]**
+**[[:en:bible:notes:luk:19:03|<<]] | [[:en:bible:notes:luk:19:08|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish zacchaeus}}
+{{tag>publish p2edit zacchaeus}}
 ~~NOCACHE~~

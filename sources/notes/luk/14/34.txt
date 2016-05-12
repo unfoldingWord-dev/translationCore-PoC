@@ -29,25 +29,30 @@
 
 
 ===== Translation Notes: =====
-Jesus continues speaking to the crowd following him.
-  * **Salt is good**  - "Salt is useful"
-  * **how can it be made salty again**  - This is a rhetorical question. It can also be translated as "It cannot be made salty again" or "No one can make it salty again." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **for the soil or even for the manure pile**  - "Manure pile" can be translated as "compost heap" or "fertilizer." Manure was used to fertilize gardens and fields. Food that had gone bad could be mixed in with manure. But salt that had lost its flavor could not be used even for that. It was completely useless.
-  * **He who has ears to hear, let him hear**  - This can also be translated as a command: "If you have hears to hear, listen well" or "If you hear what I am saying, pay attention."
-  * **He who has ears to hear**  - “Whoever can hear” or “If anyone hears me”
-  * **let him hear**  - “let him listen well” or “let him pay attention to what I say”
+
+  * **Connecting Statement:** - Jesus finishes teaching the crowd.
+
+  * **Salt is good** - "Salt is useful." Jesus is teaching a lesson about those who want to be his disciple. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **how can it be made salty again?** - Jesus uses a question to teach the crowd. AT: "It cannot be made salty again" or "No one can make it salty again." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **manure pile** - People use manure to fertilize gardens and fields. Salt without taste is so useless it is not even worth mixing with manure. AT: "compost heap" or "fertilizer."
+  * **It is thrown away** - AT: "Someone just throws it away" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **He who has ears to hear, let him hear** - AT: "If you have ears to hear, listen well" or "If you hear what I am saying, pay attention" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **He who has ears to hear** - "Whoever can hear" or "If anyone hears me"
+  * **let him hear** - "let him listen well" or "let him pay attention to what I say"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 
  
 
-**[[en/bible/notes/luk/14/31|<<]] | [[en/bible/notes/luk/15/01|>>]]**
+**[[:en:bible:notes:luk:14:31|<<]] | [[:en:bible:notes:luk:15:01|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

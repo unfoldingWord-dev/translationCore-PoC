@@ -36,15 +36,19 @@
 
 ===== Translation Notes: =====
 
-  * **They led him into the Council**  - Possible meanings are 1) "The elders had Jesus brought into the Council" or 2) "The guards led Jesus into the Council of the elders." Some languages may avoid saying who led him by using the pronoun "they" (ULB) or by using a passive verb: "Jesus was led into thee Council." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **saying**  - "The elders said to Jesus"
-  * **tell us**  - "tell us that you are the Christ"
-  * **If I tell you, you will not believe**  - This is the first of two hypothetical statements by Jesus. It was a way for Jesus to respond without giving them a reason to say that he was guilty of blasphemy. Your language may have a way of indicating that the action has not actually happened. (See: [[en:ta:vol1:translate:figs_hypo]])
-  * **if I ask you, you will not answer**  - This is the second hypothetical statement. (See: [[en:ta:vol1:translate:figs_hypo]])
-  * **If I tell you...if I ask you**  - Jesus is saying that it did not matter whether he spoke or asked them to speak, they would not respond correctly. These two phrases together express Jesus' attitude that the council was not really looking for the truth.
+  * **General Information:** - It is now the next day and Jesus is brought before the Council.
+
+  * **They led him into the Council** - Possible meanings are 1) "The elders had Jesus brought into the Council" or 2) "The guards led Jesus into the Council of the elders." Some languages may avoid saying who led him by using the pronoun "they" (ULB) or by using a passive verb: "Jesus was led into the Council." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **saying** - This can be translated as a new sentence. AT: "The elders said to Jesus"
+  * **tell us** - "tell us that you are the Christ"
+  * **If I tell you...if I ask you** - Jesus is saying that it did not matter whether he spoke or asked them to speak, they would not respond correctly. These two phrases together express Jesus' attitude that the council was not really looking for the truth.
+  * **If I tell you, you will not believe** - This is the first of two hypothetical statements by Jesus. It was a way for Jesus to respond without giving them a reason to say that he was guilty of blasphemy. Your language may have a way of indicating that the action has not actually happened. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **if I ask you, you will not answer** - This is the second hypothetical statement. (See: [[:en:ta:vol1:translate:figs_hypo]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:63|<<]] | [[:en:bible:notes:luk:22:69|>>]]**
 
-~~DISCUSSION~~{{tag>publish  council}}
+~~DISCUSSION~~{{tag>publish p2edit council}}

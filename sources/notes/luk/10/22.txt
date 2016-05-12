@@ -29,30 +29,34 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:godthefather]]
-    * [[en:obe:kt:sonofgod]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:sonofgod]]
+  * [[:en:obe:kt:reveal]]
 
 
 ===== Translation Notes: =====
-Jesus now speaks to his disciples. You may need to add an introductory comment such as "Jesus also said to his disciples" (UDB).
 
-  * **All things have been entrusted to me from my Father** - AT: "My Father has handed everything over to me." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **the Son** - Jesus was referring to himself in the third person. (See: [[en:ta:vol2:translate:figs_123person]])
-  * **knows who the Son is** - The word that is translated as "knows" means to know from personal experience. God the Father knew Jesus to this degree.
-  * **except the Father**  - This means "Only the Father knows who the Son is."
-  * **knows who the Father is** - The word that is translated as "knows" means to know from personal experience. Jesus knew God his Father in that way
-  * **except the Son**  - This means "Only the Son knows who the Father is." As the Son of God, Jesus has always known the Father intimately, and always will.
-  * **and anyone to whom the Son desires to reveal him**  - AT: "people know who the Father is only if the Son wants to reveal the Father to them."
+  * **All things have been entrusted to me from my Father** - AT: "My Father has handed everything over to me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Father...Son** - These are important titles that describe the relationship between God and Jesus. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **the Son** - Jesus was referring to himself in the third person. (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **knows who the Son is** - The word that is translated as "knows" means to know from personal experience. God the Father knows Jesus in this way.
+  * **except the Father** - This means only the Father knows who the Son is.
+  * **knows who the Father is** - The word that is translated as "knows" means to know from personal experience. Jesus knows God his Father in this way.
+  * **except the Son** - This means only the Son knows who the Father is. As the Son of God, Jesus has always known the Father intimately, and always will.
+  * **and anyone to whom the Son desires to reveal him** - AT: "and people know who the Father is only if the Son wants to reveal the Father to them."
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 
  
 
-**[[en/bible/notes/luk/10/21|<<]] | [[en/bible/notes/luk/10/23|>>]]**
+**[[:en:bible:notes:luk:10:21|<<]] | [[:en:bible:notes:luk:10:23|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish sonofgod godthefather}}
+{{tag>publish p2edit sonofgod godthefather}}
 ~~NOCACHE~~

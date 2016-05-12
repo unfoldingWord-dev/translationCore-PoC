@@ -12,7 +12,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 30 Then Jesus asked him, "What is your name?" He replied, “My name is Thousands.” He said that because many demons had entered that man.
+\v 30 Then Jesus asked him, "What is your name?" He replied, "My name is Thousands." He said that because many demons had entered that man.
 \v 31 The demons kept begging Jesus not to  command them to go into the deep pit where God punishes demons.
 </usfm>
 
@@ -27,22 +27,23 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:other:command]]
-    * [[en:obe:other:abyss]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:command]]
+  * [[:en:obe:other:abyss]]
 
 
 ===== Translation Notes: =====
 
-  * **Army**  - Translate this with a word that refers to a large number of soldiers or people. AT: "Battalion" or "Brigade."
-  * **to depart into the abyss**  - "to leave the man and go into the abyss"
+  * **Army** - Translate this with a word that refers to a large number of soldiers or people. Some other translations say "Legion." AT: "Battalion" or "Brigade." 
+  * **to depart into the abyss** - AT: "to leave the man and go into the abyss"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:28|<<]] | [[:en:bible:notes:luk:08:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish abyss}}
+~~DISCUSSION~~{{tag>publish p2edit abyss}}
 
 ~~NOCACHE~~

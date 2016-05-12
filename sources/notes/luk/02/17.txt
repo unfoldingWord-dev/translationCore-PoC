@@ -39,27 +39,31 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:amazed]]
-  * [[en:obe:other:heart]]
-  * [[en:obe:kt:glorify]]
-  * [[en:obe:other:praise]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:other:shepherd]]
+  * [[:en:obe:other:mary]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:glorify]]
+  * [[:en:obe:other:praise]]
+  * [[:en:obe:kt:god]]
 
 ===== Translation Notes: =====
 
-    * **they made known to people** - "the shepherds told people"
-    * **what had been said to them**  - AT: "what the angels had told the shepherds" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **this child** - "the baby"
-    * **what was spoken to them by the shepherds** - "what the shepherds told them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **treasuring them in her heart**  - A treasure is something that is very valuable or precious. Mary considered the things she was told about her son to be very precious. AT: "carefully remembering them" or "joyfully remembering them." (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **returned** - AT: "went back to the sheep fields."
-    * **glorifying and praising God** - AT: "talking about and praising God's greatness" (See: [[:en:ta:vol2:translate:figs_doublet]])
-
+  * **After they had seen this** - "this" refers to the baby.
+  * **what had been said to them** - This can be stated in active form. AT: "what the angels had told the shepherds." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **this child** - "the baby"
+  * **what was spoken to them by the shepherds** - This can be stated in active form. AT: "what the shepherds told them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **treasuring them in her heart** - A treasure is something that is very valuable or precious. Mary considered the things she was told about her son to be very precious. AT: "carefully remembering them" or "joyfully remembering them." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **returned** - "went back to the sheep fields"
+  * **glorifying and praising God** - These are very similar and emphasize how excited they were about what God had done. AT: "talking about and praising God's greatness." (See: [[:en:ta:vol2:translate:figs_doublet]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:15|<<]] | [[:en:bible:notes:luk:02:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2check talink}}
 
 ~~NOCACHE~~

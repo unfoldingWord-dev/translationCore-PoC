@@ -37,34 +37,37 @@
 
 ===== translationWords: =====
 
-   * [[en:obe:other:lamp]]
-   * [[en:obe:other:lampstand]]
-   * [[en:obe:other:know]]
+  * [[:en:obe:other:lamp]]
+  * [[:en:obe:other:lampstand]]
+  * [[:en:obe:other:know]]
 
 ===== Translation Notes: =====
 
-Jesus continues to speak to his disciples.
+  * **Connecting Statement:** - Jesus continues with another parable then he finishes speaking to his disciples as he emphasizes the role of his family in his work.
 
-  * **a lampstand**  - "a table" or "a shelf"
-  * **For nothing is hidden, that will not be made known**  - AT: "Everything that is hidden will be made known." (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **nor anything secret, that will not be known and come into the light** -  AT: "and everything that is secret will be known and come into the light."
-  * **how you listen**  - AT: "how you listen to what I tell you" or "how you listen to God's word." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **whoever has**  - AT: "whoever has understanding" or "whoever receives what I teach."
-  * **to him will be given more**  - "more will be given to him." AT: "God will give him more." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **whoever has not**  - AT: "whoever does not have understanding" or "whoever does not receive what I teach."
+  * **Now** - This word is used here to mark the beginning of another parable.
+  * **a lampstand** - "a table" or "a shelf"
+  * **nothing is hidden, that will not be made known** - AT: "Everything that is hidden will be made known" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **nor anything secret, that will not be known and come into the light** - AT: "and everything that is secret will be known and come into the light"
+  * **how you listen** - AT: "how you listen to what I tell you" or "how you listen to God's word" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **whoever has** - AT: "whoever has understanding" or "whoever receives what I teach"
+  * **to him will be given more** - "more will be given to him." AT: "God will give him more" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **whoever has not** - AT: "whoever does not have understanding" or "whoever does not receive what I teach"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 
  
 
-**[[en/bible/notes/luk/08/14|<<]] | [[en/bible/notes/luk/08/19|>>]]**
+**[[:en:bible:notes:luk:08:14|<<]] | [[:en:bible:notes:luk:08:19|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

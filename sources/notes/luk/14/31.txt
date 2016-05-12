@@ -37,29 +37,30 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:king]]
-  * [[en:obe:other:counselor]]
-  * [[en:obe:other:ambassador]]
-  * [[en:obe:other:peace]]
+  * [[:en:obe:other:counselor]]
+  * [[:en:obe:other:ambassador]]
+  * [[:en:obe:other:peace]]
   * [[:en:obe:kt:disciple]]
  
 
 ===== Translation Notes: =====
-Jesus continues speaking to the crowd.
-    * **Or**  - Jesus used this word to introduce another situation where people count the cost before making a decision.
-    * **what king...will not sit down first and take advice**  - This starts off another rhetorical question. It can be translated as as statement: "You know that a king...would sit down first and take counsel." (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **take advice** - Possible meanings are 1) "think carefully about" or 2) "listen to his advisors" 
-    * **ten thousand...twenty thousand** - "10,000...20,000" (See: [[en:ta:vol2:translate:translate_numbers]])
-    * **And if not**  - "and if he realizes that he will not be able to to defeat the other king" or "If he decided his army could not defeat the other army" (ULB)
-    * **ambassador**  - "messenger" or "representative"
-    * **any one of you who does not give up all that he has cannot be my disciple** - This can be expressed positively: "Only those of you who give up all that you have can be my disciples."
-    * **give up all that he has**  - "leave behind all that he has"
+
+  * **Or** - Jesus used this word to introduce another situation where people count the cost before making a decision.
+  * **what king...will not sit down first and take advice...men?** - Jesus uses another question to teach the crowd. AT: "you know that a king...would sit down first and take counsel...men." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **take advice** - Possible meanings are 1) "think carefully about" or 2) "listen to his advisors." 
+  * **ten thousand...twenty thousand** - "10,000...20,000" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **And if not** - "And if he realizes that he will not be able to defeat the other king"
+  * **any one of you who does not give up all that he has cannot be my disciple** - AT: "only those of you who give up all that you have can be my disciples" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **give up all that he has** - "leave behind all that he has"
 
  
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 **[[:en:bible:notes:luk:14:28|<<]] | [[:en:bible:notes:luk:14:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

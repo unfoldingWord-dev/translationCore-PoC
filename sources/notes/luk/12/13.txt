@@ -26,29 +26,32 @@
 \p
 \v 13 Then someone from the crowd said to him, "Teacher, tell my brother to divide the inheritance with me."
 \v 14 Jesus said to him, "Man, who made me a judge or a mediator over you?"
-\v 15 And he said to them, "Watch that you keep yourselves from all greedy desires, because someone’s life does not consist of the abundance of his possessions."
+\v 15 And he said to them, "Watch that you keep yourselves from all greedy desires, because a person's life does not consist of the abundance of his possessions."
 </usfm>
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:teacher]]
-  * [[en:obe:kt:inherit]]
-  * [[en:obe:other:judgeposition]]
-  * [[en:obe:other:mediator]]
-  * [[en:obe:other:possess]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:kt:inherit]]
+  * [[:en:obe:other:judgeposition]]
+  * [[:en:obe:other:mediator]]
+  * [[:en:obe:other:possess]]
 
 ===== Translation Notes: =====
 
-  * **Man**  - Some understand this to be simply a way of addressing a stranger. Others understand that Jesus was rebuking the man. Your language might have a way of addressing people in either of these ways. Some people do not translate this word at all.
-  * **who made me a judge or a mediator over you?**  - This is a rhetorical question. Languages that have a dual form would use that. AT: "I am not your judge or mediator." Some languages would use the plural form for "you" or "your."  (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol1:translate:figs_you]])
-  * **And he said to them**  - The word "them" here probably refers to the whole crowd of people. This could be translated as "And Jesus said to the crowd."
-  * **keep yourselves from all greedy desires**  - "guard yourself from every form of greed." AT: "don't allow yourself to love having things" or "don't be controlled by the urge to have more."
-  * **someone's life**  - This is a general statement of fact. It does not refer to any specific person. Some languages have a way of expressing that.
-  * **the abundance of his possessions**  - "how many things he owns" (UDB) or "how much wealth he has"
+  * **General Information:** - This is a break in Jesus' teachings. A man asks Jesus to do something and Jesus responds to him.
+  * **Man** - Possible meanings are 1) this is simply a way to address a stranger or 2) Jesus is rebuking the man. Your language might have a way of addressing people in either of these ways. Some people do not translate this word at all.
+  * **who made me a judge or a mediator over you?** - Jesus uses a question to teach the man. AT: "I am not your judge or mediator." Some languages would use the plural form for "you" or "your." (See: [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]] and [[:en:ta:vol1:translate:figs_you|Forms of You]])
+  * **And he said to them** - The word "them" here probably refers to the whole crowd of people. AT: "And Jesus said to the crowd."
+  * **keep yourselves from all greedy desires** - "guard yourself from every form of greed." AT: "do not allow yourself to love having things" or "do not let the urge to have more things control you."
+  * **a person's life** - This is a general statement of fact. It does not refer to any specific person. Some languages have a way of expressing that.
+  * **the abundance of his possessions** - "how many things he owns" (UDB) or "how much wealth he has"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:11|<<]] | [[:en:bible:notes:luk:12:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish judgeposition }}
+~~DISCUSSION~~{{tag>publish p2edit judgeposition }}

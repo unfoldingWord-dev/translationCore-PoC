@@ -28,22 +28,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:sword]]
-
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:sword]]
 
 ===== Translation Notes: =====
 
-  * **When I sent you out** - Jesus was talking to his apostles. So languages that have different forms of "you" should use the plural form. (See: [[en:ta:vol1:translate:figs_you]])
-  * **purse**  - A purse is a bag for holding money. Here it is used to refer to "money." (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **a bag of provisions** - This can be translated as "travelers' bag"  or "food," which would have been in the bag if they had taken one.
-  * **did you lack anything?** - "did you need anything that you did not have?" This is a rhetorical question to help the apostles remember how well the people they went to provided for them. (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **Nothing** - "We did not lack anything"
-  * **The one who does not have a sword should sell his cloak** - Jesus was not referring to a specific person who did not have a sword. It can also be translated as "If anyone does not have a sword, he should sell his cloak."
-  * **cloak**  - "coat" or "outer garment"
+  * **Connecting Statement:** - Jesus turns his attention back to speaking to all of his disciples.
+
+  * **When I sent you out** - Jesus was talking to his apostles. So languages that have different forms of "you" should use the plural form. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **purse** - A purse is a bag for holding money. Here it is used to refer to "money." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **a bag of provisions** - AT: "travelers' bag" or "food" 
+  * **When...did you lack anything?" And they answered, "Nothing."** - Jesus uses a question to help the apostles remember how well the people provided for them as they traveled. AT: "'When...yet you had everything you needed.' And the disciples agreed saying 'Yes, we had everything we needed.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Nothing** - "We did not lack anything" or "We had everything we needed"
+  * **The one who does not have a sword should sell his cloak** - Jesus was not referring to a specific person who did not have a sword. AT: "If anyone does not have a sword, he should sell his cloak."
+  * **cloak** - "coat" or "outer garment"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:33|<<]] | [[:en:bible:notes:luk:22:37|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

@@ -27,25 +27,29 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:vineyard]]
-  * [[en:obe:kt:lord]]
+  * [[:en:obe:other:vineyard]]
+  * [[:en:obe:kt:lord]]
 
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
-  * **They threw him out of the vineyard**  - "The vine growers forced the son out of the vineyard"
-  * **What then will the lord of the vineyard do to them?**  - Jesus used this rhetorical question to get his listeners to pay attention to what the owner of the vineyard would do. It can be translated as a command: "So now, listen to what the lord of the vineyard will do to them." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **God forbid!**  - "May God stop it from happening!" or "May it never happen!" The people understood this parable to mean that God would remove them from Jerusalem because they would reject the Messiah. They strongly expressed their desire that this terrible thing would not happen. (see: [[en:ta:vol1:translate:figs_parables]])
+
+  * **Connecting Statement:** - Jesus finishes telling his parable to the crowd.
+
+  * **They threw him out of the vineyard** - "The vine growers forced the son out of the vineyard"
+  * **What then will the lord of the vineyard do to them?** - Jesus used a question to get his listeners to pay attention to what the owner of the vineyard would do. AT: "So now, listen to what the lord of the vineyard will do to them." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **God forbid!** - "May God stop it from happening!" or "May it never happen!" The people understood this parable to mean that God would remove them from Jerusalem because they would reject the Messiah. They strongly expressed their desire that this terrible thing would not happen. (See: [[:en:ta:vol1:translate:figs_parables]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/13|<<]] | [[en/bible/notes/luk/20/17|>>]]**
+**[[:en:bible:notes:luk:20:13|<<]] | [[:en:bible:notes:luk:20:17|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

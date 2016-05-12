@@ -26,31 +26,35 @@
 
 
 ===== translationWords: =====
-   * [[en:obe:other:generation]]
-   * [[en:obe:other:flute]]
-   * [[en:obe:other:mourn]]
+
+  * [[:en:obe:other:generation]]
+  * [[:en:obe:other:flute]]
+  * [[:en:obe:other:mourn]]
 
 ===== Translation Notes: =====
-Jesus talks about the people who have rejected him and John the Baptizer.
 
-  * **To what then should I compare**  - This is the start of a rhetorical question. Jesus used it to introduce a comparison that he was about to make. AT: "This is what I will compare this generation to. This is what they are like." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **the people of this generation**  - "the people living now" or "these people" or "you people of this generation"
-  * **They are like**  - This simile is the beginning of Jesus' comparison. Jesus is saying that the people of this generation were like children who were never satisfied with the way other children acted. (See: [[en:ta:vol1:translate:figs_simile]])
-  * **marketplace**  - This was a large, open-air area where people would come to sell their goods.
-  * **and you did not dance**  - "but you did not dance to the music"
-  * **and you did not weep**  - "but you did not weep with us"
+  * **Connecting Statement:** - Jesus continues speaking to the people about John the Baptist.
+
+  * **To what then should I compare...they like** - Jesus used questions to introduce a comparison. AT: "This is to what I will compare this generation. This is what they are like." (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol2:translate:figs_parallelism]])
+  * **the people of this generation** - The people living now.
+  * **They are like** - These words are the beginning of Jesus' comparison. Jesus is saying that the people of this generation were like children who were never satisfied with the way other children acted. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **marketplace** - a large, open-air area where people came to sell their goods
+  * **and you did not dance** - AT: "but you did not dance to the music"
+  * **and you did not weep** - AT: "but you did not weep with us"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
 
  
 
-**[[en/bible/notes/luk/07/29|<<]] | [[en/bible/notes/luk/07/33|>>]]**
+**[[:en:bible:notes:luk:07:29|<<]] | [[:en:bible:notes:luk:07:33|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

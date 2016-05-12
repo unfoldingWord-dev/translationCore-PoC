@@ -35,24 +35,26 @@
   * [[:en:obe:kt:lord]]
   * [[:en:obe:kt:restore]]
   * [[:en:obe:kt:salvation]]
-  * [[en:obe:kt:son]]
+  * [[:en:obe:kt:son]]
   * [[:en:obe:other:abraham]]
   * [[:en:obe:kt:sonofman]]
 
 ===== Translation Notes: =====
 
-  * **the Lord**  - This refers to Jesus.
-  * **salvation has come to this house**  - The abstract noun "salvation" can be translated with the verb "save": "God has saved this household" (UDB). (See: [[en:ta:vol2:translate:figs_abstractnouns]])
-  * **this house**  - The word "house" here refers to the people living in the house or the family. (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **he too**  - "this man too" or "Zacchaeus also"
-  * **son of Abraham**  - Possible meanings are 1) "descendant of Abraham" and 2) "person who has faith as Abraham did."
-  * **the people who are lost**  - "the people who have wandered away from God" or "those who by sinning have wandered away from God"
+  * **the Lord** - This refers to Jesus.
+  * **salvation has come to this house** - AT: "God has saved this household" (UDB). (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **this house** - The word "house" here refers to the people living in the house or the family. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he too** - "this man too" or "Zacchaeus also"
+  * **son of Abraham** - Possible meanings are 1) "descendant of Abraham" and 2) "person who has faith as Abraham did."
+  * **the people who are lost** - "the people who have wandered away from God" or "those who by sinning have wandered away from God"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 **[[:en:bible:notes:luk:19:05|<<]] | [[:en:bible:notes:luk:19:11|>>]]**
 
 ~~NOCACHE~~
 
-~~DISCUSSION~~{{tag>publish restore }}
+~~DISCUSSION~~{{tag>publish p2edit restore }}

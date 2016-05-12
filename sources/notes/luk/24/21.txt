@@ -20,16 +20,22 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:free]]
-  * [[en:obe:other:israel]]
+  * [[:en:obe:kt:free]]
+  * [[:en:obe:other:israel]]
+  * [[:en:obe:other:biblicaltimeday]]
 
 ===== Translation Notes: =====
 
-  * **he who would free Israel**  - The Jews were ruled by the Romans. The disciples meant "The one who would free Israel from their Roman enemies." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **since these things came to pass**  - "since he was killed" (UDB)
+  * **Connecting Statement:** - The two men continue responding to Jesus.
+
+  * **who would free Israel** - The Romans ruled over the Jews. AT: "who would free the Israelites from our Roman enemies." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the third day** - See: [[:en:ta:vol2:translate:translate_ordinal]]
+  * **since these things came to pass** - "since they killed him"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:19|<<]] | [[:en:bible:notes:luk:24:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

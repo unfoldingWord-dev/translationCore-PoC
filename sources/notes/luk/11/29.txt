@@ -29,29 +29,32 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:generation]]
-    * [[en:obe:kt:evil]]
-    * [[en:obe:kt:sign]]
-    * [[en:obe:other:jonah]]
-    * [[en:obe:other:Nineveh]]
-    * [[en:obe:kt:sonofman]]
+  * [[:en:obe:other:generation]]
+  * [[:en:obe:kt:evil]]
+  * [[:en:obe:kt:sign]]
+  * [[:en:obe:other:jonah]]
+  * [[:en:obe:other:Nineveh]]
+  * [[:en:obe:kt:sonofman]]
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Jesus continues teaching the crowd.
 
-    * **This generation** - "The people living at this time" (UDB)
-    * **It seeks a sign** - "They want me to give them a sign" or "Many of you want me to give you a sign." The information about what kind of sign they wanted can be made explicit as in the UDB. (See:  [[en:ta:vol1:translate:figs_explicit]])
-    * **no sign will be given to it** - "God will not give them a sign" (See: [[en:ta:vol2:translate:figs_activepassive]])
-    * **the sign of Jonah** - This could be translated as "what happened to Jonah" or "the miracle that God did for Jonah" (UDB).
-    * **For just as Jonah became a sign...so too** - This means that Jesus will serve as a sign from God for the the Jews of that day in exactly the same way as Jonah served as a sign from God to the people of Nineveh.
-    * **Son of Man** - Jesus is referring to himself.
+  * **This generation is an evil generation** - "The people living at this time are evil people" (UDB)
+  * **It seeks a sign** - "They want me to give them a sign" or "Many of you want me to give you a sign." The information about what kind of sign they wanted can be made explicit as in the UDB. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **no sign will be given to it** - AT: "God will not give them a sign" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the sign of Jonah** - AT: "what happened to Jonah" or "the miracle that God did for Jonah" (UDB).
+  * **For just as Jonah became a sign...so too** - This means that Jesus will serve as a sign from God for the the Jews of that day in exactly the same way as Jonah served as a sign from God to the people of Nineveh.
+  * **Son of Man** - Jesus is referring to himself.
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:27|<<]] | [[:en:bible:notes:luk:11:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish generation  jonah}}
+~~DISCUSSION~~{{tag>publish p2edit generation jonah}}
 
 ~~NOCACHE~~

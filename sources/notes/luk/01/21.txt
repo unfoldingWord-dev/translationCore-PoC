@@ -28,37 +28,35 @@
 ===== ULB: =====
 
 <usfm>
-\v 21 Meanwhile, the people were waiting for Zechariah and wondering why he stayed so long in the temple.
-\v 22 When he came out, he could not speak to them, and they realized that he had seen a vision in the temple. He made signs to them, but remained unable to speak.
-\v 23 When his time of service was fulfilled, he went back to his house.
+\v 21 Now the people were waiting for Zechariah. They were surprised that he was spending so much time in the temple.  
+\v 22 But when he came out, he could not speak to them. They realized that he had had a vision while he was in the temple. He kept on making signs to them and remained silent.  
+\v 23 It came about that when the days of his service were over, he left to return to his house.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:temple]]
-    * [[en:obe:other:vision]]
-    * [[en:obe:other:serve]]
-    * [[en:obe:kt:fulfill]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:other:vision]]
+  * [[:en:obe:other:serve]]
 
 ===== Translation Notes: =====
 
-
-    * **Meanwhile** - AT: "During the time" or "While the angel and Zechariah were talking"
-    * **the people were waiting for Zechariah and wondering why he stayed so long in the temple** - AT: "the people were waiting for Zechariah, and they wondered, 'Why is he staying so long in the temple?'" (See: [[en:ta:vol2:translate:figs_quotations]])
-    * **came out** - AT: "came out of the temple building"
-
+  * **Now** - AT: "During the time" or "While the angel and Zechariah were talking"
+  * **They realized that he had had a vision while he was in the temple. He kept on making signs to them and remained silent.** - These things probably happened at the same time, and Zechariah's signs helped the people understand that he had seen a vision. It might be helpful to your audience change the order to show that. AT: "He kept on making signs to them and remained silent. So they realized that he had had a vision while he was in the temple."
+  * **a vision** - The earlier description indicated that Gabriel actually came Zechariah in the temple. The people, not knowing that, assumed Zechariah saw a vision. 
+  * **It came about** - This phrase moves the story ahead to when Zechariah's service was ended.
+  * **to return to his house** - Zechariah did not live in Jerusalem, where the temple was located. He traveled to his home town. 
 ===== Links: =====
 
-    * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
-
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:18|<<]] | [[:en:bible:notes:luk:01:24|>>]]**
 
-
 ~~DISCUSSION~~
 
-
-{{tag>publish zechariahnt vision}}
+{{tag>publish p2check zechariahnt vision}}
 
 ~~NOCACHE~~

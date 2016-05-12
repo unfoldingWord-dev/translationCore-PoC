@@ -37,26 +37,30 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:other:heart]]
-    * [[en:obe:kt:receive]]
-    * [[en:obe:kt:name]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:receive]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:other:send]]
 
 
 ===== Translation Notes: =====
 
+  * **General Information:** - A dispute that revolves around power starts among the disciples.
 
-    * **among them**  - "among the disciples"
-    * **reasoning in their hearts**  - "thinking about individually" or "considering in their private thoughts"
-    * **in my name** - This refers to a person doing something as a representative of Jesus. AT: "because of me" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
-    * **the one who sent me** - "God, who sent me" (UDB)
-
+  * **among them** - "among the disciples"
+  * **reasoning in their hearts** - AT: "thinking about individually" or "considering in their private thoughts" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in my name** - This refers to a person doing something as a representative of Jesus. AT: "because of me." (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **he also is receiving me** - AT: "it is like he is receiving me" (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the one who sent me** - "God, who sent me" (UDB)
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:43|<<]] | [[:en:bible:notes:luk:09:49|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

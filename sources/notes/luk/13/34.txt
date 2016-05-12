@@ -13,7 +13,7 @@
 
 <usfm>
 \v 34 Oh, people of Jerusalem! You killed the prophets who lived long ago, and you killed others, whom God sent to you, by throwing stones at them. Many times I wanted to gather you together to protect you like a hen gathers her young chicks under her wings. But you did not want me to do that.
-\v 35 Now look! God will no longer protect you, people of Jerusalem. I will also tell you this: I will enter your city only once more. After that, you will not see me until the time when I return, when you will say about me, ‘May God bless this man who comes with God's authority!'"
+\v 35 Now look! God will no longer protect you, people of Jerusalem. I will also tell you this: I will enter your city only once more. After that, you will not see me until the time when I return, when you will say about me, 'May God bless this man who comes with God's authority!'"
 </usfm>
 
 
@@ -21,35 +21,40 @@
 
 <usfm>
 \v 34 Jerusalem, Jerusalem, who kills the prophets and stones those sent to you. How often I desired to gather your children the way a hen gathers her brood under her wings, but you did not desire this.
-\v 35 See, your house is abandoned. I say to you, you will not see me until you say, 'Blessed is he who comes in the name of the Lord.'”
+\v 35 See, your house is abandoned. I say to you, you will not see me until you say, 'Blessed is he who comes in the name of the Lord.'"
 </usfm>
 
 
 ===== translationWords: =====
 
 
-    * [[en:obe:other:jerusalem]]
-    * [[en:obe:kt:prophet]]
-    * [[en:obe:other:stone]]
-    * [[en:obe:other:send]]
-    * [[en:obe:kt:bless]]
-    * [[en:obe:kt:name]] 
-    * [[en:obe:kt:lordgod]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:stone]]
+  * [[:en:obe:other:send]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:name]] 
+  * [[:en:obe:kt:lordgod]]
 
 ===== Translation Notes: =====
-Jesus continues speaking with the Pharisees before going to Jerusalem.
-  * **Jerusalem, Jerusalem**  - Jesus speaks as if the people of Jerusalem were there listening to him. Jesus said this twice to show how sad he was for them. (See: [[en:ta:vol2:translate:figs_apostrophe]])
-  * **who kills the prophets and stones those sent to you**  - If it would be strange to address the city, you can make it clear that Jesus was really addressing the people in the city: "you people who kill the prophets and stone those God has sent to you"
-  * **to gather your children**  - "to gather your people" or "to gather you"
-  * **the way a hen gathers her brood under her wings**  - This metaphor describes how a hen protects her young from harm by covering them with her wings. (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **your house is abandoned**  - This is a metaphor. Possible meanings are 1) "God has abandoned you" or 2) "Your city is empty." It means that God has stopped protecting the people of Jerusalem, so enemies can attack them and drive them away. This is a prophecy about something that would happen soon. It can be translated as "your house will be abandoned" or "God will abandon you." (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **you will not see me until you say**  - "you will not see me until the time comes when you will say" or "the next time you see me, you will say"
+
+  * **Connecting Statement:** - Jesus finishes responding to the Pharisees. This is the end of this part of the story.
+
+  * **Jerusalem, Jerusalem** - Jesus speaks as if the people of Jerusalem were there listening to him. Jesus said this twice to show how sad he was for them. (See: [[:en:ta:vol2:translate:figs_apostrophe]])
+  * **who kills the prophets and stones those sent to you** - If it would be strange to address the city, you can make it clear that Jesus was really addressing the people in the city: "you people who kill the prophets and stone those God has sent to you" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **to gather your children** - "to gather your people" or "to gather you"
+  * **the way a hen gathers her brood under her wings** - This describes how a hen protects her young from harm by covering them with her wings. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **your house is abandoned** - Possible meanings are 1) "God has abandoned you" or 2) "Your city is empty." It means that God has stopped protecting the people of Jerusalem, so enemies can attack them and drive them away. This is a prophecy about something that would happen soon. AT: "your house will be abandoned" or "God will abandon you." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **you will not see me until you say** - "you will not see me until the time comes when you will say" or "the next time you see me, you will say"
+  * **the name of the Lord** - Here "name" refers to the Lord's power and authority. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:31|<<]] | [[:en:bible:notes:luk:14:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

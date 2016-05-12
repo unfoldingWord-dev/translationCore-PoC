@@ -28,28 +28,31 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:lord]]
-    * [[en:obe:other:bury]]
-    * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:bury]]
+  * [[:en:obe:kt:kingdomofgod]]
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Jesus continues to talk with the people along the road.
 
-    * **Follow me** - AT: "Be my follower" or "Be my disciple and come with me."
-    * **allow me first to go** - This could be translated as "before I do that, let me go." This is a request from the man to Jesus.
-    * **Leave the dead to bury their own dead** - "Let the dead people bury their own dead people." Since people who are dead cannot bury anyone, the implied meaning here is "let the spiritually dead bury the dead people." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **Follow me** - This implies to be Jesus' disciple and go with him.
+  * **allow me first to go** - "before I do that, let me go."
+  * **Leave the dead to bury their own dead** - Since people who are dead cannot bury anyone, the implied meaning here is to let the spiritually dead people bury the physically dead people. (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 
  
 
-**[[en/bible/notes/luk/09/57|<<]] | [[en/bible/notes/luk/09/61|>>]]**
+**[[:en:bible:notes:luk:09:57|<<]] | [[:en:bible:notes:luk:09:61|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

@@ -30,25 +30,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:kt:lord]]
-  * [[en:obe:other:sword]]
-  * [[en:obe:other:servant]]
-  * [[en:obe:kt:highpriest]]
-
- 
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:sword]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:kt:highpriest]]
 
 ===== Translation Notes: =====
 
-    * **those who were around Jesus** - This refers to Jesus' disciples.
-    * **what was happening**  - This could be translated as "that the priests and soldiers had some to arrest Jesus."
-    * **struck the servant of the high priest**  - "struck the servant of the high priest with a sword"
-    * **touched his ear**  - This could be translated as "touched him where his ear had been cut off."
+  * **those who were around Jesus** - This refers to Jesus' disciples.
+  * **what was happening** - AT: "that the priests and soldiers had some to arrest Jesus"
+  * **struck the servant of the high priest** - "struck the servant of the high priest with a sword"
+  * **touched his ear** - AT: "touched him where his ear had been cut off"
 
   
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:47|<<]] | [[:en:bible:notes:luk:22:52|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

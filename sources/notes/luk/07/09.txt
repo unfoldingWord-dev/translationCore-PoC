@@ -15,7 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 9  When Jesus heard what the officer had said, he was amazed at him.Then he turned to the crowd that was with him and said, "I tell you, I have not found any Israelite who trusts me as much as this Gentile does!"
+\v 9  When Jesus heard what the officer had said, he was amazed at him. Then he turned to the crowd that was with him and said, "I tell you, I have not found any Israelite who trusts me as much as this Gentile does!"
 \v 10 When those people who had come from the centurion returned to his house, they found out that the slave was in good health again.
 \p
 </usfm>
@@ -31,23 +31,25 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:amazed]]
-    * [[en:obe:other:israel]]
-    * [[en:obe:kt:faith]]
-    * [[en:obe:other:servant]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:other:israel]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:other:servant]]
 
 
 ===== Translation Notes: =====
 
-  * **I say to you**  - Jesus said this to emphasize the surprising thing that he was about to tell them.
-  * **not even in Israel have I found anyone with so much faith**  - The implication is that Jesus expected Jewish people to have this kind of faith, but they didn't. He did not expect Gentiles to have this kind of faith, yet this man did. You may need to add this implied information as the UDB does. (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **those who were sent**  - "the people whom the Roman officer had sent to Jesus"
-
+  * **he was amazed at him** - "he was amazed at the centurion"
+  * **I say to you** - Jesus said this to emphasize the surprising thing that he was about to tell them.
+  * **not even in Israel have I found anyone with so much faith** - The implication is that Jesus expected Jewish people to have this kind of faith, but they didn't. He did not expect Gentiles to have this kind of faith, yet this man did. You may need to add this implied information. AT: "I have not found any Israelite who trusts me as much as this Gentile does!" (UDB). (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **those who were sent** - It is understood that there were the people the centurion sent. This could be stated. AT: "the people whom the Roman officer had sent to Jesus." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
 **[[:en:bible:notes:luk:07:06|<<]] | [[:en:bible:notes:luk:07:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

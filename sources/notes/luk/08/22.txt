@@ -28,24 +28,28 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:other:seaofgalilee]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:other:seaofgalilee]]
 
 
 ===== Translation Notes: =====
 
-    * **Now it happened** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-    * **the lake** - This is lake of Genneseret which is also called the Sea of Galilee.
-    * **as they sailed**  - "as they went"
-    * **fell asleep** - "slept"
-    * **a storm of very strong winds came up**  - "very strong winds suddenly began to blow"
+  * **Connecting Statement:** - Jesus and his disciples then use a boat to cross Lake Genneseret. The disciples learn more about Jesus' power through the storm that arises. 
+
+  * **Now it happened** - This phrase is used here to mark the beginning of a new part of what happens. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **the lake** - This is the lake of Genneseret which is also called the Sea of Galilee.
+  * **as they sailed** - "as they went"
+  * **fell asleep** - "slept"
+  * **a storm of very strong winds came up** - "very strong winds suddenly began to blow"
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:19|<<]] | [[:en:bible:notes:luk:08:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

@@ -28,29 +28,28 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:heal]]
-
+  * [[:en:obe:other:heal]]
 
 ===== Translation Notes: =====
-This event happens on the way to heal Jairus' daughter.
 
-  * **had been bleeding**  - "had a flow of blood." She was probably bleeding from her womb even when it was not the normal time for it. Some cultures may have a polite way of referring to this condition. (See: [[en:ta:vol2:translate:figs_euphemism]])
-  * **but could not be healed by any of them**  - "but none of them could cure her"
-  * **touched the border of his garment**  - "touched the fringe of his robe." Jewish men wore tassels on the edges of their robes as a part of their ceremonial dress, as commanded in God's Law. This is likely what she touched.
+  * **had been bleeding** - "had a flow of blood." She was probably bleeding from her womb even when it was not the normal time for it. Some cultures may have a polite way of referring to this condition. (See: [[:en:ta:vol2:translate:figs_euphemism]])
+  * **but could not be healed by any of them** - AT: "but none of them could cure her" or "but none of them could heal her" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **touched the border of his garment** - "touched the fringe of his robe." Jewish men wore tassels on the edges of their robes as a part of their ceremonial dress as commanded in God's Law. This is likely what she touched.
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 
  
 
-**[[en/bible/notes/luk/08/40|<<]] | [[en/bible/notes/luk/08/45|>>]]**
+**[[:en:bible:notes:luk:08:40|<<]] | [[:en:bible:notes:luk:08:45|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish heal}}
+{{tag>publish p2edit heal}}
 
 ~~NOCACHE~~

@@ -33,23 +33,26 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:rebuke]]
-    * [[en:obe:kt:faith]]
-    * [[en:obe:other:amazed]]
-    * [[en:obe:other:command]]
-    * [[en:obe:other:obey]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:rebuke]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:other:command]]
+  * [[:en:obe:other:obey]]
 
 ===== Translation Notes: =====
 
-  * **Master**  - The Greek word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to  someone who owns someone else. AT: "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
-  * **rebuked**  - "spoke sharply to"
+  * **Master** - The Greek word that is translated here as "Master" is a not the normal word for "Master." This one refers to someone who has authority, and not to someone who owns someone else. AT: "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as "Sir."
+  * **rebuked** - "spoke sharply to"
   * **they ceased** - "the wind and the waves stopped"
-  * **Where is your faith?** - This is a rhetorical question. Jesus was rebuking them mildly because they did not trust him to take care of them. AT: "You should have had faith" or "You should have trusted me." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **Who then is this** - AT: "What kind of man is this."
+  * **Where is your faith?** - Jesus was rebuking them mildly because they did not trust him to take care of them. AT: "You should have had faith" or "You should have trusted me." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who then is this** - AT: "What kind of man is this." (See: [[:en:ta:vol1:translate:figs_rquestion]])
   * **that he commands** - This can be the beginning of a new sentence: "He commands."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:22|<<]] | [[:en:bible:notes:luk:08:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}

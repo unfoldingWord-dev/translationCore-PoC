@@ -29,21 +29,28 @@
 ===== translationWords: =====
 
 
-    * [[:en:obe:other:synagogue]]
-    * [[:en:obe:kt:sabbath]]
-    * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:kt:sabbath]]
+  * [[:en:obe:other:biblicaltimeyear]]
+  * [[:en:obe:kt:demon]]
 
 ===== Translation Notes: =====
 
-  * **during the Sabbath**  - "on a Sabbath day." Some languages would say "a Sabbath" because we do not know which particular Sabbath day it was.
-  * **Behold**  - The word “behold” here alerts us to a new person in the story. Your language may have a way of doing this. English uses “There was a woman who …”
-  * **an evil spirit of weakness**  - "an evil spirit that made her weak"
+  * **General Information:** - This is the next part of the story. These verses give background information about the setting of this part of the story and about a crippled woman who is introduced into the story. (See: [[:en:ta:vol2:translate:writing_background]])
+
+  * **Now** - This word marks a new part of the story.
+  * **during the Sabbath** - "on a Sabbath day." Some languages would say "a Sabbath" because we do not know which particular Sabbath day it was.
+  * **Behold, a woman was there** - The word "behold" here alerts us to a new person in the story. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **eighteen years** - "18 years" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **an evil spirit of weakness** - "an evil spirit that made her weak"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:08|<<]] | [[:en:bible:notes:luk:13:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

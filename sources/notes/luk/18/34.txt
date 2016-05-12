@@ -29,26 +29,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:understand]]
-  * [[en:obe:kt:word]] 
+  * [[:en:obe:other:understand]]
+  * [[:en:obe:kt:word]] 
 
 ===== Translation Notes: =====
+  * **General Information:** - This verse is not part of the main storyline, but rather a comment about this part of the story. (See: [[End of Story]])
 
-
-    * **They understood none of these things** - "They did not understand any of these things"
-    * **these things** - This refers to Jesus' description of how he would suffer and die in Jerusalem, and that he would rise from the dead.
-    * **this word was hidden from them** - AT: "God prevented them from understanding the meaning of what he was telling them" (UDB). (See: [[en:ta:vol2:translate:figs_activepassive]])
-    * **the things that were said**  - AT: "the things that Jesus said." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **They understood none of these things** - "They did not understand any of these things"
+  * **these things** - This refers to Jesus' description of how he would suffer and die in Jerusalem, and that he would rise from the dead.
+  * **this word was hidden from them** - AT: "God prevented them from understanding the meaning of what he was telling them" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the things that were said** - AT: "the things that Jesus said" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 
  
 
-**[[en/bible/notes/luk/18/31|<<]] | [[en/bible/notes/luk/18/35|>>]]**
+**[[:en:bible:notes:luk:18:31|<<]] | [[:en:bible:notes:luk:18:35|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit talink}}
 ~~NOCACHE~~

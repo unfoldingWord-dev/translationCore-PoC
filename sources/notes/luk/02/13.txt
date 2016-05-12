@@ -34,25 +34,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:heaven]]
-  * [[en:obe:other:praise]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:kt:glory]]
-  * [[en:obe:other:peace]]
-===== Translation Notes: =====
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:other:praise]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:other:peace]]
 
+===== Translation Notes: ===== 
 
-    * **a large number of the heavenly army** - The word "army" here could refer to a literal army, or it could be a metaphor for an organized group. (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **praising God** - AT: "who were praising God"
-    * **Glory to God in the highest** - Possible meanings are 1) "Give honor to God in the highest place" or 2) "Give the highest honor to God."
-    * **may there be peace on earth among people with whom he is pleased** - "may those people on earth with whom God is pleased have peace" 
-
+  * **a large number of the heavenly army** - The word "heavenly army" here could refer to a literal army of angels, or it could be a metaphor for an organized group of angels. AT: "a large group of angels from heaven" (UDB). (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **praising God** - "giving praise to God"
+  * **Glory to God in the highest** - Possible meanings are 1) "Give honor to God in the highest place" or 2) "Give the highest honor to God."
+  * **may there be peace on earth among people with whom he is pleased** - "may those people on earth with whom God is pleased have peace" 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:10|<<]] | [[:en:bible:notes:luk:02:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish angel  }}
+~~DISCUSSION~~{{tag>publish p2check angel}}
 
 ~~NOCACHE~~

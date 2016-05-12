@@ -36,28 +36,32 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:hour]]
-  * [[en:obe:other:jerusalem]]
-  * [[en:obe:kt:thetwelve]]
-  * [[en:obe:kt:lord]]
-  * [[en:obe:kt:raise]]
-  * [[en:obe:other:peter]]
+  * [[:en:obe:kt:hour]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:thetwelve]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:raise]]
+  * [[:en:obe:other:peter]]
  
 
 ===== Translation Notes: =====
 
-    * **They rose up** - "They" refers to the two men. Languages that have a dual form of "they" should use it here.
-    * **rose up** - "got up" or "stood up"
-    * **the eleven** - This refers to Jesus' apostles. Judas was not with them.
-    * **saying, "The Lord is risen indeed** - The eleven apostles and those who were with them were saying this.
-    * **So they told** - "so the two men told"
-    * **the things that happened on the way** - This refers to Jesus appearing to them while they were on their way to the village of Emmaus. 
-    * **how Jesus was shown to them** - This can be translated with an active verb as "how they recognized Jesus."  (See: [[en:ta:vol2:translate:figs_activepassive]])
-    * **in the breaking of the bread** - "when Jesus broke the bread" or "when Jesus tore the bread"
+  * **Connecting Statement:** - The two men go to Jerusalem to the eleven disciples to tell them about Jesus.
+
+  * **They rose up** - "They" refers to the two men. 
+  * **rose up** - "got up" or "stood up"
+  * **the eleven** - This refers to Jesus' apostles. Judas was not with them.
+  * **saying, "The Lord is risen indeed** - The eleven apostles and those who were with them were saying this.
+  * **So they told** - "So the two men told"
+  * **the things that happened on the way** - This refers to Jesus appearing to them while they were on their way to the village of Emmaus. 
+  * **how Jesus was shown to them** - AT: "how they recognized Jesus" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in the breaking of the bread** - "when Jesus broke the bread" or "when Jesus tore the bread"
   
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:30|<<]] | [[:en:bible:notes:luk:24:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

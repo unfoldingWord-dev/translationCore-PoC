@@ -27,25 +27,26 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:demon]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:demon]]
 
 
 ===== Translation Notes: =====
 
+  * **they fled** - "they quickly ran away"
+  * **found the man from whom the demons had gone out** - "saw the man whom the demons had left"
+  * **He was clothed** - "He was wearing clothes"
+  * **in his right mind** - "he was sane" or "he was behaving normally"
+  * **sitting at the feet of Jesus** - AT: "sitting on the ground, listening to Jesus"
+  * **they were afraid** - "they were afraid of Jesus" (See: [[:en:ta:vol1:translate:figs_explicit]])
 
-    * **they fled**  - "they quickly ran away"
-    * **found the man from whom the demons had gone out** - "saw the man whom the demons had left"
-    * **He was clothed**  - "He was wearing clothes"
-    * **in his right mind**  - "he was sane"  or "he was behaving normally"
-    * **sitting at the feet of Jesus**  -  AT: "sitting on the ground, listening to Jesus."
-    * **they were afraid**  - "they were afraid of Jesus"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:32|<<]] | [[:en:bible:notes:luk:08:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish  report}}
+~~DISCUSSION~~{{tag>publish p2edit report}}
 
 ~~NOCACHE~~

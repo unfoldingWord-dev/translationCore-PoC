@@ -31,21 +31,24 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:johnthebaptist]]
-  * [[en:obe:other:fast]]
-  * [[en:obe:other:pray]]
-  * [[en:obe:other:bridegroom]]
+  * [[:en:obe:other:johnthebaptist]]
+  * [[:en:obe:other:fast]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:other:bridegroom]]
 
 ===== Translation Notes: =====
 
-  * **They said to him**  - "The religious leaders said to Jesus"
-  * **Can anyone make**  - Jesus used this rhetorical question to cause the people to think about a situation that they already know. AT: "No one tells the wedding attendants of the bridegroom to fast while he is still with them." (See [[en:ta:vol1:translate:figs_rquestion]])
-  * **wedding attendants**  - "guests" or "friends." These are friends who celebrate with a man who is getting married.
-  * **But the days will come when**  - "But some day" (UDB) or "But soon"
-  * **the bridegroom will be taken away from them**  - This is a metaphor. Jesus was speaking about himself. AT: "In the same way, my disciples cannot fast while I am with them." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **They said to him** - "The religious leaders said to Jesus"
+  * **Can anyone make...with them?** - Jesus used this question to cause the people to think about a situation that they already know. This was be written as a statement. AT: "No one tells the wedding attendants of the bridegroom to fast while he is still with them." (See [[:en:ta:vol1:translate:figs_rquestion]])
+  * **wedding attendants** - "guests" or "friends." These are friends who celebrate with a man who is getting married.
+  * **the wedding attendants of the bridegroom fast** - Fasting is a sign of sadness. The religious leaders understood that the wedding attendants would not fast while the bridegroom was with them. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the days will come when** - "soon" or "some day" (UDB)
+  * **the bridegroom will be taken away from them** - Jesus is comparing himself to the bridegroom, and the disciples to the wedding attendants. He did not explain the metaphor, so the translation should explain it only when necessary. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
 **[[:en:bible:notes:luk:05:29|<<]] | [[:en:bible:notes:luk:05:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish fast  bridegroom}}
+~~DISCUSSION~~{{tag>publish p2check fast bridegroom}}

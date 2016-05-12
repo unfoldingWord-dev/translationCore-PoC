@@ -28,23 +28,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:bethlehem]]
-  * [[en:obe:other:know]]
-  * [[en:obe:other:mary]]
-  * [[en:obe:other:josephnt]]
+  * [[:en:obe:other:bethlehem]]
+  * [[:en:obe:other:know]]
+  * [[:en:obe:other:mary]]
+  * [[:en:obe:other:josephnt]]
 
 ===== Translation Notes: =====
 
-  * **from them**  - "from the shepherds"
-  * **to each other**  - "to one another"
-  * **Let us… to us**  - Since the shepherds were speaking to one another, languages that have inclusive forms for "we" and "us" should use the inclusive form here. (See: [[en:ta:vol2:translate:figs_inclusive]])
-
+  * **It came about** - This phrase is used to mark a shift in the story to what the shepherds after the angels left.
+  * **from them** - "from the shepherds"
+  * **to each other** - "to one another"
+  * **Let us...to us** - Since the shepherds were speaking to one another, languages that have inclusive forms for "we" and "us" should use the inclusive form here. (See: [[:en:ta:vol2:translate:figs_inclusive]])
+  * **Let us** - "We should" (UDB)
+  * **this thing that has happened** - This refers to the birth of the baby, and not to the appearance of the angels.
+  * **lying in the feeding trough** - See how you translated this in [[:en:bible:notes:luk:02:06|2:7]]
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:10|<<]] | [[:en:bible:notes:luk:02:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

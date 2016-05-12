@@ -33,20 +33,23 @@
 
   * [[:en:obe:other:jerusalem]]
   * [[:en:obe:other:judea]]
-  * [[en:obe:kt:avenge]]
-  * [[en:obe:other:written]]
+  * [[:en:obe:kt:avenge]]
+  * [[:en:obe:other:written]]
   * [[:en:obe:kt:fulfill]]
 
 ===== Translation Notes: =====
-Jesus continues speaking to his disciples about the future.
-  * **Jerusalem surrounded by armies**  - This can be expressed with an active verb: "armies surrounding Jerusalem." (See: [[en:ta:vol2:translate:figs_activepassive]])
+
+  * **Jerusalem surrounded by armies** - AT: "armies surrounding Jerusalem" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **that its destruction is near** - "that it will soon be destroyed" or "that they will soon destroy it"
-  * **flee**  - "run away from danger"
-  * **these are days of vengeance**  - "these are days of punishment" or "in these days people will be punished" or  "this is the time when God will punish the city" (UDB)
-  * **the things that are written** - "the things that are written in the scriptures"
+  * **flee** - "run away from danger"
+  * **these are days of vengeance** - "these are days of punishment" or "this is the time when God will punish the city" (UDB)
+  * **all the things that are written** - AT: "all the things that the prophets wrote in the scriptures long ago" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **will be fulfilled** - AT: "will happen" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 **[[:en:bible:notes:luk:21:16|<<]] | [[:en:bible:notes:luk:21:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish justice}}
+~~DISCUSSION~~{{tag>publish p2edit justice}}

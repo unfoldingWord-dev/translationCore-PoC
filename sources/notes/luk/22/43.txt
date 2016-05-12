@@ -27,20 +27,22 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:angel]]
-  * [[en:obe:kt:heaven]]
-  * [[en:obe:other:pray]]
-  * [[en:obe:kt:blood]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:kt:blood]]
  
 
 ===== Translation Notes: =====
 
-  * **appeared to him**  - "appeared to Jesus"
-  * **strengthening him**  - "encouraging him"
-  * **Being in agony, he prayed**  - "He was in agony, and he prayed"
+  * **appeared to him** - "appeared to Jesus"
+  * **strengthening him** - "encouraging him"
+  * **Being in agony, he prayed** - "He was in agony, and he prayed"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:41|<<]] | [[:en:bible:notes:luk:22:45|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}

@@ -33,29 +33,30 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:plead]]
-    * [[en:obe:kt:god]]
-    * [[en:obe:other:proclaim]]
+  * [[:en:obe:other:plead]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:proclaim]]
 
 
 ===== Translation Notes: =====
 
-    * **The man** - Some may need to start this with "Before Jesus and his disciples left, the man" or "Before Jesus and his disciples set sail, the man."
-    * **your house** - "your household" or "your family"
-
+  * **The man** - Some may need to start this with AT: "Before Jesus and his disciples left, the man" or "Before Jesus and his disciples set sail, the man."
+  * **your house** - "your household" or "your family"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 
  
 
-**[[en/bible/notes/luk/08/36|<<]] | [[en/bible/notes/luk/08/40|>>]]**
+**[[:en:bible:notes:luk:08:36|<<]] | [[:en:bible:notes:luk:08:40|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

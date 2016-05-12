@@ -28,27 +28,29 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:lord]]
-  * [[en:obe:other:reap]]
+  * [[:en:obe:other:reap]]
   * [[:en:obe:other:sow]]
  
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
+
   * **mina** - See how you translated this in [[:en:bible:notes:luk:19:13|19:13]].
-  * **a severe man**  - "a stern man" or "a man who expects a lot from his servants" or "a hard man" (UDB)
-  * **You take up that which you did not lay down**  - This can be translated as "You take out what you did not put in" or "You take what is not yours." It was a proverb describing a greedy person. (See: [[:en:obe:other:Proverb]])
-  * **reap that which you did not sow**  - "reap what you did not plant." This is a metaphor. The servant was comparing his master to a farmer who takes food that someone else planted. (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **reap**  - "harvest" or "collect" or "gather"
+  * **a severe man** - "a stern man" or "a man who expects a lot from his servants"
+  * **You take up that which you did not lay down** - It was a proverb describing a greedy person. AT: "You take out what you did not put in" or "You take what is not yours." (See: [[:en:obe:other:Proverb]])
+  * **reap that which you did not sow** - "reap what you did not plant." The servant was comparing his master to a farmer who takes food that someone else planted. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **reap** - "collect" or "gather"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/18|<<]] | [[en/bible/notes/luk/19/22|>>]]**
+**[[:en:bible:notes:luk:19:18|<<]] | [[:en:bible:notes:luk:19:22|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

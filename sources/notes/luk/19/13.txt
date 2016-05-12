@@ -33,34 +33,37 @@
   * [[:en:obe:other:servant]]
   * [[:en:obe:other:citizen]]
   * [[:en:obe:other:ambassador]]
-  * [[en:obe:other:ruler]]
-  * [[en:obe:other:command]]
-  * [[en:obe:other:profit]]
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:other:command]]
+  * [[:en:obe:other:profit]]
 
  
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
-  * **He called** - The word "He" refers to the nobleman.
-  * **gave them ten minas**  - This can be translated as "gave them each one mina."
-  * **ten minas**  - This can be translated as "ten valuable coins" or "a large amount of money." Each mina was worth about what someone would be paid in four months. (See: [[en:obe:other:biblicalweight]])
-  * **Conduct business** - This can be translated as "Trade with this money" or "Use this money in order to earn more."
+
+  * **He called** - "The nobleman called"
+  * **gave them ten minas** - AT: "gave them each one mina"
+  * **ten minas** - A mina is 600 grams. Each mina was worth about what someone would be paid in four months. AT: "10 valuable coins" or "a large amount of money." (See: [[:en:ta:vol2:translate:translate_bweight]] and [[:en:ta:vol2:translate:translate_numbers]])
+  * **Conduct business** - AT: "Trade with this money" or "Use this money in order to earn more"
   * **his citizens** - "the people of his country"
-  * **a delegation of ambassadors**  - "representatives" or "messengers"
+  * **a delegation of ambassadors** - "representatives" or "messengers"
   * **It happened** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
   * **having received the kingdom** - "after he had become king"
-  * **what profit they had made**  - "what money they had earned"
+  * **to be called to him** - AT: "to come to him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **what profit they had made** - "what money they had earned"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/11|<<]] | [[en/bible/notes/luk/19/16|>>]]**
+**[[:en:bible:notes:luk:19:11|<<]] | [[:en:bible:notes:luk:19:16|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish citizen}}
+{{tag>publish p2edit citizen}}
 
 ~~NOCACHE~~

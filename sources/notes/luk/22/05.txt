@@ -38,14 +38,16 @@
 ===== Translation Notes: =====
 
   * **They** - "The chief priests and captains"
-  * **to give him money** - The word "him" refers to Judas.
-  * **consented**  - "agreed" even though it is repetitious
-  * **to deliver him**  - "to help them arrest Jesus"
-  * **away from the crowd**  - "privately" or "when there was no crowd around him" (UDB)
-
+  * **to give him money** - "to give Judas money"
+  * **consented** - "agreed"
+  * **looked for an opportunity to deliver him to them away from the crowd** - This is an on-going action that continues after this part of the story ends. (See: [[End of Story]])
+  * **to deliver him** - "to help them arrest Jesus"
+  * **away from the crowd** - "privately" or "when there was no crowd around him" (UDB)
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:03|<<]] | [[:en:bible:notes:luk:22:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit talink}}

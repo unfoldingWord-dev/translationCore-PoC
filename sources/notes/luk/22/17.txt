@@ -27,22 +27,24 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:fruit]]
-  * [[en:obe:other:vine]]
-  * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:fruit]]
+  * [[:en:obe:other:vine]]
+  * [[:en:obe:kt:kingdomofgod]]
  
 
 ===== Translation Notes: =====
 
   * **when he had given thanks** - "when he had given thanks to God"
   * **he said** - "he said to his apostles"
-  * **share it among yourselves** - This can be translated as "share the wine it it among yourselves" or "all of you drink some of the wine from it."
+  * **share it among yourselves** - AT: "share the wine among yourselves" or "all of you drink some of the wine from it"
   * **For I say to you** - This phrase is used to emphasize the importance of what Jesus will say next.
   * **fruit of the vine** - This refers to the juice that is squeezed from the grapes that grow on grapevines. Wine is made from fermented grape juice.
-  * **until the kingdom of God comes** - This can be translated as "until the kingdom of God is established" or "until God establishes his kingdom" or "until God rules in his kingdom."
+  * **until the kingdom of God comes** - AT: "until God establishes his kingdom" or "until God rules in his kingdom"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:14|<<]] | [[:en:bible:notes:luk:22:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

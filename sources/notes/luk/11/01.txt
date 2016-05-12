@@ -30,24 +30,28 @@
   * [[:en:obe:kt:disciple]]
   * [[:en:obe:kt:lord]]
   * [[:en:obe:other:teach]]
-  * [[:en:obe:other:johnthebaptist|John (the Baptist)]]
+  * [[:en:obe:other:johnthebaptist]]
 ~~COMPLEX_TABLES~~
 
 ===== Translation Notes: =====
 
-  * **It happened**  - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **when he finished praying**  - In some languages it is more natural to use Jesus' name rather than the pronoun "he." It may also be more natural to state that Jesus was praying before saying "when he finished praying." (See UDB)
+  * **General Information:** - The is the beginning of the next part of the story. Jesus teaches his disciples to pray.
+
+  * **It happened** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **when he finished praying** - "when Jesus finished praying." It may be more natural to state that Jesus was praying before saying "when he finished praying."
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 
  
 
-**[[en/bible/notes/luk/10/40|<<]] | [[en/bible/notes/luk/11/02|>>]]**
+**[[:en:bible:notes:luk:10:40|<<]] | [[:en:bible:notes:luk:11:02|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish pray}}
+{{tag>publish p2edit pray}}
 ~~NOCACHE~~

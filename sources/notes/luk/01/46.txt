@@ -27,32 +27,34 @@
 
 <usfm>
 \v 46 Mary said,
-\q "My soul exalts the Lord,
-\q \v 47 And my spirit rejoices in God my Savior.
+\q "My soul praises the Lord, 
+\q 
+\v 47 and my spirit has rejoiced in God my Savior.
 </usfm>
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:soul]]
-  * [[en:obe:kt:exalt]]
-  * [[en:obe:kt:lordgod]]
-  * [[en:obe:kt:spirit]]
-  * [[en:obe:other:rejoice]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:kt:savior]]
+  * [[:en:obe:kt:soul]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:other:rejoice]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:savior]]
 
 ===== Translation Notes: =====
 
-Mary praises God for what he has done.
+  * **General Information:** - Mary begins a song of praise to the Lord her Savior.
 
-  * **My soul…my spirit** - Mary is using a form of poetry where she states the same thing in two slightly different ways. Both "soul" and "spirit" refer to the spiritual part of a person. She is saying that her worship comes from deep inside her. If possible, translate these with two slightly different words or phrases that have that similar meaning. AT: "Oh how I" or "how I" which express deep emotion. (See: [[en:ta:vol2:translate:figs_synecdoche]] or [[en:ta:vol2:translate:figs_doublet]])
-  * **rejoices in** - “feels very joyful about” or “is very happy about”
-  * **God my Savior** - “God, the One who saves me” or “God who saves me”
-
+  * **My soul praises...my spirit has rejoiced** - Mary is using a form of poetry where she states the same thing in two slightly different ways. If possible, translate these with two slightly different words or phrases that have that similar meaning. (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **My soul...my spirit** - Both "soul" and "spirit" refer to the spiritual part of a person. Mary is saying that her worship comes from deep inside her. AT: "My inner being...my heart" or "I...I." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **has rejoiced in** - "has felt very joyful about" or "was very happy about"
+  * **God my Savior** - "God, the One who saves me" or "God who saves me"
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:42|<<]] | [[:en:bible:notes:luk:01:48|>>]]**
 
-~~DISCUSSION~~{{tag>publish praise savior soul}}
+~~DISCUSSION~~{{tag>publish p2check praise savior soul}}

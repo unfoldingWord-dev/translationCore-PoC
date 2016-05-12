@@ -12,7 +12,7 @@
 <usfm>
 \v 15 Even Herod does not think he is guilty. I know this, because he sent him back to us without punishing him. So it is clear that this man does not deserve to die.
 \v 16 So I will tell my soldiers to whip him and then set him free."
-\v 17 (Pilate said this because he had to set free one prisoner at the Passover Celebration).
+\v 17 (Pilate said this because he had to set free one prisoner at the Passover Celebration.)
 </usfm>
 
 ===== ULB: =====
@@ -26,23 +26,27 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:herodantipas]]
-  * [[en:obe:kt:worthy]]
+  * [[:en:obe:kt:worthy]]
   * [[:en:obe:kt:death]]
   * [[:en:obe:other:punish]]
   * [[:en:obe:other:prison]]
 
 ===== Translation Notes: =====
 
-  * **No, nor does Herod**  - "Even Herod does not think he is guilty" (UDB) (See: [[:en:ta:vol2:translate:figs_ellipsis]]) or "Even Herod thinks he is innocent" (See: [[:en:ta:vol2:translate:figs_doublenegatives]]) 
-  * **for**  - "because" or "we know this because"
-  * **he sent him back to us**  - "Herod sent Jesus to return to us." The word "us" here is exclusive: it refers to Pilate and his soldiers, not to the priests and scribes who had gone to Herod with Jesus, nor to the crowd. (See: [[en:ta:vol2:translate:figs_exclusive]])
-  * **nothing worthy of death has been done by him**  - This can be translated in active voice: "He has not done anything to deserve a death sentence." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **I will therefore punish him**  - Because Pilate had found no fault in Jesus he should have released him without punishment. It is not necessary to try to make this statement fit logically into the translation. Pilate punished Jesus, whom he knew to be innocent, only because he was afraid of the crowd.
+  * **Connecting Statement:** - Pilate continues speaking to the Jewish leaders and to the crowd.
+
+  * **No, nor does Herod** - AT: "Even Herod does not think he is guilty" (UDB) or "Even Herod thinks he is innocent" (See: [[:en:ta:vol2:translate:figs_ellipsis]]) 
+  * **for** - "because" or "we know this because"
+  * **he sent him back to us** - "Herod sent Jesus to return to us." The word "us" refers to Pilate and his soldiers, not to the priests and scribes who had gone to Herod with Jesus, nor to the crowd. (See: [[:en:ta:vol2:translate:figs_exclusive]])
+  * **nothing worthy of death has been done by him** - AT: "he has not done anything to deserve a death sentence" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **I will therefore punish him** - Because Pilate had found no fault in Jesus he should have released him without punishment. It is not necessary to try to make this statement fit logically into the translation. Pilate punished Jesus, whom he knew to be innocent, only because he was afraid of the crowd.
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:13|<<]] | [[:en:bible:notes:luk:23:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish punish}}
+~~DISCUSSION~~{{tag>publish p2edit punish}}

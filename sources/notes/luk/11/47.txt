@@ -27,28 +27,29 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:woe]]
-    * [[en:obe:kt:prophet]]
-    * [[en:obe:other:tomb]]
-    * [[en:obe:kt:witness]]
+  * [[:en:obe:kt:woe]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:tomb]]
+  * [[:en:obe:kt:witness]]
 
 
 ===== Translation Notes: =====
-Jesus continues to speak to the teachers of the law.
 
-      * **and yet** - This calls attention to the contrast between their honoring of the prophets while ignoring the fact that their ancestors murdered them.
-      * **So you are witnesses and consent to the works of your ancestors** - This is an implied rebuke: "but you did not denounce them." They knew about the murder of the prophets, but did not condemn their ancestors for killing them. (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **and yet** - This calls attention to the contrast between their honoring of the prophets while ignoring the fact that their ancestors murdered them.
+  * **So you are witnesses and consent** - Jesus is rebuking the Pharisees and teachers of the law. They knew about the murder of the prophets, but did not condemn their ancestors for killing them. AT: "So, rather than denouncing them, you are witnesses and consent." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 
 
-**[[en/bible/notes/luk/11/45|<<]] | [[en/bible/notes/luk/11/49|>>]]**
+**[[:en:bible:notes:luk:11:45|<<]] | [[:en:bible:notes:luk:11:49|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

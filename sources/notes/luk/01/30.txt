@@ -25,10 +25,10 @@
 ===== ULB: =====
 
 <usfm>
-\v 30 The angel said to her, "Do not be afraid, Mary, for you have found favor with God.
-\v 31 See, you will become pregnant and bear a son, and you will name him Jesus.
-\v 32 He will be great, and will be called the Son of the Most High. The Lord God will give him the throne of his father, David.
-\v 33 He will reign over the descendants of Jacob forever, and there will be no end to his kingdom."
+\v 30 The angel said to her, "Do not be afraid, Mary, for you have found favor with God.  
+\v 31 And see, you will conceive in your womb and bear a son. You will call his name 'Jesus.' 
+\v 32 He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his ancestor David.
+\v 33 He will reign over the house of Jacob forever, and there will be no end to his kingdom."
 </usfm>
 
 ===== translationWords: =====
@@ -37,24 +37,28 @@
   * [[:en:obe:kt:sonofgod]]
   * [[:en:obe:kt:mosthigh]]
   * [[:en:obe:other:throne]]
-  * [[en:obe:other:father]]
+  * [[:en:obe:other:father]]
   * [[:en:obe:other:david]]
-  * [[en:obe:other:reign]]
+  * [[:en:obe:other:reign]]
   * [[:en:obe:other:jacob]]
-  * [[en:obe:kt:forever]]
+  * [[:en:obe:kt:forever]]
   * [[:en:obe:other:kingdom]]
 
 ===== Translation Notes: =====
 
-  * **for you have found favor with God**  - AT:"God has decided to give you his grace” or “God is showing you his kindness”
-  * **you will become pregnant and bear a son, and you will name him Jesus. He will be great, and will be called the Son of the Most High** - Mary, Jesus' mother, will have a __son__ who will be called "__the Son of the Most High__." Here the Scripture clearly describes Jesus as a human son born of a human mother, but he is also "the Son of the Most High," meaning the Son of God. Christ's human sonship of Mary and his divine Sonship of God are both made very clear in this passage. Translators must maintain that clarity and translate it in their language as precisely as possible.
-  * **will be called** -  Possible meanings are 1) “people will call him” or 2) “God will call him.” (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **give him the throne of his father, David** -  The throne represents the king's authority to rule. AT:  "give him authority to rule as king as his ancestor David did." (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **his father** - The Bible often uses the word "fathers" to refer to ancestors and uses the word "sons" to refer to descendants. The word "his" refers to Mary's son.
+  * **Do not be afraid, Mary** - The angel does not want Mary to be afraid of his appearance, because God sent him with a positive message. 
+  * **you have found favor with God** - The idiom "to find favor" means to be positively received by someone. The sentence can be altered to show God as the actor. AT: "God has decided to give you his grace" or "God is showing you his kindness."
+  * **you will conceive in your womb and bear a son...Jesus...the Son of the Most High** - Mary will bear "a son" who will be called "the Son of the Most High" (UDB). Jesus is therefore a human son born of a human mother, and he is also the Son of God. These terms should be translated very carefully.
+  * **will be called** - Possible meanings are 1) "people will call him" or 2) "God will call him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Son of the Most High** - This is an important title for Jesus, the Son of God. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **give him the throne of his ancestor David** - The throne represents the king's authority to rule. AT: "give him authority to rule as king as his ancestor David did." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **there will be no end to his kingdom** - The negative phrase "no end" emphasizes that it continues forever. It could also be stated with a positive phrase. AT: "his kingdom will never end." (See: [[:en:ta:vol2:translate:figs_litotes]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:26|<<]] | [[:en:bible:notes:luk:01:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish  mosthigh lordgod david}}
+~~DISCUSSION~~{{tag>publish p2check mosthigh lordgod david}}

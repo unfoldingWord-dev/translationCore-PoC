@@ -30,28 +30,30 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:forgive]]
-    * [[en:obe:kt:love]]
-    * [[en:obe:kt:judge]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:kt:love]]
+  * [[:en:obe:kt:judge]]
 
 
 ===== Translation Notes: =====
-Jesus told Simon a story about people who are forgiven.
 
-    * **There were two debtors to a certain lender** - "a certain lender had two debtors"
-    * **five hundred denarii** - "500 day's wages." "Denarii" is the plural of "denarius." (See: [[en:obe:other:biblicalmoney]], [[en:ta:vol2:translate:translate_numbers]])
-    * **fifty denarii** - "50 day's wages"
-    * **Since they had no money to pay**  - "When they did not have money to pay it back" 
-    * **he forgave them both** - "he forgave their debts" or "he canceled their debts"
-    * **I suppose** - Simon was cautious about his answer. AT: "Probably." 
-    * **You have judged correctly** - "You are right"
+  * **General Information:** - To emphasize what he is going to tell Simon the Pharisee, Jesus tells him a story. (See: [[:en:ta:vol1:translate:figs_parables]])
 
+  * **There were two debtors to a certain lender** - "a certain lender had two debtors"
+  * **five hundred denarii** - "500 day's wages." "Denarii" is the plural of "denarius." (See: [[:en:ta:vol2:translate:translate_bmoney]], [[:en:ta:vol2:translate:translate_numbers]])
+  * **fifty denarii** - "50 day's wages"
+  * **Since they had no money to pay** - "When they did not have money to pay it back" 
+  * **he forgave them both** - "he forgave their debts" or "he canceled their debts"
+  * **I suppose** - Simon was cautious about his answer. AT: "Probably." 
+  * **You have judged correctly** - "You are right"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
 **[[:en:bible:notes:luk:07:39|<<]] | [[:en:bible:notes:luk:07:44|>>]]**
 
-~~DISCUSSION~~{{tag>publish biblicalmoney}}
+~~DISCUSSION~~{{tag>publish p2edit biblicalmoney}}
 
 ~~NOCACHE~~

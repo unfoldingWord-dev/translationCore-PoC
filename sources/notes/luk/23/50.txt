@@ -23,24 +23,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:council]]
-  * [[en:obe:kt:righteous]]
-  * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:other:council]]
+  * [[:en:obe:kt:righteous]]
+  * [[:en:obe:kt:kingdomofgod]]
 
-===== Translation Notes: =====
+===== Translation Notes: ===== 
 
-  * **Behold**  - The word “behold” alerts us to a new person in the story. Your language may have a way of doing this. English uses “There was a man who was…”
-  * **belonging to the Council**  - "and he was a member of the Jewish Council"
-  * **a good and righteous man**  - "He was a good and righteous man"
-  * **had not agreed with the decision and their action**  - "Joseph did not agree with the council's decision to kill Jesus and the council's action"
-  * **from Arimathea, a Jewish city**  - "Joseph was from the Jewish city called Arimathea" (See: [[:en:ta:vol1:translate:translate_names]])
-  * **who was waiting**  - "Joseph was waiting"
+  * **General Information:** - This is the next part of the story. Joseph asks Pilate for Jesus' body. These verses give us background information about who Joseph is. (See: [[:en:ta:vol2:translate:writing_background]])
 
+  * **Behold, there was a man** - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. AT: "There was a man who was." (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **belonging to the Council** - "and he was a member of the Jewish Council"
+  * **a good and righteous man** - This can be translated as a new sentence. AT: "He was a good and righteous man."
+  * **had not agreed with the decision and their action** - This can be translated as a new sentence. AT: "Joseph did not agree with the council's decision to kill Jesus and the council's action." (See: [[:en:ta:vol2:translate:writing_background]])
+  * **from Arimathea, a Jewish city** - This can be translated as a new sentence. AT: "Joseph was from the Jewish city called Arimathea." (See: [[:en:ta:vol1:translate:translate_names]])
+  * **who was waiting** - This can be translated as a new sentence. AT: "Joseph was waiting."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:48|<<]] | [[:en:bible:notes:luk:23:52|>>]]**
 
 ~~NOCACHE~~
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}

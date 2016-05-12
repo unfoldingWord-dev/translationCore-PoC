@@ -37,23 +37,27 @@
  
 
 ===== Translation Notes: =====
-Jesus continues speaking to his disciples about the future.
-  * **these things**  - This refers to the terrible things that Jesus had said would happen.
-  * **they will lay their hands on you**  - "they will arrest you" or "they will grab you." Some languages will need to say who will do these things: "people will lay their hands on you" or "enemies will lay their hands on you."
-  * **you**  - Jesus was talking to his disciples. The word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
-  * **delivering you over to the synagogues**  - "handing you over to the leaders of the synagogues." The leaders of the synagogues could forbid all the other Jews from interacting with the disciples because they follow Jesus.
-  * **and prisons**  - "and delivering you over to the prisons" or "and putting you in prisons." 
-  * **for your testimony**  - "for you to tell them your testimony about me"
+
+  * **these things** - This refers to the terrible things that Jesus had said would happen.
+  * **they will lay their hands on you** - AT: "they will arrest you" or "they will grab you" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **they will** - "people will" or "enemies will"
+  * **you** - Jesus was talking to his disciples. The word "you" is plural. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **delivering you over to the synagogues** - "handing you over to the leaders of the synagogues." The leaders of the synagogues could forbid all the other Jews from interacting with the disciples because they follow Jesus.
+  * **and prisons** - "and delivering you over to the prisons" or "and putting you in prisons"
+  * **because of my name** - AT: "because of me" or "because you follow me" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **for your testimony** - "for you to tell them your testimony about me"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 
  
 
-**[[en/bible/notes/luk/21/10|<<]] | [[en/bible/notes/luk/21/14|>>]]**
+**[[:en:bible:notes:luk:21:10|<<]] | [[:en:bible:notes:luk:21:14|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

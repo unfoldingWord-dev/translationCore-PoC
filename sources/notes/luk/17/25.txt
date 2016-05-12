@@ -30,31 +30,34 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:suffer]]
-  * [[en:obe:other:reject]]
-  * [[en:obe:other:generation]]
-  * [[en:obe:other:noah]]
-  * [[en:obe:other:ark]]
-  * [[en:obe:other:flood]]
+  * [[:en:obe:kt:suffer]]
+  * [[:en:obe:other:reject]]
+  * [[:en:obe:other:generation]]
+  * [[:en:obe:other:noah]]
+  * [[:en:obe:other:ark]]
+  * [[:en:obe:other:flood]]
 
  
 
 ===== Translation Notes: =====
-Jesus continues speaking.
 
-  * **But first he must suffer**  - "But first the Son of Man must suffer." Jesus is speaking about himself in the third person. (See: [[en:ta:vol2:translate:figs_123person]])
-  * **As it happened in the days of Noah**  - This can be translated as "As people were doing in the days of Noah" or "As people were doing when Noah lived." The "days of Noah" refers to the time just before God punished the people of world.
-  * **even so will it also happen in the days of the Son of Man**  - This can be translated as "people will be doing the same things in the days of the Son of Man" or "people will be doing the same things when the Son of Man is about to come." The "days of the Son of Man" refers to the period just before the Son of Man will come.
-  * **They ate, they drank, they married, and they were given in marriage**  - People were doing ordinary things. They did not care that God was about to judge them.
-  * **the ark**  - "the ship" or "the barge"
+  * **But first he must suffer** - "But first the Son of Man must suffer." Jesus is speaking about himself in the third person. (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **and be rejected by this generation** - AT: "and this generation must reject him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **As it happened in the days of Noah** - The "days of Noah" refers to the time just before God punished the people of world. AT: "As people were doing in the days of Noah" or "As people were doing when Noah lived." 
+  * **even so will it also happen in the days of the Son of Man** - The "days of the Son of Man" refers to the period just before the Son of Man will come. AT: "people will be doing the same things in the days of the Son of Man" or "people will be doing the same things when the Son of Man is about to come."
+  * **They ate, they drank, they married, and they were given in marriage** - People were doing ordinary things. They did not care that God was about to judge them.
+  * **they were given in marriage** - AT: "parents were allowing their daughters to marry men" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the ark** - "the ship" or "the barge"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:17:00]]
+  * [[:en:bible:questions:comprehension:luk:17]]
 **[[:en:bible:notes:luk:17:22|<<]] | [[:en:bible:notes:luk:17:28|>>]]**
 
 ~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>publish noah ark}}
+{{tag>publish p2edit noah ark}}
