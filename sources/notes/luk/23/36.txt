@@ -34,20 +34,23 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:warrior]]
-  * [[en:obe:kt:kingofthejews]]
-  * [[en:obe:kt:save]]
+  * [[:en:obe:other:warrior]]
+  * [[:en:obe:kt:kingofthejews]]
+  * [[:en:obe:kt:save]]
 
 ===== Translation Notes: =====
 
   * **him** - "Jesus"
   * **approaching him** - "coming close to Jesus"
-  * **offering him vinegar** - "offering Jesus vinegar to drink." Many Bible students believe the soldiers did this to mock him: they knew he was thirsty, so they would put the vinegar near his lips but not let him drink it.
-  * **a sign over him** - "a placard hung above Jesus' head on which was written"
+  * **offering him vinegar** - "offering Jesus vinegar to drink." Vinegar is a cheap drink that common people drink. The soldiers were mocking Jesus by giving a cheap drink to someone who claims to be a king.
+  * **a sign over him** - "a placard at the top of Jesus' cross that stated"
+  * **THIS IS THE KING OF THE JEWS** - The people who put this sign above Jesus were mocking him. They did not really think he was a king.
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:35|<<]] | [[:en:bible:notes:luk:23:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish kingofthejews}}
+~~DISCUSSION~~{{tag>publish p2edit kingofthejews}}

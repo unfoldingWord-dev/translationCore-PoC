@@ -30,23 +30,26 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:heart]]
-    * [[en:obe:kt:sonofman]]
-    * [[en:obe:kt:authority]]
+  * [[:en:obe:other:heart]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:kt:authority]]
 ===== Translation Notes: =====
 
-  * **Why are you questioning this in your hearts**  - AT: "You should not argue about this in your hearts" or "You should not doubt that I have the authority to forgive sins." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **in your hearts**  - This is an idiom referring to the part of a person that thinks or believes. Some languages will find it more natural not to include this phrase. (See: [[en:ta:vol1:translate:figs_idiom]])
-  * **Which is easier to say**  - Jesus uses this rhetorical question to prepare them to connect his power to forgive with the miracle of healing that he is going to do. AT: "It is easy to say 'Your sins are forgiven,' but only God can cause this lame man to 'Get up and walk.'" (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **you may know**  - Jesus was speaking to the scribes and Pharisees. The word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
-  * **the Son of Man**  - Jesus was referring to himself.
-  * **I say to you**  - Jesus was saying this to the paralyzed man. The word "you" is singular.
-
+  * **perceiving what they were thinking** - This phrase indicates that they were reasoning silently, so that Jesus sensed rather then heard what they were thinking.
+  * **Why are you questioning this in your hearts?** - This could be stated in active form. AT: "You should not argue about this in your hearts" or "You should not doubt that I have the authority to forgive sins" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **in your hearts** - "inside yourselves." This refers to the part of a person that thinks or believes. (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Which is easier to say...walk?** - Jesus uses this question to connect his power to forgive with the miracle of healing that he is going to do. It could be stated in active form. AT: "It is easy to say, 'Your sins are forgiven,' but only God can cause this lame man to 'Get up and walk.'" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **easier to say** - The unspoken implication is that one thing is "easier to say because no one will know," but the other thing is "harder to say because everyone will know." People could not see if the mans sins were forgiven, but they would all know if he would get up and walk. (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **you may know** - Jesus was speaking to the scribes and Pharisees. The word "you" is plural. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **the Son of Man** - Jesus was referring to himself.
+  * **I say to you** - Jesus was saying this to the paralyzed man. The word "you" is singular.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
 **[[:en:bible:notes:luk:05:20|<<]] | [[:en:bible:notes:luk:05:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

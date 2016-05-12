@@ -33,27 +33,28 @@
 
 
 ===== translationWords: =====
-  * [[en:obe:other:armor]]
-  * [[en:obe:other:possess]]
+  * [[:en:obe:other:armor]]
+  * [[:en:obe:other:possess]]
 
 ===== Translation Notes: =====
-Jesus continues to speak to the crowd about demons.
 
-  * **When a strong man...** - This story is a metaphor. The image of a strong man being attacked from outside is the same as Jesus is attacking Satan's kingdom from outside by casting out the demons. (See: [[en:ta:vol1:translate:figs_metaphor]]) 
-  * **his goods are safe**  - "no one can steal his things" (See: [[en:ta:vol1:translate:figs_metaphor]]) 
-  * **plunders the man's possessions** - AT: "steals his possessions" or "takes away anything that he wants." (See: [[en:ta:vol1:translate:figs_metaphor]]) 
+  * **When a strong man...man's possessions** - This speaks about Jesus who is defeating Satan and his demons as a stronger man who takes what belongs to a strong man. (See: [[:en:ta:vol1:translate:figs_metaphor]]) 
+  * **his goods are safe** - "no one can steal his things" 
+  * **plunders the man's possessions** - "steals his possessions" or "takes away anything that he wants" 
   * **who is not with me** - "who does not support me" or "who does not work with me"
-  * **is against me**  - "works against me." This refers to those who said Jesus was working together with Satan.
+  * **is against me** - "works against me." This refers to those who said Jesus was working together with Satan.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 
  
 
-**[[en/bible/notes/luk/11/18|<<]] | [[en/bible/notes/luk/11/24|>>]]**
+**[[:en:bible:notes:luk:11:18|<<]] | [[:en:bible:notes:luk:11:24|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

@@ -40,36 +40,37 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:banquet]]
-    * [[en:obe:other:pharisee]]
-    * [[en:obe:other:scribe]]
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:kt:sin]]
-    * [[en:obe:kt:righteous]]
-    * [[en:obe:kt:repent]]
+  * [[:en:obe:other:banquet]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:righteous]]
+  * [[:en:obe:kt:repent]]
 
 
 ===== Translation Notes: =====
 
-    * **in his house** - "in Levi's house"
-    * **reclining at the table** - The Greek style of eating at a feast was to lie on a couch and prop oneself up with the left arm on some pillows.  AT: "at the table" or "sitting at the table." 
-    * **to his disciples** - "to Jesus' disciples"
-    * **Why do you eat**  - The Pharisees and scribes used this rhetorical question to express their disapproval that Jesus' disciples were eating with sinners. The word "you" is plural. AT: "You should not eat with sinners!" (See: [[en:ta:vol1:translate:figs_you]])
-    * **physician**  - "medical doctor" or "doctor"
+  * **Connecting Statement:** - At the meal, Jesus speaks with the Pharisees and scribes.
 
+  * **in his house** - "in Levi's house"
+  * **reclining at the table** - The Greek style of eating at a feast was to lie on a couch and prop oneself up with the left arm on some pillows. AT: "eat together" or "eat at the table." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **to his disciples** - "to Jesus' disciples"
+  * **Why do you eat...sinful people?** - The Pharisees and scribes asked this question to express their disapproval that Jesus' disciples were eating with sinners. AT: "You should not eat with sinners!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **you eat and drink with...sinful people** - The Pharisees and scribes believed that religious people should separate themselves from people they considered to be sinners. The word "you" is plural. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **People who are in good health...sick need one** - Jesus expressed this as a proverb. (See: [[:en:ta:vol2:translate:writing_proverbs]])
+  * **physician** - "medical doctor" or "doctor"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/05/27|<<]] | [[en/bible/notes/luk/05/33|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
+**[[:en:bible:notes:luk:05:27|<<]] | [[:en:bible:notes:luk:05:33|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish repent}}
+{{tag>publish p2check repent}}
 
 ~~NOCACHE~~

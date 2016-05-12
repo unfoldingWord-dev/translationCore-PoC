@@ -34,22 +34,24 @@
   * [[:en:obe:kt:clean]]
   * [[:en:obe:other:heal]]
   * [[:en:obe:kt:glorify]]
-  * [[en:obe:kt:bow]]
-  * [[en:obe:other:samaria]]
+  * [[:en:obe:kt:bow]]
+  * [[:en:obe:other:samaria]]
  
 
 ===== Translation Notes: =====
 
-  * **Go and show yourselves to the priests**  - The implicit information, "so they can examine you" can be stated clearly. (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **And it came about that** -  This phrase is used here to mark an important event in the story. If your language has a way of doing this, you could consider using it here.
-  * **they were cleansed**  - This is the important event marked by "It came about." It can be translated as "they became clean when they were healed of their leprosy" or "they were cured of their leprosy."
-  * **saw that he was healed**  - "realized that he was healed" or "realized that Jesus had  healed him"
+  * **show yourselves to the priests** - AT: "show yourselves to the priests so they can examine you" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **And it came about that** - This phrase is used here to mark an important event in the story. If your language has a way of doing this, you could consider using it here.
+  * **they were cleansed** - This is the important event marked by "It came about." AT: "they became clean when they were healed of their leprosy" or "they were cured of their leprosy."
+  * **saw that he was healed** - "realized that he was healed" or "realized that Jesus had healed him"
   * **he turned back** - "he went back to Jesus"
   * **with a loud voice glorifying God** - "and glorified God loudly"
-  * **He bowed down at Jesus' feet**  - "he knelt down and put his face close to Jesus feet." He did this to honor Jesus.
+  * **He bowed down at Jesus' feet** - "he knelt down and put his face close to Jesus feet." He did this to honor Jesus. (See: [[:en:ta:vol2:translate:translate_symaction]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:17:00]]
+  * [[:en:bible:questions:comprehension:luk:17]]
 **[[:en:bible:notes:luk:17:11|<<]] | [[:en:bible:notes:luk:17:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

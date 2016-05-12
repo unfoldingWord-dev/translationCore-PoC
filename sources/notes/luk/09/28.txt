@@ -29,25 +29,31 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:other:peter]]
-    * [[en:obe:other:johntheapostle]]
-    * [[en:obe:other:jamessonofzebedee]]
-    * [[en:obe:other:pray]]
+  * [[:en:obe:other:biblicaltimeday]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:other:johntheapostle]]
+  * [[:en:obe:other:jamessonofzebedee]]
+  * [[:en:obe:other:pray]]
 
 
 ===== Translation Notes: =====
 
-  * **It came about**  - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
-  * **these words**  - This refers to what Jesus said to his disciples in the preceding verses.
-  * **into the mountain**  - It is unclear how far up the mountain they went. AT: "on the side of a mountain." 
-  * **white and dazzling**  - "shining white and brilliant" or "brilliant white and shining" or "dazzling white and shining like lightening" (UDB).
+  * **Connecting Statement:** - Eight days after Jesus tells his disciples that some would not die before they saw the kingdom of God, Jesus goes up the mountain to pray with Peter, James, and John who all fall asleep while Jesus is changed to a dazzling appearance. 
+
+  * **It came about** - This phrase is used here to mark an important event in the story. If your language has a way for doing this, you could consider using it here.
+  * **eight days** - "8 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **these words** - This refers to what Jesus said to his disciples in the preceding verses.
+  * **into the mountain** - It is unclear how far up the mountain they went. AT: "on the side of a mountain." 
+  * **white and dazzling** - "shining white and brilliant" or "brilliant white and shining"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:26|<<]] | [[:en:bible:notes:luk:09:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish pray jamessonofzebedee}}
+~~DISCUSSION~~{{tag>publish p2edit pray jamessonofzebedee}}
 
 ~~NOCACHE~~

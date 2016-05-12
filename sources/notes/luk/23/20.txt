@@ -33,7 +33,7 @@
   * [[:en:obe:other:pilate]]
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:kt:crucify]]
-  * [[en:obe:kt:evil]]
+  * [[:en:obe:kt:evil]]
   * [[:en:obe:kt:death]]
   * [[:en:obe:other:punish]]
  
@@ -42,11 +42,13 @@
 
   * **addressed them again** - "spoke to them again" or "spoke again to the people in the crowd"
   * **desiring to release Jesus** - "because he wanted to release Jesus"
-  * **He said to them a third time** - "Pilate said to the crowd again, for the third time"
+  * **He said to them a third time** - "Pilate said to the crowd again, for the third time" (See: [[:en:ta:vol2:translate:translate_ordinal]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:18|<<]] | [[:en:bible:notes:luk:23:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish crucify punish}}
+~~DISCUSSION~~{{tag>publish p2edit crucify punish}}

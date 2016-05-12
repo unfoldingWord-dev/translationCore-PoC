@@ -27,22 +27,25 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:compassion]]
-    * [[en:obe:other:kiss]]
+  * [[:en:obe:kt:compassion]]
+  * [[:en:obe:other:kiss]]
  
 ===== Translation Notes: =====
-Jesus continues telling his parable.
-  * **So the young son left and came toward his father**  - "So he left that country and started going back to his father."
-  * **was moved with compassion**  - "had pity on him" or "loved him deeply from his heart"
-  * **hugged and kissed**  - The father did this to show his son that he loved him and was glad that the son was coming home. If people think that it is strange or wrong for a man to hug and kiss his son, you can substitute a way that men in your culture show affection to other men. Or you can translate it more generally as "welcomed him affectionately."
-  * **sinned against heaven**  - "sinned against God"
-  * **in your sight**  - "in your presence." It can be translated as "you have seen me sin" or "and you know about it."
+
+  * **So the young son left and came toward his father** - "So he left that country and started going back to his father." The word "so" means marks an event that happened because of something else that happened first. In this case, the young man was in need and had decided to go home.
+  * **was moved with compassion** - "had pity on him" or "loved him deeply from his heart"
+  * **hugged and kissed** - The father did this to show his son that he loved him and was glad that the son was coming home. If people think that it is strange or wrong for a man to hug and kiss his son, you can substitute a way that men in your culture show affection to other men. AT: "welcomed him affectionately."
+  * **sinned against heaven** - AT: "sinned against God" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in your sight** - "in your presence." AT: "you have seen me sin" or "and you know about it."
+  * **I am not worthy to be called your son** - AT: "I am not worthy for you to call me son" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 **[[:en:bible:notes:luk:15:17|<<]] | [[:en:bible:notes:luk:15:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

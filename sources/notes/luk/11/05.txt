@@ -34,25 +34,29 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:bread]]
+  * [[:en:obe:other:bread]]
 
 
 ===== Translation Notes: =====
-Jesus continues to teach his disciples about prayer.
-    * **Which of you will have**  - Jesus used rhetorical questions to get people to consider what might happen if they were in a certain situation. AT: "Suppose one of you has" or "Suppose you have." (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **lend to me three loaves of bread**  - "let me borrow three loaves of bread" or "give me three loaves of bread and I will pay you later." The host does not have any food ready to give to his guest.
-    * **three loaves of bread** - If your people would wonder why someone would ask for bread, you could use a generic term like "cooked food" or "prepared food."
-    * **just came in from the road**  - AT: "was traveling and just came to my house."
-    * **anything to set before him**  - "any food ready to give him"
-    * **I am not able to get up** - "It is not convenient for me to get up"
-    * **I say to you** - Jesus was speaking to the disciples, so the word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
-    * **give bread to you because you are his friend** - Jesus addresses the disciples as if they were the ones asking for bread. AT: "give bread to him because he is his friend."
-    * **shameless persistence** - This refers to the fact that the person asking for bread ignores the fact that is is inconvenient for his friend to get up in the middle of the night to get the bread for him.
+
+  * **Connecting Statement:** - Jesus continues to teach his disciples about prayer.
+
+  * **Which of you will have** - Jesus used a question to teach the disciples. AT: "Suppose one of you has" or "Suppose you have." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **lend to me three loaves of bread** - "let me borrow three loaves of bread" or "give me three loaves of bread and I will pay you later." The host does not have any food ready to give to his guest.
+  * **three loaves of bread** - AT: "cooked food" or "prepared food" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **just came in from the road** - AT: "was traveling and just came to my house"
+  * **anything to set before him** - "any food ready to give him"
+  * **I am not able to get up** - "It is not convenient for me to get up"
+  * **I say to you** - Jesus was speaking to the disciples. The word "you" is plural. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **give bread to you because you are his friend** - Jesus addresses the disciples as if they were the ones asking for bread. AT: "give bread to him because he is his friend."
+  * **shameless persistence** - This refers to the fact that the person asking for bread ignores the fact that is is inconvenient for his friend to get up in the middle of the night to get the bread for him.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:03|<<]] | [[:en:bible:notes:luk:11:09|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

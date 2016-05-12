@@ -28,23 +28,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:peace]]
-  * [[en:obe:other:terror]]
-  * [[en:obe:kt:fear]]
-  * [[en:obe:kt:spirit]]
+  * [[:en:obe:other:peace]]
+  * [[:en:obe:other:terror]]
+  * [[:en:obe:kt:fear]]
+  * [[:en:obe:kt:spirit]]
   
 
 ===== Translation Notes: =====
 
-    * **Jesus himself** - The word “himself” focuses on Jesus and the surprise of Jesus actually appearing to them. Most of them had not seen him after his resurrection.
-    * **in the midst of them**  - This can be translated as "where they could all see him."
-    * **Peace be to you** - "May you have peace" or "May God give you peace!" (UDB) The word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
-    * **they were terrified and filled with fear** - "they were startled and afraid" (UDB)
-    * **supposed that they saw a spirit** - They did not yet truly understand that Jesus was really alive.
-    * **a spirit** - Here it refers to the spirit of a dead person.
+  * **General Information:** - Jesus appears to the disciples. When the two men previously arrived at the house where the eleven were, Jesus was not with them.
+
+  * **Jesus himself** - The word "himself" focuses on Jesus and the surprise of Jesus actually appearing to them. Most of them had not seen him after his resurrection.
+  * **in the midst of them** - AT: "where they could all see him"
+  * **Peace be to you** - "May you have peace" or "May God give you peace!" (UDB) The word "you" is plural. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **they were terrified and filled with fear** - "they were startled and afraid" (UDB)
+  * **supposed that they saw a spirit** - They did not yet truly understand that Jesus was really alive.
+  * **a spirit** - Here it refers to the spirit of a dead person.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:33|<<]] | [[:en:bible:notes:luk:24:38|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}

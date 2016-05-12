@@ -33,24 +33,26 @@
 
 ===== translationWords: =====
 
-    * [[:en:obe:other:jerusalem]]
-    * [[:en:obe:kt:repent]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:repent]]
 
 
 ===== Translation Notes: =====
 
-Jesus continues speaking to the crowd.
-  * **Or those **  - This is Jesus' second example of people who suffered. This can start with "Or consider those" or "Think about those."  It can also be translated as "What about those" in order to connect it to the rhetorical question that follows it. 
-  * **eighteen people** - "18 people" (See: [[en:ta:vol2:translate:translate_numbers]])
-  *  **do you think they were worse sinners** - “Were they more sinful” or “Does this prove that they were more sinful?” This is a rhetorical question. It can be translated as a statement: “You think that they were more sinful” or as a command “Do not think that they were more sinful” (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **other men**  - "other people"
-  * **No, I say** - Jesus said “I say” here to emphasize “No.” It can be translated as "Certainly not!" Possible meanings are “They certainly were not more sinful” or “Their suffering certainly does not prove that.” It can be translated as “You are wrong to think that.”  If the 
+  * **Or those** - This is Jesus' second example of people who suffered. AT: "Or consider those" or "Think about those."
+  * **eighteen people** - "18 people" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Siloam** - This is the name of an area in Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **do you think they were worse sinners** - "were they more sinful" or "does this prove that they were more sinful?" Jesus uses a question to teach the people. AT: "do not think that they were more sinful." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **other men** - "other people"
+  * **No, I say** - Here "I say" emphasizes "No." AT: "They certainly were not more sinful" or "You are wrong to think that their suffering proves that they were more sinful." 
   * **perish** - "lose your life" or "die"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:01|<<]] | [[:en:bible:notes:luk:13:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

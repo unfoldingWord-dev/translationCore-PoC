@@ -27,9 +27,9 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:pilate]]
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:tomb]]
+  * [[:en:obe:other:pilate]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:tomb]]
 
 ===== Translation Notes: =====
 
@@ -38,12 +38,14 @@
   * **He took it down** - "Joseph took Jesus' body from the cross"
   * **wrapped it in fine linen** - "wrapped the body in a fine linen cloth"
   * **laid him in a tomb** - "placed Jesus' body in a tomb" or "placed Jesus' body in a burial room"
-  * **that was cut in stone** - "a tomb which someone had cut in a rock cliff"
-  * **where no one had ever been laid ** - "No one had ever before put a body in that tomb" (UDB)
+  * **that was cut in stone** - AT: "a tomb which someone had cut in a rock cliff" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **where no one had ever been laid** - This can be translated as a new sentence. AT: "No one had ever before put a body in that tomb."
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:50|<<]] | [[:en:bible:notes:luk:23:54|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

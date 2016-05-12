@@ -34,31 +34,32 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:goodnews]]
-  * [[en:obe:kt:joy]]
-  * [[en:obe:kt:savior]]
-  * [[en:obe:other:cityofdavid]]
-  * [[en:obe:kt:christ]]
-  * [[en:obe:kt:lordgod]]
-  * [[en:obe:kt:sign]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:kt:savior]]
+  * [[:en:obe:other:cityofdavid]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:sign]]
 
 ===== Translation Notes: =====
 
-    * **Do not be afraid** - AT: "Stop being afraid"
-    * **because I am about to announce to you good news** - "for I bring good news to you" or "I will tell you some good news"
-    * **that will bring great joy to all the people** - AT: "that will make all the people very happy."
-    * **all the people** - Some understand this to refer to the Jewish people. Others understand it to refer to all people.
-    * **the city of David** - AT: "in Bethlehem, the city of David"
-    * **This is the sign that will be given to you** - AT: "God will give you this sign" or "You will see this sign from God." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **sign** - This could either be a sign to prove that what the angel was saying was true, or it could be a sign that would help the shepherds recognize the baby. AT: “proof” or “distinguishing mark”
-    * **wrapped in strips of cloth** - "wrapped in pieces of cloth." AT: "who was wrapped comfortably in a blanket."
-
+  * **Do not be afraid** - "Stop being afraid"
+  * **because I am about to announce to you good news** - "for I bring good news to you" or "I will tell you some good news"
+  * **that will bring great joy to all the people** - "that will make all the people very happy."
+  * **all the people** - Some understand this to refer to the Jewish people. Others understand it to refer to all people.
+  * **the city of David** - This refers to Bethlehem.
+  * **This is the sign that will be given to you** - This could be stated in active form. AT: "God will give you this sign" or "You will see this sign from God." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the sign** - "the proof." This could either be a sign to prove that what the angel was saying was true, or it could be a sign that would help the shepherds recognize the baby.
+  * **wrapped in strips of cloth** - See how you translated this in [[:en:bible:notes:luk:02:06|2:7]]
+  * **lying in a feeding trough** - See how you translated this in [[:en:bible:notes:luk:02:06|2:7]]
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:08|<<]] | [[:en:bible:notes:luk:02:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish christ sign}}
+~~DISCUSSION~~{{tag>publish p2check christ sign}}
 
 ~~NOCACHE~~

@@ -30,24 +30,28 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:kt:sin]]
-    * [[en:obe:kt:woe]]
-    * [[en:obe:other:stumble]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:woe]]
+  * [[:en:obe:other:stumble]]
 
 ===== Translation Notes: =====
 
-  * **It is certain there will be things that can cause us to sin**  - AT "It is impossible to prevent temptation from coming" or "It is impossible to stop things that tempt people to sin."
-  * **to that person through whom they come**  - "to anyone who causes the temptations to come" or "to any person who causes people to be tempted"
-  * **if a millstone were put around his neck and he were thrown**  - This could also be translated with active clauses: "if they were to put a millstone around his neck and throw him" or "if someone were to put a heavy stone around his neck and push him." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **a millstone**  - This is a very large, heavy circular stone used for grinding wheat grain into flour. It could be translated as "a heavy stone."
-  * **these little ones**  - This could be translated as "little children" or "these people whose faith is small."
-  * **to stumble**  - This could be translated as "to sin."
+  * **Connecting Statement:** - Jesus continues teaching, but he directs his attention back to his disciples. This is still the same part of the story and the same day that begin in [[:en:bible:notes:luk:15:03|15:3]].
+
+  * **It is certain there will be things that can cause us to sin** - AT: "It is impossible to prevent temptation from coming" or "It is impossible to stop things that tempt people to sin"
+  * **to that person through whom they come** - "to anyone who causes the temptations to come" or "to any person who causes people to be tempted"
+  * **if a millstone were put around his neck and he were thrown** - AT: "if they were to put a millstone around his neck and throw him" or "if someone were to put a heavy stone around his neck and push him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a millstone** - This is a very large, heavy circular stone used for grinding wheat grain into flour. AT: "a heavy stone."
+  * **these little ones** - AT: "little children" or "these people whose faith is small"
+  * **to stumble** - AT: "to sin"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:17:00]]
+  * [[:en:bible:questions:comprehension:luk:17]]
 **[[:en:bible:notes:luk:16:29|<<]] | [[:en:bible:notes:luk:17:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish woe }}
+~~DISCUSSION~~{{tag>publish p2edit woe }}

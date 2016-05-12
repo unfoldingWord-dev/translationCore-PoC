@@ -26,20 +26,18 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:david]]
-  * [[en:obe:other:jesse]]
-  * [[en:obe:other:boaz]]
+  * [[:en:obe:other:david]]
+  * [[:en:obe:other:jesse]]
+  * [[:en:obe:other:boaz]]
 
 ===== Translation Notes: =====
-This is a continuation of the list of Jesus' ancestors. (See: [[:en:ta:vol1:translate:translate_names]])
 
-  * **the son of Simeon, the son of Judah…**  - Use the same wording as you used in the previous verses.  AT: “who was the son of Simeon, who was the son of Judah…” or “Levi was the son of Simeon, Simeon was the son of Judah…” or “Levi's father was Simeon, Simeon's father was Judah….” 
-
-
+  * **the son of Simeon, the son of Judah...Nahshon** - This is a continuation of the list of Jesus' ancestors. Use the same format as you used in the previous verses. (See: [[:en:ta:vol1:translate:translate_names]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
-
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 **[[:en:bible:notes:luk:03:27|<<]] | [[:en:bible:notes:luk:03:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish  jesse boaz}}
+~~DISCUSSION~~{{tag>publish p2check jesse boaz}}

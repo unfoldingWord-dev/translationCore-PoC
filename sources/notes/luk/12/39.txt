@@ -32,21 +32,23 @@
 ===== translationWords: =====
 
 
-    * [[:en:obe:kt:lord]]
-    * [[en:obe:other:thief]]
-    * [[en:obe:kt:hour]]
-    * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:hour]]
+  * [[:en:obe:other:thief]]
+  * [[:en:obe:kt:sonofman]]
 
 ===== Translation Notes: =====
-Jesus continues to tell his disciples a parable.
 
-    * **because you do not know the hour when the Son of Man comes** - The only similarity between a thief and the Son of Man is that people do not know when either one will come, so they need to be ready.
-    * **when the Son of Man comes** -  Jesus was talking about himself. So it can be translated as "when I, the Son of Man, will come."
+  * **he would not have let his house be broken into** - AT: "he would not have let the thief break into his house" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **because you do not know the hour when the Son of Man comes** - The only similarity between a thief and the Son of Man is that people do not know when either one will come, so they need to be ready.
+  * **when the Son of Man comes** - Jesus was talking about himself. AT: "when I, the Son of Man, will come."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:37|<<]] | [[:en:bible:notes:luk:12:41|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

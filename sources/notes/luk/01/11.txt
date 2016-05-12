@@ -22,33 +22,40 @@
 ===== ULB: =====
 
 <usfm>
-\v 11 An angel of the Lord appeared to him, standing at the right side of the altar of incense.
-\v 12 Zechariah was troubled when he saw him, and became very afraid.
-\v 13 But the angel said to him, "Do not be afraid, Zechariah, because your prayer has been heard. Your wife, Elizabeth, will bear you a son, and you will name him John.
+\v 11 Now an angel of the Lord appeared to him and stood at the right side of incense altar.  
+\v 12 Zechariah was terrified when he saw him; fear fell on him.  
+\v 13 But the angel said to him, "Do not be afraid, Zechariah, because your prayer has been heard. Your wife Elizabeth will bear you a son. You will call his name John.
 </usfm>
 
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:angel]]
-    * [[en:obe:other:altarofincense]]
-    * [[en:obe:other:trouble]]
-    * [[en:obe:kt:fear]]
-    * [[en:obe:other:johnthebaptist]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:other:altarofincense]]
+  * [[:en:obe:kt:fear]]
+  * [[:en:obe:other:johnthebaptist]]
 
 ===== Translation Notes: =====
 
-    * **of the Lord ** - "from the Lord" or "who was sent by the Lord"
-    * **appeared to him** - "suddenly came to him" or "was suddenly there with Zechariah"
-    * **your prayer has been heard **- "God has heard what you asked." The following is implied and could be added: "and will grant it." God did not just hear what Zechariah prayed for; he was also going to do it. (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **Connecting Statement:** - While Zechariah does his duty in the temple, an angel comes from God to give him a message.
+
+  * **Now** - This word marks the beginning of the action in the story.
+  * **appeared to him** - "suddenly came to him" or "was suddenly there with Zechariah." This expresses that the angel was present with Zechariah, and not simply a vision.
+  * **Zechariah was terrified...fear fell on him** - These two phrases mean the same thing, and emphasize how afraid Zechariah was.
+  * **when he saw him** - "when he saw the angel." The source of the fear was the frightening nature of the angel. Zechariah had not done anything wrong.
+  * **fear fell on him** - Fear is described as something that attacked or overpowered Zechariah. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Do not be afraid** - "Stop being afraid of me" or "You do not need to be afraid of me."
+  * **your prayer has been heard** - "God has heard what you asked." The following is implied and could be added: "and will grant it." God did not just hear what Zechariah prayed for; he was also going to do it. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **bear you a son** - "have a son for you" or "give birth to your son"
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:08|<<]] | [[:en:bible:notes:luk:01:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish  johnthebaptist}}
+~~DISCUSSION~~{{tag>publish p2check johnthebaptist}}
 
 ~~NOCACHE~~

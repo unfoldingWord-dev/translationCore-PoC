@@ -34,31 +34,36 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:peter]]
-    * [[en:obe:kt:christ]]
-    * [[en:obe:kt:god]]
-    * [[en:obe:kt:sonofman]]
-    * [[en:obe:kt:suffer]]
-    * [[en:obe:other:reject]]
-    * [[en:obe:other:elder]]
-    * [[en:obe:other:chiefpriests]]
-    * [[en:obe:other:scribe]]
-    * [[en:obe:kt:raise]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:kt:christ]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:kt:suffer]]
+  * [[:en:obe:other:reject]]
+  * [[:en:obe:other:elder]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:biblicaltimeday]]
+  * [[:en:obe:kt:raise]]
 ===== Translation Notes: =====
 
-  * **He said to them**  - "Jesus said to his disciples"
-  * **Answering, Peter said**  - "Peter answered and said" or "Peter answered by saying"
-  * **But warning them, Jesus instructed them**  - AT: "But Jesus warned and instructed them" or "Then Jesus warned them strongly" (UDB).
-  * **to tell this to no one** - "not to tell anyone" or "that they should not tell anyone." This is an indirect quote. AT: "But warning them, Jesus told them, 'Do not tell anyone.'" (See: [[en:ta:vol2:translate:figs_quotations]])
-  * **that the Son of Man must suffer many things**  - AT: "that people would cause the Son of Man to suffer greatly." Verse 22 can also be translated as a direct quote as it is in the UDB. (See: [[en:ta:vol2:translate:figs_quotations]])
-  * **be raised back to life**  - "be made alive again"
-  * **on the third day**  - "three days after dying" or "on the third day after his death"
+  * **He said to them** - "Jesus said to his disciples"
+  * **Answering, Peter said** - "Peter answered and said" or "Peter answered by saying"
+  * **But warning them, Jesus instructed them** - AT: "But Jesus warned and instructed them" or "Then Jesus warned them strongly" (UDB).
+  * **to tell this to no one** - "not to tell anyone" or "that they should not tell anyone." This is an indirect quote. AT: "But warning them, Jesus told them, 'Do not tell anyone.'" (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **that the Son of Man must suffer many things** - AT: "that people would cause the Son of Man to suffer greatly." This can also be translated as a direct quote as it is in the UDB. (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **and be rejected by the elders and chief priests and scribes** - AT: "and the elders, chief priests, and scribes will reject him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **and he will be killed** - AT: "and the people will kill him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **on the third day** - "three days after dying" or "on the third day after his death" (See: [[:en:ta:vol2:translate:translate_ordinal]])
+  * **be raised back to life** - "be made alive again." AT: "God will make him alive again" or "he will come back to life" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:18|<<]] | [[:en:bible:notes:luk:09:23|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

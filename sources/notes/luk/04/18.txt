@@ -18,7 +18,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 18 “The Spirit of the Lord is in me.
+\v 18 "The Spirit of the Lord is in me.
 \q1 He has appointed me to declare God's good news to people who are poor.
 \q1 He has sent me here to proclaim that the captives will go free,
 \q1 And will tell those who are blind that they will see again. 
@@ -35,38 +35,42 @@
 
 <usfm>
 \q1 \v 18 "The Spirit of the Lord is upon me,
-\q1 Because he anointed me to preach good news to the poor.
+\q1 because he anointed me to preach good news to the poor.
 \q1 He has sent me to proclaim freedom to the captives,
-\q1 And recovery of sight to the blind,
-\q1 To set free those who are oppressed,
-\q1 \v 19 To proclaim the favorable year of the Lord."
+\q1 and recovery of sight to the blind,
+\q1 to set free those who are oppressed,
+\q1 \v 19 to proclaim the favorable year of the Lord."
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:holyspirit]]
-    * [[en:obe:kt:anoint]]
-    * [[en:obe:other:preach]]
-    * [[en:obe:kt:goodnews]]
-    * [[en:obe:other:proclaim]]
-    * [[en:obe:kt:free]]
-    * [[en:obe:other:captive]]
-    * [[en:obe:kt:oppress]]
-    * [[en:obe:kt:favor]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:kt:anoint]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:other:proclaim]]
+  * [[:en:obe:kt:free]]
+  * [[:en:obe:other:captive]]
+  * [[:en:obe:kt:oppress]]
+  * [[:en:obe:kt:favor]]
 
 ===== Translation Notes: =====
-This is what Jesus read on the scroll from Isaiah. (See: [[:en:bible:notes:isa:61:01|61:1-2]])
-    * **The Spirit of the Lord is upon me**  - "God is with me in a special way." Someone saying this is claiming to speak the words of God.
-    * **to proclaim freedom to the captives** - AT: "to tell people who are being held captive that they can go free" or "to set free the prisoners of war."
-    * **recovery of sight to the blind** - "to proclaim that the blind shall see" or "to give sight to the blind" or "to make the blind be able to see again"
-    * **To set free those who are oppressed**  - "to set free  those who are treated harshly"
-    * **To proclaim the favorable year of the Lord**  - AT: "To announce that this is the year that the Lord will show his kindness" or "To tell everyone that the Lord is ready to bless his people."
+
+  * **The Spirit of the Lord is upon me** - "The Holy Spirit is with me in a special way." By someone's saying this, he is claiming to speak the words of God.
+  * **he anointed me** - In the Old Testament, ceremonial oil was poured on a person when they were given power and authority to do a special task. Jesus uses this metaphor to refer to the Holy Spirit being on him to prepare him for this work. AT: "the Holy Spirit is upon me to empower me" or "the Holy Spirit gave me power and authority." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the poor** - "the pour people""
+  * **proclaim freedom to the captives** - "tell people who are being held captive that they can go free" or "set free the prisoners of war"
+  * **recovery of sight to the blind** - "give sight to the blind" or "make the blind be able to see again"
+  * **set free those who are oppressed** - "set free those who are treated harshly"
+  * **proclaim the favorable year of the Lord** - "tell everyone that the Lord is ready to bless his people" or "announce that this is the year that the Lord will show his kindness" 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:04:16|<<]] | [[:en:bible:notes:luk:04:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

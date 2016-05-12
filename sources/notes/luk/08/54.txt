@@ -30,21 +30,24 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:spirit]]
-    * [[en:obe:other:command]]
-    * [[en:obe:other:amazed]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:other:command]]
+  * [[:en:obe:other:amazed]]
 
 
 ===== Translation Notes: =====
 
-    * **Child, arise** - "Little girl, get up"
-    * **Her spirit returned** - The word "spirit" can also be translated as "breath" or "life." AT: "She came back to life" or "She became alive again."
+  * **Child, arise** - "Little girl, get up"
+  * **Her spirit returned** - AT: "She came back to life" or "She became alive again"
+  * **spirit** - "breath" or "life"
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:51|<<]] | [[:en:bible:notes:luk:09:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

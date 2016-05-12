@@ -31,21 +31,23 @@
 
  
 ===== Translation Notes: =====
-Jesus continues telling his parable.
+
   * **The nobleman** - The nobleman had become king. Translate this with a word that will make this clear to your readers.
   * **them that stood by** - "the people who were standing near them"
   * **mina** - See how you translated this in [[:en:bible:notes:luk:19:13|19:13]].
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/22|<<]] | [[en/bible/notes/luk/19/26|>>]]**
+**[[:en:bible:notes:luk:19:22|<<]] | [[:en:bible:notes:luk:19:26|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

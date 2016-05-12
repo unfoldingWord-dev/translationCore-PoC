@@ -27,22 +27,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:amen]]
-  * [[en:obe:other:galilee]]
-  * [[en:obe:other:peter]]
+  * [[:en:obe:other:biblicaltimehour]]
+  * [[:en:obe:kt:amen]]
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:other:peter]]
 
 
 
 ===== Translation Notes: =====
 
-  * **insisted and said**  - "said insistently" or "said loudly" (UDB)
-  * **Truly this man** - "This man" refers to Peter. The speaker probably did not know Peter's name.
-  * **he is a Galilean** - Matthew [[:en:bible:notes:mat:26:73|26:73]] says that the people could tell Peter was from Galilee from the way he talked.
-  * **I do not know what you are saying**  - This idiom is used to say very strongly "What you said is not true at all" or "What you said is completely false." (See: [[en:ta:vol1:translate:figs_idiom]])
+  * **insisted and said** - "said insistently" or "said loudly" (UDB)
+  * **Truly this man** - Here "this man" refers to Peter. The speaker probably did not know Peter's name.
+  * **he is a Galilean** - The man could probably tell Peter was from Galilee from the way he talked. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **I do not know what you are saying** - AT: "what you said is not true at all" or "what you said is completely false" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **while he was speaking** - "while Peter was speaking"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:56|<<]] | [[:en:bible:notes:luk:22:61|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

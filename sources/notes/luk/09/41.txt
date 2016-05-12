@@ -28,28 +28,30 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:unbeliever]]
-    * [[en:obe:kt:corrupt]]
-    * [[en:obe:other:generation]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:other:rebuke]]
-    * [[en:obe:other:heal]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:unbeliever]]
+  * [[:en:obe:kt:corrupt]]
+  * [[:en:obe:other:generation]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:rebuke]]
+  * [[:en:obe:other:heal]]
  
 
 ===== Translation Notes: =====
 
-    * **Jesus answered and said**  - "In answer Jesus said"
-    * **You unbelieving and corrupt generation** - This was addressed to the crowd that had gathered, and not to the disciples.
-    * **how long will I have to stay with you and bear with you?** - This is a rhetorical question. Jesus did not expect and answer. The meaning is "I have done so much and still you do not believe!" (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **Bring your son here**  - Here Jesus is speaking directly to the father who addressed him.
-    * **still coming**  - "on his way" or "on the way"
-    * **rebuked** - "spoke harshly to"
+  * **Jesus answered and said** - "In answer Jesus said"
+  * **You unbelieving and corrupt generation** - This was addressed to the crowd that had gathered, and not to the disciples.
+  * **how long will I have to stay with you and bear with you?** - Here "you" is plural. Jesus uses a question to scold the crowd. AT: "I have done so much and still you do not believe!" (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_you]])
+  * **Bring your son here** - Here "your" is singular. Jesus is speaking directly to the father who addressed him. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **still coming** - "on his way" or "on the way"
+  * **rebuked** - "spoke harshly to"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:37|<<]] | [[:en:bible:notes:luk:09:43|>>]]**
 
-~~DISCUSSION~~{{tag>publish unbeliever}}
+~~DISCUSSION~~{{tag>publish p2edit unbeliever}}
 
 ~~NOCACHE~~

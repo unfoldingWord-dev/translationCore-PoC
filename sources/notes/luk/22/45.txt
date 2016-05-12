@@ -19,7 +19,7 @@
 \v 46 He woke them up and said to them, "You should not be sleeping! Get up! Pray that God will help you so that nothing will persuade you to sin."
 
 
-\\p
+\p
 </usfm>
 
 
@@ -33,21 +33,23 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:pray]]
-  * [[en:obe:kt:disciple]]
-  * [[en:obe:other:pray]]
-  * [[en:obe:kt:tempt]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:kt:tempt]]
  
 
 ===== Translation Notes: =====
 
-  * **When he rose up from his prayer**  - This can be translated as "When Jesus got up after praying" or "After praying, Jesus got up and."
-  * **found them sleeping because of their sorrow**  - "saw that they were sleeping because they were so sad"
-  * **Why are you sleeping?**  - This is a rhetorical question. Possible meanings are 1) "I am surprised that you are sleeping now" or 2) "You should not be sleeping now!" (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **enter into temptation**  - "be tempted" or "sin when you are tempted"
+  * **When he rose up from his prayer** - AT: "When Jesus got up after praying" or "After praying, Jesus got up and"
+  * **found them sleeping because of their sorrow** - "saw that they were sleeping because they were so sad"
+  * **Why are you sleeping?** - Possible meanings are 1) "I am surprised that you are sleeping now" or 2) "You should not be sleeping now!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **you may not enter into temptation** - "you may not be tempted" or "nothing tempts you and causes you to sin"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:43|<<]] | [[:en:bible:notes:luk:22:47|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

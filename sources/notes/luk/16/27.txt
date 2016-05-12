@@ -20,29 +20,30 @@
 ===== ULB: =====
 
 <usfm>
-\v 27 The rich man said, 'I beg you, Father Abraham, that you would send him to my fatherâ€™s houseâ€x22
-\v 28 for I have five brothersâ€x22in order that he may warn them, for fear that they also come into this place of torment.'
+\v 27 The rich man said, 'I beg you, Father Abraham, that you would send him to my father's houseâ€”
+\v 28 for I have five brothersâ€”in order that he may warn them, for fear that they also come into this place of torment.'
 </usfm>
 
 
 ===== translationWords: =====
 
-
-    * [[:en:obe:other:beg]]
-    * [[en:obe:other:house]]
+  * [[:en:obe:other:beg]]
+  * [[:en:obe:other:house]]
 
 ===== Translation Notes: =====
-Jesus continues telling his story.
-  * **that you would send him to my father's house**  - This could be translated as "that you would tell Lazarus to go to my father's house" or "Please, send him to my father's house."
-  * **my father's house** - "my family." This probably does not refer to a physical house. The rich man wants Lazarus to warn his family members, even if they do not live in the same house as his father.
-  * **in order that he may warn them**  - This could be translated as "Tell Lazarus to warn them."
-  * **for fear that they also come**  - This could be translated as "so that they do not also come" (UDB) or "If they are not warned, they might come." Since it is implied that the way they would avoid going there is by repenting, this implied information could be made clear, as in "so that they might repent and not come." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **this place of torment**  - This could be translated as "this place where we suffer torment" or "this place where we suffer terrible pain" or "this place where we are tortured." (See: [[en:ta:vol1:translate:figs_explicit]])
+
+  * **that you would send him to my father's house** - AT: "that you would tell Lazarus to go to my father's house" or "please, send him to my father's house"
+  * **my father's house** - AT: "my family" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **in order that he may warn them** - "so that Lazarus may warn them"
+  * **for fear that they also come** - It is implied that the way they would avoid going there is by repenting. AT: "and they might repent and not come." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **this place of torment** - AT: "this place where we suffer torment" or "this place where we suffer terrible pain" (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 **[[:en:bible:notes:luk:16:25|<<]] | [[:en:bible:notes:luk:16:29|>>]]**
 
-~~DISCUSSION~~{{tag>publish beg }}
+~~DISCUSSION~~{{tag>publish p2edit beg }}
 
 ~~NOCACHE~~

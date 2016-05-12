@@ -27,29 +27,29 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:nazareth]]
-  * [[en:obe:kt:prophet]]
-  * [[en:obe:kt:works]]
-  * [[en:obe:kt:word]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:other:chiefpriests]]
-  * [[en:obe:other:ruler]]
-  * [[en:obe:kt:condemn]]
-  * [[en:obe:kt:death]]
-  * [[en:obe:kt:crucify]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:nazareth]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:works]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:other:ruler]]
+  * [[:en:obe:kt:condemn]]
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:crucify]]
  
 
 ===== Translation Notes: =====
 
-
-    * **What things?**  - "What things have happened?" or "What things have taken place?"
-    * **mighty in deed and word before God and all the people** - This means that God caused Jesus to be mighty and that the people saw that he was mighty. It can also be translated as "God gave him power to do and teach great things and the people were amazed."
-    * **mighty in deed and word**  - "able to do great things and teach great things" 
-    * **delivered him up to be condemned to death**  - AT: "handed Jesus over to the Roman governor in order for the governor to put Jesus to death" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **What things?** - "What things have happened?" or "What things have taken place?"
+  * **mighty in deed and word before God and all the people** - This means that God caused Jesus to be mighty and that the people saw that he was mighty. AT: "and God gave him power to do and teach great things that were amazing to all the people."
+  * **delivered him up to be condemned to death and crucified him** - AT: "handed Jesus over to the Roman governor in order for the governor to put Jesus to death by crucifying him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:17|<<]] | [[:en:bible:notes:luk:24:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish Jesus nazareth}}
+~~DISCUSSION~~{{tag>publish p2edit Jesus nazareth}}

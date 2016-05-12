@@ -28,31 +28,33 @@
 
   * [[:en:obe:kt:god]]
   * [[:en:obe:kt:wise]]
-  * [[en:obe:other:send]]
+  * [[:en:obe:other:send]]
   * [[:en:obe:kt:prophet]]
   * [[:en:obe:kt:apostle]]
   * [[:en:obe:other:persecute]]
   * [[:en:obe:other:generation]]
   * [[:en:obe:kt:blood]]
   * [[:en:obe:other:abel]]
-  * [[en:obe:other:zechariahot]]
-  * [[en:obe:other:altar]]
-  * [[en:obe:kt:sanctuary]]
+  * [[:en:obe:other:zechariahot]]
+  * [[:en:obe:other:altar]]
+  * [[:en:obe:kt:sanctuary]]
 
 ===== Translation Notes: =====
-Jesus continues to speak to the religious leaders.
 
-  * **For this reason**  - This refers the statement that follows. God will send more prophets to demonstrate that the current generation would kill them, just as their fathers did.
-  * **God's wisdom said**  - "God in his wisdom said" or "God wisely said"
-  * **I will send to them prophets and apostles**  - "I will send prophets and apostles to my people"
-  * **they will persecute and kill some of them**  - "my people will persecute and kill some of the prophets and apostles"
-  * **will be held responsible for all the blood of the prophets shed**  - The blood that was shed refers to the murder of the prophets. AT: "will be held responsible for all the deaths of the prophets that were killed." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **Zechariah**  - This was probably the priest referred to in 2 Chronicles [[en:bible:notes:2ch:24:20|24:20-22]]. This was not the Father of John the Baptist.
+  * **For this reason** - This refers the statement that follows. God will send more prophets to demonstrate that the current generation would kill them, just as their fathers did.
+  * **God's wisdom said** - AT: "God in his wisdom said" or "God wisely said" (See: [[:en:ta:vol2:translate:figs_personification]])
+  * **I will send to them prophets and apostles** - "I will send prophets and apostles to my people"
+  * **they will persecute and kill some of them** - "my people will persecute and kill some of the prophets and apostles"
+  * **This generation, then, will be held responsible for all the blood of the prophets shed** - The blood that was shed refers to the murder of the prophets. AT: "Therefore, God will hold this generation responsible for all the deaths of the prophets that people have killed" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Zechariah** - This was probably the priest in the Old Testament who rebuked the people of Israel for idolatry. This was not the Father of John the Baptist.
+  * **who was killed** - AT: "that the people killed" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:47|<<]] | [[:en:bible:notes:luk:11:52|>>]]**
 
-~~DISCUSSION~~{{tag>publish abel sanctuary}}
+~~DISCUSSION~~{{tag>publish p2edit abel sanctuary}}
 
 ~~NOCACHE~~

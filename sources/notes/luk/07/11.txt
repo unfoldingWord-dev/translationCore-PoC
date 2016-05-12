@@ -30,38 +30,43 @@
 \v 11 Some time after that, it happened that Jesus was traveling to a city called Nain. His disciples were going with him, along with a large crowd of people. 
 \v 12 As he came near to the city gate, behold, a dead man was being carried out, an only son to his mother. She was a widow, and a sizeable crowd from the city was with her.
 \v 13 Seeing her, the Lord was deeply moved with compassion for her and said to her, "Do not cry."
-\v 14 Then he came forward and touched the funeral couch, and those carrying it stood still. He said, "Young man, I say to you, arise."
+\v 14 Then he came forward and touched the wooden frame on which they carried the body, and those carrying it stood still. He said, "Young man, I say to you, arise."
 \v 15 The dead man sat up and began to speak. Then  Jesus gave him to his mother.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:kt:gate]]
-    * [[en:obe:kt:death]]
-    * [[en:obe:kt:lord]]
-    * [[en:obe:kt:compassion]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:gate]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:compassion]]
 
 ===== Translation Notes: =====
 
-  * **it happened that** -  This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
-  * **Nain** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **behold, a dead man**  - The word "behold" alerts us to the introduction of the dead man into the story. Your language may have a way of doing this. English uses "There was a dead man who was...”
-  * **the city gate**  - AT: "the entrance to the city."
-  * **an only son to his mother**  - "a woman's only son"
-  * **widow**  - This is a woman whose husband has died.
-  * **was deeply moved with compassion for her**  -  "felt very sorry for her"
-  * **he came forward**  - Some languages would say "he went forward" or "he approached the group."
-  * **funeral couch** - This was a stretcher or bed used to move the body to the burial place. It did not have to be something the body was buried in.
-  * **I say to you** - Jesus said this to emphasize his authority. It means "Listen to me!"
-  * **The dead man** - "The man who had been dead." The man was not still dead; he was alive.
+  * **Connecting Statement:** - Jesus is goes to the city of Nain, where he heals a man who had died.
+
+  * **it happened that** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **Nain** - the name of a city (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the city gate** - "the entrance to the city"
+  * **behold, a dead man was** - The word "behold" alerts us to the introduction of the dead man into the story. Your language may have a way of doing this. AT: "There was a dead man who was." (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **a dead man was being carried out** - This could be stated in active form. AT: "people carried a dead man out." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **an only son to his mother** - "the woman's only son"
+  * **She was a widow, and a sizeable crowd from the city was with her** - This is background information about the woman. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **widow** - a woman whose husband has died
+  * **was deeply moved with compassion for her** - "felt very sorry for her"
+  * **he came forward** - "he went forward" or "he approached the group"
+  * **the wooden frame on which they carried the body** - This was a stretcher or bed used to move the body to the burial place. It did not have to be something in which the body was buried. Other translations may have the less common "bier" or "funeral couch."
+  * **I say to you** - Jesus said this to emphasize his authority. AT: "Listen to me!"
+  * **The dead man** - The man was not still dead; he was now alive. It may be necessary to state this clearly. AT: "The man who had been dead." 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
 **[[:en:bible:notes:luk:07:09|<<]] | [[:en:bible:notes:luk:07:16|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

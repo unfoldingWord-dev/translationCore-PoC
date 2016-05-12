@@ -17,7 +17,7 @@
 
 <usfm>
 \v 14 These men were: Simon, to whom he gave the new name, Peter; Andrew, Peter's younger brother; James and his younger brother, John; Philip; Bartholomew;
-\v 15 Matthew, whose other name was Levi; Thomas; another James, the son of Alpheus; Simon the Zealot,
+\v 15 Matthew, whose other name was Levi; Thomas; another James, the son of Alphaeus; Simon the Zealot,
 \v 16 Judas, the son of a different man named James; and Judas Iscariot, who later betrayed Jesus.
 
 
@@ -36,31 +36,32 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:peter]]
-    * [[en:obe:other:andrew]]
-    * [[en:obe:other:jamessonofzebedee]]
-    * [[en:obe:other:johntheapostle]]
-    * [[en:obe:other:philiptheapostle]]
-    * [[en:obe:other:bartholomew]]
-    * [[en:obe:other:matthew]]
-    * [[en:obe:other:Thomas]]
-    * [[en:obe:other:jamessonofalphaeus]]
-    * [[:En:obe:other:SimontheZealot]]
-    * [[:En:obe:other:JudassonofJames]]
-    * [[en:obe:other:judasiscariot]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:other:andrew]]
+  * [[:en:obe:other:jamessonofzebedee]]
+  * [[:en:obe:other:johntheapostle]]
+  * [[:en:obe:other:philiptheapostle]]
+  * [[:en:obe:other:bartholomew]]
+  * [[:en:obe:other:matthew]]
+  * [[:en:obe:other:Thomas]]
+  * [[:en:obe:other:jamessonofalphaeus]]
+  * [[:En:obe:other:SimontheZealot]]
+  * [[:En:obe:other:JudassonofJames]]
+  * [[:en:obe:other:judasiscariot]]
 
 ===== Translation Notes: =====
-This is a list of the twelve men Jesus chose to be his apostles.
 
-    * **The names of the apostles were** - This phrase introducing the names was added to the ULB to clarify what the list is.  Some translators may prefer not to write it.
-    * **his brother, Andrew** - "Simon's brother, Andrew"
-    * **Zealot** - Possible meanings are 1) "the Zealot" or 2) "the zealous one." The first meaning indicates he was part of the group of people who wanted to free the Jewish people from Roman rule. AT: "patriot" or "nationalist." The second meaning indicates that he was zealous for God to be honored. AT: "passionate."
-    * **became a traitor** - AT: "betrayed his friend" or "turned his friend over to enemies" or "exposed a friend to danger by telling enemies about him."
+  * **The names of the apostles were** - This is implied information added to the ULB text. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **his brother, Andrew** - "Simon's brother, Andrew"
+  * **Zealot** - Possible meanings are 1) "the Zealot" or 2) "the zealous one." The first meaning indicates he was part of the group of people who wanted to free the Jewish people from Roman rule. AT: "patriot" or "nationalist." The second meaning indicates that he was zealous for God to be honored. AT: "passionate." 
+  * **became a traitor** - It may be necessary to explain what "traitor" means in this context. AT: "betrayed his friend" or "turned his friend over to enemies" (usually in return for money paid) or "exposed a friend to danger by telling enemies about him." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:12|<<]] | [[:en:bible:notes:luk:06:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish jamessonofalpheus matthew judasiscariot text}}
+~~DISCUSSION~~{{tag>publish p2check jamessonofalpheus matthew judasiscariot}}
 
 ~~NOCACHE~~

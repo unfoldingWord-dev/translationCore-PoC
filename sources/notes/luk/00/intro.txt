@@ -1,0 +1,70 @@
+====== Introduction to the Gospel of Luke ======
+
+===== Part 1: General Introduction =====
+
+=== Outline of the Book of Luke ===
+
+  - Introduction and purpose for writing (1:14)
+  - Birth of Jesus and his preparation for his ministry (1:54:13)
+  - Jesus' ministry in Galilee (4:14–9:50)
+  - Jesus' journey to Jerusalem
+    - Discipleship (9:51–11:13)
+    - Conflict and Jesus' grief (11:14–14:35)
+    - Parables and lost and found, honesty and dishonesty (15:1–16:31)
+    - Kingdom of God (17:1–19:27)
+    - Jesus' entry into Jerusalem (19:28–44)
+  - Jesus in Jerusalem (19:45–21:4)
+  - Jesus' teaching about his Second Coming (21:5–36)
+  - Jesus' death, burial, and resurrection (22:1–24:53)
+
+=== What is the Gospel of Luke about? ===
+
+The Gospel of Luke is one of four books in the New Testament that describe some of the life of Jesus Christ, but that focus especially on his work. These four Gospels emphasize different aspects of who Jesus was and what he did. Luke probably wrote this book to produce an accurate description of the life of Jesus. 
+
+The Gospel of Luke is actually the first of two volumes written by Luke, with the Book of Acts being his second book. Luke was apparently writing for Gentile readers.
+
+=== How should the title of this book be translated? === 
+
+Translators may choose to call this book by its traditional title, "The Gospel of Luke" or "The Gospel according to Luke." Or they may choose a title that may be clearer, for example, "The Good News about Jesus that Luke wrote." (See: [[:en:ta:vol1:translate:translate_names|Translate Names]])
+
+=== Who wrote the Book of Luke? ===
+
+This book does not give the readers the name of the author. Since early Christian times, however, it has been generally believed that the author was Luke, because he is the only person who could be included in the passages using the word "we." Luke was a medical doctor; his way of writing shows that he was an educated man. He was probably a Gentile who was friendly to Judaism, but he was not a convert to Judaism. He was probably not an eyewitness to Jesus' ministry, but he says that he talked to many people who were eyewitnesses.
+
+===== Part 2: Important Religious and Cultural Concepts =====
+
+=== What are the roles of women in the Gospel of Luke? ===
+
+In the Ancient Near East, the role of women in society was often minimal. For example, in ancient Israel, a woman's testimony was not usually considered in a courtroom. In the Gospel of Luke, however, women play very clear and important roles. Luke often shows women who are more faithful [[:en:obe:kt:faithful|faithful]] to God than most men.
+
+=== Why does Luke spend a great deal of time recording the final week of Jesus' life? ===
+
+The life of Jesus is important as example for Christians to follow, but it is his sacrificial death and his resurrection that are of greatest importance to Christians. Luke's focus on the events immediately prior to Jesus's death emphasizes that Jesus willingly died for the sins of humanity.
+
+===== Part 3: Important Translation Issues =====
+
+=== What are the Synoptic Gospels? ===
+
+The Gospels of Matthew, Mark, and Luke are called the Synoptic Gospels because they share a large amount of textual material. However, the authors often used the same accounts and the same teachings of Jesus to emphasize different aspects of his life, ministry, and message.
+
+When text is the same or almost the same among two or three gospels, it is said to be "parallel." When these parallel passages are translated, the wording in the project language should be kept the same as much as possible.
+
+=== What are the major issues in the text of the Book of Luke? ===
+
+The text of some English translations do not agree concerning what to include. This is because of the discovery of manuscripts that many believe are more accurate. The follow are the most significant issues in Luke:
+
+  * "Then an angel from heaven appeared to him, strengthening him. Being in agony, he prayed more earnestly, and his sweat became like great drops of blood falling down upon the ground." (22:43–44) Some versions do not include this passage, although the ULB and UDB do.
+  * "Jesus said, "Father, forgive them, for they do not know what they are doing." (23:34) Some versions do not include this passage, although the ULB and UDB do.
+
+The following passage
+
+  * "For he was required to release one prisoner during the feast" (23:17) (so noted in ULB)
+
+Translators are advised not to translate this passage. However, if older Bible versions exist in their region that have this passage, it is not wrong to translate it. If it is translated, it should be put inside square brackets ([]) to indicate that it is probably not original to Luke's Gospel.
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish CHTeam}}

@@ -30,7 +30,7 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:shame]]
+  * [[:en:obe:other:shame]]
   * [[:en:obe:other:rejoice]]
   * [[:en:obe:kt:glory]]
 
@@ -39,22 +39,24 @@
 ===== Translation Notes: =====
 
 
-    * **As he said these things**  - "When Jesus said these things"
-    * **the glorious things he did** - "the glorious things Jesus was doing"
+  * **As he said these things** - "When Jesus said these things"
+  * **the glorious things he did** - "the glorious things Jesus was doing"
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 
  
 
-**[[en/bible/notes/luk/13/15|<<]] | [[en/bible/notes/luk/13/18|>>]]**
+**[[:en:bible:notes:luk:13:15|<<]] | [[:en:bible:notes:luk:13:18|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 
 ~~NOCACHE~~

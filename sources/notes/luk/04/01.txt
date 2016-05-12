@@ -28,26 +28,30 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:kt:filled]]
-  * [[en:obe:kt:holyspirit]]
-  * [[en:obe:other:jordanriver]]
-  * [[en:obe:other:desert]]
-  * [[en:obe:kt:tempt]]
-  * [[en:obe:kt:satan]]
-
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:filled]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:other:jordanriver]]
+  * [[:en:obe:other:desert]]
+  * [[:en:obe:other:biblicaltimeday]]
+  * [[:en:obe:kt:tempt]]
+  * [[:en:obe:kt:satan]]
 
 ===== Translation Notes: =====
 
-  * **Then** - This refers to after John baptized Jesus. AT: "Then after Jesus was baptized."
-  * **was led by the Spirit** - AT: "the Spirit led him." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **forty days** - AT: "40 days" (See: [[:en:ta:vol2:translate:translate_numbers]], [[en:obe:other:biblicaltimeday]])
-  * **was tempted there by the devil** - It is not clear if he was tempted throughout the time, or at the end of the time. AT: "was tempted by the devil to disobey God" or "the devil tempted him there." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **he did not eat** - The word "he" refers to Jesus.
+  * **Connecting Statement:** - The devil meets Jesus to try to tempt him to sin after Jesus fasts for 40 days.
 
+  * **Then Jesus** - This refers to after John baptized Jesus. This could be stated. AT: "After Jesus was baptized." (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **was led by the Spirit** - This could be stated in active form. AT: "the Spirit led him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **for forty days and was tempted there** - It is not completely clear if Jesus was tempted throughout the forty days, or only at the end. Most versions say that it was throughout the forty days. The UDB states "While he was there, the devil kept tempting him" to make this clear.
+  * **forty days** - AT: "40 days" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **was tempted there by the devil** - This could be stated in active form. AT: "the devil tempted him there to disobey God." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he did not eat** - The word "he" refers to Jesus.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:03:36|<<]] | [[:en:bible:notes:luk:04:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish filled tempt p2review}}
+~~DISCUSSION~~{{tag>publish p2check filled tempt}}

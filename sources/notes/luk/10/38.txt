@@ -22,34 +22,41 @@
 <usfm>
 \p
 \v 38 Now as they were traveling along, he entered into a certain village, and a certain woman named Martha welcomed him into her house.
-\v 39 She had a sister named Mary, who sat at the Lord’s feet and heard his word.
+\v 39 She had a sister named Mary, who sat at the Lord's feet and heard his word.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:other:martha]]
-    * [[en:obe:other:Marysisterofmartha)]]
-    * [[en:obe:kt:lord]]
-    * [[en:obe:kt:word]]
+  * [[:en:obe:other:martha]]
+  * [[:en:obe:other:Marysisterofmartha]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:word]]
 
 ===== Translation Notes: =====
 
-    * **Now as they were traveling along** - "Now as Jesus and his disciples were traveling along." Since this is a new part of the story, it may be more natural in some languages to say who "they" were. You language may have a way of indicating that this is a new part of the story.
-    * **a certain village** - This introduces the village as a new location, but does not name it. 
-    * **a certain woman named Martha** - This introduces Martha as a new character. Your language may have a way of introducing new people.
-    * **sat at the Lord's feet**  - AT: "sat on the floor and listened to the Lord teach." This was the normal respectful position for a learner in that day.
+  * **General Information:** - Jesus comes to Martha's house where her sister Mary listens to Jesus with great attention.
+
+  * **Now** - This word is used here to mark a new event.
+  * **as they were traveling along** - "as Jesus and his disciples were traveling along"
+  * **a certain village** - This introduces the village as a new location, but does not name it. 
+  * **a certain woman named Martha** - This introduces Martha as a new character. Your language may have a way of introducing new people.
+  * **sat at the Lord's feet** - This was the normal and respectful position for a learner at that time. AT: "sat on the floor."
+  * **and heard his word** - AT: "and listened to the Lord teach" (See: [[:en:ta:vol2:translate:figs_metonymy]]) 
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 
  
 
-**[[en/bible/notes/luk/10/36|<<]] | [[en/bible/notes/luk/10/40|>>]]**
+**[[:en:bible:notes:luk:10:36|<<]] | [[:en:bible:notes:luk:10:40|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish martha marysisterofmartha}}
+{{tag>publish p2edit martha marysisterofmartha}}
 ~~NOCACHE~~

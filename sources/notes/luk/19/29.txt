@@ -31,27 +31,33 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:bethany]]
-  * [[en:obe:other:mountofolives]]
-  * [[en:obe:kt:disciple]]
-  * [[en:obe:kt:lord]]
+  * [[:en:obe:other:bethany]]
+  * [[:en:obe:other:mountofolives]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:kt:lord]]
 
 ===== Translation Notes: =====
 
+  * **General Information:** - This is the next part of the story. Jesus approaches Jerusalem.
+
   * **It came about that** - This phrase is used here to mark the beginning of a new part of the story. If your language has a way for doing this, you could consider using it here.
   * **when he drew near** - The word "he" refers to Jesus. His disciples were traveling with him.
-  * **Bethphage**  - Bethphage was a village on the Mount of Olives, which is across the Kidron Valley from Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **the mount that is called Olivet**  - "the hill that is called the Mount of Olives" or "the hill that is called "Olive Tree Mountain."
+  * **Bethphage** - Bethphage was a village on the Mount of Olives, which is across the Kidron Valley from Jerusalem. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the mount that is called Olivet** - "the hill that is called the Mount of Olives" or "the hill that is called "Olive Tree Mountain"
+  * **a colt** - "a young donkey" or "a young riding animal" (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **that has never been ridden** - AT: "that no one has ever ridden" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/28|<<]] | [[en/bible/notes/luk/19/32|>>]]**
+**[[:en:bible:notes:luk:19:28|<<]] | [[:en:bible:notes:luk:19:32|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish mountofolives}}
+{{tag>publish p2edit mountofolives}}
 ~~NOCACHE~~

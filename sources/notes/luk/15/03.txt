@@ -31,24 +31,27 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:parable]]
-    * [[en:obe:other:sheep]]
-    * [[en:obe:other:desert]]
-    * [[en:obe:other:rejoice]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:other:sheep]]
+  * [[:en:obe:other:desert]]
+  * [[:en:obe:other:rejoice]]
 
 
 ===== Translation Notes: =====
 
-  * **Jesus spoke this parable to them**  - "To them" refers to the religious leaders.
-  * **Which one of you...will not leave the ninety-nine...and go after...until he finds it?**  - This is a rhetorical question. Jesus was reminding the people that if any of them lost one of their sheep, they would certainly go looking for it. This can be translated as a statement as in the UDB.  Some languages have ways of showing that this is a hypothetical situation and not a story about a particular person who has lost a sheep. (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol1:translate:figs_hypo]])
-  * **Which one of you, if he has a hundred sheep**  - Since the parable starts with "Which one of you," some languages would continue the parable in the second person "if you have a hundred sheep." (See: [[en:ta:vol2:translate:figs_123person]])
-  * **hundred...ninety-nine** - "100...99" (See: [[en:ta:vol2:translate:translate_numbers]])
+  * **General Information:** - Jesus begins to tell several parables. The first parable is about a man and his sheep. (See: [[:en:ta:vol1:translate:figs_parables]])
 
+  * **to them** - Here "them" refers to the religious leaders.
+  * **Which one of you...until he finds it?** - Jesus uses a question to remind the people that if any of them lost one of their sheep, they would certainly go looking for it. Some languages have ways of showing that this is a hypothetical situation and not a story about a particular person who has lost a sheep. (See: [[:en:ta:vol1:translate:figs_rquestion]] and [[:en:ta:vol1:translate:figs_hypo]])
+  * **Which one of you, if he has a hundred sheep** - Since the parable starts with "Which one of you," some languages would continue the parable in the second person. AT: "Which one of you, if you have a hundred sheep." (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **hundred...ninety-nine** - "100...99" (See: [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 **[[:en:bible:notes:luk:15:01|<<]] | [[:en:bible:notes:luk:15:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish  sheep}}
+~~DISCUSSION~~{{tag>publish p2edit sheep}}
 
 ~~NOCACHE~~

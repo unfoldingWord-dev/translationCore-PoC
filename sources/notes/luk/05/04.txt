@@ -33,22 +33,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:lord]]
-  * [[en:obe:kt:word]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:word]]
  
 
 ===== Translation Notes: =====
 
   * **When he had finished speaking** - "When Jesus had finished teaching the people"
-  * **Master **  - The Greek word that is translated here as “Master” is a not the normal word for “Master.” This one refers to someone who has authority, and not to  someone who owns someone else. AT: "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as “Sir.”
-  * **at your word**  - "because of your word" or "because you have told me to do this"
-  * **motioned**  - They were too far from shore to call so they made gestures, probably waving their arms.
-  * **they began to sink** - “the boats began to sink.” AT: “the boats began to sink because the fish were so heavy." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **Master** - The Greek word that is translated here as "Master" is a not the normal word for "Master." This one refers to someone who has authority, and not to someone who owns someone else. AT: "Boss" or "Foreman" or with a word that is commonly used to address a person in authority, such as "Sir."
+  * **at your word** - "because of your word" or "because you have told me to do this"
+  * **motioned** - They were too far from shore to call so they made gestures, probably waving their arms.
+  * **they began to sink** - "the boats began to sink." The reason could be stated clearly. AT: "the boats began to sink because the fish were so heavy." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
 **[[:en:bible:notes:luk:05:01|<<]] | [[:en:bible:notes:luk:05:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

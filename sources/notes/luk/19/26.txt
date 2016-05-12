@@ -33,29 +33,32 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:adversary]]
+  * [[:en:obe:other:adversary]]
   * [[:en:obe:other:reign]]
  
 
 ===== Translation Notes: =====
 
-This finishes Jesus' parable and is the end of the discussion at Zacchaeus' house.
+  * **General Information:** - Jesus has finished telling his parable and is now commenting about it to the crowd at Zacchaeus' house.
 
-  * **I say to you**  - This was the king speaking. Some translators may want to start this verse with "And the king replied, 'I say to you'" or "But the king said 'I tell you this'" (UDB).
-  * **everyone who has**  - This can be translated as "everyone who uses well what they have been given" or "everyone who uses well what I have given him."
-  * **will be given more**  - This can be translated with an active verb: "I will give him more." (See: [[en:ta:vol2:translate:figs_activepassive|Active or Passive]])
-  * **from him that has not**  - This can be translated as "from the person who does not use well what he has been given."
-  * **these enemies of mine**  - Since the enemies were not right there, some languages would say "those enemies of mine."
+  * **I say to you** - This was the king speaking. Some translators may want to start this verse with "And the king replied, 'I say to you'" or "But the king said 'I tell you this'" (UDB).
+  * **everyone who has** - AT: "everyone who uses well what they have been given" or "everyone who uses well what I have given him"
+  * **will be given more** - AT: "I will give him more" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **from him that has not** - AT: "from the person who does not use well what I have given him"
+  * **will be taken away** - AT: "I will take away from him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **these enemies of mine** - Since the enemies were not right there, some languages would say "those enemies of mine."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/24|<<]] | [[en/bible/notes/luk/19/28|>>]]**
+**[[:en:bible:notes:luk:19:24|<<]] | [[:en:bible:notes:luk:19:28|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish reign}}
+{{tag>publish p2edit reign}}
 ~~NOCACHE~~

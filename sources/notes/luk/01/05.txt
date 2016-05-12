@@ -28,51 +28,52 @@
 <usfm>
 \p 
 \v 5 In the days of Herod, king of Judea, there was a certain priest named Zechariah, from the division of Abijah. His wife was from the daughters of Aaron, and her name was Elizabeth. 
-\v 6 They were both righteous before God, walking blamelessly in all the commandments and requirements of the Lord. 
-\v 7 But they did not have any children, because Elizabeth was barren, and they both were very old.
+\v 6 They were both righteous before God; they walked blamelessly in all the commandments and ordinances of the Lord.
+\v 7 But they had no child, because Elizabeth was barren, and they were both very old by this time.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:other:herodthegreat]]
-    * [[en:obe:other:king]]
-    * [[en:obe:other:judea]]
-    * [[en:obe:kt:priest]]
-    * [[en:obe:other:zechariahnt]]
-    * [[en:obe:other:abijah]]
-    * [[en:obe:other:aaron]]
-    * [[en:obe:other:elizabeth]]
-    * [[en:obe:kt:righteous]]
-    * [[en:obe:kt:god]]
-    * [[en:obe:kt:walk]]
-    * [[en:obe:kt:blameless]]
-    * [[en:obe:other:command]]
-    * [[en:obe:kt:lordgod]]
-    * [[en:obe:kt:barren]]
+  * [[:en:obe:other:herodthegreat]]
+  * [[:en:obe:other:king]]
+  * [[:en:obe:other:judea]]
+  * [[:en:obe:kt:priest]]
+  * [[:en:obe:other:zechariahnt]]
+  * [[:en:obe:other:abijah]]
+  * [[:en:obe:other:aaron]]
+  * [[:en:obe:other:elizabeth]]
+  * [[:en:obe:kt:righteous]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:walk]]
+  * [[:en:obe:kt:blameless]]
+  * [[:en:obe:other:command]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:barren]]
 
 ===== Translation Notes: =====
 
-Zechariah and Elizabeth find out they will have a child.
+  * **Connecting Statement:** - The angel prophesies the birth of John.
+  * **General Information:** - Zechariah and Elizabeth are introduced. These verses give background information about them. (See: [[:en:ta:vol2:translate:writing_background]]) 
 
-  * **In the days of Herod, king of Judea** - AT: "During the time that King Herod ruled over Judea"
-  * **Judea** - AT: "the region of Judea" or "the people who lived in Judea"
-  * **there was a certain** - "there was a particular" or "there was a." This is a way of introducing a new character in a story. Consider how your language does this. 
-  * **division** - AT: "division of priests" or "group of priests."
+  * **In the days of Herod, king of Judea** - "During the time that King Herod ruled over Judea" (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **there was a certain** - "there was a particular" or "there was a." This is a way of introducing a new character in a story. Consider how your language does this. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **division** - It is understood that this refers to the priests. AT: "division of priests" or "group of priests." (See: [[:en:ta:vol1:translate:figs_explicit]])
   * **of Abijah** - "who descended from Abijah." Abijah was an ancestor of this group of priests and all of them were descended from Aaron, who was the first Israelite priest.
-  * **His wife** - "Zechariah's wife"
-  * **was from the daughters of Aaron** - "was descended from Aaron" or AT: "Zechariah and his wife Elizabeth were both descended from Aaron."
-  * **before God** - "in God's sight" or "in God's opinion"
-  * **walking** - "obeying" (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **all the commandments and requirements of the Lord**  - AT: "all that the Lord had commanded and required"
+  * **His wife was from the daughters of Aaron** - "His wife was descended from Aaron." This means she was from the same line of priests as Zechariah. AT: "His wife was also descended from Aaron" or "Zechariah and his wife Elizabeth were both descended from Aaron." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **from the daughters of Aaron** - "descended from Aaron"
+  * **before God** - "in God's sight" or "in God's opinion" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **walked blamelessly in** - "walk" is a metaphor for the way a person lives and acts. AT: "lived according to without blame" or "completely obeyed without fault." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **all the commandments and ordinances of the Lord** - "all that the Lord had commanded and required"
   * **But** - This contrast word shows that what follows here is the opposite of what is expected. People expected that if they did what was right, God would allow them to have children. Although this couple did what was right, they did not have any children.
-
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:01|<<]] | [[:en:bible:notes:luk:01:08|>>]]**
 
-~~DISCUSSION~~{{tag>publish zechariahnt elizabeth }}
+~~DISCUSSION~~{{tag>publish p2check aaron abijah zechariahnt elizabeth}}
 
 ~~NOCACHE~~

@@ -35,46 +35,51 @@
 ===== ULB: =====
 
 <usfm>
-\q \v 69 He has provided for us a powerful Savior
+\q 
+\v 69 He has raised up a horn of salvation for us in the house of his servant David, 
 \q from among the descendants of his servant David, 
-\q \v 70 just as God spoke through his holy prophets long ago. 
-\q \v 71 He promised to provide for us salvation from our enemies,
-\q and from the hand of everyone who hates us.
+\q 
+\v 70 as he spoke by the mouth of his holy prophets who were in ancient times.
+\q 
+\v 71 He will bring salvation from our enemies  
+\q and from the hand of all who hate us.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:power]]
-    * [[en:obe:kt:Savior]]
-    * [[en:obe:other:descendant]]
-    * [[en:obe:other:servant]]
-    * [[en:obe:other:david]]
-    * [[en:obe:kt:holy]]
-    * [[en:obe:kt:prophet]]
-    * [[en:obe:kt:promise]]
-    * [[en:obe:kt:salvation]]
-    * [[en:obe:other:adversary]]
-    * [[en:obe:other:hand]]
+  * [[:en:obe:kt:salvation]]
+  * [[:en:obe:other:descendant]]
+  * [[:en:obe:other:houseofdavid]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:other:david]]
+  * [[:en:obe:kt:holy]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:other:hand]]
 
 
 ===== Translation Notes: =====
 
-Zechariah prophesies after he is able to speak again.
-
-  * **his servant David** - AT: "King David, who served him"
-  * **just as God** - AT: "That is what God promised he would do when he"
-  * **spoke through his holy prophets** - When God spoke through the prophets, they used their own voices, but God enabled them to speak the words he wanted them to speak.  AT: "caused his holy prophets to say." 
-  * **from our enemies, and from the hand of everyone who hates us** - These two phrases mean basically the same thing and are repeated for emphasis. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **and from the hand** - AT: "and salvation from the hand" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
-  * **hand** - "power" or "control." The word "hand" is associated with the power or control that is being used to harm God's people. (See: [[en:ta:vol2:translate:figs_metonymy]])
-
+  * **a horn of salvation for us** - The horn of an animal is a symbol for its power to defend itself. This meaning could be stated clearly. AT: "someone with the power to save us." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **in the house of...from among the descendants of** - These two phrases refer to the same thing, and emphasize that one who will save them is a direct descendant from King David. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **in the house of** - "within the family of"
+  * **from among the descendants** - "one of the descendants"
+  * **as he spoke** - "just as God said"
+  * **spoke by the mouth of his holy prophets** - God enabled the prophets to speak the words he wanted them to speak. God's control can the stated. AT: "caused his holy prophets to say." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **by the mouth of** - This idiom means "my means of" or "through the voices of." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **were in ancient times** - "lived long ago"
+  * **bring salvation** - This here refers to physical rescue, rather than to spiritual salvation.
+  * **our enemies...all who hate us** - These two phrases mean basically the same thing and are repeated to emphasize how strongly their enemies are against them. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **from the hand of** - It may be helpful to restate "salvation" here. AT: "salvation from the hand of." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **hand** - "power" or "control." The word "hand" is associated with the power or control that is being used to harm God's people. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:67|<<]] | [[:en:bible:notes:luk:01:72|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

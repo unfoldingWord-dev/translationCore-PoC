@@ -13,7 +13,7 @@
 <usfm>
 \v 30 I have seen the one whom you sent to save people from their sins,
 \q1
-\v 31 Whom you prepared in the midst of all the peoples.
+\v 31 whom you prepared in the midst of all the peoples.
 \q1
 \v 32 He will be like a light that will reveal your truth to the Gentiles, and he will bring honor to the Israelite people. 
 
@@ -27,35 +27,39 @@
 <usfm>
 \q1 \v 30 For my eyes have seen your salvation,  
 \q1 \v 31 which you have prepared in the sight of all peoples. 
-\q1 \v 32 He will be a light for revealing truth to the Gentiles and will be the glory of your people Israel."
+\q1 \v 32 He is light for revelation to the Gentiles and glory of your people Israel."
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:salvation]]
-    * [[en:obe:other:peoplegroup]]
-    * [[en:obe:kt:light]]
-    * [[en:obe:kt:true]]
-    * [[en:obe:other:gentile]]
-    * [[en:obe:kt:glory]]
-    * [[en:obe:other:israel]]
+  * [[:en:obe:kt:salvation]]
+  * [[:en:obe:other:peoplegroup]]
+  * [[:en:obe:kt:light]]
+  * [[:en:obe:other:gentile]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:other:israel]]
 
 ===== Translation Notes: =====
 
-    * **your salvation** - This refers to Jesus, the one through whom God would save people. (See: [[en:ta:vol2:translate:figs_metonymy]])
-    * **have prepared** - "have planned" or "caused to happen"
-    * **in the sight of all peoples** - "for all people groups to see"
-    * **He will be a light for revealing truth** - AT: "this child will enable people to perceive accurately the truth of God, as light allows people to see accurately" (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **He will be** - "He" refers to the one who will provide salvation.
-    * **will be the glory of your people Israel** - AT: "he will be the reason that glory will come to your people Israel"
+  * **my eyes have seen** - This expression means, "I have personally seen" or "I, myself, have seen." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **your salvation** - This expression refers to the person who would bring salvation—the infant Jesus—whom Simeon was holding. AT: "the savior whom you sent" or "the one whom you sent to save" (UDB). (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **which you** - Depending on how you translate the previous phrase, this may need to be changed to "whom you."
+  * **have prepared** - "have planned" or "caused to happen"
+  * **in the sight of all peoples** - "for all people groups to see"
+  * **He is light** - This metaphor means that the child will help people to see and understand the say way light helps people see accurately. AT: "this child will enable people to understand as light allows people to see accurately." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **for revelation** - It be necessary to state what is to be revealed. AT: "that will reveal God's truth." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **glory of your people Israel** - "he will be the reason that glory will come to your people Israel"
+
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:27|<<]] | [[:en:bible:notes:luk:02:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish salvation gentile }}
+~~DISCUSSION~~{{tag>publish p2check salvation gentile}}
 
 ~~NOCACHE~~

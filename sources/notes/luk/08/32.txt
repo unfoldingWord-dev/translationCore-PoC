@@ -31,21 +31,24 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:flock]]
-    * [[en:obe:other:pig]]
-    * [[en:obe:kt:demon]]
+  * [[:en:obe:other:flock]]
+  * [[:en:obe:other:pig]]
+  * [[:en:obe:kt:demon]]
 
 
 ===== Translation Notes: =====
 
-    * **a herd of many pigs was there feeding on the hill** - "a herd of many pigs was nearby eating grass on a hill" 
-    * **rushed** - "ran very fast"
+  * **Now a herd of many pigs was there feeding on the hill** - See [[:en:ta:vol2:translate:writing_background]].
+  * **was there feeding on the hill** - "was nearby eating grass on a hill" 
+  * **So the demons** - The word "so" is used here to mark an event that happened because of something else that happened previously. In this case, Jesus had told the demons that they could go into the pigs.
+  * **rushed** - "ran very fast"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:30|<<]] | [[:en:bible:notes:luk:08:34|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

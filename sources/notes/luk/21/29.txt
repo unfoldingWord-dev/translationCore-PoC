@@ -38,20 +38,24 @@
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - As Jesus continues teaching his disciples, he tells them a parable. (See: [[:en:ta:vol1:translate:figs_parables]])
+
   * **When they sprout buds** - "When new leaves start to grow"
-  * **you see for yourselves and know**  - This can also be translated as "people see for themselves and know."
-  * **summer is already near**  - "summer is about to start." Summer in Israel is very dry, so crops are harvested at the beginning of summer. The meaning is "harvest time is ready to start." This is implied information that they would see and know. (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **the kingdom of God is near**  - "the kingdom of God will soon be established" or "God will reign over his kingdom"
+  * **you see for yourselves and know** - AT: "people see for themselves and know"
+  * **summer is already near** - "summer is about to start." Summer in Israel is very dry, so crops are harvested at the beginning of summer. AT: "harvest time is ready to start." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the kingdom of God is near** - "God will soon establish his kingdom." AT: "God will soon rule as king." (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 
  
 
-**[[en/bible/notes/luk/21/27|<<]] | [[en/bible/notes/luk/21/32|>>]]**
+**[[:en:bible:notes:luk:21:27|<<]] | [[:en:bible:notes:luk:21:32|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

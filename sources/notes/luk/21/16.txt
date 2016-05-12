@@ -20,7 +20,7 @@
 \v 16 And even your parents and brothers and other relatives and friends will betray you, and they will kill some of you.
 \v 17 In general, everybody will hate you because you believe in me.
 \v 18 But not even one hair from your head shall be destroyed.
-\v 19 If you accept to suffer all things, you will actually gain eternal life for yourselves."
+\v 19 If you go through difficult times and prove your trust in God, you will save yourselves."
 
 
 \p
@@ -41,29 +41,31 @@
 
   * [[:en:obe:kt:death]]
   * [[:en:obe:kt:name]]
-  * [[en:obe:kt:perish]]
+  * [[:en:obe:kt:perish]]
   * [[:en:obe:kt:endure]]
   * [[:en:obe:kt:soul]]
  
 ===== Translation Notes: =====
-Jesus continues speaking to his disciples about the future.
-  * **you will be delivered up**  - "You will be handed over to the authorities" or "You will be betrayed"
-  * **they will put some of you to death**  - "they will kill some of you." Possible meanings are 1) "the authorities will kill some of you" or 2) "Those who deliver you up will kill some of you." The first meaning is more likely. 
-  * **because of my name**  - "because of me" or "because you follow me"
-  * **But not a hair of your head will perish**  - This can be translated positively as "Even every hair on your head will be safe." This is a figure of speech that means "You will not be harmed at all." It refers to one of the smallest parts of a person to emphasize that the whole person will not perish. Jesus had already said that some of them would be put to death. So some understand this to mean that they would not be harmed spiritually, as in "But these things cannot really harm you." (See: [[en:ta:vol2:translate:figs_synecdoche]])
-  * **In your endurance**  - "By holding firm." It can be translated as "If you do not quit."
-  * **you will gain your souls**  - "you will receive life" or "you will live forever"
+
+  * **you will be delivered up also by parents, brothers, relatives and friends** - AT: "your parents, brothers, relatives, and friends will hand you over to the authorities" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **they will put some of you to death** - "they will kill some of you." Possible meanings are 1) "the authorities will kill some of you" or 2) "those who deliver you up will kill some of you." The first meaning is more likely. 
+  * **because of my name** - AT: "because of me" or "because you follow me" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **But not a hair of your head will perish** - This refers to one of the smallest parts of a person to emphasize that the whole person will not perish. Jesus had already said that some of them would be put to death. So some understand this to mean that they would not be harmed spiritually. AT: "But these things cannot really harm you" or "Even every hair on your head will be safe." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **In your endurance** - "By holding firm." AT: "If you do not quit."
+  * **you will gain your souls** - "you will receive life" or "you will live forever"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 
  
 
-**[[en/bible/notes/luk/21/14|<<]] | [[en/bible/notes/luk/21/20|>>]]**
+**[[:en:bible:notes:luk:21:14|<<]] | [[:en:bible:notes:luk:21:20|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish endure}}
+{{tag>publish p2edit endure}}
 ~~NOCACHE~~

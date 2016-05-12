@@ -30,17 +30,19 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:joy]]
-  * [[en:obe:other:amazed]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:other:amazed]]
 
 ===== Translation Notes: =====
 
-  * **were still incredulous with joy**  - "still could not believe that it was really true!" They were very excited, but at the same time, it was difficult for them to believe that it had really happened.
-  * **and wondered**  - "and were amazed" (UDB) or "and wondered how this could be"
-  * **before them**  - "in front of them" or "while they were watching" (UDB)
+  * **were still incredulous with joy** - "still could not believe that it was really true." They were very excited, but at the same time, it was difficult for them to believe that it had really happened.
+  * **and wondered** - "and were amazed" (UDB) or "and wondered how this could be"
+  * **before them** - "in front of them" or "while they were watching" (UDB)
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:38|<<]] | [[:en:bible:notes:luk:24:44|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

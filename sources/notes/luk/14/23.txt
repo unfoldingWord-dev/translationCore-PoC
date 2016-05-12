@@ -36,22 +36,29 @@
 
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
-  * **the highways and hedges**  - This refers to roads and paths outside of the city. It can be translated as "the main roads and paths outside of the city."
-  * **those men**  - The word here for "men" means "male adults" and not just people in general.
-  * **who were first invited **- "whom I first invited"
-  * **will taste my dinner**  - "will enjoy the dinner I have prepared"
+
+  * **Connecting Statement:** - Jesus finishes his parable.
+
+  * **the highways and hedges** - This refers to roads and paths outside of the city. AT: "the main roads and paths outside of the city."
+  * **compel them** - "demand them"
+  * **that my house may be filled** - "so that people may fill my house"
+  * **For I say to you** - The word "you" refers to the servant.
+  * **those men** - The word here for "men" means "male adults" and not just people in general.
+  * **who were first invited** - AT: "whom I first invited" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **will taste my dinner** - "will enjoy the dinner I have prepared"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 
  
 
-**[[en/bible/notes/luk/14/21|<<]] | [[en/bible/notes/luk/14/25|>>]]**
+**[[:en:bible:notes:luk:14:21|<<]] | [[:en:bible:notes:luk:14:25|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

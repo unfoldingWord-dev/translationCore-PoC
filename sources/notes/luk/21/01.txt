@@ -36,19 +36,23 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:Jesus]]
+  * [[:en:obe:kt:Jesus]]
 ===== Translation Notes: =====
 
-  * **gifts**  - "gifts of money"
-  * **treasury**  - "collection box" or "money box" or "temple offering box" (UDB). This was one of the boxes at the temple where people put money as a gift to God.
-  * **two mites**  - "two small coins" or "two tiny copper coins." These were the least valuable of the coins people used then. This can be translated as the least valuable coin in your local money system, such as "two pennies." (See: [[en:obe:other:biblicalmoney]])
-  * **I say to you**  - Jesus was talking to his disciples. The word "you" is plural. (See: [[en:ta:vol1:translate:figs_you]])
-  * **gave gifts out of their abundance**  - This can be translated as "have a lot of money and gave some of it."
-  * **out of her poverty, put in all**  - This can be translated as "has very little, yet she put in all."
-  * **out of her poverty**  - "from what she needed" or "from the little she has"
+  * **Connecting Statement:** - This is the next event in the story. Possible setting: 1) this may have occurred on the same day that Jesus was questioned by the Sadducees ([[:en:bible:notes:luk:20:27|20:27]]) or 2) this may be a different day. Jesus begins teaching his disciples. (See: [[:en:ta:vol2:translate:writing_background]])
+
+  * **a certain poor widow** - This is a way of introducing a new character to the story. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **gifts** - "gifts of money"
+  * **treasury** - "collection box" or "money box." This was one of the boxes at the temple where people put money as a gift to God.
+  * **two mites** - "two small coins" or "two tiny copper coins." These were the least valuable of the coins people used then. AT: "two pennies." (See: [[:en:ta:vol2:translate:translate_bmoney]])
+  * **I say to you** - Jesus was talking to his disciples. The word "you" is plural. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **gave gifts out of their abundance** - AT: "have a lot of money and gave some of it"
+  * **out of her poverty, put in all** - AT: "has very little, yet she put in all"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 **[[:en:bible:notes:luk:20:45|<<]] | [[:en:bible:notes:luk:21:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

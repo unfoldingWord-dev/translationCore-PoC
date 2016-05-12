@@ -30,35 +30,35 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:judea]]
-    * [[en:obe:other:jerusalem]]
-    * [[en:obe:other:tyre]]
-    * [[en:obe:other:sidon]]
-    * [[en:obe:other:heal]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:kt:power]]
+  * [[:en:obe:other:judea]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:other:tyre]]
+  * [[:en:obe:other:sidon]]
+  * [[:en:obe:other:heal]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:kt:power]]
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Though Jesus especially addresses his disciples, there were many people around who listen.
 
-    * **with them** - "with the twelve he had chosen" or "with his twelve apostles"
-    * **and to be healed** - AT: "and for Jesus to heal them." or "and Jesus healed them." (See [[en:ta:vol2:translate:figs_activepassive]], [[en:ta:vol1:translate:figs_explicit]])
-    * **troubled with unclean spirits** - "bothered by unclean spirits." AT: "controlled by unclean spirits" or "held captive by unclean spirits." See the UDB for a translation using the active voice. 
-    * **were also healed** - “Jesus also healed” (See: [[:en:ta:vol1:translate:figs_explicit]])
-    * **power to heal was coming out from him** - AT: "he had power to heal people." 
-  
+  * **with them** - "with the twelve he had chosen" or "with his twelve apostles"
+  * **to be healed** - This could be stated in active form. AT: "for Jesus to heal them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **People who were troubled with unclean spirits were also healed** - This could be stated in active form. AT: "Jesus also healed people who were troubled with unclean spirits." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **troubled with unclean spirits** - "bothered by unclean spirits" or "controlled by evil spirits"
+  * **power to heal was coming out from him** - This could be stated in active form. AT: "he had power to heal people" or "he used his power to heal people." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/06/14|<<]] | [[en/bible/notes/luk/06/20|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
+**[[:en:bible:notes:luk:06:14|<<]] | [[:en:bible:notes:luk:06:20|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish heal}}
+{{tag>publish p2check heal}}
 
 ~~NOCACHE~~

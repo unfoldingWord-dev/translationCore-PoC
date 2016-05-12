@@ -27,27 +27,29 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:faith]]
-    * [[en:obe:kt:sin]]
-    * [[en:obe:kt:forgive]]
-    * [[en:obe:other:scribe]]
-    * [[en:obe:other:pharisee]]
-    * [[en:obe:kt:blasphemy]]
-    * [[en:obe:kt:god]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:kt:blasphemy]]
+  * [[:en:obe:kt:god]]
 
 ===== Translation Notes: =====
 
-  * **Man**  - This is a general word that people used when speaking to a man whose name they did not know. It was not rude, but it also did not show special respect. Some languages might use a word like "friend" or "brother" or "sir."
-  * **your sins are forgiven you**  - "you are forgiven" or "I forgive your sins" (UDB)
-  * **question this**  - "discuss this" or "reason about this." AT: "discuss whether or not Jesus had authority to forgive sins."
-  * **Who is this who speaks blasphemies?** - This rhetorical question shows how shocked and angry they were at what Jesus said. AT: "This man is blaspheming God" or "He blasphemes God by saying that" or "Who does he think he is to blaspheme God like that?" (See [[en:ta:vol1:translate:figs_rquestion]])
-  * **Who can forgive sins, but God alone?** - The implied information is that if a person claims to forgive sins he is pretending to be God. AT: "No one can forgive sins but God alone" or "God is the only one who can forgive sins." (See: [[en:ta:vol1:translate:figs_rquestion]], [[en:ta:vol1:translate:figs_explicit]])
+  * **Seeing their faith, Jesus said** - It is understood that they believe Jesus could heal the paralyzed man. This could be stated. AT: "When Jesus perceived that they believed that he could heal the man, he said to him." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Man** - This is a general word that people used when speaking to a man whose name they did not know. It was not rude, but it also did not show special respect. Some languages might use a word like "friend" or "sir."
+  * **your sins are forgiven you** - This could be stated in active form. AT: "you are forgiven" or "I forgive your sins" (UDB). (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **question this** - "discuss this" or "reason about this." What they questioned could be stated. AT: "discuss whether or not Jesus had authority to forgive sins." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **Who is this who speaks blasphemies?** - This question shows how shocked and angry they were at what Jesus said. This could be written as a statement. AT: "This man is blaspheming God" or "He blasphemes God by saying that." (See [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Who can forgive sins, but God alone?** - The implied information is that if a person claims to forgive sins he says he is God. This could be written as a clear statement. AT: "No one can forgive sins but God alone" or "God is the only one who can forgive sins." (See: [[:en:ta:vol1:translate:figs_rquestion]], [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
 **[[:en:bible:notes:luk:05:18|<<]] | [[:en:bible:notes:luk:05:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish forgive}}
+~~DISCUSSION~~{{tag>publish p2check forgive}}
 
 ~~NOCACHE~~

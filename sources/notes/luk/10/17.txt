@@ -39,39 +39,40 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:joy]]
-    * [[en:obe:kt:lord]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:other:submit]]
-    * [[en:obe:kt:name]]
-    * [[en:obe:kt:satan]]
-    * [[en:obe:kt:heaven]]
-    * [[en:obe:kt:authority]]
-    * [[en:obe:other:serpent]]
-    * [[en:obe:kt:power]]
-    * [[en:obe:other:adversary]]
-    * [[en:obe:other:rejoice]]
-    * [[en:obe:kt:spirit]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:submit]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:kt:satan]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:other:serpent]]
+  * [[:en:obe:kt:power]]
+  * [[:en:obe:other:adversary]]
+  * [[:en:obe:other:rejoice]]
+  * [[:en:obe:kt:spirit]]
 
 ===== Translation Notes: =====
-After some time passes, the seventy disciples return to where Jesus was.
 
-  * **The seventy returned**  - Some languages will need to say that the seventy actually went out first as the UDB does. This is implicit information that can be made explicit. (See [[en:ta:vol1:translate:figs_explicit]].)
-  * **seventy**  - You may want to add a footnote: "Some versions have '72' instead of '70.'"
+  * **The seventy returned** - Some languages will need to say that the seventy actually went out first as the UDB does. This is implicit information that can be made explicit. (See [[:en:ta:vol1:translate:figs_explicit]].)
+  * **seventy** - You may want to add a footnote: "Some versions have '72' instead of '70.'" (See: [[:en:ta:vol2:translate:translate_numbers]])
   * **in your name** - Here "name" refers to Jesus' power and authority. (See: [[:en:ta:vol2:translate:figs_metonymy]])
-  * **I was watching Satan fall from heaven as lightning**  - Jesus used a simile to describe how God was defeating Satan when his 70 disciples were preaching in the towns. (See: [[en:ta:vol1:translate:figs_simile]])
-  * **authority to tread on serpents, and scorpions**  - "authority to step on snakes and crush scorpions." Possible meanings are 1) this refers to actual snakes and scorpions or 2) snakes and scorpions are a metaphor for evil spirits. The UDB translates this as referring to evil spirits: "I have given you the right to attack evil spirits." (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **tread on serpents, and scorpions**  - This implies that they would do this and not be injured. AT: "walk on snakes and scorpions and not be hurt."
+  * **I was watching Satan fall from heaven as lightning** - Jesus used a simile to describe how God was defeating Satan when his 70 disciples were preaching in the towns. (See: [[:en:ta:vol1:translate:figs_simile]])
+  * **authority to tread on serpents, and scorpions** - "authority to step on snakes and crush scorpions." Possible meanings are 1) this refers to actual snakes and scorpions or 2) snakes and scorpions are a metaphor for evil spirits. The UDB translates this as referring to evil spirits: "I have given you the right to attack evil spirits." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **tread on serpents, and scorpions** - This implies that they would do this and not be injured. AT: "walk on snakes and scorpions and they will not hurt you."
   * **scorpion** - a small animal with two claws and poisonous stinger on its tail
-  * **over all the power of the enemy**  - "I have given you authority to crush the power of the enemy" or "I have given you authority to defeat the enemy." The enemy is Satan.
-  * **do not rejoice only in this**  - The words "in this" refer to the following phrase "that the spirits submit to you."
-  * **your names are engraved in heaven**  - AT: "God has written your names in heaven" or "your names are on the list of people who are citizens of heaven."
+  * **over all the power of the enemy** - "I have given you authority to crush the power of the enemy" or "I have given you authority to defeat the enemy." The enemy is Satan. (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **do not rejoice only in this, that the spirits submit to you** - "do not rejoice only because the spirits submit to you"
+  * **your names are engraved in heaven** - AT: "God has written your names in heaven" or "your names are on the list of people who are citizens of heaven"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 **[[:en:bible:notes:luk:10:16|<<]] | [[:en:bible:notes:luk:10:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

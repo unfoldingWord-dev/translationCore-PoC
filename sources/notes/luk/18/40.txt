@@ -27,23 +27,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:command]]
-  * [[en:obe:kt:lord]] 
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:command]]
+  * [[:en:obe:kt:lord]] 
 
 ===== Translation Notes: =====
-
+  * **that the man be brought to him** - AT: "the people to bring the blind man to him" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 
  
 
-**[[en/bible/notes/luk/18/38|<<]] | [[en/bible/notes/luk/18/42|>>]]**
+**[[:en:bible:notes:luk:18:38|<<]] | [[:en:bible:notes:luk:18:42|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

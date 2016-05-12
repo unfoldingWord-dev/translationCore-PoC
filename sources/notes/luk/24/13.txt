@@ -27,19 +27,21 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:jerusalem]]
+  * [[:en:obe:other:jerusalem]]
   
 ===== Translation Notes: =====
 
-  * **Behold**  - This marks the beginning of another event different from the ones involving the women and Peter.
-  * **that very day**  - "that same day" (UDB)
+  * **General Information:** - This is the next part of the story. Two of the disciples are on their way to Emmaus. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **Behold** - This word marks the beginning of the next part of the story.
+  * **that very day** - "that same day" (UDB)
   * **Emmaus** - This is the name of a town. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **sixty stadia** - "eleven kilometers." A "stadium" was 185 meters. (See: [[en:obe:other:biblicaldistance]])
-
+  * **sixty stadia** - "eleven kilometers." A "stadium" was 185 meters. (See: [[:en:ta:vol2:translate:translate_bdistance]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:11|<<]] | [[:en:bible:notes:luk:24:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish biblicaldistances}}
+~~DISCUSSION~~{{tag>publish p2edit biblical distances}}

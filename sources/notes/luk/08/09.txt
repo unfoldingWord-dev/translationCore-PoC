@@ -34,22 +34,25 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:disciple]]
-    * [[en:obe:other:understand]]
-    * [[en:obe:other:mystery]]
-    * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:other:understand]]
+  * [[:en:obe:other:mystery]]
+  * [[:en:obe:kt:kingdomofgod]]
 
 ===== Translation Notes: =====
 
-  * **You have been given the privilege of understanding**  - AT: "God has given you the gift of understanding" or "God has made you able to understand." (See: [[en:ta:vol2:translate:figs_activepassive]], [[en:ta:vol1:translate:figs_explicit]])
-  * **the mysteries of the kingdom of God**  - These are truths that had been kept hidden but Jesus was revealing them.
-  * **seeing they will not really see**  - "though they see, they will not perceive." AT: "though they see things, they will not understand them" or "though they see things happen, they will not understand what they mean." (See: the section about Verbs and Objects on [[en:ta:vol2:translate:figs_verbs]])
-  * **hearing they will not really understand**  - "though they hear, they will not understand." AT: "though they hear instruction, they will not understand the truth." (See: the section about Verbs and Objects on [[en:ta:vol2:translate:figs_verbs]])
+  * **Connecting Statement:** - Jesus begins to speak to his disciples.
+
+  * **You have been given the privilege of understanding** - AT: "God has given you the gift of understanding" or "God has made you able to understand" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **the mysteries of the kingdom of God** - These are truths that had been kept hidden but Jesus was revealing them.
+  * **seeing they will not really see** - "though they see, they will not perceive." AT: "though they see things, they will not understand them" or "though they see things happen, they will not understand what they mean."
+  * **hearing they will not really understand** - "though they hear, they will not understand." AT: "though they hear instruction, they will not understand the truth."
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:07|<<]] | [[:en:bible:notes:luk:08:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish parable}}
+~~DISCUSSION~~{{tag>publish p2edit parable}}

@@ -25,25 +25,25 @@
 
 ===== translationWords: =====
 
+  * [[:en:obe:other:jordanriver]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:kt:baptize]]
+  * [[:en:obe:kt:repent]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:kt:sin]]
 
-    * [[en:obe:other:jordanriver]]
-    * [[en:obe:other:preach]]
-    * [[en:obe:kt:baptize]]
-    * [[en:obe:kt:repent]]
-    * [[en:obe:kt:forgive]]
-    * [[en:obe:kt:sin]]
 ===== Translation Notes: =====
 
-  * **He traveled **- "John traveled"
-  * **preaching a baptism of repentance** - AT: "preached that people should be baptized to show that they were repenting."
+  * **preaching a baptism of repentance** - The terms "baptism" and "repentance" could be stated as actions. AT: "preached that people should be baptized to show that they were repenting." (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
   * **for the forgiveness of sins** - "so that their sins would be forgiven" or "so that God would forgive their sins." The repentance was for the forgiveness of sins.
-
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 
 **[[:en:bible:notes:luk:03:01|<<]] | [[:en:bible:notes:luk:03:04|>>]]**
 
-~~DISCUSSION~~{{tag>publish jordanriver repent }}
+~~DISCUSSION~~{{tag>publish p2check jordanriver repent}}
 
 ~~NOCACHE~~

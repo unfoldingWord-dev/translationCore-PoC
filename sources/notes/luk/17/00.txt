@@ -1,0 +1,43 @@
+====== Luke 17 General Notes ======
+
+
+=== Structure and formatting ===
+
+In the cleansing of the 10 men ([[:en:bible:notes:luk:17:11|17:11-17]]), there should be an [[:en:ta:vol1:translate:figs_explicit|implicit]] understanding of the structure of this story. It is one unified story. The reaction of the supposedly ungodly Samaritan is correct, while the reaction of the other men was incorrect and it is assumed that they were Jews. 
+
+=== Special concepts in this chapter ===
+
+== Old Testament Examples ==
+This chapter uses a series of examples from the Old Testament. All of these examples are times when the people did not concern themselves with God. Properly understanding the meaning of each individual example will be difficult without the necessary background understanding from the book of Genesis. 
+
+=== Important figures of speech in this chapter ===
+
+== "It would be better" ==
+This is a special type of [[:en:ta:vol1:translate:figs_hypo]]. In this situation, rather than speaking about a condition or what would happen, it gives an explanation about a hypothetical future situation if the current situation remains unchanged. 
+
+== Hypothetical Situations and Rhetorical Situations ==
+Jesus uses two figures of speech at the same time in this chapter. He combines a hypothetical situation and [[:en:ta:vol1:translate:figs_rquestion]] because the proper answer to the hypothetical situation should be obvious. (See: [[:en:bible:notes:luk:17:05|17:5-9]]
+
+=== Other possible translation difficulties in this chapter ===
+
+== Son of Man ==
+Jesus refers to himself as the "Son of Man." Every language may not have the ability to have a person refer to himself (the first person) in the third person. 
+
+
+== The use of paradox ==
+
+This is a statement that seems absurd, that appears to contradict itself. A paradox occurs in this chapter: "Whoever seeks to gain his life will lose it, but whoever loses his life will save it" ([[:en:bible:notes:luk:17:32|17:33]]).
+
+===== Links: =====
+
+  * **[[:en:bible:notes:luk:17:01|Luke 17:01 Notes]]**
+**[[:en:bible:notes:luk:16:00|<<]] | [[:en:bible:notes:luk:18:00|>>]]**
+
+
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft CHTeam}}

@@ -28,18 +28,22 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:inherit]]
+  * [[:en:obe:kt:inherit]]
  
 ===== Translation Notes: =====
 
-    * **A certain man**  - This is the beginning of a parable. Introduce it in a way that is natural in your language. Some languages might say "There was a man who."
-    * **give me now**  - The son wanted his father to give it to him immediately. Languages that have a command form that means that they want it done immediately should use that form.
-    * **the property I am due to inherit**  -  "the part of your wealth that you planned to give to me when you die"
+  * **Connecting Statement:** - Jesus begins telling another parable. It is about a young man who asks his father for his part of the inheritance. 
+
+  * **A certain man** - This is the beginning of a parable. Introduce it in a way that is natural in your language. Some languages might say "There was a man who." (See: [[:en:ta:vol1:translate:figs_parables]])
+  * **give me now** - The son wanted his father to give it to him immediately. Languages that have a command form that means that they want it done immediately should use that form.
+  * **the property I am due to inherit** - "the part of your wealth that you planned to give to me when you die"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 **[[:en:bible:notes:luk:15:08|<<]] | [[:en:bible:notes:luk:15:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish  inherit}}
+~~DISCUSSION~~{{tag>publish p2edit inherit}}
 
 ~~NOCACHE~~

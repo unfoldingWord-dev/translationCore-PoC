@@ -33,21 +33,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:witness]]
-  * [[en:obe:kt:promise]]
-  * [[en:obe:kt:godthefather]]
-  * [[en:obe:kt:clothed]]
-  * [[en:obe:kt:power]]
+  * [[:en:obe:kt:witness]]
+  * [[:en:obe:kt:promise]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:clothed]]
+  * [[:en:obe:kt:power]]
  
 ===== Translation Notes: =====
 
-  * **You are witnesses**  - "You are to tell others that what you saw about me is true." The disciples had observed Jesus' life, death and resurrection, and could describe what he did to other people.
-  * **I am sending the promise of my Father upon you**  - "I give you what my Father promised to give you"
-  * **clothed with power**  - "be empowered" or "receive power." God's power will cover them in the same way that clothes cover a person. (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **from on high**  - "from above" or "from God"
+  * **Connecting Statement:** - Jesus continues speaking to the disciples.
+
+  * **You are witnesses** - "You are to tell others that what you saw about me is true." The disciples had observed Jesus' life, death and resurrection, and could describe what he did to other people.
+  * **I am sending the promise of my Father upon you** - "I will give you what my Father promised to give you." Jesus, God the Son, will give what God the Father promised to all his followers, which is God the Spirit.
+  * **Father** - This is an important title for God. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **you are clothed with power** - God's power will cover them in the same way that clothes cover a person. AT: "you receive power." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **from on high** - "from above" or "from God"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:45|<<]] | [[:en:bible:notes:luk:24:50|>>]]**
 
-~~DISCUSSION~~{{tag>publish clothed}}
+~~DISCUSSION~~{{tag>publish p2edit clothed}}

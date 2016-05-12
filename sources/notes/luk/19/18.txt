@@ -26,24 +26,27 @@
 
 
 ===== translationWords: =====
- 
+
+  * [[:en:obe:other:noble]]
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
-  * **Your mina, lord, has made five minas**  - This can be translated as "Lord, with the money you gave me, I have have earned five times the amount." 
+
+  * **Your mina, lord, has made five minas** - AT: "Lord, with the money you gave me, I have earned five times the amount" 
   * **mina** - See how you translated this in [[:en:bible:notes:luk:19:13|19:13]].
-  * **You take charge over five cities.**  - This can be translated as "You will have authority over five cities."
+  * **You take charge over five cities** - AT: "You will have authority over five cities"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/16|<<]] | [[en/bible/notes/luk/19/20|>>]]**
+**[[:en:bible:notes:luk:19:16|<<]] | [[:en:bible:notes:luk:19:20|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

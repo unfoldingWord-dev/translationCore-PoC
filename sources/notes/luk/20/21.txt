@@ -27,31 +27,35 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:teacher]]
-  * [[en:obe:kt:true]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:other:lawful]]
-  * [[en:obe:other:tax]]
-  * [[en:obe:other:caesar]]
+  * [[:en:obe:kt:teacher]]
+  * [[:en:obe:kt:true]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:lawful]]
+  * [[:en:obe:other:tax]]
+  * [[:en:obe:other:caesar]]
  
 
 ===== Translation Notes: =====
 
-  * **but you teach the truth about the way of God**  - This is part of what the spy was saying that they knew about Jesus.
+  * **Connecting Statement:** - This is the beginning of the next event in this part of the story. Some time has passed since Jesus was questioned in the temple by the chief priests. The spies are now questioning Jesus.
+
   * **are not influenced by anyone** - Possible meanings are 1) "you tell the truth even if important people do not like it" (UDB) or 2) "you do not favor one person over another." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **but you teach the truth about the way of God** - This is part of what the spy was saying that they knew about Jesus.
   * **Is it lawful for us to pay taxes to Caesar** - They hoped that Jesus would say either "yes" or "no." If he said "yes," then the Jewish people would be angry with him for telling them to pay taxes to a foreign government. If he said "no," then the religious leaders could tell the Romans that Jesus was teaching the people to break the Roman laws.
-  * **Is it lawful** - They were asking about God's law, not about Caesar's law. This can also be translated "Does our law permit us."
-  * **Caesar** - Because Caesar was the ruler of the Roman government, they could refer to the Roman government by Caesar's name. (See: [[en:ta:vol2:translate:figs_metonymy]])
+  * **Is it lawful** - They were asking about God's law, not about Caesar's law. AT: "Does our law permit us."
+  * **Caesar** - Because Caesar was the ruler of the Roman government, they could refer to the Roman government by Caesar's name. (See: [[:en:ta:vol2:translate:figs_metonymy]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/19|<<]] | [[en/bible/notes/luk/20/23|>>]]**
+**[[:en:bible:notes:luk:20:19|<<]] | [[:en:bible:notes:luk:20:23|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

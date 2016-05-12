@@ -27,33 +27,36 @@
 \v 42 When daybreak came, he went out into a solitary place. Crowds of people were looking for him and came to the place where he was. They tried to keep him from going away from them. 
 \v 43 But he said to them, "I must also preach the good news about the kingdom of God to many other cities, because this is the reason I was sent here."
 \p 
-\v 44 Then he continued to preach in the synagogues throughout the province of Judea.
+\v 44 Then he continued to preach in the synagogues throughout Judea.
 </usfm>
 
 ===== translationWords: =====
 
-    * [[en:obe:other:preach]]
-    * [[en:obe:kt:goodnews]]
-    * [[en:obe:kt:kingdomofgod]]
-    * [[en:obe:other:synagogue]]
-    * [[en:obe:other:judea]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:kt:kingdomofgod]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:judea]]
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Though the people wanted Jesus to stay in Capernaum, he goes to preach in other Judean synagogues.
 
-    * **When daybreak came**  - "At sunrise" or "At dawn"
-    * **a solitary place** - "a deserted place" or "a place where no people lived" or "a place where there were no people"
-    * **to many other cities** - AT: "to the people in many other cities."
-    * **this is the reason I was sent here** - AT: "this is the reason God sent me here." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **When daybreak came** - "At sunrise" or "At dawn"
+  * **a solitary place** - "a deserted place" or "a place where there were no people"
+  * **to many other cities** - "to the people in many other cities"
+  * **this is the reason I was sent here** - This could be stated in active form. AT: "this is the reason God sent me here." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Judea** - Since Jesus had been in Galilee, the term "Judea" here probably refers to the entire region where the Jews lived at that time. AT: "where the Jews lived."
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/04/40|<<]] | [[en/bible/notes/luk/05/01|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
+**[[:en:bible:notes:luk:04:40|<<]] | [[:en:bible:notes:luk:05:01|>>]]**
 
 ~~DISCUSSION~~
 
-{{tag>publish preach judea}}
+{{tag>publish p2check preach judea}}
+
 ~~NOCACHE~~

@@ -33,29 +33,33 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:temple]]
-  * [[en:obe:other:castout]]
-  * [[en:obe:other:written]]
-  * [[en:obe:kt:houseofgod]]
-  * [[en:obe:other:pray]]
+  * [[:en:obe:other:castout]]
+  * [[:en:obe:other:written]]
+  * [[:en:obe:kt:houseofgod]]
+  * [[:en:obe:other:pray]]
  
 
 ===== Translation Notes: =====
 
-  * **cast out** - "throw out" or "chase out" or "force them to leave"
-  * **It is written**  - This can be translated as "The scriptures say" or "A prophet wrote these words in the scriptures." This is a quotation from Isaiah [[:en:bible:notes:isa:56:06|56:7]].
-  * **My house** - The word "My" refers to God. 
-  * **house of prayer**  - "a place where people pray to me"
-  * **a den of robbers**  - "a place where robbers hide out." This is a metaphor. It can be translated with a simile as "like a den of robbers." (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **Connecting Statement:** - This is the next event in this part of the story. Jesus enters the temple.
+
+  * **cast out** - "throw out" or "force out"
+  * **It is written** - This is a quotation from Isaiah. AT: "The scriptures say" or "A prophet wrote these words in the scriptures." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **My house** - The word "My" refers to God and "house" refers to the temple.
+  * **house of prayer** - "a place where people pray to me"
+  * **a den of robbers** - "a place where robbers hide out." AT: "like a den of robbers." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/43|<<]] | [[en/bible/notes/luk/19/47|>>]]**
+**[[:en:bible:notes:luk:19:43|<<]] | [[:en:bible:notes:luk:19:47|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish temple}}
+{{tag>publish p2edit temple}}
 ~~NOCACHE~~

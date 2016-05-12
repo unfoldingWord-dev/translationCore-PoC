@@ -28,26 +28,30 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:test]]
-    * [[en:obe:kt:sign]]
-    * [[en:obe:kt:heaven]]
-    * [[en:obe:other:kingdom]]
-    * [[en:obe:other:desolate]]
+  * [[:en:obe:kt:test]]
+  * [[:en:obe:kt:sign]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:other:kingdom]]
+  * [[:en:obe:other:desolate]]
+  * [[:en:obe:other:house]]
 
 
 ===== Translation Notes: =====
 
-  * **Others tested him**  - "Other people tested Jesus." They wanted him to prove that his authority was from God.
-  * **and sought from him a sign from heaven**  - "and asked him to give a sign from heaven" or "by demanding that he give a sign from heaven." This was how they they wanted him to prove that his authority was from God.
-  * **Every kingdom divided against itself**  - AT: "When the people in a kingdom fight among themselves."
-  * **is made desolate**  - "it will be destroyed"
-  * **a house divided against itself falls**  - "a family whose members fight each other will be ruined" or "a family whose members fight each other will be stop being a family." The word "house" is used to refer to a family or to the people living in a house. (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **falls**  - "crashed down and is destroyed." This image of the house collapsing refers to the destruction of a family when the members fight each other. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **General Information:** - Jesus begins to respond to the crowd.
+
+  * **Others tested him** - "Other people tested Jesus." They wanted him to prove that his authority was from God.
+  * **and sought from him a sign from heaven** - "and asked him to give a sign from heaven" or "by demanding that he give a sign from heaven." This was how they they wanted him to prove that his authority was from God.
+  * **Every kingdom divided against itself is made desolate** - AT: "If people of a kingdom fight among themselves, they will destroy their kingdom" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **a house divided against itself falls** - Here "house" refers to a family. AT: "if family members fight each other, they will ruin their family." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **falls** - "crashed down and is destroyed." This image of the house collapsing refers to the destruction of a family when the members fight each other. (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:14|<<]] | [[:en:bible:notes:luk:11:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

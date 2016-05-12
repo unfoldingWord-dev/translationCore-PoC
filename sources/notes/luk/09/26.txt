@@ -34,32 +34,31 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:shame]]
-    * [[en:obe:kt:word]]
-    * [[en:obe:kt:sonofman]]
-    * [[en:obe:kt:glory]]
-    * [[en:obe:kt:godthefather]]
-    * [[en:obe:kt:holy]]
-    * [[en:obe:kt:angel]]
-    * [[en:obe:kt:amen]]
-    * [[en:obe:kt:death]]
-    * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:other:shame]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:kt:glory]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:holy]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:kt:amen]]
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:kingdomofgod]]
 
 ===== Translation Notes: =====
-Jesus continues talking to his disciples.
 
-  * **and my words**  - "and what I say" or "and what I teach"
-  * **of him will the Son of Man be ashamed**  - AT: "the Son of Man will also be ashamed of him."
-  * **the Son of Man**  - Jesus was speaking about himself. AT: "I, the Son of Man."
-  * **when he comes in his own glory**  - Jesus was speaking of himself in the third person. AT: "when I come in my own glory." (See: [[en:ta:vol2:translate:figs_123person]])
-  * **some of you who are standing here**  - Here Jesus was referring to some of the people he was speaking to.
-  * **will not taste death until they see the kingdom of God**  - AT: "will see the kingdom of God before they die."
-  * **will not taste death**  - "will not experience death" or "will not die" or "will live" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
-  * **until they see the kingdom of God**  - Depending on how you translate "some of them," you could also translate this as "until you see the kingdom of God."
+  * **and my words** - AT: "and what I say" or "and what I teach" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **of him will the Son of Man be ashamed** - "the Son of Man will also be ashamed of him"
+  * **the Son of Man** - Jesus was speaking about himself. AT: "I, the Son of Man."
+  * **when he comes in his own glory** - Jesus was speaking of himself in the third person. AT: "when I come in my own glory." (See: [[:en:ta:vol2:translate:figs_123person]])
+  * **some of you who are standing here** - "some of you who are here with me"
+  * **will not taste death until they see the kingdom of God** - AT: "will see the kingdom of God before they die" or "will see the kingdom of God before you die" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:23|<<]] | [[:en:bible:notes:luk:09:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

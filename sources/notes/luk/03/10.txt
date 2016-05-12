@@ -27,26 +27,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:tunic]]
+  * [[:en:obe:other:tunic]]
  
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - John begins to respond to questions that people in the crowd ask him.
 
-    * **asked him, saying**  - "asked him and said" or "asked John"
-    * **answered and said to them**  - "answered them, saying" or "answered them" or "said"
-    * **do likewise**  - "do the same thing." AT: "give food to someone who does not have any."
-
+  * **asked him, saying** - "asked him and said" or "asked John"
+  * **answered and said to them** - "answered them, saying" or "answered them" or "said"
+  * **do likewise** - "do the same thing." This refers back to giving food to those in need. It may be helpful to state this. AT: "give food to someone who does not have any." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
-
-
-
-**[[en/bible/notes:luk/03/09|<<]] | [[en/bible/notes:luk/03/12|>>]]** 
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
+**[[:en/bible/notes:luk/03/09|<<]] | [[:en/bible/notes:luk/03/12|>>]]** 
 
 
 ~~DISCUSSION~~
 
- 
-{{tag>publish tunic}}
+{{tag>publish p2check tunic}}
+
 ~~NOCACHE~~

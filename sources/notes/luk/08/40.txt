@@ -26,31 +26,38 @@
 <usfm>
 \p
 \v 40 As Jesus returned, the crowd welcomed him, for they were all waiting for him.
-\v 41 Behold, there came a man named Jairus, and he was one of the leaders of the synagogue. Jairus fell down at Jesus’ feet and implored him to come to his house,
+\v 41 Behold, there came a man named Jairus, and he was one of the leaders of the synagogue. Jairus fell down at Jesus' feet and implored him to come to his house,
 \v 42 for he had an only daughter, about twelve years of age, and she was dying. But as he was going, the crowds of people were pressing up against him.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:other:synagogue]]
-    * [[en:obe:other:capernaum]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:capernaum]]
 
 
 ===== Translation Notes: =====
 
-  * **the crowd welcomed him** - AT: "the crowd joyfully greeted him."
-  * **Behold, there came a man named Jairus**  - The word "Behold" alerts us to Jairus as a new person in the story. Your language may have a way of doing this. English uses "There was a man who was named Jairus.” (See: [[:en:ta:vol1:translate:translate_names]])
-  * **one of the leaders of the synagogue**  - "one of the leaders at the local synagogue" or "a leader of the people who met at the synagogue in that area"
-  * **fell down at Jesus' feet**  -  1) “bowed down at Jesus feet” or 2) “lay down on the ground at Jesus feet.” Jairus did not fall accidentally. He did this as a sign of humility and respect for Jesus.
-  * **she was dying**  - "she was about to die" or "she was near death"
-  * **But as he was going** - Some translators may need to first say "So Jesus agreed to go with the man." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **the crowds of people were pressing up against him**  - "the people were crowding tightly around Jesus"  (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **Connecting Statement:** - When Jesus and his disciples return to Galilee on the other side of the lake, he heals the 12 year old daughter of the ruler of the synagogue as well as a woman who has been bleeding for 12 years.
+ 
+  * **General Information:** - These verses give background information about Jairus. (See: [[:en:ta:vol2:translate:writing_background]])
+
+  * **the crowd welcomed him** - AT: "the crowd joyfully greeted him"
+  * **Behold, there came a man named Jairus** - The word "behold" alerts us to Jairus as a new person in the story. Your language may have a way of doing this. AT: "There was a man who was named Jairus." (See: [[:en:ta:vol1:translate:translate_names]])
+  * **one of the leaders of the synagogue** - "one of the leaders at the local synagogue" or "a leader of the people who met at the synagogue in that area"
+  * **fell down at Jesus' feet** - 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet." Jairus did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+  * **she was dying** - "she was about to die" or "she was near death"
+  * **But as he was going** - Some translators may need to first say, "So Jesus agreed to go with the man." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the crowds of people were pressing up against him** - "the people were crowding tightly around Jesus" (See: [[:en:ta:vol1:translate:figs_explicit]])
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:38|<<]] | [[:en:bible:notes:luk:08:43|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

@@ -21,32 +21,34 @@
 
 <usfm>
 \v 33 Now in the synagogue that day there was a man who had the spirit of an unclean demon, and he cried out with a loud voice, 
-\v 34 "What do we have to do with you, Jesus of Nazareth? Have you come to destroy us? I know you who you are! You are the Holy One of God!"
+\v 34 "What do we have to do with you, Jesus of Nazareth? Have you come to destroy us? I know who you are! You are the Holy One of God!"
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:spirit]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:other:voice]]
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:other:nazareth]]
-    * [[en:obe:kt:holyone]]
-    * [[en:obe:kt:god]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:nazareth]]
+  * [[:en:obe:kt:holyone]]
+  * [[:en:obe:kt:god]]
 
 ===== Translation Notes: =====
 
-
-    * **who had the spirit of an unclean demon** - "who was possessed by an unclean demon"
-    * **he cried out with a loud voice**  - "he shouted loudly." Some languages have an idiom for this like the English idiom "he shouted at the top of his lungs." (See: [[en:ta:vol1:translate:figs_idiom]])
-    * **What do we have to do with you?** - It is a belligerent response that means "You have no right to bother us!" AT: "What do we have in common?" or "We have nothing to do with you!" (See: [[en:ta:vol1:translate:figs_idiom]])
-
+  * **Now...there was a man** - This phrase is used to mark the introduction of a new character into the story; in this case, a demon possessed man. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **who had the spirit of an unclean demon** - "who was possessed by an unclean demon" or "who was controlled by an evil spirit" (UDB)
+  * **he cried out with a loud voice** - "he shouted loudly." Some languages have an idiom for this like the English idiom, "he shouted at the top of his lungs." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **What do we have to do with you** - This belligerent response is an idiom that means: "What do we have in common?" or "What right to you have to bother us?" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **What do we have to do with you, Jesus of Nazareth?** - This question could be written as a statement. AT: "We have nothing to do with you, Jesus of Nazareth!" or "You have no right to bother us, Jesus of Nazareth!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:04|Luke Chapter 04 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:04:00]]
+  * [[:en:bible:questions:comprehension:luk:04]]
 **[[:en:bible:notes:luk:04:31|<<]] | [[:en:bible:notes:luk:04:35|>>]]**
 
-~~DISCUSSION~~{{tag>publish holyone}}
+~~DISCUSSION~~{{tag>publish p2check holyone}}
 
 ~~NOCACHE~~

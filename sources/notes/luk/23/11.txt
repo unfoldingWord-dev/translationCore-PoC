@@ -33,21 +33,23 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:warrior]]
-  * [[en:obe:other:mock]]
-  * [[en:obe:other:pilate]]
-  * [[en:obe:other:adversary]]
+  * [[:en:obe:other:warrior]]
+  * [[:en:obe:other:mock]]
+  * [[:en:obe:other:pilate]]
+  * [[:en:obe:other:adversary]]
  
 
 ===== Translation Notes: =====
 
-  * **clothed him in beautiful clothing**  - The translation should not imply that this was done to honor or care for Jesus. They did it to mock Jesus and to make fun of him.
-  * **Herod and Pilate became friends with each other that very day.**  - The implied information is that they became friends because Herod appreciated Pilate allowing him to judge Jesus. You could make this explicit: "Herod and Pilate became friends with each other that very day because Pilate had sent Jesus to Herod for judgment." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **before**  - "before that day"
+  * **clothed him in beautiful clothing** - The translation should not imply that this was done to honor or care for Jesus. They did it to mock Jesus and to make fun of him.
+  * **Herod and Pilate became friends with each other that very day.** - The implied information is that they became friends because Herod appreciated Pilate allowing him to judge Jesus. AT: "Herod and Pilate became friends with each other that very day because Pilate had sent Jesus to Herod for judgment." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **before** - "before that day"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:08|<<]] | [[:en:bible:notes:luk:23:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish pilate herodantipas}}
+~~DISCUSSION~~{{tag>publish p2edit pilate herodantipas}}

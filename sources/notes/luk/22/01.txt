@@ -29,26 +29,30 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:festival]]
-  * [[en:obe:kt:unleavenedbread]]
-  * [[en:obe:kt:passover]]
-  * [[en:obe:other:chiefpriests]]
-  * [[en:obe:other:scribe]]
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:kt:death]]
-  * [[en:obe:kt:fear]]
+  * [[:en:obe:other:festival]]
+  * [[:en:obe:kt:unleavenedbread]]
+  * [[:en:obe:kt:passover]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:other:scribe]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:kt:fear]]
 
 ===== Translation Notes: =====
 
-  * **Festival of Unleavened Bread**  - The festival was called by this name because during the festival, the Jews did not eat bread that was made with yeast. This can be translated as "the festival when they would eat unleavened bread."
-  * **Unleavened Bread**  - This is bread that has no yeast in it to make it rise. It can be called "Bread without Yeast."
-  * **drew near**  - "was almost ready to begin"
-  * **how they could put Jesus to death**  - "how they might cause Jesus to be put to death." The priests and scribes did not have the authority to kill Jesus themselves, but they hoped to get others to kill him.
-  * **afraid of the people**  - Possible meanings are 1) "scared of what the people might do" or 2) "scared that the people would make Jesus king."
+  * **General Information:** - This is the next part of the story. Judas agrees to betray Jesus. These verses give background information about this part of the story. (See: [[:en:ta:vol2:translate:writing_background]])
 
+  * **Now** - This word is used here a new part of the story.
+  * **Festival of Unleavened Bread** - The festival was called by this name because during the festival, the Jews did not eat bread that was made with yeast. AT: "the festival when they would eat unleavened bread."
+  * **Unleavened Bread** - This is bread that has no yeast in it to make it rise. AT: "Bread without Yeast."
+  * **drew near** - "was almost ready to begin"
+  * **how they could put Jesus to death** - The priests and scribes did not have the authority to kill Jesus themselves, but they hoped to get others to kill him. AT: "how they might cause Jesus to be put to death" or "how they could cause someone to kill Jesus."
+  * **afraid of the people** - Possible meanings are 1) "scared of what the people might do" or 2) "scared that the people would make Jesus king."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:21:37|<<]] | [[:en:bible:notes:luk:22:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish unleavenedbread}}
+~~DISCUSSION~~{{tag>publish p2edit unleavenedbread}}

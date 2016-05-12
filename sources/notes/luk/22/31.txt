@@ -28,27 +28,31 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:peter]]
-  * [[en:obe:kt:Satan]]
-  * [[en:obe:other:winnow]]
-  * [[en:obe:other:wheat]]
-  * [[en:obe:other:pray]]
-  * [[en:obe:kt:faith]]
-  * [[en:obe:kt:turn]]
-  * [[en:obe:kt:brother]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:kt:Satan]]
+  * [[:en:obe:other:winnow]]
+  * [[:en:obe:other:wheat]]
+  * [[:en:obe:other:pray]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:turn]]
+  * [[:en:obe:kt:brother]]
  
 ===== Translation Notes: =====
-Jesus speaks directly to Simon.
+
+  * **General Information:** - Jesus speaks directly to Simon.
+
   * **Simon, Simon** - Jesus said his name twice to show that what he was about to say to him was very important.
-  * **to have you, that he might sift you** - The word "you" refers to all of the apostles. Languages that have different forms of "you" should use the plural form. (See: [[en:ta:vol1:translate:figs_you]])
-  * **sift you as wheat**  - This is a metaphor that means "test you to find something wrong." The meaning can be made clear as in the UDB: "test you." And it can be translated as a simile: "like someone shakes grain in a sieve" as in the UDB. (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **But I have prayed for you**  - The word "you" here refers specifically to Simon. Languages that have different forms of you should use the singular form. (See: [[en:ta:vol1:translate:figs_you]])
-  * **that your faith may not fail** - This can be expressed positively as "that you will continue to have faith" or "that you will continue to trust me." (See: [[en:ta:vol2:translate:figs_activepassive]])
+  * **to have you, that he might sift you** - The word "you" refers to all of the apostles. Languages that have different forms of "you" should use the plural form. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **sift you as wheat** - This means that Satan wanted to test the disciples to find something wrong. AT: "test you like someone shakes grain in a sieve" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **But I have prayed for you** - The word "you" here refers specifically to Simon. Languages that have different forms of you should use the singular form. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **that your faith may not fail** - "that you will continue to have faith" or "that you will continue to trust me"
   * **After you have turned back again** - "After you start following me again" or "After you start serving me again"
-  * **your brothers** - This refers to the other disciples. This can be translated as "your fellow believers" or "your brothers in the faith" or "the other disciples."
+  * **your brothers** - This refers to the other disciples. AT: "your fellow believers" or "the other disciples."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:28|<<]] | [[:en:bible:notes:luk:22:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish  winnow}}
+~~DISCUSSION~~{{tag>publish p2edit winnow}}

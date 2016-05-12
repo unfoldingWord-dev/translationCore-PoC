@@ -26,7 +26,7 @@
 \p
 \v 19 Now there was a certain rich man who was clothed in purple and fine linen and was enjoying every day his great wealth.
 \v 20 A certain beggar named Lazarus was laid at his gate, covered with sores,
-\v 21 and he yearned to be fed with what fell from the rich man’s table�x22and besides that, the dogs came and licked his sores.
+\v 21 and he yearned to be fed with what fell from the rich man's table—and besides that, the dogs came and licked his sores.
 </usfm>
 
 ===== translationWords: =====
@@ -35,28 +35,33 @@
  
 
 ===== Translation Notes: =====
-Jesus continues to speak.
-    * **a certain rich man** -  It is not clear if this was a real person, or simply a story that Jesus told in order to make a point.
-    * **who was clothed in purple and fine linen**  - "who wore clothing made with fine linen and purple dye" or "who wore very expensive clothes." Purple dye and fine linen cloth were very expensive. 
-    * **was enjoying every day his great wealth**  - This could be translated as "was feasting every day" or "enjoyed eating expensive food every day" or "spent much money and bought whatever he desired."
-    * **A certain beggar named Lazarus was laid at his gate** - "people had laid a certain beggar named Lazarus at his gate" (See: [[:en:ta:vol1:translate:translate_names]])
-    * **beggar** - "a poor man who had to beg people for food"
-    * **at his gate**  - "at the gate to the rich man's house" or "at the entrance to the rich man's property"
-    * **covered with sores**  - "with sores all over his body." 
-    * **yearned to be fed with** - "wished to eat" or "wished he would be allowed to eat"
-    * **what fell from the rich man's table** - This could also be translated as "crumbs of food that accidentally fell from the rich man's table as he was eating" or "the leftover food that was thrown from the rich man's table."
-    * **besides that** - This could also be translated as "in addition to that" or "even." This shows that what follows is even worse than what has already be told about Lazarus.
-    * **dogs**  - Dogs were an unclean animal. Lazarus was too sick and weak to stop the dogs from licking his wounds.
+
+  * **Connecting Statement:** - As Jesus continues teaching the people he begins to tell a story. It is about a rich man and Lazarus.
+  * **General Information:** - These verses give background information about the story Jesus begins to tell about the rich man and Lazarus. (See: [[:en:ta:vol2:translate:writing_background]])
+
+  * **Now** - This marks a shift in Jesus' speech as he begins to tell a story that will help people understand what he was teaching them. 
+  * **a certain rich man** - This phrase introduces a person in Jesus' story. It is not clear if this was a real person, or simply a story that Jesus told in order to make a point. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **who was clothed in purple and fine linen** - "who wore clothing made with fine linen and purple dye" or "who wore very expensive clothes." Purple dye and fine linen cloth were very expensive. 
+  * **was enjoying every day his great wealth** - AT: "enjoyed eating expensive food every day" or "spent much money and bought whatever he desired"
+  * **A certain beggar named Lazarus was laid at his gate** - AT: "people had laid a certain beggar named Lazarus at his gate" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:translate_names]])
+  * **A certain beggar named Lazarus** - This phrase introduces another person in Jesus' story. It is not clear if this was a real person, or simply a story that Jesus told in order to make a point. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **at his gate** - "at the gate to the rich man's house" or "at the entrance to the rich man's property"
+  * **covered with sores** - "with sores all over his body" 
+  * **he yearned to be fed with what fell from the rich man's table** - AT: "he wished for the rich man to give him his extra food that he threw away" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol1:translate:figs_idiom]])
+  * **besides that** - This shows that what follows is even worse than what has already be told about Lazarus. AT: "in addition to that" or "even." 
+  * **dogs** - Dogs were an unclean animal. Lazarus was too sick and weak to stop the dogs from licking his wounds.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 
  
 
-**[[en/bible/notes/luk/16/18|<<]] | [[en/bible/notes/luk/16/22|>>]]**
+**[[:en:bible:notes:luk:16:18|<<]] | [[:en:bible:notes:luk:16:22|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish beg}}
+{{tag>publish p2edit beg}}
 ~~NOCACHE~~

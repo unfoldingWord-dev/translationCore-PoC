@@ -28,31 +28,35 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:staff]]
-    * [[en:obe:other:bread]]
-    * [[en:obe:other:tunic]]
+  * [[:en:obe:other:staff]]
+  * [[:en:obe:other:bread]]
+  * [[:en:obe:other:tunic]]
 
 
 ===== Translation Notes: =====
 
-    * **He said to them**  - "Jesus said to the twelve"
-    * **Take nothing **- AT: "Do not take anything with you" or "Do not bring anything with you."
-    * **for your journey**  - "for your trip" or "when you travel." They are to take nothing for their entire trip, as they move from village to village, and until they come back to Jesus.
-    * **staff **- "rod" or "walking stick." A staff was a large stick that was a used for balance when climbing or on uneven ground. It could also be used for defense against attackers.
-    * **Whatever house you enter into**  - "Any house you enter"
-    * **stay there** - "remain there" or "temporarily live in that house as a guest"
-    * **from that place** - "from that town" or "from that area"
+  * **He said to them** - "Jesus said to the twelve"
+  * **Take nothing** - AT: "Do not take anything with you" or "Do not bring anything with you"
+  * **for your journey** - "for your trip" or "when you travel." They are to take nothing for their entire trip, as they move from village to village, and until they come back to Jesus.
+  * **staff** - "rod" or "walking stick." A staff was a large stick that was a used for balance when climbing or on uneven ground. It could also be used for defense against attackers.
+  * **wallet** - a bag a traveler uses for carrying what he needs on a journey
+  * **bread** - AT: "food" (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Whatever house you enter into** - "Any house you enter"
+  * **stay there** - "remain there" or "temporarily live in that house as a guest"
+  * **from that place** - "from that town" or "from that area"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 
  
 
-**[[en/bible/notes/luk/09/01|<<]] | [[en/bible/notes/luk/09/05|>>]]**
+**[[:en:bible:notes:luk:09:01|<<]] | [[:en:bible:notes:luk:09:05|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

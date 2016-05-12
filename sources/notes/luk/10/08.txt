@@ -27,29 +27,30 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:receive]]
-    * [[en:obe:other:heal]]
-    * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:receive]]
+  * [[:en:obe:other:heal]]
+  * [[:en:obe:kt:kingdomofgod]]
  
 
 ===== Translation Notes: =====
-Jesus continues to give directions to the 70 people he was sending out.
 
-    * **and they receive you** - "if they welcome you"
-    * **eat what is set before you**  - "eat whatever food they give you"
-    * **The kingdom of God has drawn near to you**  - This refers to the fact that the activity of the kingdom of God was happening all around them in the healing of the disciples and the teaching of Jesus. AT: "You can see the kingdom of God all around you right now."
+  * **and they receive you** - "if they welcome you"
+  * **eat what is set before you** - AT: "eat whatever food they give you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **The kingdom of God has drawn near to you** - This refers to the fact that the activity of the kingdom of God was happening all around them in the healing of the disciples and the teaching of Jesus. AT: "You can see the kingdom of God all around you right now."
  ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 
  
 
-**[[en/bible/notes/luk/10/05|<<]] | [[en/bible/notes/luk/10/10|>>]]**
+**[[:en:bible:notes:luk:10:05|<<]] | [[:en:bible:notes:luk:10:10|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish kingdomofgod}}
+{{tag>publish p2edit kingdomofgod}}
 
 ~~NOCACHE~~

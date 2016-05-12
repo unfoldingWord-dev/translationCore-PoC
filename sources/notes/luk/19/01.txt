@@ -28,18 +28,21 @@
   * [[:en:obe:kt:jesus]]
   * [[:en:obe:other:jericho]]
   * [[:en:obe:other:zacchaeus]]
-  * [[en:obe:other:chief]]
+  * [[:en:obe:other:chief]]
   * [[:en:obe:other:taxcollector]]
 
 ===== Translation Notes: =====
 
+  * **General Information:** - This is the next part of the story. Zacchaeus is introduced to the story. Verse 1 gives background information about Jesus' travels. (See: [[:en:ta:vol2:translate:writing_background]])
 
-  * **Behold, there was a man there**  - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. English uses "There was a man who was…”
-
+  * **Behold, there was a man there** - The word "behold" alerts us to a new person in the story. Your language may have a way of doing this. AT: "There was a man who was"
+  * **He was a chief tax collector and was rich** - This is background information about Zacchaeus. (See: [[:en:ta:vol2:translate:writing_background]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 **[[:en:bible:notes:luk:18:42|<<]] | [[:en:bible:notes:luk:19:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish zacchaeus}}
+~~DISCUSSION~~{{tag>publish p2edit zacchaeus}}

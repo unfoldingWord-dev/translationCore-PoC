@@ -35,39 +35,43 @@
 ===== ULB: =====
 
 <usfm>
-\q \v 76 And you, my child, will be called the prophet of the Most High,
-\q because you will go in advance of the Lord 
+\q 
+\v 76 Yes, and you, child, will be called a prophet of the Most High,   
+\q for you will go before the face of the Lord to prepare his paths, 
 \q to prepare people for his coming, 
-\q \v 77 and to help people know how they can be saved
-\q through the forgiveness of their sins.
+\q 
+\v 77 to give knowledge of salvation to his people 
+\q by the forgiveness of their sins.
 </usfm>
 
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:prophet]]
-    * [[en:obe:kt:mosthigh]]
-    * [[en:obe:kt:lordgod]]
-    * [[en:obe:other:know]]
-    * [[en:obe:kt:save]]
-    * [[en:obe:kt:forgive]]
-    * [[en:obe:kt:sin]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:mosthigh]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:other:know]]
+  * [[:en:obe:kt:salvation]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:kt:sin]]
 
 
 ===== Translation Notes: =====
 
-Zechariah continues to prophesy, but now he speaks directly to his newborn son.
-
-    * **will be called the prophet** - This means he actually will be the prophet, not just called a prophet, and people will know him as such. AT: "will be the prophet." 
-    * **of the Most High** - AT: "who serves the Most High" or "who speaks for God Most High"
-    * **how they can be saved through the forgiveness of their sins**  - AT: "how God will save them by forgiving their sins" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **Yes, and you** - Zechariah uses this phrase to begin his direct address to his son. You may have a similar way to direct speech in your language.
+  * **you, child, will be called a prophet** - People will realize that he is a prophet. This can be stated in active form. AT: "people will know that you are a prophet." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **of the Most High** - "who serves the Most High." This refers to God. AT: "who speaks for God Most High"
+  * **go before the face of the Lord** - This idiom means "go ahead of the Lord" or "come before the Lord." (See: [[:en:ta:vol1:translate:figs_idiom]]) 
+  * **to give knowledge of salvation to his people** - "to explain salvation to his people" or "so his people might understand salvation"
+  * **by the forgiveness of their sins** - "through the forgiveness of their sins." The could also be stated in active form. AT: because God has forgiven them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:72|<<]] | [[:en:bible:notes:luk:01:78|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

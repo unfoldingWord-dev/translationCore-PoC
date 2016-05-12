@@ -16,7 +16,7 @@
 
 <usfm>
 \v 25 Immediately the man was healed! He got up in front of them all. He picked up the sleeping pad on which he had been lying, and he went home, praising God.
-\v 26 All the people there were astonished! They praised God and were completely awestruck. They kept saying, "We have seen wonderful things today!"
+\v 26 All the people there were astonished! They praised God and were overcome with amazement at what they saw Jesus do. They kept saying, "We have seen wonderful things today!"
 
 
 \p
@@ -33,22 +33,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:glorify]]
-  * [[en:obe:kt:god]]
-  * [[en:obe:other:amazed]]
-  * [[en:obe:kt:fear]]
+  * [[:en:obe:kt:glorify]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:kt:fear]]
  
 
 ===== Translation Notes: =====
 
-    * **Immediately**  - "At once" or "Right away"
-    * **filled with fear**  - "very afraid" or "filled with awe"
-    * **extraordinary things** - "amazing things" or "strange things"
+  * **Immediately** - "At once" or "Right away"
+  * **he got up** - It may be helpful to clearly say that he was healed. AT: "the man was healed! He got up." (See: the man was healed! He got up)
+  * **filled with fear** - "very afraid" or "filled with awe"
+  * **extraordinary things** - "amazing things" or "strange things"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
 **[[:en:bible:notes:luk:05:22|<<]] | [[:en:bible:notes:luk:05:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

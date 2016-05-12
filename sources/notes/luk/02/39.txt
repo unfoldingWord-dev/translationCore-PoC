@@ -34,25 +34,28 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:lawofmoses]]
-    * [[en:obe:other:galilee]]
-    * [[en:obe:other:nazareth]]
-    * [[en:obe:kt:wise]]
-    * [[en:obe:kt:grace]]
+  * [[:en:obe:kt:lawofmoses]]
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:other:nazareth]]
+  * [[:en:obe:kt:wise]]
+  * [[:en:obe:kt:grace]]
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Mary, Joseph, and Jesus leave the town of Bethlehem and return to the city of Nazareth for his childhood.
 
-    * **they were required to do according to the law of the Lord** - Possible meanings are 1) "that the law of the Lord required them to do" or 2) "that the law which the Lord commanded required them to do." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **increasing in wisdom** - "became more wise" or "learned what was wise"
-    * **the grace of God was upon him** - AT: "God blessed him" or "God was with him in a special way"
+  * **they were required to do according to the law of the Lord** - This could be stated in active form. AT: "that the law of the Lord required them to do." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **their own city, Nazareth** - This phrase means they lived in Nazareth. Make sure it does not sound like they owned the city.
+  * **increasing in wisdom** - "became more wise" or "learned what was wise"
+  * **the grace of God was upon him** - "God blessed him" or "God was with him in a special way"
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:36|<<]] | [[:en:bible:notes:luk:02:41|>>]]**
 
-~~DISCUSSION~~{{tag>publish nazareth  }}
+~~DISCUSSION~~{{tag>publish p2check nazareth}}
 
 ~~NOCACHE~~

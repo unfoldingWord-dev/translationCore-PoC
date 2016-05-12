@@ -29,32 +29,36 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:Jesus]]
-  * [[en:obe:kt:disciple]]
-  * [[en:obe:other:manager]]
-  * [[en:obe:other:possess]]
+  * [[:en:obe:kt:Jesus]]
+  * [[:en:obe:kt:disciple]]
+  * [[:en:obe:other:manager]]
+  * [[:en:obe:other:possess]]
  
 
 ===== Translation Notes: =====
-Jesus continues to speak to the people.
-  * **Jesus also said to the disciples**  - The last section was directed at Pharisees and scribes, though Jesus' disciples may have been part of the crowd listening.
-  * **it was reported to him**  - "people reported to the rich man"
-  * **squandering his possessions**  - "scattering his possessions" or "foolishly spending the rich man's wealth"
-  * **What is this that I hear about you?** - This is a rhetorical question. The rich man is saying, "I have heard what you are doing." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **Give an account of your management**  - This could also be translated as, "Set things in order to pass on to someone else" or "Straighten things up to hand over" or "Prepare the records you have written about my money."
+  * **Connecting Statement:** - Jesus begins telling another parable. It is about a master and the manager of his debtors. This is still the same part of the story and the same day that begin in [[:en:bible:notes:luk:15:03|15:3]].
+
+  * **Jesus also said to the disciples** - The last section was directed at Pharisees and scribes, though Jesus' disciples may have been part of the crowd listening.
+  * **There was a certain rich man** - This is the beginning of another parable. (See: [[:en:ta:vol1:translate:figs_parables]])
+  * **it was reported to him** - AT: "people reported to the rich man" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **squandering his possessions** - "foolishly spending the rich man's wealth"
+  * **What is this that I hear about you?** - The rich man uses a question to scold the manager. AT: "I have heard what you are doing." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Give an account of your management** - AT: "Set things in order to pass on to someone else" or ""Prepare the records you have written about my money"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 
  
 
-**[[en/bible/notes/luk/15/31|<<]] | [[en/bible/notes/luk/16/03|>>]]**
+**[[:en:bible:notes:luk:15:31|<<]] | [[:en:bible:notes:luk:16:03|>>]]**
 
 
 ~~DISCUSSION~~
 
 
 
-{{tag>publish manager}}
+{{tag>publish p2edit manager}}
 ~~NOCACHE~~

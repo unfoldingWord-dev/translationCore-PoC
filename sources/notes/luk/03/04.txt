@@ -29,32 +29,35 @@
 \v 4 As it is written in the book of the words of Isaiah the prophet, 
 \q1 "The voice of someone calling out in the wilderness,
 \q1 'Make ready the way of the Lord,
-\q1 Make his paths straight.
+\q1 make his paths straight.
 </usfm>
 
 ===== translationWords: =====
 
-  * [[en:obe:other:written]]
-  * [[en:obe:kt:word]]
+  * [[:en:obe:other:written]]
+  * [[:en:obe:kt:word]]
   * [[:en:obe:other:isaiah]]
   * [[:en:obe:kt:prophet]]
-  * [[en:obe:other:voice]]
+  * [[:en:obe:other:voice]]
   * [[:en:obe:kt:lordgod]]
 
 ===== Translation Notes: =====
 
-  * **As it is written...prophet**  - Verses 4-6 are a quotation from Isaiah. AT: "This happened as Isaiah the prophet had written in his book" or "John fulfilled the words that the prophet Isaiah had written in his book."  (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
-  * **Make ready...make his paths straight**  - This section is in the style of Hebrew poetry, which often repeats important phrases in similar words. "Make ready the way of the Lord" is therefore another way to say, "Make his paths straight." The main difference is the first indicates it happens once, while the second should continue to be done. (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  * **Make ready the way of the Lord** - This word picture of a road means, "Repent and be ready for when the Lord comes." (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **the way** - "the path" or "the road"
-  * **Make his paths straight**  - This image of a path is also a word picture that means, "Be continuously ready for the Lord to come."
+  * **General Information:** - The author, Luke, quotes a passage from Isaiah the prophet concerning John the Baptist.
 
+  * **As it is written...prophet** - Verses 4-6 are a quotation from Isaiah. They could be stated in active form. AT: "This happened as Isaiah the prophet had written in his book" or "John fulfilled the words that the prophet Isaiah had written in his book." (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
+  * **Make ready...make his paths straight** - This section is in the style of Hebrew poetry, which often repeats important phrases in similar words. "Make ready the way of the Lord" is therefore another way to say, "Make his paths straight." The main difference is the first indicates it happens once, while the second should continue to be done. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **Make ready the way of the Lord** - This word picture of a road means, "Repent and be ready for when the Lord comes." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the way** - "the path" or "the road"
+  * **make his paths straight** - This image of a path is also a word picture that means, "be continuously ready for the Lord to come." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 
 **[[:en:bible:notes:luk:03:03|<<]] | [[:en:bible:notes:luk:03:05|>>]]**
 
-~~DISCUSSION~~{{tag>publish isaiah }}
+~~DISCUSSION~~{{tag>publish p2check isaiah}}
 
 ~~NOCACHE~~

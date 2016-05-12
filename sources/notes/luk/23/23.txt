@@ -36,7 +36,7 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:voice]]
+  * [[:en:obe:other:voice]]
   * [[:en:obe:kt:crucify]]
   * [[:en:obe:other:pilate]]
   * [[:en:obe:other:prison]]
@@ -46,16 +46,19 @@
 ===== Translation Notes: =====
 
   * **they were insistent** - "the crowd insisted"
-  * **with loud voices** - "shouting"
-  * **for him to be crucified** - "that Jesus be crucified"
-  * **their voices** - "the words being shouted by the crowd"
+  * **with loud voices** - "with shouting"
+  * **for him to be crucified** - AT: "for Pilate to have his soldiers crucify Jesus" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **And their voices convinced Pilate** - AT: "And the crowd kept shouting until they convinced Pilate"
   * **to grant their demand** - "to do what the crowd requested" (UDB)
   * **He released the one they asked for** - "Pilate freed Barabbas whom the crowd had asked be released"
+  * **who had been put in prison** - AT: "whom the Romans had put in prison" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **he delivered up Jesus to their will** - "Pilate allowed the crowd to do to Jesus whatever they wanted" or "Pilate gave Jesus to the crowd and allowed the crowd to do to Jesus what they wanted to do"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:20|<<]] | [[:en:bible:notes:luk:23:26|>>]]**
 
-~~DISCUSSION~~{{tag>publish pilate}}
+~~DISCUSSION~~{{tag>publish p2edit pilate}}

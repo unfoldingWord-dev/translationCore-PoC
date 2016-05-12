@@ -27,29 +27,29 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:fear]]
-    * [[en:obe:kt:authority]]
-    * [[en:obe:kt:hell]]
+  * [[:en:obe:kt:fear]]
+  * [[:en:obe:kt:authority]]
+  * [[:en:obe:kt:hell]]
 ===== Translation Notes: =====
 
-Jesus continues speaking to his disciples.
-
-  * **they have no more that they can do**  - "they cannot do anything else" or "they cannot cause any more harm" or "they cannot hurt you anymore"
-  * **Fear the one who**  - AT: "Fear God who" or "Fear God, because."
-  * **after he has killed**  - "after he kills you" or "after he kills someone"
-  * **has authority to throw you into hell**  - AT: "has authority to throw people into hell."
-
+  * **I say to you my friends** - - Jesus readdresses his audience to mark a shift in his speech to a new topic, in this case, to speak about not being afraid.
+  * **they have no more that they can do** - "they cannot cause any more harm" or "they cannot hurt you anymore"
+  * **Fear the one who** - AT: "Fear God who" or "Fear God, because"
+  * **after he has killed** - "after he kills you" or "after he kills someone"
+  * **has authority to throw you into hell** - AT: "has authority to throw people into hell"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 
  
-**[[en/bible/notes/luk/12/02|<<]] | [[en/bible/notes/luk/12/06|>>]]**
+**[[:en:bible:notes:luk:12:02|<<]] | [[:en:bible:notes:luk:12:06|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish authority fear hell}}
+{{tag>publish p2edit authority fear hell}}
 
 ~~NOCACHE~~

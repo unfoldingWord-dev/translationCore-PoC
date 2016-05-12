@@ -30,22 +30,24 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:seek]]
-    * [[:en:obe:other:kingdom]]
-    * [[en:obe:other:flock]]
-    * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:other:seek]]
+  * [[:en:obe:other:kingdom]]
+  * [[:en:obe:other:flock]]
+  * [[:en:obe:kt:godthefather]]
 
 ===== Translation Notes: =====
-Jesus continues to teach his disciples.
-  * **seek his kingdom**  - "focus on God's kingdom" or "greatly desire God's kingdom"
-  * **these things will be added to you **  - "these things also will be given to you." "These things" refers to food and clothing.
-  * **little flock**  - Jesus was calling his disciples a flock. A flock is a group of sheep or goats that a shepherd cares for. As a shepherd cares for his sheep, God would care for Jesus' disciples. AT: "small group" or "dear group." (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+  * **seek his kingdom** - "focus on God's kingdom" or "greatly desire God's kingdom"
+  * **these things will be added to you** - "these things also will be given to you." "These things" refers to food and clothing. AT: "God will give you these things." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **little flock** - Jesus was calling his disciples a flock. A flock is a group of sheep or goats that a shepherd cares for. As a shepherd cares for his sheep, God would care for Jesus' disciples. AT: "small group" or "dear group." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:29|<<]] | [[:en:bible:notes:luk:12:33|>>]]**
 
-~~DISCUSSION~~{{tag>publish kingdomofgod }}
+~~DISCUSSION~~{{tag>publish p2edit kingdomofgod }}
 
 ~~NOCACHE~~

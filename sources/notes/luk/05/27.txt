@@ -32,29 +32,27 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:other:taxcollector]]
-    * [[en:obe:other:matthew]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:taxcollector]]
+  * [[:en:obe:other:matthew]]
 
 
 ===== Translation Notes: =====
 
-
-    * **After these things happened**  - This refers to what happened in the previous verses.
-    * **saw a tax collector**  - That is, "looked at a tax collector with attention" or "looked carefully at a tax collector."
-    * **tax collecting place** - "tax booth" or "tax-collecting station." This was a booth or table at the side of the road where people had to pay taxes to the government.
-    * **Follow me** - AT: "Be my disciple" or "Come, follow me as your teacher."
-    * **left everything** - "left his work as a tax collector"
+  * **Connecting Statement:** - When Jesus leaves the house, he calls Levi, the Jewish tax collector, to follow him. Levi prepares a big meal for Jesus which annoys the Pharisees and scribes.
+  * **After these things happened** - The phrase "these things" refers to what happened in the previous verses. This signals a new event. (See: [[:en:ta:vol2:translate:writing_newevent|Introduction of a New Event]])
+  * **saw a tax collector** - "looked at a tax collector with attention" or "looked carefully at a tax collector"
+  * **tax collecting place** - "tax booth" or "tax-collecting station." This was a table at the side of the road where people had to pay taxes to the government.
+  * **Follow me** - To "follow" someone was a term that means to become their disciple. AT: "Be my disciple" or "Come, follow me as your teacher." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **left everything** - "left his work as a tax collector"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/05/25|<<]] | [[en/bible/notes/luk/05/29|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
+**[[:en:bible:notes:luk:05:25|<<]] | [[:en:bible:notes:luk:05:29|>>]]**
 
 ~~DISCUSSION~~
 
-{{tag>publish matthew taxcollector}}
+{{tag>publish p2check matthew taxcollector}}
 ~~NOCACHE~~

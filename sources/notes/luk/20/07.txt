@@ -38,20 +38,22 @@
 
 ===== Translation Notes: =====
 
-  * **So they answered**  - "So the chief priests, scribes and elders answered"
-  * **they answered that they did not know**  - Some languages may prefer a direct quote. "They said, 'We do not know'" (See: [[en:ta:vol2:translate:figs_quotations]])
-  * **where it came from**  - "where John's baptism came from." It can be translated as "where John's authority to baptize came from" or "who authorized John to baptize people."
-  * **Neither will I tell you**  - This could be translated as "And I will not tell you" or "Just as you will not tell me, I will not tell you."
+  * **So they answered** - "So the chief priests, scribes and elders answered." The word "so" marks an event that happened because of something else that happened first. In this case, they had reasoned with themselves in [[:en:bible:notes:luk:20:05|20:5-6]], and they didn't have an answer they wanted to say.
+  * **they answered that they did not know where it came from** - AT: "They said, 'We do not know where it came from'" (See: [[:en:ta:vol2:translate:figs_quotations]])
+  * **where it came from** - "where John's baptism came from." AT: "where John's authority to baptize came from" or "who authorized John to baptize people."
+  * **Neither will I tell you** - AT: "And I will not tell you" or "Just as you will not tell me, I will not tell you"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 
  
 
-**[[en/bible/notes/luk/20/05|<<]] | [[en/bible/notes/luk/20/09|>>]]**
+**[[:en:bible:notes:luk:20:05|<<]] | [[:en:bible:notes:luk:20:09|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

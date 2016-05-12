@@ -21,31 +21,30 @@
 
 <usfm>
 \p
-\v 54 Seizing him, they led him away, and brought him into the high priest’s house. But Peter followed from a distance.
+\v 54 Seizing him, they led him away, and brought him into the high priest's house. But Peter followed from a distance.
 \v 55 After they had kindled a fire in the middle of the courtyard and had sat down together, Peter sat in the midst of them.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:other:seize]]
-  * [[en:obe:kt:highpriest]]
-  * [[en:obe:other:peter]]
-  * [[en:obe:other:courtyard]]
+  * [[:en:obe:other:seize]]
+  * [[:en:obe:kt:highpriest]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:other:courtyard]]
  
 
 ===== Translation Notes: =====
 
+  * **led him away** - "led Jesus away from the garden where they had arrested him"
+  * **they had kindled a fire** - The fire was to keep the people warm. AT: "some people had kindled a fire." 
+  * **the middle of the courtyard** - This was the courtyard at the high priest's house. It had walls around it, but no roof. 
 
-    * **led him away**  - "led Jesus away from the garden where they had arrested him"
-    * **they had kindled a fire** - This can also be translated as "some of them had kindled a fire." The fire was to keep them warm.
-    * **the middle of the courtyard** - This was the courtyard at the high priest's house. It had walls around it, but no roof. 
-
-
-  
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:52|<<]] | [[:en:bible:notes:luk:22:56|>>]]**
 
-~~DISCUSSION~~{{tag>publish courtyard}}
+~~DISCUSSION~~{{tag>publish p2edit courtyard}}

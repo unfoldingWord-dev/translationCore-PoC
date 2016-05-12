@@ -31,33 +31,33 @@
 ===== translationWords: =====
 
   * [[:en:obe:other:angry]]
-  * [[en:obe:other:beg]]
-  * [[en:obe:other:goat]]
-  * [[en:obe:other:devour]]
+  * [[:en:obe:other:beg]]
+  * [[:en:obe:other:goat]]
+  * [[:en:obe:other:devour]]
   * [[:en:obe:other:prostitute]]
  
  
 ===== Translation Notes: =====
 
-Jesus continues telling his parable.
-
-    * **never broke a rule of yours**  - "never disobeyed any of your commands" or "always obeyed everything you told me to do" (UDB).
-    * **have a feast** - This can also be translated as "celebrate."
-    * **your son**  - "that son of yours." The older son refers to his brother this way in order to show how angry he is.
-    * **devoured your living with prostitutes**  - This can be translated as "wasted all your wealth on prostitutes" or "thrown away all your money by paying prostitutes."
-    * **fattened calf** - This can be translated as “the best calf” or “the young bull we have been been giving lots of food to” or “the young animal we have been making fat.”
+  * **never broke a rule of yours** - "never disobeyed any of your commands" or "always obeyed everything you told me to do" (UDB)
+  * **have a feast** - AT: "celebrate"
+  * **your son** - "that son of yours." The older son refers to his brother this way in order to show how angry he is.
+  * **devoured your living with prostitutes** - AT: "wasted all your wealth on prostitutes" or "thrown away all your money by paying prostitutes"
+  * **fattened calf** - AT: "the best calf" or "the young animal we have been making fat"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 
  
 
-**[[en/bible/notes/luk/15/25|<<]] | [[en/bible/notes/luk/15/31|>>]]**
+**[[:en:bible:notes:luk:15:25|<<]] | [[:en:bible:notes:luk:15:31|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish prostitute}}
+{{tag>publish p2edit prostitute}}
 
 ~~NOCACHE~~

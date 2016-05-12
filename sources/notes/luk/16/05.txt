@@ -30,30 +30,31 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:lord]]
-  * [[en:obe:other:olive]]
-  * [[en:obe:other:oil]]
-  * [[en:obe:other:wheat]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:olive]]
+  * [[:en:obe:other:oil]]
+  * [[:en:obe:other:wheat]]
  
 
 ===== Translation Notes: =====
-Jesus continues telling his story.
-    * **his master's debtors**  - "the people who were in debt to his master" or "the people who owed his mater something." In this story the debtors owed olive oil and wheat.
-    * **A hundred measures of olive oil** - "Around 3400 liters of olive oil"
-    * **hundred...fifty...eighty** - "100...50...80" (See: [[en:ta:vol2:translate:translate_numbers]])
-    * **he said...And he said to him** - “the debtor said...the manager said to the debtor”
-    * **A hundred measures of wheat**  - "Around 22,000 dry liters of wheat grain"
-    * **the managers said...He said...He said to him** - “the manager said...the debtor said...the manager said to the debtor”
+
+  * **his master's debtors** - "the people who were in debt to his master" or "the people who owed his mater something." In this story the debtors owed olive oil and wheat.
+  * **He said...And he said to him** - "The debtor said...And the manager said to the debtor"
+  * **A hundred measures of olive oil** - AT: "Around 3400 liters of olive oil" (See: [[:en:ta:vol2:translate:translate_bvolume]])
+  * **hundred...fifty...eighty** - "100...50...80" (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **A hundred measures of wheat** - AT: "Around 22,000 dry liters of wheat grain" (See: [[:en:ta:vol2:translate:translate_bvolume]])
+  * **the manager said to another...He said...He said to him** - "the manager said to another debtor...The debtor said...The manager said to the debtor"
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:16|Luke Chapter 16 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:16:00]]
+  * [[:en:bible:questions:comprehension:luk:16]]
 
- 
-
-**[[en/bible/notes/luk/16/03|<<]] | [[en/bible/notes/luk/16/08|>>]]**
+**[[:en:bible:notes:luk:16:03|<<]] | [[:en:bible:notes:luk:16:08|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish manager}}
+{{tag>publish p2edit manager}}
 ~~NOCACHE~~

@@ -29,23 +29,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:taxcollector]]
-  * [[en:obe:kt:sin]]
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:pharisee]]
-  * [[en:obe:other:scribe]]
+  * [[:en:obe:other:taxcollector]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:other:scribe]]
 
 ===== Translation Notes: =====
 
-  * **This man welcomes sinners**  - "This man lets sinners into his presence" or "This man associates with sinners"
-  * **This man**  - They were talking about Jesus.
-  * **even eats with them**  - The word "even" shows that they thought it was bad enough that Jesus allowed sinners to come to him, but it was worse that he would eat with them.
+  * **General Information:** - This is the next part of the story. We do not know where this take places; it is simply one day when Jesus was teaching.
+
+  * **Now** - This marks the beginning of a new part of the story.
+  * **This man welcomes sinners** - "This man lets sinners into his presence" or "This man associates with sinners"
+  * **This man** - They were talking about Jesus.
+  * **even eats with them** - The word "even" shows that they thought it was bad enough that Jesus allowed sinners to come to him, but it was worse that he would eat with them.
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 **[[:en:bible:notes:luk:14:34|<<]] | [[:en:bible:notes:luk:15:03|>>]]**
 
-~~DISCUSSION~~{{tag>publish taxcollector}}
+~~DISCUSSION~~{{tag>publish p2edit taxcollector}}
 
 ~~NOCACHE~~

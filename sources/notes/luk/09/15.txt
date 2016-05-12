@@ -17,7 +17,7 @@
 
 <usfm>
 \v 15 So the disciples did that and the people all sat down.
-\v 16 Then he took the five bread loaves and the two fish. He looked up towards heaven and praised God for them. Then he tore them into pieces and gave them to the disciples for them to distribute to the people.
+\v 16 Then he took the five bread loaves and the two fish. He looked up toward heaven and praised God for them. Then he tore them into pieces and gave them to the disciples for them to distribute to the people.
 \v 17  They all ate and everyone had enough to eat. Then the disciples collected the leftover pieces of food, which filled twelve baskets!
 
 
@@ -37,26 +37,28 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:heaven]]
-    * [[en:obe:kt:bless]]
-    * [[en:obe:kt:disciple]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:disciple]]
 
 ===== Translation Notes: =====
 
 
-    * **So they did that** - The disciples had the crowd sit down in groups of fifty people.
-    * **He took** - This refers to Jesus.
-    * **loaves** - These are specific amounts of baked bread. AT: "whole breads."
-    * **and looking**  - "while looking" or "after looking"
-    * **up to heaven** - This refers to looking up, toward the sky. The Jews believed that heaven was located above the sky.
-    * **to set before** - "to hand out to" or "to pass out to" or "to give to"
-    * **were satisfied** - AT: "they had as much as they wanted to eat."
+  * **So they did that** - The disciples had the crowd sit down in groups of fifty people.
+  * **He took** - "Jesus took"
+  * **loaves** - These are specific amounts of baked bread. AT: "whole breads."
+  * **and looking** - "while looking" or "after looking"
+  * **up to heaven** - This refers to looking up, toward the sky. The Jews believed that heaven was located above the sky.
+  * **to set before** - "to pass out to" or "to give to"
+  * **were satisfied** - AT: "they had as much as they wanted to eat" (See: [[:en:ta:vol1:translate:figs_idiom]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:12|<<]] | [[:en:bible:notes:luk:09:18|>>]]**
 
-~~DISCUSSION~~{{tag>publish  disciples}}
+~~DISCUSSION~~{{tag>publish p2edit disciples}}
 
 ~~NOCACHE~~

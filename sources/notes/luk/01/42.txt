@@ -27,37 +27,43 @@
 ===== ULB: =====
 
 <usfm>
-\v 42 She raised her voice with a loud exclamation, and said, "You are blessed among women, and the fruit of your womb is blessed.
-\v 43 How is it that the mother of my Lord should come to me?
-\v 44 For when the sound of your greeting came to my ears, the baby in my womb leaped for joy.
-\v 45 She who has believed is blessed, for the things which have been spoken to her from the Lord will be fulfilled."
+\v 42 She raised her voice and said loudly, "Blessed are you among women, and blessed is the fruit of your womb.  
+\v 43 And why has it happened to me that the mother of my Lord should come to me?  
+\v 44 For see, when the sound of your greeting came to my ears, the baby in my womb jumped for joy.  
+\v 45 And blessed is she who believed that there would be a fulfilment of the things that were told her from the Lord."
 </usfm>
 
 ===== translationWords: =====
 
-  * [[:en:obe:other:voice]]
-  * [[:en:obe:kt:bless]]
-  * [[:en:obe:kt:fruit]]
-  * [[:en:obe:kt:joy]]
-  * [[:en:obe:kt:believe]]
-  * [[:en:obe:kt:fulfill]]
+  * [[:en:obe:other:voice|voice]]
+  * [[:en:obe:kt:bless|bless, blessed, blessing]]
+  * [[:en:obe:kt:fruit|fruit, fruitful]]
+  * [[:en:obe:kt:joy|joy, joyful]]
+  * [[:en:obe:kt:believe|believe, believe in, belief]]
+  * [[:en:obe:kt:fulfill|fulfill]]
 
 ===== Translation Notes: =====
 
-  * **She**  - Here "she" refers to Elizabeth.
-  * **the fruit of your womb** - AT: "the baby in your womb" or "the baby you will bear" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
-  * **How is it that the mother of my Lord should come to me?** - Elizabeth was not asking for information--rather, she was showing how surprised and happy she was that the mother of the Lord had come to her. AT: "How wonderful it is that the mother of my Lord has come to me!"  (See: [[:en:ta:vol1:translate:figs_rquestion]])
-  * **the mother of my Lord**  - This refers to Mary. AT: "you, the mother of my Lord" 
-  * **leaped** - "moved suddenly" or "turned forcefully"
-  * **She who has believed is blessed** - AT: "You who have believed are blessed" or "Because you believed, you will be glad"
-  * **the things which have been spoken to her from the Lord** - AT: "the message that the Lord gave to her" or "the things that the Lord told you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-
+  * **raised her voice...said loudly** - These two phrases mean the same thing, and are used to emphasize how excited Elizabeth was. They could be combined into one phrase. AT: "exclaimed loudly." (UDB) (See: [[:en:ta:vol2:translate:figs_doublet]])
+  * **raised her voice** - This idiom means "increased the volume of her voice." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **Blessed are you among women** - The idiom "among women" means "more than any other woman." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **the fruit of your womb** - Mary's baby is compared to the fruit that a plant produces. AT: "the baby in your womb" or "the baby you will bear" (UDB) (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **And why has it happened to me that the mother of my Lord should come to me?** - Elizabeth was not asking for information. She was showing how surprised and happy she was that the mother of the Lord had come to her. AT: "How wonderful it is that the mother of my Lord has come to me!" (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the mother of my Lord** - This refers to Mary. "you, the mother of my Lord." (UDB)
+  * **For see** - This phrase here alerts us pay attention to Elizabeth's surprising statement that follows.
+  * **came to my ears** - This idiom means "I heard." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **jumped for joy** - "moved suddenly with joy" or "turned forcefully because he was so happy!"
+  * **blessed is she who believed** - "you who have believed are blessed" or "because you believed, you will be glad"
+  * **there would be a fulfilment of the things** - "these things would actually happen" or "these things would come true"
+  * **the things that were told her from the Lord** - AT: "the message that the Lord gave to her" or "the things that the Lord told you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * [[:en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro|Introduction to Luke]]
+  * [[:en:bible:notes:luk:01:00|Luke 01 General Notes]]
+  * [[:en:bible:questions:comprehension:luk:01|Luke 1 Translation Questions]]
 
 **[[:en:bible:notes:luk:01:39|<<]] | [[:en:bible:notes:luk:01:46|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

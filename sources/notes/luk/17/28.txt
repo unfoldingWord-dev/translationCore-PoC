@@ -35,17 +35,18 @@
  
 
 ===== Translation Notes: =====
-Jesus continues speaking.
 
-  * **Likewise even as it happened in the days of Lot**  - This can be translated as "Another example is how it happened in the days of Lot" or “As people were doing when Lot lived.” The “days of Lot” refers to the time just before God punished the cities of Sodom and Gomorrah.
-  * **they ate**  - "the people of Sodom ate"
-  * **it rained fire and sulfur from heaven**  - "fire and burning sulfur fell from the sky like rain"
+  * **Likewise even as it happened in the days of Lot** - The "days of Lot" refers to the time just before God punished the cities of Sodom and Gomorrah. AT: "Another example is how it happened in the days of Lot" or "As people were doing when Lot lived." 
+  * **they ate** - "the people of Sodom ate"
+  * **it rained fire and sulfur from heaven** - "fire and burning sulfur fell from the sky like rain"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:17:00]]
+  * [[:en:bible:questions:comprehension:luk:17]]
 **[[:en:bible:notes:luk:17:25|<<]] | [[:en:bible:notes:luk:17:30|>>]]**
 
-~~DISCUSSION~~{{tag>publish sulfur}}
+~~DISCUSSION~~{{tag>publish p2edit sulfur}}
 
 ~~NOCACHE~~

@@ -37,24 +37,32 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:amazed]]
-    * [[en:obe:kt:bless]]
-    * [[en:obe:kt:sign]]
-    * [[en:obe:other:sword]]
-    * [[en:obe:kt:soul]]
-    * [[en:obe:other:heart]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:sign]]
+  * [[:en:obe:other:sword]]
+  * [[:en:obe:kt:soul]]
+  * [[:en:obe:other:heart]]
+
 ===== Translation Notes: =====
 
-    * **This child is destined for the falling and rising of many people in Israel** - This pictures the ideas of turning away from God and drawing closer to God expressed in the words "rising" and "falling." AT: "God has caused many people in Israel to fall away from God or to rise closer to God" or "God has planned for him to cause some people in Israel to turn away from God and for other people in Israel to go closer to God." (See: [[en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
-    * **a sword will pierce your own soul** - This a metaphor describing the deep sadness that Mary would feel. AT: "You will grieve deeply" or "Your sadness will be painful as though a sword pierced your heart" 
-    * **the thoughts from many hearts may be revealed** - AT: "the thoughts of many people will be revealed" or "it will be made known what many people truly think about God" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the things which were spoken concerning him** - This can be stated in active form. AT: "the things that Simeon said about him." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **said to Mary his mother** - "said to the child's mother, Mary." Make sure it does not sound like Mary is the mother of Simeon.
+  * **Listen carefully!** - Simeon used this expression to tell Mary that what he is about to say is extremely important to her. 
+  * **This child is destined for the falling and rising of many people in Israel** - The words "rising" and "falling" express turning away from God and drawing closer to God. AT: "God has caused many people in Israel to fall away from God or to rise closer to God." (See: [[:en:ta:vol1:translate:figs_metaphor]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **for a sign which is spoken against** - "for a message from God that many people will resist"
+  * **a sword will pierce your own soul** - This metaphor describes the deep sadness that Mary would feel. AT: "Your sadness will be painful as though a sword pierced your heart." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **the thoughts from many hearts may be revealed** - AT: "the thoughts of many people will be revealed." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+
 
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:02|Luke Chapter 2 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:02:00]]
+  * [[:en:bible:questions:comprehension:luk:02]]
 
 **[[:en:bible:notes:luk:02:30|<<]] | [[:en:bible:notes:luk:02:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish p2review}}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

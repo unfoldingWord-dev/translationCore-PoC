@@ -36,21 +36,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:betray]]
-  * [[en:obe:kt:sonofman]]
-  * [[en:obe:kt:woe]]
+  * [[:en:obe:kt:betray]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:kt:woe]]
 
 
 ===== Translation Notes: =====
-Jesus continues speaking to his apostles.
+
+  * **Connecting Statement:** - Jesus continues speaking to his apostles.
+
   * **The one who betrays me** - "The one who will betray me"
   * **For the Son of Man indeed goes** - "For, indeed, the Son of Man will go" or "For the Son of Man will die"
-  * **But woe to that man through whom he is betrayed!**  - "But woe to the man who betrays the Son of Man!" or "But how terrible it will be for that man who betrays the Son of Man!"
+  * **as it has been determined** - AT: "as God has determined" or "as God has planned" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **But woe to that man through whom he is betrayed!** - AT: "But woe to the man who betrays the Son of Man!" or "But how terrible it will be for that man who betrays the Son of Man!" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:19|<<]] | [[:en:bible:notes:luk:22:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

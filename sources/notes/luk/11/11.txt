@@ -35,31 +35,31 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:serpent]]
-    * [[en:obe:kt:evil]]
-    * [[en:obe:kt:good]]
-    * [[en:obe:kt:godthefather]]
-    * [[en:obe:kt:heaven]]
-    * [[en:obe:kt:holyspirit]]
+  * [[:en:obe:other:serpent]]
+  * [[:en:obe:kt:evil]]
+  * [[:en:obe:kt:good]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:holyspirit]]
 
 ===== Translation Notes: =====
 
-Jesus continues teaching his disciples about prayer.
+  * **Connecting Statement:** - Jesus finishes teaching his disciples about prayer.
 
-Jesus asks three rhetorical questions with the same meaning: just as fathers give good gifts to their children who ask for things, God gives good gifts to us when we ask him. (See [[en:ta:vol1:translate:figs_rquestion]]).
-
-  * **Which of you … will give to him a stone instead**  - AT: "If your son were to ask you for a loaf, would you give him a stone instead?" or "If your son were to ask you for a loaf to eat, you certainly would not give him a stone instead!" (See [[en:ta:vol1:translate:figs_rquestion]]).
-  * **loaf**  - "loaf of bread" or "bread roll." Jesus was suggesting a possible situation; he was not talking about bread in particular. If your people do not normally eat bread, you could translate this as "piece of cooked food" or "vegetable."  (See: [[en:ta:vol1:translate:figs_hypo]])
-  * **or instead of a fish, a snake?**  - "Or if he were to ask for a fish, would you give him a snake instead?" (See [[en:ta:vol1:translate:figs_rquestion]]).
-  * **scorpion**  - A scorpion is similar to a spider, but it has a tail with a poisonous sting. If scorpions are not known where you are, you could translate this as "poisonous spider" or "spider that stings."
-  * **if you who are evil know**  - "since you who are evil know" or "even though you are sinful, you know."
-  * **how much more will your Father from heaven give the Holy Spirit**  - "how much more certain is it that your Father in heaven will give the Holy Spirit." AT: "you can be sure that your Father from heaven will give the Holy Spirit."
+  * **Which of you...a snake?** - Jesus uses questions to teach his disciples. AT: "None of you...a snake." (See [[:en:ta:vol1:translate:figs_rquestion]])
+  * **for a loaf** - "for a loaf of bread." AT: "for some food." (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **or instead of a fish, a snake?** - This could be translated as a new sentence. AT: "Or, if he asks for a fish, you would not give him a snake." (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol1:translate:figs_rquestion]])
+  * **scorpion** - A scorpion is similar to a spider, but it has a tail with a poisonous sting. If scorpions are not known where you are, you could translate this as "poisonous spider" or "spider that stings." (See: [[:en:ta:vol1:translate:translate_unknown]])
+  * **if you who are evil know** - "since you who are evil know" or "even though you are sinful, you know"
+  * **how much more will your Father from heaven give the Holy Spirit...him?** - "how much more certain is it that your Father in heaven will give the Holy Spirit...him?" Jesus again uses a question to teach his disciples. AT: "you can be sure that your Father from heaven will give the Holy Spirit...him." (See: [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:09|<<]] | [[:en:bible:notes:luk:11:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

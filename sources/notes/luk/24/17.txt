@@ -23,16 +23,19 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:jerusalem]]
+  * [[:en:obe:other:jerusalem]]
 
 ===== Translation Notes: =====
 
+  * **Jesus said to them** - "Jesus said to the two men"
   * **Cleopas** - This is the name of a man. (See: [[:en:ta:vol1:translate:translate_names]])
-  * **Are you the only person**  - "You" refers to Jesus, use you (singular). This is the beginning of a rhetorical question. Cleopas showed his surprise that Jesus appeared not to know about the things that had happened in Jerusalem. It can also be translated as "You must be the only person." (See: [[en:ta:vol1:translate:figs_you]],  [[en:ta:vol1:translate:figs_rquestion]])
+  * **Are you the only person...days?** - Here "you" is singular. Cleopas uses a question to show his surprise that this man appeared not to know about the things that had happened in Jerusalem. AT: "You must be the only person...days." (See: [[:en:ta:vol1:translate:figs_you]], [[:en:ta:vol1:translate:figs_rquestion]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:15|<<]] | [[:en:bible:notes:luk:24:19|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

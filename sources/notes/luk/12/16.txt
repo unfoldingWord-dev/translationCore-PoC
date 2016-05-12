@@ -33,24 +33,27 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:parable]]
-    * [[en:obe:other:grain]]
-    * [[en:obe:kt:soul]]
+  * [[:en:obe:other:parable]]
+  * [[:en:obe:other:grain]]
+  * [[:en:obe:kt:soul]]
 
 ===== Translation Notes: =====
 
-  * **Then Jesus told them**  - Jesus was probably still speaking to the entire crowd.
-  * **yielded abundantly**  - "grew a very good harvest"
-  * **barns**  - Barns are buildings where farmers store the crops and food that they grow after it is harvested.
-  * **goods**  - "possessions"
-  * **I will say to my soul**  - "I will say to myself" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
+  * **Connecting Statement:** - Jesus continues his teaching by telling a parable. (See: [[:en:ta:vol1:translate:figs_parables]])
+
+  * **Then Jesus told them** - Jesus was probably still speaking to the entire crowd.
+  * **yielded abundantly** - "grew a very good harvest"
+  * **barns** - buildings where farmers store the crops and food that they grow after it is harvested
+  * **goods** - "possessions"
+  * **I will say to my soul** - "I will say to myself" (UDB) (See: [[:en:ta:vol2:translate:figs_synecdoche]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 **[[:en:bible:notes:luk:12:13|<<]] | [[:en:bible:notes:luk:12:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish  }}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

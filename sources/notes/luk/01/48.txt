@@ -30,38 +30,44 @@
 ===== ULB: =====
 
 <usfm>
-\q \v 48 For he has paid attention to the lowly position of his servant. 
-\q From now on all generations will call me blessed, 
-\q \v 49 For the Mighty One has done great things for me; 
-\q And his name is holy.
+\q 
+\v 48 For he has looked at the low condition of his female servant.    
+\q For see, from now on all generations will call me blessed.
+\q 
+\v 49 For he who is mighty has done great things for me,
+\q and his name is holy.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:other:lowly]]
-  * [[en:obe:other:servant]]
-  * [[en:obe:other:generation]]
-  * [[en:obe:kt:bless]]
-  * [[en:obe:other:mighty]]
-  * [[en:obe:kt:name]]
-  * [[en:obe:kt:holy]]
+  * [[:en:obe:other:lowly]]
+  * [[:en:obe:other:servant]]
+  * [[:en:obe:other:generation]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:other:mighty]]
+  * [[:en:obe:kt:name]]
+  * [[:en:obe:kt:holy]]
 
 
 ===== Translation Notes: =====
 
-  * **lowly** - "humble" or AT: "poor." Mary did not have high social standing.
-  * **paid attention** - "thought about" or "remembered." This is not an issue of God's ability to remember, but his choosing to remember. AT: "did not forget." 
-  * **From now on** - “Now and in the future”
-  * **the Mighty One** - AT: "God, the Powerful One"
+  * **For he** - "Because he"
+  * **looked at** - "looked at with concern" or "cared about"
+  * **low condition** - "poverty." Mary's family was not rich.
+  * **For see** - This phrase calls attention to the statement that follows.
+  * **from now on** - "now and in the future"
+  * **all generations** - "the people in all generations"
+  * **he who is mighty** - "God, the Powerful One" (UDB)
   * **his name** - Here "name" refers to the entire person of God. AT: "he." (See: [[:en:ta:vol2:translate:figs_metonymy]])
-
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:46|<<]] | [[:en:bible:notes:luk:01:50|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2check}}
 
 ~~NOCACHE~~

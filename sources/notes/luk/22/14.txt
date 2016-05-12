@@ -31,22 +31,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:apostle]]
-  * [[en:obe:kt:passover]]
-  * [[en:obe:kt:suffer]]
-  * [[en:obe:kt:fulfill]]
-  * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:apostle]]
+  * [[:en:obe:kt:passover]]
+  * [[:en:obe:kt:suffer]]
+  * [[:en:obe:kt:fulfill]]
+  * [[:en:obe:kt:kingdomofgod]]
  
 
 ===== Translation Notes: =====
 
-  * **I have greatly desired**  - "I have wanted very much" (UDB)
-  * **For I say to you**  - This phrase is used to emphasize the importance of what Jesus will say next.
-  * **until it is fulfilled**  - Possible meanings are 1) "until the purpose of the Passover Festival is accomplished" or 2) "until we eat celebrate the final Passover Festival." This can be translated with an active verb: "until God fulfills it" or "until God completes the purpose of the Passover Festival." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Connecting Statement:** - this is the next event in the part of the story about the Passover. Jesus and his disciples are sitting to eat the Passover meal.
+
+  * **I have greatly desired** - "I have wanted very much" (UDB)
+  * **For I say to you** - This phrase is used to emphasize the importance of what Jesus will say next.
+  * **until it is fulfilled** - Possible meanings are 1) "until the purpose of the Passover Festival is accomplished" or 2) "until we eat celebrate the final Passover Festival." AT: "until God fulfills it" or "until God completes the purpose of the Passover Festival." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:12|<<]] | [[:en:bible:notes:luk:22:17|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

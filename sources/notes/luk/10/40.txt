@@ -30,19 +30,22 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:serve]]
-    * [[en:obe:kt:lord]]
+  * [[:en:obe:other:serve]]
+  * [[:en:obe:kt:lord]]
 
 
 ===== Translation Notes: =====
 
-    * **do you not care** - Martha was complaining that the Lord was allowing Mary to sit listening to him when there was so much work to do. She respected the Lord, so she used a rhetorical question to soften her complaint. AT: "It seems like you do not care." (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **which will not be taken away from her**  - Possible meanings are 1) "I will not take this opportunity away from her" or 2) "She will not lose what she has gained as she listening to me." (See: [[:en:ta:vol2:translate:figs_activepassive]]) or "she will be allowed to continue" (See: [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **do you not care...alone?** - Martha was complaining that the Lord was allowing Mary to sit listening to him when there was so much work to do. She respected the Lord, so she used a rhetorical question to make her complaint more polite. AT: "it seems like you do not care...alone." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Martha, Martha** - Jesus repeats Martha's name for emphasis. AT: "Dear Martha" or "You, Martha."
+  * **which will not be taken away from her** - Possible meanings are 1) "I will not take this opportunity away from her" or 2) "She will not lose what she has gained as she listening to me." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 **[[:en:bible:notes:luk:10:36|<<]] | [[:en:bible:notes:luk:11:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

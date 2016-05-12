@@ -13,7 +13,8 @@
 ===== UDB: =====
 
 <usfm>
-\v 37 But about people rising from the dead, Moses wrote something about that. In the place where he wrote about the burning bush, he mentions the Lord as being the God whom Abraham worships, whom Isaac worships and whom Jacob worships. It is not dead people who worship God, but rather living people who worship him. All people whose spirits are alive again after they die continue to honor him!"
+\v 37 But about people rising from the dead, Moses wrote something about that. In the place where he wrote about the burning bush, he mentions the Lord as being the God whom Abraham worships, whom Isaac worships and whom Jacob worships. It is not dead people who worship God, but rather living people who worship him.
+\v 38 All people whose spirits are alive again after they die continue to honor him!"
 
 
 \p
@@ -39,19 +40,24 @@
   * [[:en:obe:other:jacob]]
  
 ===== Translation Notes: =====
-Jesus continues speaking.
-  * **But that the dead are raised, even Moses showed**  - "But even Moses showed that dead people are raised from death." The word "even" is here because the Sadducees might not have been surprised that some scriptures say that the dead are raised, but they did not expect Moses to have written something like that.
-  * **in the place concerning the bush** - "In the part of scripture where he wrote about the burning bush" or "in the scripture about the burning bush"
+
+  * **Connecting Statement:** - Jesus finishes answering the Sadducees.
+
+  * **But that the dead are raised, even Moses showed** - The word "even" is here because the Sadducees might not have been surprised that some scriptures say that the dead are raised, but they did not expect Moses to have written something like that. AT: "But even Moses showed that dead people rise from the dead." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **in the place concerning the bush** - "in the part of scripture where he wrote about the burning bush" or "in the scripture about the burning bush"
   * **where he calls the Lord** - "where Moses called the Lord"
-  * **the God of Abraham and the God of Isaac and the God of Jacob**  -  "The God of Abraham, Isaac, and Jacob." They all worshiped the same God.
-  * **Now he is not the God of the dead, but of the living**  - These two sentences have similar meaning said twice for emphasis. Some language have different ways of showing emphasis. AT: "The Lord is the God of eternally living people." (See: [[:en:ta:vol2:translate:figs_parallelism]])
-  *   * **but of the living**  - "but the God of living people" or "the God of people whose spirits are alive." (See: [[:en:ta:vol2:translate:figs_ellipsis]]) If this is unclear, you may need to add the implied information: "even though their bodies may have died." (See [[en:ta:vol1:translate:figs_explicit]])
-  * **because all live to him** - "because in God's sight they all are still alive." This can also be translated as "because God knows that their spirits are alive."
+  * **the God of Abraham and the God of Isaac and the God of Jacob** - "the God of Abraham, Isaac, and Jacob." They all worshiped the same God.
+  * **Now** - This word is used here to mark a break in the main teaching. Here Jesus explains how this story proves that people rise from the dead. 
+  * **he is not the God of the dead, but of the living** - These two sentences have similar meaning said twice for emphasis. Some language have different ways of showing emphasis. AT: "The Lord is the God of eternally living people." (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **but of the living** - AT: "but the God of living people" or "the God of people whose spirits are alive, even though their bodies may have died." (See: [[:en:ta:vol2:translate:figs_ellipsis]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **because all live to him** - "because in God's sight they all are still alive." AT: "because God knows that their spirits are alive."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:20|Luke Chapter 20 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:20:00]]
+  * [[:en:bible:questions:comprehension:luk:20]]
 **[[:en:bible:notes:luk:20:34|<<]] | [[:en:bible:notes:luk:20:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

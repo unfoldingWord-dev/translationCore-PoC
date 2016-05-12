@@ -28,29 +28,29 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:priest]]
-    * [[en:obe:other:Levite]]
+  * [[:en:obe:kt:priest]]
+  * [[:en:obe:other:Levite]]
 
 ===== Translation Notes: =====
-Jesus continues telling his story to the man who asked "Who is my neighbor?"
 
-    * **By chance** - This was not something that any person had planned. 
-    * **a certain priest** - This expression introduced a me person in the story, but does not identify him by name.
-    * **and when he saw him** - "and when the priest saw the injured man." A priest is a very religious person, so the audience would assume that he would help the injured man. Since he did not, this phrase could be translated as "but when he saw him" to call attention to this unexpected result.
-    * **he passed by on the other side**  - "he walked past the man on the other side of the road"
-    * **he passed by** - It is implied that he did not help the man. AT: "he passed by without helping the injured man." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **By chance** - This was not something that any person had planned. 
+  * **a certain priest** - This expression introduces a new person in the story, but does not identify him by name.
+  * **and when he saw him** - "and when the priest saw the injured man." A priest is a very religious person, so the audience would assume that he would help the injured man. Since he did not, this phrase could be translated as "but when he saw him" to call attention to this unexpected result. (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **he passed by on the other side** - It is implied that he did not help the man. AT: "he did not help the injured man but instead walked past him on the other side of the road." (See: [[:en:ta:vol1:translate:figs_explicit]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 
  
 
-**[[en/bible/notes/luk/10/29|<<]] | [[en/bible/notes/luk/10/33|>>]]**
+**[[:en:bible:notes:luk:10:29|<<]] | [[:en:bible:notes:luk:10:33|>>]]**
 
 
 ~~DISCUSSION~~
 
 
-{{tag>publish levite priest}}
+{{tag>publish p2edit levite priest}}
 
 ~~NOCACHE~~

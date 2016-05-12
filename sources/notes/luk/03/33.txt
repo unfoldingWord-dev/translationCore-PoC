@@ -30,24 +30,24 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:judah]]
-  * [[en:obe:other:jacob]]
-  * [[en:obe:other:isaac]]
-  * [[en:obe:other:abraham]]
-  * [[en:obe:other:Terah]]
-  * [[en:obe:other:Nahor]]
-
+  * [[:en:obe:other:judah]]
+  * [[:en:obe:other:jacob]]
+  * [[:en:obe:other:isaac]]
+  * [[:en:obe:other:abraham]]
+  * [[:en:obe:other:Terah]]
+  * [[:en:obe:other:Nahor]]
 
 ===== Translation Notes: =====
-This is a continuation of the list of Jesus' ancestors. (See: [[:en:ta:vol1:translate:translate_names]])
 
-   * **the son of Amminadab, the son of Admin...** - Use the same wording as you used in the previous verses.  AT: “who was the son of Amminadab, who was the son of Admin...” or “Levi was the son of Amminadab, Simeon was the son of Admin...” or “Nashon's father was Amminadab, Amminadab's father was Admin....” 
+  * **the son of Amminadab, the son of Admin...Shelah** - This is a continuation of the list of Jesus' ancestors. Use the same format as you used in the previous verses. (See: [[:en:ta:vol1:translate:translate_names]])
+
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
-
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 **[[:en:bible:notes:luk:03:30|<<]] | [[:en:bible:notes:luk:03:36|>>]]**
 
-~~DISCUSSION~~{{tag>publish judah  }}
+~~DISCUSSION~~{{tag>publish p2check judah}}
 
 ~~NOCACHE~~

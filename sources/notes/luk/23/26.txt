@@ -25,7 +25,7 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:seize]]
+  * [[:en:obe:other:seize]]
   * [[:en:obe:kt:cross]]
   * [[:en:obe:kt:jesus]]
 
@@ -34,12 +34,14 @@
   * **As they led him away** - "While the soldiers led Jesus away from where Pilate was"
   * **seized one Simon of Cyrene** - The Roman soldiers had the authority to compel people to carry their loads. Do not translate this in a way that indicates that Simon was arrested or had done anything wrong. (See: [[:en:ta:vol1:translate:translate_names]])
   * **one** - "a man named"
-  * **coming from the country** - "He was coming into Jerusalem from the countryside" (UDB)
+  * **coming from the country** - "who was coming into Jerusalem from the countryside"
   * **laid the cross on him** - "put the cross on his shoulders"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:23|<<]] | [[:en:bible:notes:luk:23:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish cross}}
+~~DISCUSSION~~{{tag>publish p2edit cross}}

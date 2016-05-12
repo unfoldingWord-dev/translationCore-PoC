@@ -20,33 +20,35 @@
 ===== ULB: =====
 
 <usfm>
-\v 13 Not many days later, the younger son packed up and journeyed into a far country, and there he wasted his money with wildly extravagant living.
-\v 14 Now when he had spent it all, a great famine happened in that country, and he began to be in need.
+\v 13 Not many days later, the younger son gathered together all he owned and went to a country far away, and there he wasted his money, buying things he did not need, and wasting his money on wild living.
+\v 14 Now when he had spent everything, a severe famine spread throughout that country, and he began to be in need.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:other:famine]]
+  * [[:en:obe:other:famine]]
 
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
-    * **packed up**  - "packed his things" or "put his things in his bag"
-    * **with wildly extravagant living**  - This can be translated as  "by spending all his money on things he did not need."
-    * **a great famine happened**  - "there was a severe famine" (UDB) or "there was not enough food"
-    * **famine**  - A famine is a time when there is little food. Often it is the result of little rain and the failure of crops to grow well.
-    * **to be in need** - "to lack what he needed" or "to not have enough"
+
+  * **gathered together all he owned** - "packed his things" or "put his things in his bag"
+  * **buying things he did not need, and wasting his money on wild living** - AT: "by spending all his money on things he did not need"
+  * **a severe famine spread throughout that country** - "a drought occurred there and the entire country did not have enough food"
+  * **Now** - This word is used here to mark a break in the main storyline. Here Jesus explains how the younger son went from having plenty to being in need.
+  * **to be in need** - "to lack what he needed" or "to not have enough"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 
  
 
-**[[en/bible/notes/luk/15/11|<<]] | [[en/bible/notes/luk/15/15|>>]]**
+**[[:en:bible:notes:luk:15:11|<<]] | [[:en:bible:notes:luk:15:15|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish text}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

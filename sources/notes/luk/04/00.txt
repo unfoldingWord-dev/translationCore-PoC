@@ -1,0 +1,25 @@
+====== Luke 04 General Notes ======
+
+
+=== Structure and formatting ===
+
+Some translations prefer to set apart quotations of the Old Testament. The ULB and many other English translations indent the lines of 4:10-11, 18-19, which are quotations from the Old Testament.
+
+=== Other possible translation difficulties in this chapter ===
+
+== "(Jesus) was tempted there by the devil" ==
+In translation, it is important not to imply that Jesus actually considered or was in fact "tempted" by the devil. It is more accurate (theologically) to say that the devil "tried to tempt" Jesus.
+
+===== Links: =====
+
+  * **[[:en:bible:notes:luk:04:01|Luke 04:01 Notes]]**
+**[[:en:bible:notes:luk:03:00|<<]] | [[:en:bible:notes:luk:05:00|>>]]**
+
+
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft CHTeam}}

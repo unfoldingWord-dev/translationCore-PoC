@@ -33,26 +33,31 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:taxcollector]]
-  * [[en:obe:kt:heaven]]
-  * [[en:obe:kt:mercy]]
-  * [[en:obe:kt:sin]]
-  * [[en:obe:kt:justify]]
-  * [[en:obe:kt:exalt]]
-  * [[en:obe:other:humble]]
+  * [[:en:obe:other:taxcollector]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:kt:mercy]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:justify]]
+  * [[:en:obe:kt:exalt]]
+  * [[:en:obe:other:humble]]
  
 ===== Translation Notes: =====
-Jesus continues to speak to these people.
-    * **lift up his eyes to heaven**  - AT: "look toward heaven" or "look upward" (See: [[:en:ta:vol1:translate:figs_idiom]])
-    * **hit his breast**  - This is a physical expression of great sorrow, and shows this man's repentance and humility.
-    * **God, be merciful to me, a sinner** - This could be translated as "God, please have mercy on me, even though I am a terrible sinner," or "God, please be merciful to me. I am a great sinner." 
-    * **this man**- "the tax collector"
-    * **rather than the other** - "rather than the other man" or "instead of the other man" or "and not the other man." This can also be translated as "but the other man was not justified."
-    * **because everyone who exalts himself...** - With this phrase, Jesus switches from the story to state the general principle that the story illustrates. 
-    * **exalted**  - "greatly honored"
+
+  * **Connecting Statement:** - Jesus has finishes telling his parable. In verse 14, he comments about what the parable teaches.
+
+  * **lift up his eyes to heaven** - AT: "look toward heaven" or "look upward" (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **hit his breast** - This is a physical expression of great sorrow, and shows this man's repentance and humility. (See: [[:en:ta:vol2:translate:translate_symaction]])
+  * **God, be merciful to me, a sinner** - AT: "God, please have mercy on me, even though I am a terrible sinner" or "God, please be merciful to me. I am a great sinner" 
+  * **this man went back down to his house justified** - AT: "God forgave the tax collector"
+  * **rather than the other** - "rather than the other man" or "and not the other man." AT: "but God did not forgive the Pharisee."
+  * **because everyone who exalts himself** - With this phrase, Jesus switches from the story to state the general principle that the story illustrates. 
+  * **will be humbled** - AT: "God will humble" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **will be exalted** - AT: "God will greatly honor" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 **[[:en:bible:notes:luk:18:11|<<]] | [[:en:bible:notes:luk:18:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish  justify humble}}
+~~DISCUSSION~~{{tag>publish p2edit justify humble}}

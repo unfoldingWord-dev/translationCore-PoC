@@ -32,27 +32,31 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:woe]]
-    * [[en:obe:other:pharisee]]
-    * [[en:obe:other:synagogue]]
-    * [[en:obe:other:tomb]]
+  * [[:en:obe:kt:woe]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:other:synagogue]]
+  * [[:en:obe:other:tomb]]
 
 
 ===== Translation Notes: =====
-Jesus continues to speak to the Pharisees.
+
+  * **Connecting Statement:** - Jesus finishes speaking to the Pharisee.
+
   * **the front seats** - "the best seats"
-  * **you are like unmarked graves that people walk over without knowing it** - This is a simile. The Pharisees were like unmarked graves because they looked ceremonially clean, but they caused people around them to become unclean. This point of similarity is somewhat more clear in the UDB. (See: [[en:ta:vol1:translate:figs_simile]])
+  * **you are like unmarked graves that people walk over without knowing it** - The Pharisees were like unmarked graves because they looked ceremonially clean, but they caused people around them to become unclean. (See: [[:en:ta:vol1:translate:figs_simile]])
   * **unmarked graves** - These graves were holes dug in the ground where a dead body was buried. They did not have the white stones that people normally place over graves so that others would see them. When people walked over a grave, they would become ceremonially unclean.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 
  
 
-**[[en/bible/notes/luk/11/42|<<]] | [[en/bible/notes/luk/11/45|>>]]**
+**[[:en:bible:notes:luk:11:42|<<]] | [[:en:bible:notes:luk:11:45|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish pharisee}}
+{{tag>publish p2edit pharisee}}
 ~~NOCACHE~~

@@ -37,16 +37,20 @@
  
 
 ===== Translation Notes: =====
- 
+
+  * **Connecting Statement:** - Jesus switches from talking about the widow to teaching about the temple.
+
   * **offerings** - "things people had given to God" 
-  * **the days will come** - "there will be a time" or "someday" 
-  * **not one stone will be left on another** - This can be translated positively: "Every stone will be removed from its place." This can be translated with an active clause: "Enemies will not leave any stone on top of another" (See [[en:ta:vol2:translate:figs_activepassive]]).
-  * **which will not be torn down**  - This can be translated positively as "They will all be torn down." It can be translated with an active clause: "Enemies will tear down every stone." (See [[en:ta:vol2:translate:figs_activepassive]])
+  * **the days will come when** - "there will be a time when" or "someday" 
+  * **not one stone will be left on another** - "every stone will be removed from its place." AT: "enemies will not leave any stone on top of another." (See [[:en:ta:vol2:translate:figs_activepassive]]).
+  * **which will not be torn down** - This can be translated as a new sentence. AT: "They will all be torn down" or "Enemies will tear down every stone." (See [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:21|Luke Chapter 21 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:21:00]]
+  * [[:en:bible:questions:comprehension:luk:21]]
 **[[:en:bible:notes:luk:21:01|<<]] | [[:en:bible:notes:luk:21:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

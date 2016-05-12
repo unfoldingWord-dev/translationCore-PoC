@@ -37,15 +37,19 @@
 
 ===== Translation Notes: =====
 
-  * **Increase our faith**  - "Please give us more faith" or "Please add more faith to our faith"
-  * **If you had faith as a mustard seed**  - This could be translated as "If you had faith that was even as small as mustard seed" or "If only your faith was as big as a mustard seed, but it isn't." The construction of the phrase implies that they did not, in fact, have faith that was even the size of a mustard seed.
-  * **this sycamore tree** - “this sycamore fig tree.” It produces small round fruit about 2.5 centimeters across. This can be translated simply as “a fig tree” or “a tree.”
-  * **Be uprooted, and be planted in the sea**  - This could be translated as "Uproot yourself and plant yourself in the sea" or "Take your roots out of the ground, and put your roots down into the ocean."
-  * **it would obey you**  - "the tree would obey you" This result is conditional. It would happen only if they had faith.
+  * **General Information:** - There is a brief break in Jesus' teachings as the disciples speak to him. Then Jesus continues teaching.
+
+  * **Increase our faith** - "Please give us more faith" or "Please add more faith to our faith"
+  * **If you had faith as a mustard seed** - A "mustard seed" is a very small seed. Jesus implies that they did not have even a small amount of faith. AT: "If you had faith that was even as small as mustard seed" or "If only your faith was as big as a mustard seed, but it isn't." (See: [[:en:ta:vol1:translate:figs_simile]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **this sycamore tree** - AT: "a fig tree" or "a tree"
+  * **Be uprooted, and be planted in the sea** - AT: "Uproot yourself and plant yourself in the sea" or "Take your roots out of the ground, and put your roots down into the ocean" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **it would obey you** - "the tree would obey you." This result is conditional. It would happen only if they had faith.
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:17:00]]
+  * [[:en:bible:questions:comprehension:luk:17]]
 **[[:en:bible:notes:luk:17:03|<<]] | [[:en:bible:notes:luk:17:07|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

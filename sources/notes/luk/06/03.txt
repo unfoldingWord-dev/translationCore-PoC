@@ -34,27 +34,28 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:david]]
-    * [[en:obe:kt:houseofgod]]
-    * [[en:obe:other:bread]]
-    * [[en:obe:other:lawful]]
-    * [[en:obe:kt:priest]]
-    * [[en:obe:kt:sonofman]]
-    * [[en:obe:kt:lord]]
+  * [[:en:obe:other:david]]
+  * [[:en:obe:kt:houseofgod]]
+  * [[:en:obe:other:bread]]
+  * [[:en:obe:other:lawful]]
+  * [[:en:obe:kt:priest]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:kt:lordgod]]
 
 
 ===== Translation Notes: =====
 
-
-    * **Have you not even read** - This is the beginning of a rhetorical question. Jesus is mildly rebuking them for not learning from it. AT: "Certainly you have read." (UDB) or "You should learn from what you have read" (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **the bread of the presence**  - "the holy bread" or "the bread that was offered to God"
-    * **Son of Man** - AT: "I, the Son of Man." Jesus was referring to himself. 
-    * **Lord of the Sabbath**  -  "owner of the Sabbath." AT: "has the authority to determine what is right for people to do on the Sabbath!" (UDB)
+  * **Have you not even read...him?** - Jesus is rebuking the Pharisees for not learning from the scriptures. This could be written as a statement. AT: "You should learn from what you have read...him" or "Certainly you have read...him." (UDB). (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the bread of the presence** - "the holy bread" or "the bread that was offered to God"
+  * **Son of Man** - Jesus was referring to himself. This could be stated: AT: "I, the Son of Man."
+  * **Lord of the Sabbath** - The title "Lord" here emphasizes his authority over the Sabbath. AT: "has the authority to determine what is right for people to do on the Sabbath!" (UDB)
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:01|<<]] | [[:en:bible:notes:luk:06:06|>>]]**
 
-~~DISCUSSION~~{{tag>publish sonofman}}
+~~DISCUSSION~~{{tag>publish p2check sonofman}}
 
 ~~NOCACHE~~

@@ -31,38 +31,40 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:confess]]
-    * [[en:obe:kt:sonofman]]
-    * [[en:obe:kt:angel]]
-    * [[en:obe:kt:god]]
-    * [[en:obe:kt:word]]
-    * [[en:obe:kt:forgive]]
-    * [[en:obe:kt:blasphemy]]
-    * [[en:obe:kt:holyspirit]]
+  * [[:en:obe:kt:confess]]
+  * [[:en:obe:kt:sonofman]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:kt:god]]
+  * [[:en:obe:kt:word]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:kt:blasphemy]]
+  * [[:en:obe:kt:holyspirit]]
 
 ===== Translation Notes: =====
-Jesus continues to speak to his disciples.
 
-  * **everyone who confesses me before men**  - "whoever tells others that he is my disciple" or "anyone who acknowledges before others that he is loyal to me"
-  * **the Son of Man**  - Jesus was referring to himself. AT: "I, the Son of Man."
-  * **he who denies me before men**  - "he who disowns me before people." AT: "whoever refuses to acknowledge to others that he is my disciple" or "if anyone refuses to say that he is loyal to me."
-  * **will be denied**  - "will be disowned." AT: "The Son of Man will deny him " or "I will deny that he is my disciple."
-  * **Everyone who speaks a word against the Son of Man**  - "Everyone who says something bad about the Son of Man"
-  * **it will be forgiven him**  - "he will be forgiven" or "God will forgive him for that"
-  * **blasphemes against the Holy Spirit** - AT: "speaks evil against the Holy Spirit" or "says that the Holy Spirit is evil."
-  * **it will not be forgiven** - AT: God will consider his guilty forever" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_doublenegatives]])
+  * **I say to you** - Jesus readdresses his audience to mark a shift in his speech to a new topic, in this case, to speak about confession.
+  * **everyone who confesses me before men** - AT: "whoever tells others that he is my disciple" or "anyone who acknowledges before others that he is loyal to me"
+  * **the Son of Man** - Jesus was referring to himself. AT: "I, the Son of Man."
+  * **he who denies me before men** - "he who disowns me before people." AT: "whoever refuses to acknowledge to others that he is my disciple" or "if anyone refuses to say that he is loyal to me."
+  * **will be denied** - "will be disowned." AT: "The Son of Man will deny him " or "I will deny that he is my disciple." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Everyone who speaks a word against the Son of Man** - AT: "Everyone who says something bad about the Son of Man" (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **it will be forgiven him** - "he will be forgiven." AT: "God will forgive him for that." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **blasphemes against the Holy Spirit** - AT: "speaks evil against the Holy Spirit" or "says that the Holy Spirit is evil"
+  * **it will not be forgiven** - AT: "God will consider him guilty forever" (See: [[:en:ta:vol2:translate:figs_activepassive]] and [[:en:ta:vol2:translate:figs_litotes]])
  
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 
  
 
-**[[en/bible/notes/luk/12/06|<<]] | [[en/bible/notes/luk/12/11|>>]]**
+**[[:en:bible:notes:luk:12:06|<<]] | [[:en:bible:notes:luk:12:11|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish blasphemy}}
+{{tag>publish p2edit blasphemy}}
 ~~NOCACHE~~

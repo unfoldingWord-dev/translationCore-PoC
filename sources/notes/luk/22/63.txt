@@ -37,24 +37,25 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
-  * [[en:obe:other:mock]]
-  * [[en:obe:kt:prophet]]
-  * [[en:obe:kt:blasphemy]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:other:mock]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:blasphemy]]
  
 
 ===== Translation Notes: =====
 
-
-    * **After blindfolding him** - "After they covered his eyes so that he could not see"
-    * **Prophesy! Who is the one who hit you?** - The guards did not believe that Jesus was a prophet. Rather they believed that a real prophet would know who hit him even if he could not see it. They called Jesus a prophet, but they wanted to show that he was not a prophet. AT: “Prove that you are a prophet. Tell us who hit you” or “Hey prophet, who hit you?” (See: [[en:ta:vol1:translate:figs_irony]])
-    * **Prophesy!**  - "Speak words from God!" The implied information is that God would have to tell Jesus who struck him since Jesus was blindfolded and could not see. (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **After blindfolding him** - "After they covered his eyes so that he could not see"
+  * **Prophesy! Who is the one who hit you?** - The guards did not believe that Jesus was a prophet. Rather they believed that a real prophet would know who hit him even if he could not see it. They called Jesus a prophet, but they wanted to show that he was not a prophet. AT: "Prove that you are a prophet. Tell us who hit you" or "Hey prophet, who hit you?" (See: [[:en:ta:vol1:translate:figs_irony]])
+  * **Prophesy!** - "Speak words from God!" The implied information is that God would have to tell Jesus who struck him since Jesus was blindfolded and could not see. (See: [[:en:ta:vol1:translate:figs_explicit]])
 
 
   
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:61|<<]] | [[:en:bible:notes:luk:22:66|>>]]**
 
-~~DISCUSSION~~{{tag>publish mock }}
+~~DISCUSSION~~{{tag>publish p2edit mock}}

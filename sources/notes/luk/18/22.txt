@@ -32,12 +32,14 @@
   * **he said to him** - "he answered him"
   * **One thing you still lack** - "You still need to do one more thing" or "There is one thing that you have not yet done"
   * **sell all that you have** - "sell all your possessions" or "sell everything that you own"
-  * **distribute** - "give"
   * **distribute it to the poor** - "give away the money to the poor people"
+  * **you will have treasure in heaven** - AT: "you will have God's blessings in heaven" (See: [[:en:ta:vol1:translate:figs_metaphor]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 **[[:en:bible:notes:luk:18:18|<<]] | [[:en:bible:notes:luk:18:24|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

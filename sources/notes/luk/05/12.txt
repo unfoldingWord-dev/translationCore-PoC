@@ -28,24 +28,32 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:leprosy]]
-  * [[en:obe:kt:lord]]
-  * [[en:obe:kt:clean]]
+  * [[:en:obe:other:leprosy]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:kt:clean]]
  
 
 ===== Translation Notes: =====
 
-  * **he fell on his face** - "he bowed down to the ground" (UDB) or "he knelt and touched the ground with his face" 
+  * **Connecting Statement:** - Jesus heals a leper in a different city that is not named.
+
+  * **It came about** - This phrase marks a new event in the story. (See: [[:en:ta:vol2:translate:writing_newevent]])
+  * **a man full of leprosy** - "a man who was covered with leprosy." This introduces a new character in the story. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **he fell on his face** - "he knelt and touched the ground with his face" or "he bowed down to the ground" (UDB)
   * **if you are willing** - "if you want to"
+  * **you can make me clean** - It is understood that he was asking Jesus to heal him. This could be stated clearly. AT: "please make me clean, because you are able." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **make me clean...Be clean** - This refers to ceremonial cleanness, but it is understood that he is unclean because of the leprosy. He is really asking Jesus to heal him of his disease. This can be stated clearly. AT: "heal me from leprosy so I will be clean...Be healed." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **the leprosy left him** - "he no longer had leprosy" (UDB)
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/05/08|<<]] | [[en/bible/notes/luk/05/14|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
+**[[:en:bible:notes:luk:05:08|<<]] | [[:en:bible:notes:luk:05:14|>>]]**
 
 ~~DISCUSSION~~
 
-{{tag>publish leprosy heal clean}}
+{{tag>publish p2check leprosy heal clean}}
+
 ~~NOCACHE~~

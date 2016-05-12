@@ -27,37 +27,39 @@
 <usfm>
 \p 
 \v 18 With many other exhortations also, he preached good news to the people.  
-\v 19 John also rebuked Herod the tetrarch for marrying his brother’s wife, Herodias, and for all the other evil things that Herod had done. 
+\v 19 John also rebuked Herod the tetrarch for marrying his brother's wife, Herodias, and for all the other evil things that Herod had done. 
 \v 20 But then Herod did another very evil thing. He had John locked up in prison.
 </usfm>
 
 
 ===== translationWords: =====
 
+  * [[:en:obe:kt:exhort]]
+  * [[:en:obe:other:preach]]
+  * [[:en:obe:kt:goodnews]]
+  * [[:en:obe:other:johnthebaptist]]
+  * [[:en:obe:other:herodantipas]]
+  * [[:en:obe:other:tetrarch]]
+  * [[:en:obe:other:herodias]]
+  * [[:en:obe:kt:evil]]
+  * [[:en:obe:other:prison]]
 
-    * [[en:obe:kt:exhort]]
-    * [[en:obe:other:preach]]
-    * [[en:obe:kt:goodnews]]
-    * [[en:obe:other:johnthebaptist]]
-    * [[en:obe:other:herodantipas]]
-    * [[en:obe:other:tetrarch]]
-    * [[en:obe:other:herodias]]
-    * [[en:obe:kt:evil]]
-    * [[en:obe:other:prison]]
 ===== Translation Notes: =====
 
-    * **With many other exhortations** - "With many other strong urgings"
-    * **rebuked Herod the tetrarch** - "reproached Herod the tetrarch" or AT: "told Herod the tetrarch that he had sinned." Herod was a tetrarch, not a king. He had only limited rule over the region of Galilee.
-    * **for marrying his brother's wife** - "because Herod married his own brother's wife"
-    * **He had John locked up in prison** - "He told his soldiers to put John in jail"
+  * **General Information:** - The story tells what is going to happen to John but has not happened at this time. (See: [[:en:ta:vol2:translate:writing_background]])
 
-
+  * **With many other exhortations** - "With many other strong urgings"
+  * **rebuked Herod the tetrarch** - "reproached Herod the tetrarch" or AT: "told Herod the tetrarch that he had sinned." Herod was a tetrarch, not a king. He had only limited rule over the region of Galilee.
+  * **for marrying his brother's wife, Herodias** - "because Herod married Herodias, his own brother's wife" This was evil because Herod's brother was still alive. This can be stated clearly. AT: "because he married his brother's wife, Herodias, while his brother was still alive." See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **He had John locked up in prison** - "He told his soldiers to put John in jail"
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 
 **[[:en:bible:notes:luk:03:17|<<]] | [[:en:bible:notes:luk:03:21|>>]]**
 
-~~DISCUSSION~~{{tag>publish exhort  herodantipas }}
+~~DISCUSSION~~{{tag>publish p2check exhort herodantipas}}
 
 ~~NOCACHE~~

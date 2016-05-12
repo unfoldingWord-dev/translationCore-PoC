@@ -21,32 +21,33 @@
 
 <usfm>
 \v 24 Then Jesus, seeing him, became very sad and said, "How difficult it is for those who are rich to enter the kingdom of God!
-\v 25 For it is easier for a camel to go through a needle’s eye, than for a rich person to enter the kingdom of God."
+\v 25 For it is easier for a camel to go through a needle's eye, than for a rich person to enter the kingdom of God."
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:kingdomofgod]]
-  * [[en:obe:other:camel]]
+  * [[:en:obe:kt:kingdomofgod]]
+  * [[:en:obe:other:camel]]
  
-
 ===== Translation Notes: =====
 
 
-    * **Then Jesus, seeing him, became very sad**  - This phrase is absent from many Greek manuscripts and so often omitted from English translations.
-    * **a camel to go through a needle's eye** - It is impossible for a camel to fit through the eye of a needle. Therefore, it appears that Jesus may have been using hyperbole to say "it is extremely difficult for a rich man to be saved." (See: [[en:ta:vol2:translate:figs_hyperbole]])
-    * **needle's eye** - The needle's eye is the hole in a sewing needle through which the thread is passed.
+  * **Then Jesus, seeing him, became very sad** - This phrase is absent from many Greek manuscripts and so often omitted from English translations.
+  * **a camel to go through a needle's eye** - It is impossible for a camel to fit through the eye of a needle. Therefore, it appears that Jesus may have been using hyperbole to mean it is extremely difficult for a rich man to enter God's kingdom. (See: [[:en:ta:vol2:translate:figs_hyperbole]])
+  * **needle's eye** - The needle's eye is the hole in a sewing needle through which the thread is passed.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 
  
 
-**[[en/bible/notes/luk/18/22|<<]] | [[en/bible/notes/luk/18/26|>>]]**
+**[[:en:bible:notes:luk:18:22|<<]] | [[:en:bible:notes:luk:18:26|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit p2review}}
 ~~NOCACHE~~

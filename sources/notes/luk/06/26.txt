@@ -30,18 +30,18 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:falseprophet]]
+  * [[:en:obe:other:falseprophet]]
 
 ===== Translation Notes: =====
-Jesus continues to teach his disciples.
 
-    * **Woe to you** - “How terrible it is for you ” or “Trouble will come to you” or “How sad you should be” or “What sorrow you will have”
-    * **when all men** - That is "when all people," or "when everyone."
-    * **treated the false prophets in the same way**  - "spoke well of the false prophets"
-
+  * **Woe to you** - "How terrible it is for you " or "How sad you should be"
+  * **when all men** - "when all people" or "when everyone" (See: [[:en:ta:vol2:translate:figs_gendernotations]])
+  * **treated the false prophets in the same way** - "spoke well of the false prophets"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
 **[[:en:bible:notes:luk:06:24|<<]] | [[:en:bible:notes:luk:06:27|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2check}}

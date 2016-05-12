@@ -35,26 +35,28 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:kingdomofgod]]
-    * [[en:obe:other:heal]]
+  * [[:en:obe:kt:kingdomofgod]]
+  * [[:en:obe:other:heal]]
 
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Though the disciples return to Jesus and they go to Bethsaida to spend time together, the crowds follow Jesus for healing and to listen to his teaching. He multiplies bread and fish to help them as they return home.
 
-    * **the ones who had been sent out**  - "the twelve apostles that Jesus had sent out"
-    * **returned** - "came back to where Jesus was"
-    * **they told him**  - "the apostles told Jesus"
-    * **everything they had done** - This refers to the teaching and healing that they did when they went to the other cities.
-    *  **Taking them with him, he went away by himself** - Jesus and his apostles went away by themselves. AT: "He took them with him and they went by themselves." 
-    * **Bethsaida** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **the ones who had been sent out** - AT: "the twelve apostles that Jesus had sent out" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **returned** - "came back to where Jesus was"
+  * **they told him** - "the apostles told Jesus"
+  * **everything they had done** - This refers to the teaching and healing that they did when they went to the other cities.
+  * **Taking them with him, he went away by himself** - Jesus and his apostles went away by themselves. AT: "He took them with him and they went by themselves."
+  * **Bethsaida** - This is the name of a city. (See: [[:en:ta:vol1:translate:translate_names]])
 
-  
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:07|<<]] | [[:en:bible:notes:luk:09:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish  heal}}
+~~DISCUSSION~~{{tag>publish p2edit heal}}
 
 ~~NOCACHE~~

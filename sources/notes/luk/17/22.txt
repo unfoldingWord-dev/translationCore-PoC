@@ -37,18 +37,21 @@
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Jesus begins to teach his disciples.
 
-    * **The days will come**  - This can be translated as "A time will come" or "Someday."
-    * **you will desire to see** - "You will want very much to see" or "you will wish to experience." His disciples already wanted to see him reign. But times of persecution would come and they would wish that he was already reigning.
-    * **one of the days of the Son of Man** - This can be translated as "one of the days when the the Son of Man will rule as king."
-    * **nor follow after them**  -  "and don't follow after them"
-    * **for as the lightning appears**  - This is a simile. It can be translated as "for as the lightning is visible to everyone when it appears and" or "for as the lightning appears suddenly." (See [[en:ta:vol1:translate:figs_simile]])
-    * **so will the Son of Man be in his day**  - This can be translated as "it will be like that on the day when the Son of Man comes to reign."
+  * **The days will come when** - AT: "A time will come when" or "Someday"
+  * **you will desire to see** - "you will want very much to see" or "you will wish to experience." His disciples already wanted to see him reign. But times of persecution would come and they would wish that he was already reigning.
+  * **one of the days of the Son of Man** - AT: "one of the days when the the Son of Man will rule as king"
+  * **nor follow after them** - "and do not follow after them"
+  * **for as the lightning appears** - AT: "for as the lightning is visible to everyone when it appears and" or "for as the lightning appears suddenly" (See [[:en:ta:vol1:translate:figs_simile]])
+  * **so will the Son of Man be in his day** - AT: "it will be like that on the day when the Son of Man comes to reign"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:17|Luke Chapter 17 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:17:00]]
+  * [[:en:bible:questions:comprehension:luk:17]]
 **[[:en:bible:notes:luk:17:20|<<]] | [[:en:bible:notes:luk:17:25|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

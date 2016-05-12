@@ -31,25 +31,26 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:thetwelve]]
-    * [[en:obe:other:desert]]
-    * [[en:obe:other:bread]]
-    * [[en:obe:kt:disciple]]
+  * [[:en:obe:kt:thetwelve]]
+  * [[:en:obe:other:desert]]
+  * [[:en:obe:other:bread]]
+  * [[:en:obe:kt:disciple]]
 
 ===== Translation Notes: =====
 
-
-    * **The day began to come to an end**  - "As the sun set" or "As the day ended" or "As evening came"
-    * **Dismiss the crowds**  - "Tell the crowds to go away"
-    * **unless we went and bought food**  - AT: "unless we were to go and buy food" or "unless we go and buy food." Or you could start a new sentence, "If you want us to feed them, we would have to go and buy food."
-    * **about five thousand men** - "about 5,000 men." This number does not include the women and children who might have been present. (See: [[en:ta:vol2:translate:translate_numbers]])
-    * **Have them sit down** - "Tell them to sit down"
-    * **fifty each** - "50 each" (See: [[en:ta:vol2:translate:translate_numbers]])
+  * **The day began to come to an end** - "As the sun set" or "As the day ended"
+  * **Dismiss the crowds** - "Tell the crowds to go away"
+  * **unless we went and bought food** - AT: "unless we were to go and buy food" or "unless we go and buy food." Or you could start a new sentence, "If you want us to feed them, we would have to go and buy food."
+  * **about five thousand men** - "about 5,000 men." This number does not include the women and children who might have been present. (See: [[:en:ta:vol2:translate:translate_numbers]])
+  * **Have them sit down** - "Tell them to sit down"
+  * **fifty each** - "50 each" (See: [[:en:ta:vol2:translate:translate_numbers]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:09|Luke Chapter 09 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:09:00]]
+  * [[:en:bible:questions:comprehension:luk:09]]
 **[[:en:bible:notes:luk:09:10|<<]] | [[:en:bible:notes:luk:09:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish apostle bread}}
+~~DISCUSSION~~{{tag>publish p2edit apostle bread}}
 
 ~~NOCACHE~~

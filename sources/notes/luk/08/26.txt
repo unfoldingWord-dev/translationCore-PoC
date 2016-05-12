@@ -31,25 +31,29 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:galilee]]
-    * [[en:obe:kt:demon]]
-    * [[en:obe:other:tomb]]
+  * [[:en:obe:other:galilee]]
+  * [[:en:obe:kt:demon]]
+  * [[:en:obe:other:tomb]]
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Jesus and his disciples come ashore at Gerasa where Jesus removes many demons from a man. 
 
-    * **region of the Gerasenes**  - Gerasenes were people from the city called Gerasa. (See: [[:en:ta:vol1:translate:translate_names]])
-    * **opposite Galilee**  -  "on the other side of the lack from Galilee"
-    * **a certain man from the city**  - "a man from the city of Gerasa" 
-    * **had demons**  - "he was controlled by demons"
-    * **he had worn no clothes**  - "he had not worn clothes"
-    * **tombs**  - These are places where people put dead bodies, possibly caves.  The fact that the man was living in them indicates that these were not holes dug down in the ground.
+  * **region of the Gerasenes** - Gerasenes were people from the city called Gerasa. (See: [[:en:ta:vol1:translate:translate_names]])
+  * **opposite Galilee** - "on the other side of the lack from Galilee"
+  * **a certain man from the city** - "a man from the city of Gerasa" 
+  * **and this man had demons** - "a man that demons controlled" or "this man was controlled by demons"
+  * **For a long time he had worn no clothes...but rather in the tombs** - This is background information about the man who had demons. (See: [[:en:ta:vol2:translate:writing_background]])
+  * **he had worn no clothes** - "he had not worn clothes"
+  * **tombs** - These are places where people put dead bodies, possibly caves. The fact that the man was living in them indicates that these were not holes dug down in the ground.
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:08|Luke Chapter 08 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:08:00]]
+  * [[:en:bible:questions:comprehension:luk:08]]
 **[[:en:bible:notes:luk:08:24|<<]] | [[:en:bible:notes:luk:08:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish tomb }}
+~~DISCUSSION~~{{tag>publish p2edit tomb }}
 
 ~~NOCACHE~~

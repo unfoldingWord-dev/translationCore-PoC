@@ -33,13 +33,18 @@
  
 ===== Translation Notes: =====
 
+  * **General Information:** - Verse 19 tells us background information about who Barrabas is. (See: [[:en:ta:vol2:translate:writing_background]])
+
   * **they cried out all together** - "All the people in the crowd shouted"
-  * **Away with this man** - "That this man away!" By this, the crowd meant: "Take this man away and execute him." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **Away with this man** - "Take this man away!" AT: "Take this man away and execute him!" (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **who had been put into prison** - AT: "whom the Romans had put in prison" (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **for** - "because of his involvement in" or "because of his crime of"
   * **a certain rebellion** - "trying to persuade the people of the city to rebel against the Roman government" (UDB)
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:15|<<]] | [[:en:bible:notes:luk:23:20|>>]]**
 
-~~DISCUSSION~~{{tag>publish barabbas rebel}}
+~~DISCUSSION~~{{tag>publish p2edit barabbas rebel}}

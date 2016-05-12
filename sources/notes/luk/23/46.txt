@@ -13,7 +13,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 46 When that happened, Jesus shouted loudly, "Father, I put my spirit into your care!” After he said that, he stopped breathing and died.
+\v 46 When that happened, Jesus shouted loudly, "Father, I put my spirit into your care!" After he said that, he stopped breathing and died.
 \p
 \v 47 When the centurion who was over the soldiers saw what happened, he said, "Indeed, this man has done nothing wrong!"  What he said honored God.
 </usfm>
@@ -29,27 +29,30 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:voice]]
-  * [[en:obe:kt:godthefather]]
-  * [[en:obe:other:hand]]
-  * [[en:obe:kt:spirit]]
-  * [[en:obe:kt:death]]
-  * [[en:obe:other:centurion]]
-  * [[en:obe:kt:glorify]]
-  * [[en:obe:kt:righteous]]
+  * [[:en:obe:other:voice]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:other:hand]]
+  * [[:en:obe:kt:spirit]]
+  * [[:en:obe:kt:death]]
+  * [[:en:obe:other:centurion]]
+  * [[:en:obe:kt:glorify]]
+  * [[:en:obe:kt:righteous]]
  
 
 ===== Translation Notes: =====
 
+  * **Crying with a loud voice, Jesus said, "Father, into your hands I commit my spirit"** - God the Father had to send God the Son to the cross to die as the ultimate sacrifice for the sins of humanity. But, the Son still loves the Father and trusts his life to his Father.
   * **Crying** - "Shouting"
-  * **into your hands I commit my spirit** - AT: "I entrust my spirit to your care" or "I give my spirit to you, knowing you will care for it." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **Father** - This is an important title for God. (See: [[:en:ta:vol2:translate:guidelines_sonofgodprinciples]])
+  * **into your hands I commit my spirit** - AT: "I entrust my spirit to your care" or "I give my spirit to you, knowing you will care for it" (See: [[:en:ta:vol2:translate:figs_metonymy]])
   * **Having said this** - "After Jesus said this"
   * **he died** - "Jesus died"
-  * **what was done** - "what had happened"
-
+  * **what was done** - AT: "what had happened" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:44|<<]] | [[:en:bible:notes:luk:23:48|>>]]**
 
-~~DISCUSSION~~{{tag>publish centurion}}
+~~DISCUSSION~~{{tag>publish p2edit centurion}}

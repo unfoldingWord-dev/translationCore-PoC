@@ -34,15 +34,18 @@
  
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
-    * **servant**  - The word that is translated here as “servant” is normally translated as “boy.” It may indicate that the servant was very young.
-    * **what these things might be** - "what was happening" (UDB)
-    * **the fattened calf** - This can be translated as “the best calf” or “the young bull we have been been giving lots of food to” or “the young animal we have been making fat.”
+
+  * **Now** - This word is used here to mark a break in the main storyline. Here Jesus starts to tell a new part of the story about the older son.
+  * **servant** - The word that is translated here as "servant" is normally translated as "boy." It may indicate that the servant was very young.
+  * **what these things might be** - "what was happening" (UDB)
+  * **the fattened calf** - AT: "the best calf" or "the young animal we have been making fat"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 **[[:en:bible:notes:luk:15:22|<<]] | [[:en:bible:notes:luk:15:28|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

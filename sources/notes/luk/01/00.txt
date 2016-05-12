@@ -1,1 +1,29 @@
-==== intro to chapt 1 =====
+====== Luke 01 General Notes ======
+
+
+=== Structure and formatting ===
+
+Some translations prefer to set apart long prayers or prophesies. For this reason, the ULB and many other English translations indent the lines of 1:46-55, 68-79.
+
+=== Special concepts in this chapter ===
+
+== "He will be called John" ==
+It was unusual in the ancient Near East to use a name for a child that wasn't the name of a relative. Since Elizabeth and Zechariah did not have a person named "John" in their family. This name was very surprising to people.
+
+=== Important figures of speech in this chapter ===
+
+Luke does not use a lot of complex wording. His language is simple and straightforward.
+
+===== Links: =====
+
+  * **[[:en:bible:notes:luk:01:01|Luke 01:01 Notes]]**
+**[[:en:bible:notes:luk:00:intro<<]] | [[:en:bible:notes:luk:02:00|>>]]**
+
+
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft CHTeam}}

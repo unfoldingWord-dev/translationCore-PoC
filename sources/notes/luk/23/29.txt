@@ -37,22 +37,26 @@
 ===== translationWords: =====
 
   * [[:en:obe:kt:bless]]
-  * [[en:obe:kt:barren]]
-  * [[en:obe:other:womb]]
+  * [[:en:obe:kt:barren]]
+  * [[:en:obe:other:womb]]
 
 ===== Translation Notes: =====
 
-  * **in which they will say**  - "when people will say"
-  * **the barren**  - "women who have not given birth to children"
-  * **Then**  - "At that time"
-  * **to the hills**  - "they will say to the hills"
-  * **For if they do these things while the tree is green, what will happen when it is dry?**  - This is a rhetorical question. It can be translated as a statement: "You can see that they are doing these bad things while the tree is green, so you can be sure that they will do worse things when the tree is dry." The meaning is "You see that they are doing bad things now in good times, so you can be sure they will do worse things in the bad times in the future." (See: [[en:ta:vol1:translate:figs_rquestion]])
-  * **the tree is green**  - The green tree is a metaphor for something good in the present. If your language has a similar metaphor, you should use it here. (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **it is dry**  - The dry wood is a metaphor for something bad in the future.  (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **they**  - This can refer to either the Romans or the Jewish leaders or no one in particular.
+  * **Connecting Statement:** - Jesus finishes speaking to the crowd.
+
+  * **in which they will say** - "when people will say"
+  * **the barren** - "women who have not given birth to children"
+  * **Then** - "At that time"
+  * **to the hills** - AT: "they will say to the hills" (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **For if they do these things while the tree is green, what will happen when it is dry?** - Jesus uses a question to help the crowd understand that people are doing bad things now in good times, so certainly they will do worse things in the bad times in the future. AT: "You can see that they are doing these bad things while the tree is green, so you can be sure that they will do worse things when the tree is dry." (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **the tree is green** - The green tree is a metaphor for something good in the present. If your language has a similar metaphor, you should use it here. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **it is dry** - The dry wood is a metaphor for something bad in the future. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **they** - This can refer to either the Romans or the Jewish leaders or no one in particular.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:27|<<]] | [[:en:bible:notes:luk:23:32|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}

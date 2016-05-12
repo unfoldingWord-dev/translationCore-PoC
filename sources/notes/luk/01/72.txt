@@ -38,45 +38,50 @@
 ===== ULB: =====
 
 <usfm>
-\q \v 72 He has done this to show mercy towards our ancestors,
-\q And to remember his holy covenant.
-\q \v 73 That covenant is the oath which he spoke to Abraham our ancestor.
-\q \v 74 He made an oath to set us free from the hand of our enemies 
-\q and to enable us to serve him without fear,
-\q \v 75 in holiness and righteousness before him all our days.
+\q 
+\v 72 He will do this to show mercy to our fathers    
+\q and to remember his holy covenant,
+\q 
+\v 73 the oath that he spoke to Abraham our father.
+\q 
+\v 74 He swore to grant to us that we, having been delivered out of the hand of our enemies,
+\q would serve him without fear,
+\q 
+\v 75 in holiness and righteousness before him all our days.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:mercy]]
-  * [[en:obe:kt:holy]]
-  * [[en:obe:kt:covenant]]
-  * [[en:obe:other:oath]]
-  * [[en:obe:other:abraham]]
-  * [[en:obe:kt:free]]
-  * [[en:obe:other:serve]]
-  * [[en:obe:kt:fear]]
-  * [[en:obe:kt:righteous]]
+  * [[:en:obe:kt:mercy]]
+  * [[:en:obe:other:father]]
+  * [[:en:obe:kt:holy]]
+  * [[:en:obe:kt:covenant]]
+  * [[:en:obe:other:oath]]
+  * [[:en:obe:other:abraham]]
+  * [[:en:obe:kt:deliverer]]
+  * [[:en:obe:other:serve]]
+  * [[:en:obe:kt:righteous]]
 
 ===== Translation Notes: =====
 
-Zechariah prophesies after he is able to speak again.
-
-    * **to show mercy towards** - "to be merciful to" or "to act according to his mercy toward"
-    * **remember** - Here the word "remember" means to keep a commitment or fulfill something.
-    * **from the hand of our enemies** -  "Hand" refers to the harmful control or power a person has over another person. AT: "from the control of our enemies" (See: [[en:ta:vol2:translate:figs_metonymy]])
-    * **without fear** - AT: "without being afraid of our enemies"
-    * **in holiness and righteousness** - AT: "while we live in a holy and righteous way" or "to live holy lives and do what is right"
-    * **before him** - "in his presence." AT:  "according to his will."
-    * **all our days** - "our entire life"
-
+  * **to show mercy to** - "to be merciful to" or "to act according to his mercy toward"
+  * **remember** - Here the word "remember" means to keep a commitment or fulfill something.
+  * **his holy covenant...the oath that he spoke** - These two phrases refer to the same thing. They are repeated to show the seriousness of God's promise to Abraham. (See: [[:en:ta:vol2:translate:figs_parallelism]])
+  * **to grant to us** - "to make it possible for us"
+  * **that we, having been delivered...would serve him without fear** - It may be helpful to change the order of these phrases. AT: "that we would serve him without fear after we are rescued from the power of our enemies."
+  * **out of the hand of our enemies** - "hand" refers to the control or power a person. This could be stated clearly. AT: "from the control of our enemies." (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **without fear** - This refers back to the fear of their enemies. This could be stated. AT: "without being afraid of our enemies." (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **in holiness and righteousness** - These could be expressed as actions. AT: "to live in a pure way and to do what is right" (See: [[:en:ta:vol2:translate:figs_abstractnouns]])
+  * **before him** - "in his presence" (See: [[:en:ta:vol1:translate:figs_idiom]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:69|<<]] | [[:en:bible:notes:luk:01:76|>>]]**
 
-~~DISCUSSION~~{{tag>publish covenant }}
+~~DISCUSSION~~{{tag>publish p2check covenant}}
 
 ~~NOCACHE~~

@@ -27,23 +27,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:worship]]
-  * [[en:obe:other:jerusalem]]
-  * [[en:obe:kt:joy]]
-  * [[en:obe:kt:temple]]
-  * [[en:obe:kt:bless]]
-  * [[en:obe:kt:god]]
+  * [[:en:obe:kt:worship]]
+  * [[:en:obe:other:jerusalem]]
+  * [[:en:obe:kt:joy]]
+  * [[:en:obe:kt:temple]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:god]]
  
 
 ===== Translation Notes: =====
 
-    * **they worshiped him** - This means to bow down, kneel or lie face down at the feet of another in reverence, humility, or awe.
-    * **continually in the temple** - They went into the temple courtyard every day.
-    * **blessing God** - "praising God" (UDB)
+  * **General Information:** - These verses tell us about the ongoing actions of the disciples as the story ends. (See: End of Story)
+
+  * **they worshiped him** - This means to bow down, kneel or lie face down at the feet of another in reverence, humility, or awe.
+  * **continually in the temple** - They went into the temple courtyard every day.
+  * **blessing God** - "praising God" (UDB)
  
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:50|<<]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit talink}}

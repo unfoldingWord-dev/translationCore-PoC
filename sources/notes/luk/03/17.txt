@@ -25,34 +25,30 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:winnow]]
-  * [[en:obe:other:thresh]]
-  * [[en:obe:other:wheat]]
-  * [[en:obe:other:storehouse]]
-  * [[en:obe:other:chaff]]
-  * [[en:obe:other:thresh]]
-
+  * [[:en:obe:other:winnow]]
+  * [[:en:obe:other:thresh]]
+  * [[:en:obe:other:wheat]]
+  * [[:en:obe:other:storehouse]]
+  * [[:en:obe:other:chaff]]
+  * [[:en:obe:other:thresh]]
 
 ===== Translation Notes: =====
-John continues teaching about the Christ.
 
-  * **His winnowing fork is in his hand** - AT: "He is holding a winnowing fork because he is ready" (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **His winnowing fork** - This word picture compares how the Christ will separate the righteous people from the unrighteous people to how a man separates wheat grain from chaff. AT: "The Christ is like a man whose winnowing fork is in his hand."(See: [[en:ta:vol1:translate:figs_metaphor]], [[en:ta:vol1:translate:figs_simile]])
-  * **winnowing fork** - This is a tool for tossing wheat up into the air to separate the wheat grain from the chaff. The heavier grain falls back down and the unwanted chaff is blown away by the wind. It is similar to a pitchfork. (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **his threshing floor** - AT: "his ground" or "the ground where he separates the grain from the chaff" (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **to gather the wheat** - AT: "then he will gather the wheat" (See: [[en:ta:vol1:translate:figs_metaphor]])
-  * **burn up the chaff** - The chaff is not useful for anything, so people burn it up. (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **His winnowing fork is in his hand** - A farmer who is ready to separate wheat grain from chaff is a metaphor for Christ who is ready to judge people. AT: "He is holding a winnowing fork because he is ready." (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **winnowing fork** - This is a tool for tossing wheat into the air to separate the wheat grain from the chaff. The heavier grain falls back down and the unwanted chaff is blown away by the wind. It is similar to a pitchfork.
+  * **to thoroughly clear off his threshing floor** - The threshing floor is the place where wheat was stacked in preparation for threshing. To "clear off" the floor is an idiom that means to finish threshing the grain. AT: "to finish threshing his grain." (See: [[:en:ta:vol1:translate:figs_idiom]])
+  * **to gather the wheat** - The wheat is the acceptable harvest that is kept and stored.
+  * **burn up the chaff** - The chaff is not useful for anything, so people burn it up.
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
-
-
-
-**[[en/bible/notes:luk/03/15|<<]] | [[en/bible/notes:luk/03/18|>>]]** 
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
+**[[:en/bible/notes:luk/03/15|<<]] | [[:en/bible/notes:luk/03/18|>>]]** 
 
 
 ~~DISCUSSION~~
-
  
-{{tag>publish wheat chaff thresh p2review}}
+{{tag>publish p2check wheat chaff thresh}}
+
 ~~NOCACHE~~

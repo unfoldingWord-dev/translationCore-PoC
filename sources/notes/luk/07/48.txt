@@ -30,25 +30,26 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:kt:sin]]
-    * [[en:obe:kt:forgive]]
-    * [[en:obe:kt:jesus]]
-    * [[en:obe:kt:faith]]
-    * [[en:obe:kt:save]]
-    * [[en:obe:other:peace]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:forgive]]
+  * [[:en:obe:kt:jesus]]
+  * [[:en:obe:kt:faith]]
+  * [[:en:obe:kt:save]]
+  * [[:en:obe:other:peace]]
 
 ===== Translation Notes: =====
 
-  * **Your sins are forgiven**  - "You are forgiven." AT: "I forgive your sins." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **Your faith has saved you**  - "Because of your faith, you are saved." AT: "Because you believe, you are saved." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **Go in peace**  - This is a way of saying "Good-bye" and giving a blessing at the same time. AT: "As you go, do not worry anymore" or "May God give you peace as you go" (UDB).
+  * **Your sins are forgiven** - "You are forgiven." AT: "I forgive your sins." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Your faith has saved you** - "Because of your faith, you are saved." AT: "Because you believe, you are saved."
+  * **Go in peace** - This is a way of saying good-bye while giving a blessing at the same time. AT: "As you go, do not worry anymore" or "May God give you peace as you go" (UDB).
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:07|Luke Chapter 07 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:07:00]]
+  * [[:en:bible:questions:comprehension:luk:07]]
 **[[:en:bible:notes:luk:07:46|<<]] | [[:en:bible:notes:luk:08:01|>>]]**
 
-~~DISCUSSION~~{{tag>publish peace}}
+~~DISCUSSION~~{{tag>publish p2edit peace}}
 
 ~~NOCACHE~~

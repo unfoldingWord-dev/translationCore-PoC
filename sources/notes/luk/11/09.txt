@@ -27,25 +27,26 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:seek]]
+  * [[:en:obe:other:seek]]
 ===== Translation Notes: =====
-Jesus continues to teach his disciples about prayer.
-  * **ask … seek … knock**  - Jesus gave these commands to encourage his disciples to pray continually. Use the form of "you" that would be most appropriate in this context. AT: "keep asking … keep seeking … keep knocking". (See: [[en:ta:vol1:translate:figs_you]])
-  * **ask**  - Some languages may require more information with this verb. AT: "Ask God for what you need." "Seek what you need from God" and "Knock on the door."
-  * **it will be given to you**  - AT: "God will give it to you" or "you will receive it." (See: [[en:ta:vol2:translate:figs_activepassive]])
-  * **knock**  - To knock at a door is to hit it a few times to let a person inside the house know you are standing outside. It can also be translated using the way people in your culture show that they have arrived, such as "call out" or "cough" or "clap."
-  * **it will be opened to you**  - AT: "God will open the door for you" or "God will welcome you inside."  (See: [[en:ta:vol2:translate:figs_activepassive]])
+
+  * **ask...seek...knock** - Jesus gave these commands to encourage his disciples to pray continually. Some languages may also require more information with these verbs. Use the form of "you" that would be most appropriate in this context. AT: "keep asking for what you need...keep seeking what you need from God...keep knocking on the door." (See: [[:en:ta:vol1:translate:figs_you]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **it will be given to you** - AT: "God will give it to you" or "you will receive it" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **knock** - To knock at a door is to hit it a few times to let a person inside the house know you are standing outside. It can also be translated using the way people in your culture show that they have arrived, such as "call out" or "cough" or "clap." Here, it means a person should keep praying to God until he answers. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **it will be opened to you** - AT: "God will open the door for you" or "God will welcome you inside" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 
  
 
-**[[en/bible/notes/luk/11/05|<<]] | [[en/bible/notes/luk/11/11|>>]]**
+**[[:en:bible:notes:luk:11:05|<<]] | [[:en:bible:notes:luk:11:11|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit}}
 ~~NOCACHE~~

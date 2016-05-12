@@ -34,16 +34,16 @@
  
 
 ===== Translation Notes: =====
-Jesus continues telling his parable.
 
-    * **The Pharisee stood and prayed these things about himself**  - The meaning of the Greek text of this phrase is not clear. Possible meanings are 1) "The Pharisee stood and prayed about himself in this way" or 2) "The Pharisee stood by himself and prayed."
-    * **robbers** - A robber is someone who steals things by forcing people to give them to him, or by threatening to force them.
-    * **fast**  - "To fast" means not to eat a meal. The Pharisees did this twice a week.
-    * **get**  - "earn"
+  * **The Pharisee stood and prayed these things about himself** - The meaning of the Greek text of this phrase is not clear. Possible meanings are 1) "The Pharisee stood and prayed about himself in this way" or 2) "The Pharisee stood by himself and prayed."
+  * **robbers** - A robber is someone who steals things by forcing people to give them to him, or by threatening to force them.
+  * **get** - "earn"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:18|Luke Chapter 18 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:18:00]]
+  * [[:en:bible:questions:comprehension:luk:18]]
 **[[:en:bible:notes:luk:18:09|<<]] | [[:en:bible:notes:luk:18:13|>>]]**
 
-~~DISCUSSION~~{{tag>publish pharisee }}
+~~DISCUSSION~~{{tag>publish p2edit pharisee }}

@@ -31,26 +31,29 @@
   * [[:en:obe:kt:temple]]
   * [[:en:obe:other:chiefpriests]]
   * [[:en:obe:other:scribe]]
-  * [[en:obe:other:jewishleaders]]
+  * [[:en:obe:other:jewishleaders]]
 
  
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - This is the end of this part of the story. These verses tell about on-going action that continues after the main part of the story ends. (See: [[End of Story]])
 
-  * **in the temple**  - "in the temple courtyard" or "at the temple"
+  * **in the temple** - "in the temple courtyard" or "at the temple"
   * **chief priests** - "highest-ranking priests" of "most important priests"
-  * **were listening to him intently**  - “were paying close attention to what Jesus was saying”
+  * **were listening to him intently** - "were paying close attention to what Jesus was saying"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/45|<<]] | [[en/bible/notes/luk/20/01|>>]]**
+**[[:en:bible:notes:luk:19:45|<<]] | [[:en:bible:notes:luk:20:01|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit talink}}
 ~~NOCACHE~~

@@ -30,24 +30,23 @@
 
 ===== translationWords: =====
 
-
-    * [[en:obe:other:taxcollector]]
-    * [[en:obe:kt:baptize]]
-    * [[en:obe:kt:teacher]]
+  * [[:en:obe:other:taxcollector]]
+  * [[:en:obe:kt:baptize]]
+  * [[:en:obe:kt:teacher]]
 
 ===== Translation Notes: =====
 
-
-    * **to be baptized** - "for John to baptize them" (See: [[:en:ta:vol2:translate:figs_activepassive]])
-    * **Do not collect more money** - "Do not ask for more money." The tax collectors were collecting more money than they should have been. They should stop doing that.
-    * **than you are supposed to** - "than you have been given authority to take"
-
+  * **to be baptized** - This could be stated in active form. AT: "for John to baptize them." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **Do not collect more money** - "Do not ask for more money" or "Do not demand more money." The tax collectors were collecting more money than they should have been. They should stop doing that.
+  * **than you are supposed to** - This clause is passive to show that the tax collector's authority comes from Rome. AT: "than what the Romans have authorized you to take." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:03|Luke Chapter 3 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:03:00]]
+  * [[:en:bible:questions:comprehension:luk:03]]
 
 **[[:en:bible:notes:luk:03:10|<<]] | [[:en:bible:notes:luk:03:14|>>]]**
 
-~~DISCUSSION~~{{tag>publish taxcollector p2review }}
+~~DISCUSSION~~{{tag>publish p2check taxcollector}}
 
 ~~NOCACHE~~

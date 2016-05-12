@@ -35,22 +35,26 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:kt:lord]]
-    * [[en:obe:other:pharisee]]
-    * [[en:obe:kt:evil]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:pharisee]]
+  * [[:en:obe:kt:evil]]
 
 ===== Translation Notes: =====
 
-    * **the outside of cups and bowls** - Washing of the outside of containers was a part of the ritual practices of the Pharisees. 
-    * **but the inside of you is filled with greed and evil** - This is a metaphor that compares the way they ignore the inside of the container to how they ignore their own internal condition. (See: [[en:ta:vol1:translate:figs_metaphor]])
-    * **Did not the one who made the outside also make the inside?** - This is a rhetorical question. Jesus was rebuking the Pharisees for not understanding that what is in their hearts matters to God. It can be translated as a statement as it is in the UDB. (See: [[en:ta:vol1:translate:figs_rquestion]])
-    * **Give to the poor what is inside**  - "Give what is inside to poor people." The meaning is "Focus on using the inside for God instead of only cleaning the outside."
+  * **General Information:** - Jesus begins to speak to the Pharisee.
+
+  * **the outside of cups and bowls** - Washing of the outside of containers was a part of the ritual practices of the Pharisees. 
+  * **but the inside of you is filled with greed and evil** - This compares the way they ignore the inside of the container to how they ignore their own internal condition. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **Did not the one who made the outside also make the inside?** - Jesus uses a question to rebuke the Pharisees for not understanding that what is in their hearts matters to God. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **Give to the poor what is inside** - AT: "Give to the poor what is inside you cups and bowls" or "Be generous to the poor"
  
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:11|Luke Chapter 11 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:11:00]]
+  * [[:en:bible:questions:comprehension:luk:11]]
 **[[:en:bible:notes:luk:11:37|<<]] | [[:en:bible:notes:luk:11:42|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

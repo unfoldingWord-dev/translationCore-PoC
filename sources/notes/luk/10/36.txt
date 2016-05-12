@@ -34,23 +34,24 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:neighbor]]
-    * [[en:obe:kt:mercy]]
-    * [[en:obe:kt:jesus]]
+  * [[:en:obe:other:neighbor]]
+  * [[:en:obe:kt:mercy]]
+  * [[:en:obe:kt:jesus]]
 
 
 ===== Translation Notes: =====
-Jesus continues speaking to the man who asked "Who is my neighbor?"
 
-    * **Which of these three, do you think** - AT: "What do you think? Which of these three men." 
-    * **was a neighbor** - "showed himself to be a true neighbor" (UDB)
-    * **to him who fell among the robbers** - "to the man who was attacked by robbers"
+  * **Which of these three, do you think** - AT: "What do you think? Which of these three men" 
+  * **was a neighbor** - "showed himself to be a true neighbor" (UDB)
+  * **to him who fell among the robbers** - "to the man whom the robbers attacked"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 **[[:en:bible:notes:luk:10:33|<<]] | [[:en:bible:notes:luk:10:38|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

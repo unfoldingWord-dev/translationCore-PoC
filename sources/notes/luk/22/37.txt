@@ -33,25 +33,28 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:written]]
-  * [[en:obe:kt:fulfill]]
-  * [[en:obe:other:lawless]]
-  * [[en:obe:kt:lord]]
+  * [[:en:obe:other:written]]
+  * [[:en:obe:kt:fulfill]]
+  * [[:en:obe:other:lawless]]
+  * [[:en:obe:kt:lord]]
  
 
 ===== Translation Notes: =====
 
+  * **Connecting Statement:** - Jesus finishes speaking with his disciples.
 
-  * **what is written about me** - "what a prophet wrote about me in the scriptures" (UDB)
-  * **must be fulfilled** - The apostles would have understood that God would cause everything written in the scriptures to happen. You could make this explicit by rewording the entire phrase: "God will cause everything that is written in the scriptures to be fulfilled." (See: [[en:ta:vol1:translate:figs_explicit]])
-  * **he was regarded as one of the lawless** - "people considered him to be one of the lawless people." Some languages may need to state explicitly "this is written in the scripture, 'He was considered with the lawless." (See: [[en:ta:vol1:translate:figs_explicit]])
+  * **what is written about me** - AT: "what a prophet wrote about me in the scriptures" (UDB) (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **must be fulfilled** - The apostles would have understood that God would cause everything written in the scriptures to happen. AT: "God will fulfill" or "God will cause to happen." (See: [[:en:ta:vol1:translate:figs_explicit]] and [[:en:ta:vol2:translate:figs_activepassive]])
+  * **he was regarded as one of the lawless** - Here Jesus is quoting the scriptures. AT: "people considered him to be one of the lawless people." (See: [[:en:ta:vol2:translate:figs_activepassive]]) 
   * **the lawless** - "those who break the law" or "criminals"
-  * **For what is predicted about me is being fulfilled** - This phrase is not clear in the Greek. Another possible meaning is "My life is coming to an end."
+  * **For what is predicted about me is being fulfilled** - Possible meanings are 1) "For what the prophet predicted about me is about to happen" or 2) "For my life is coming to an end." (See: [[:en:ta:vol2:translate:figs_activepassive]])
   * **they said** - This refers to at least two of Jesus' apostles.
   * **It is enough** - Possible meanings are 1) "That is enough swords" or 2) "That is enough talk about this." When Jesus said that they should buy swords, he was mainly telling them about the danger they would all face. He may not have really wanted them to buy swords and fight.
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:22|Luke Chapter 22 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:22:00]]
+  * [[:en:bible:questions:comprehension:luk:22]]
 **[[:en:bible:notes:luk:22:35|<<]] | [[:en:bible:notes:luk:22:39|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit text}}

@@ -25,32 +25,33 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:holyspirit]]
-    * [[en:obe:other:praise]]
-    * [[en:obe:kt:godthefather]]
-    * [[en:obe:kt:lordgod]]
-    * [[en:obe:kt:heaven]]
-    * [[en:obe:other:earth]]
-    * [[en:obe:kt:wise]]
-    * [[en:obe:other:understand]]
-    * [[en:obe:kt:reveal]]
+  * [[:en:obe:kt:holyspirit]]
+  * [[:en:obe:other:praise]]
+  * [[:en:obe:kt:godthefather]]
+  * [[:en:obe:kt:lordgod]]
+  * [[:en:obe:kt:heaven]]
+  * [[:en:obe:other:earth]]
+  * [[:en:obe:kt:wise]]
+  * [[:en:obe:other:understand]]
+  * [[:en:obe:kt:reveal]]
 
 
 ===== Translation Notes: =====
-Jesus begins to speak directly to his Father in the presence of the disciples.
 
-  * **Lord of heaven and earth**  - "Master over everyone and everything in heaven and earth" (See: [[:en:ta:vol2:translate:figs_metonymy]], [[:en:ta:vol2:translate:figs_merism]])
-  * **these things**  - This refers to Jesus' previous teaching about the authority of the disciples. It may be best to simply say "these things" and let the reader determine the meaning.
-  * **the wise and understanding**  - "from people who are wise and understanding." AT: "from people who think they are wise and understanding." (See: [[en:ta:vol1:translate:figs_irony]])
-  * **untaught, like little children**  - The term in the Greek refers to a very young child. Possible meanings are 1) "untaught" (ULB) or 2) "who accept your truth readily" (UDB).
-  * **like little children**  - This is a simile for people who are not wise and knowledgeable, or people who know that they are not wise and knowledgeable. (See: [[en:ta:vol1:translate:figs_simile]])
-  * **for so it was well pleasing in your sight**  - "for you saw that it was good to do that"
+  * **Lord of heaven and earth** - AT: "Master over everyone and everything in heaven and earth" (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_merism]])
+  * **these things** - This refers to Jesus' previous teaching about the authority of the disciples. It may be best to simply say "these things" and let the reader determine the meaning.
+  * **the wise and understanding** - "from people who are wise and understanding." AT: "from people who think they are wise and understanding." (See: [[:en:ta:vol1:translate:figs_irony]])
+  * **those who are untaught** - This refers to those who do not think of themselves as wise and are willing to accept Jesus' teachings.
+  * **like little children** - "as little children." This represents people who know that they are not wise and knowledgeable. 
+  * **for so it was well pleasing in your sight** - AT: "for you doing this pleases you"
 
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:10|Luke Chapter 10 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:10:00]]
+  * [[:en:bible:questions:comprehension:luk:10]]
 **[[:en:bible:notes:luk:10:17|<<]] | [[:en:bible:notes:luk:10:22|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

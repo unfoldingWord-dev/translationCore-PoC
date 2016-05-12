@@ -15,7 +15,7 @@
 ===== UDB: =====
 
 <usfm>
-\v 10 Instead, when you are invited to a feast, go and sit in the least important seat. Then when the man who invited everyone comes, he will say to you, ‘Friend, come sit in a better seat!’ Then all the people who are eating with you will see that he is honoring you.
+\v 10 Instead, when you are invited to a feast, go and sit in the least important seat. Then when the man who invited everyone comes, he will say to you, 'Friend, come sit in a better seat!' Then all the people who are eating with you will see that he is honoring you.
 \v 11 For God will humble those who exalt themselves, and he will exalt those who humble themselves."
 
 
@@ -32,28 +32,34 @@
 
 
 ===== translationWords: =====
-  * [[en:obe:kt:exalt]]
-  * [[en:obe:other:humble]]
+  * [[:en:obe:kt:exalt]]
+  * [[:en:obe:other:humble]]
 
 
 ===== Translation Notes: =====
-Jesus continues speaking to the people at the Pharisee's house.
-    * **the lowest place**  - "the seat meant for the least important person"
-    * **go up higher**  - "Move to a seat higher honor"
-    * **who exalts himself**  - "tries to look important" or "who takes an important position"
-    * **will be humbled** - "will be shown to be unimportant" or "will be give an unimportant position"
-    * **humbles himself**  - "who chooses to look unimportant" or "who takes an unimportant position"
-    * **will be exalted**  - "will be shown to be important" or "will be given an important position"
+
+  * **Connecting Statement:** - Jesus continues speaking to the people at the Pharisee's house.
+
+  * **when you are invited** - AT: "when someone invites you to a meal" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **the lowest place** - "the seat meant for the least important person"
+  * **go up higher** - "move to a seat for more important people"
+  * **Then you will be honored** - AT: "Then the one who invited you will honor you" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **who exalts himself** - "tries to look important" or "who takes an important position"
+  * **will be humbled** - "will be shown to be unimportant" or "will be given an unimportant position." AT: "God will humble." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **humbles himself** - "who chooses to look unimportant" or "who takes an unimportant position"
+  * **will be exalted** - "will be shown to be important" or "will be given an important position." AT: "God will exalt." (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:14|Luke Chapter 14 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:14:00]]
+  * [[:en:bible:questions:comprehension:luk:14]]
 
  
 
-**[[en/bible/notes/luk/14/07|<<]] | [[en/bible/notes/luk/14/12|>>]]**
+**[[:en:bible:notes:luk:14:07|<<]] | [[:en:bible:notes:luk:14:12|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish humble}}
+{{tag>publish p2edit humble}}
 ~~NOCACHE~~

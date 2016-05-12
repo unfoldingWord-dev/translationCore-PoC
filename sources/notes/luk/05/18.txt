@@ -27,28 +27,27 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:kt:jesus]]
+  * [[:en:obe:kt:jesus]]
  
 
 ===== Translation Notes: =====
 
-    * **Now some men came** - These are new people in the story. Your language may have a way of showing that these are new people. English can also do it with "There were men who came."
-    * **mat**  - AT: "sleeping pad" or "bed" or "stretcher" or "couch."
-    * **was paralyzed**  -  "could not move himself" 
-    * **They could not find a way to bring him in because of the crowd** - In some languages it might be more natural to reorder this. "But because of the crowd of people, they could not find a way to bring the man inside. So...."
-    * **they went up to the housetop** - Houses had flat roofs, and some houses had a ladder or staircase outside to make it easy to go up there.
-    * **right in front of Jesus** - "directly in front of Jesus" or "immediately in front of Jesus"
+  * **Now some men came** - These are new people in the story. Your language may have a way of showing that these are new people. (See: [[:en:ta:vol2:translate:writing_participants]])
+  * **mat** - "sleeping pad" or "bed" or "stretcher"
+  * **was paralyzed** - "could not move himself" 
+  * **They could not find a way to bring him in because of the crowd, so** - In some languages it might be more natural to reorder this. "But because of the crowd of people, they could not find a way to bring the man inside. So"
+  * **because of the crowd** - It is clear that the reason they could not enter was that crowd was so large that there was no room for them. (See: [[:en:ta:vol2:translate:figs_ellipsis]])
+  * **they went up to the housetop** - Houses had flat roofs, and some houses had a ladder or staircase outside to make it easy to go up there. This could be stated. AT: "they went up to the flat roof of the house." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **right in front of Jesus** - "directly in front of Jesus" or "immediately in front of Jesus"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/05/17|<<]] | [[en/bible/notes/luk/05/20|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
+**[[:en:bible:notes:luk:05:17|<<]] | [[:en:bible:notes:luk:05:20|>>]]**
 
 
 ~~DISCUSSION~~
 
-
-{{tag>publish}}
+{{tag>publish p2check}}
 ~~NOCACHE~~

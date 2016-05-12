@@ -28,19 +28,21 @@
 
 ===== translationWords: =====
 
-  * [[en:obe:other:pilate]]
-  * [[en:obe:other:chiefpriests]]
-  * [[en:obe:other:ruler]]
+  * [[:en:obe:other:pilate]]
+  * [[:en:obe:other:chiefpriests]]
+  * [[:en:obe:other:ruler]]
  
 
 ===== Translation Notes: =====
 
-  * **called together the chief priests and the rulers and the crowd of people**  - "called the chief priests and the rulers and the crowd of people to come meet together"
-  * **I, having questioned him before you **- "I have questioned Jesus in your presence." This could also be translated as "I have questioned Jesus with you here as witnesses."
-  * **find no fault**  - "do not think that he is guilty" (UDB)
+  * **called together the chief priests and the rulers and the crowd of people** - "called the chief priests and the rulers and the crowd of people to come meet together"
+  * **I, having questioned him before you** - "I have questioned Jesus in your presence." AT: "I have questioned Jesus with you here as witnesses."
+  * **find no fault** - "do not think that he is guilty" (UDB)
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:23|Luke Chapter 23 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:23:00]]
+  * [[:en:bible:questions:comprehension:luk:23]]
 **[[:en:bible:notes:luk:23:11|<<]] | [[:en:bible:notes:luk:23:15|>>]]**
 
-~~DISCUSSION~~{{tag>publish pilate}}
+~~DISCUSSION~~{{tag>publish p2edit pilate}}

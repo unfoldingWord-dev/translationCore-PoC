@@ -33,22 +33,24 @@
 
 ===== Translation Notes: =====
 
-  * **drew near**  - "approached" or "went near"
-  * **the city**  - This refers to Jerusalem.
-  * **he wept over it**  - The word "it" refers to the city of Jerusalem, but it represents the people who lived in that city. (See: [[en:ta:vol2:translate:figs_metonymy]])
-  * **If only you had known**  - This can be translated as "I wish so much that you knew or "I am very sad because you do not know." This is an exclamation. Jesus was expressing his sadness that the people of Jerusalem did not know these things.  The implied information can be added to the end of the sentence: "then you could have had peace."  (See: [[en:ta:vol2:translate:figs_sentences]], [[en:ta:vol1:translate:figs_explicit]])
-  * **you**  - The word "you" is singular because Jesus was speaking to the city. But if this would be unnatural in your language, you could use a plural form of "you" to refer to the people of the city. (See: [[en:ta:vol1:translate:figs_you]])
-  * **they are hidden from your eyes**  - This can be translated as "you can no longer see them" or "you are unable to know it" (UDB).
+  * **drew near** - "approached" or "went near"
+  * **the city** - This refers to Jerusalem.
+  * **he wept over it** - The word "it" refers to the city of Jerusalem, but it represents the people who lived in that city. (See: [[:en:ta:vol2:translate:figs_metonymy]])
+  * **If only you had known** - This is an exclamation. Jesus was expressing his sadness that the people of Jerusalem did not know these things. The implied information can be added to the end of the sentence: "then you could have had peace." AT: "I wish so much that you knew or "I am very sad because you do not know." (See: [[:en:ta:vol2:translate:figs_sentences]] and [[:en:ta:vol1:translate:figs_explicit]])
+  * **you** - The word "you" is singular because Jesus was speaking to the city. But if this would be unnatural in your language, you could use a plural form of "you" to refer to the people of the city. (See: [[:en:ta:vol1:translate:figs_you]])
+  * **they are hidden from your eyes** - AT: "you can no longer see them" or "you are unable to know it" (UDB) (See: [[:en:ta:vol2:translate:figs_metonymy]] and [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:19|Luke Chapter 19 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:19:00]]
+  * [[:en:bible:questions:comprehension:luk:19]]
 
  
 
-**[[en/bible/notes/luk/19/39|<<]] | [[en/bible/notes/luk/19/43|>>]]**
+**[[:en:bible:notes:luk:19:39|<<]] | [[:en:bible:notes:luk:19:43|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish}}
+{{tag>publish p2edit p2review}}
 ~~NOCACHE~~

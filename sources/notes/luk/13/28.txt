@@ -29,7 +29,7 @@
 
 <usfm>
 \v 28 There will be crying and the grinding of teeth when you see Abraham, Isaac, Jacob and all the prophets in God's kingdom, but you—you were thrown outside.
-\v 29 They will arrive from the east, west,north, and south, and relax at the dinner table in the kingdom of God. 
+\v 29 They will arrive from the east, west, north, and south, and relax at the dinner table in the kingdom of God. 
 \v 30 And know this, the last are the first, and the first will be last."
 </usfm>
 
@@ -37,22 +37,26 @@
 ===== translationWords: =====
 
 
-    * [[en:obe:other:gnashteeth]]
-    * [[en:obe:other:abraham]]
-    * [[en:obe:other:isaac]]
-    * [[en:obe:other:jacob]]
-    * [[en:obe:kt:prophet]]
-    * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:other:gnashteeth]]
+  * [[:en:obe:other:abraham]]
+  * [[:en:obe:other:isaac]]
+  * [[:en:obe:other:jacob]]
+  * [[:en:obe:kt:prophet]]
+  * [[:en:obe:kt:kingdomofgod]]
 ===== Translation Notes: =====
-Jesus continues to talk about going into God's kingdom.
-    * **but you—you were thrown outside** - "but you yourselves will have been thrown outside"
-    * **They will arrive**  - "People will come"
-    * **the last are the first** - This is about honor or importance. It can be translated as "Some who are the least important will be the most important" or "Some who are dishonored will be honored."
+
+  * **Connecting Statement:** - Jesus continues to talk about entering into God's kingdom. This is the end of this conversation.
+
+  * **but you—you were thrown outside** - "but you yourselves will have been thrown outside." AT: "but God will have forced you outside." (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **They will arrive** - "People will come"
+  * **the last are the first** - This is about honor or importance. AT: "some who are the least important will be the most important" or "some whom people dishonor, God will honor."
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:13|Luke Chapter 13 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:13:00]]
+  * [[:en:bible:questions:comprehension:luk:13]]
 **[[:en:bible:notes:luk:13:25|<<]] | [[:en:bible:notes:luk:13:31|>>]]**
 
-~~DISCUSSION~~{{tag>publish}}
+~~DISCUSSION~~{{tag>publish p2edit}}
 
 ~~NOCACHE~~

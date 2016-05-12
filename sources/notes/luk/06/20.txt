@@ -34,27 +34,27 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:bless]]
-    * [[en:obe:kt:kingdomofgod]]
+  * [[:en:obe:kt:bless]]
+  * [[:en:obe:kt:kingdomofgod]]
 
 
 ===== Translation Notes: =====
 
-  * **Blessed are you** - This phrase is repeated three times. Each time, it indicates that God gives favor to someone or that their situation is positive or good.
-  * **Blessed are you who are poor**  - "You who are poor receive God's favor" or "Bou who are poor benefit" or "How good it is for you who who are poor" or "It is very good for you who are poor"
-  * **yours is the kingdom of God**  - "the kingdom of God belongs to you." This could mean 1) "you belong to God's kingdom" or 2) "you will have authority in God's kingdom." Languages that don't have a word for kingdom might say "God is your king" or "God is your ruler."
-  * **you will laugh**  - "you will laugh with joy" or "you will be joyful"
+  * **Blessed are you** - This phrase is repeated three times. Each time, it indicates that God gives favor to certain people or that their situation is positive or good.
+  * **Blessed are you who are poor** - "You who are poor receive God's favor" or "You who are poor benefit" 
+  * **for yours is the kingdom of God** - Languages that don't have a word for kingdom might say, "for God is your king" or "because God is your ruler." 
+  * **yours is the kingdom of God** - "the kingdom of God belongs to you." This could mean 1) "you belong to God's kingdom" or 2) "you will have authority in God's kingdom."
+  * **you will laugh** - "you will laugh with joy" or "you will be joyful"
+
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:06|Luke Chapter 06 Comprehension Questions]]**
-
- 
-
-**[[en/bible/notes/luk/06/17|<<]] | [[en/bible/notes/luk/06/22|>>]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:06:00]]
+  * [[:en:bible:questions:comprehension:luk:06]]
+**[[:en:bible:notes:luk:06:17|<<]] | [[:en:bible:notes:luk:06:22|>>]]**
 
 
 ~~DISCUSSION~~
 
-
-{{tag>publish bless}}
+{{tag>publish p2check bless}}
 ~~NOCACHE~~

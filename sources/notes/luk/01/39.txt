@@ -23,38 +23,40 @@
 
 <usfm>
 \p 
-\v 39 Now in those days Mary got up and hurried to the hill country, to a city in Judea, 
-\v 40 where she went into Zechariah's house and greeted Elizabeth. 
-.\v 41 As Elizabeth heard Mary's greeting, the baby in her womb leaped; and Elizabeth was filled with the Holy Spirit.
+\v 39 Then Mary arose in those days and quickly went into the hill country, to a city in Judea.  
+\v 40 She went into the house of Zechariah and greeted Elizabeth.  
+\v 41 Now it happened that when Elizabeth heard Mary's greeting, the baby in her womb jumped, and Elizabeth was filled with the Holy Spirit.
 </usfm>
 
 
 ===== translationWords: =====
 
-  * [[en:obe:other:mary]]
-  * [[en:obe:other:judea]]
-  * [[en:obe:other:zechariahnt]]
-  * [[en:obe:other:elizabeth]]
-  * [[en:obe:other:womb]]
-  * [[en:obe:kt:filled]]
+  * [[:en:obe:other:mary]]
+  * [[:en:obe:other:judea]]
+  * [[:en:obe:other:zechariahnt]]
+  * [[:en:obe:other:elizabeth]]
+  * [[:en:obe:other:womb]]
+  * [[:en:obe:kt:filled]]
 
 
 ===== Translation Notes: =====
 
-Mary goes to visit Elizabeth. 
+  * **Connecting Statement:** - Mary goes to visit her relative Elizabeth who was going to give birth to John. (See: [[:en:ta:vol2:translate:writing_newevent]])
 
-  * **Now** - This word introduces a new part of the story. Consider how your language does this. Some translations might not use an introductory word here.
-  * **got up** -  AT: "started out" or "got ready"
+  * **arose** - This idiom means she not only stood up, but also "got ready." AT: "started out" or "got ready" (See: [[:en:ta:vol1:translate:figs_idiom]])
   * **the hill country** - "the hilly area" or "the mountainous part of Israel" 
-  * **where she went** -  "and she went" or AT: "when she arrived, she went"
-  * **leaped** - "moved suddenly"
-
+  * **She went** - It is implied that Mary finished her journey before she went in to Zechariah's house. This could be stated clearly. AT: "When she arrived, she went." (See: [[:en:ta:vol1:translate:figs_explicit]])
+  * **Now it happened** - The phrase is used to mark a new event in this part story.
+  * **in her womb** - "in Elizabeth's womb"
+  * **jumped** - "moved suddenly"
 ===== Links: =====
 
-  * [[en:bible:questions:comprehension:luk:01|Luke Chapter 1 Comprehension Questions]]
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:01:00]]
+  * [[:en:bible:questions:comprehension:luk:01]]
 
 **[[:en:bible:notes:luk:01:36|<<]] | [[:en:bible:notes:luk:01:42|>>]]**
 
-~~DISCUSSION~~{{tag>publish Elizabeth filled }}
+~~DISCUSSION~~{{tag>publish p2check Elizabeth filled }}
 
 ~~NOCACHE~~

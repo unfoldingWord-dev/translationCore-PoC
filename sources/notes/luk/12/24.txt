@@ -30,27 +30,31 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:sow]]
-    * [[en:obe:other:reap]]
-    * [[en:obe:kt:god]]
+  * [[:en:obe:other:sow]]
+  * [[:en:obe:other:reap]]
+  * [[:en:obe:kt:god]]
 
 
 ===== Translation Notes: =====
-Jesus continues to teach his disciples.
-    * **ravens**  - This refers either to 1) crows, a kind of bird that eat mostly grain, or 2) ravens, a kind of bird that eat the flesh of dead animals. Jesus' audience would have considered the ravens worthless because they could not be eaten.
-    * **How much more valuable you are than the birds!** - This is an exclamation, emphasizing the fact that people are much more valuable to God then birds. 
-    * **add a cubit to his lifespan** - This is a metaphor because a cubit is a measure of length, rather than of time. The image is of a person's life stretched out as if it were a board, a rope, or some other physical object. (See: [[en:ta:vol1:translate:figs_metaphor]])
+
+  * **ravens** - This refers either to 1) crows, a kind of bird that eat mostly grain, or 2) ravens, a kind of bird that eat the flesh of dead animals. Jesus' audience would have considered the ravens worthless since the Jewish people could not eat these types of birds.
+  * **How much more valuable you are than the birds!** - This is an exclamation not a question. Jesus emphasizes the fact that people are much more valuable to God then birds. (See the section on Sentence Types in [[:en:ta:vol2:translate:figs_sentences]].)
+  * **And which of you...lifespan?** - Jesus uses a question to teach his disciples. (See: [[:en:ta:vol1:translate:figs_rquestion]])
+  * **add a cubit to his lifespan** - This is a metaphor because a cubit is a measure of length, rather than of time. The image is of a person's life stretched out as if it were a board, a rope, or some other physical object. (See: [[:en:ta:vol1:translate:figs_metaphor]])
+  * **If then you are not able...the rest?** - Jesus uses another question to teach his disciples. (See: [[:en:ta:vol1:translate:figs_rquestion]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:12|Luke Chapter 12 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:12:00]]
+  * [[:en:bible:questions:comprehension:luk:12]]
 
  
 
-**[[en/bible/notes/luk/12/22|<<]] | [[en/bible/notes/luk/12/27|>>]]**
+**[[:en:bible:notes:luk:12:22|<<]] | [[:en:bible:notes:luk:12:27|>>]]**
 
 ~~DISCUSSION~~
 
 
-{{tag>publish sow}}
+{{tag>publish p2edit sow}}
 
 ~~NOCACHE~~

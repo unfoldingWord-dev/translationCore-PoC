@@ -29,7 +29,7 @@
 ===== ULB: =====
 
 <usfm>
-\v 8 But Simon Peter, when he saw it, fell down at Jesus’ knees, saying, "Depart from me, for I am a sinful man, Lord."
+\v 8 But Simon Peter, when he saw it, fell down at Jesus' knees, saying, "Depart from me, for I am a sinful man, Lord."
 \v 9 For he was amazed, and all who were with him, at the catch of fish which they had taken.
 \v 10 This included James and John, sons of Zebedee, who were partners with Simon. And Jesus said to Simon, "Do not be afraid, because from now on you will catch men."
 \v 11 When they had brought their boats to land, they left everything and followed him.
@@ -38,25 +38,30 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:kt:sin]]
-    * [[en:obe:kt:lord]]
-    * [[en:obe:other:amazed]]
-    * [[en:obe:other:jamessonofZebedee]]
-    * [[en:obe:other:johntheapostle]]
-    * [[en:obe:other:zebedee]]
-    * [[en:obe:kt:fear]]
+  * [[:en:obe:other:peter]]
+  * [[:en:obe:kt:sin]]
+  * [[:en:obe:kt:lord]]
+  * [[:en:obe:other:amazed]]
+  * [[:en:obe:other:jamessonofZebedee]]
+  * [[:en:obe:other:johntheapostle]]
+  * [[:en:obe:other:zebedee]]
+  * [[:en:obe:kt:fear]]
 
 ===== Translation Notes: =====
 
 
-    * **fell down at Jesus' knees** - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of  humility and respect for Jesus. 
-    * **sinful man** - The word here for "man" means "adult male" and not the more general "human being."
-    * **you will catch men**  - The word “catch” is being used as a metaphor for gathering people to follow Christ. AT: “you will fish for people.” or “you will gather people” or “you will bring people in.” (See: [[en:ta:vol1:translate:figs_metaphor]])
+  * **fell down at Jesus' knees** - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus. 
+  * **sinful man** - The word here for "man" means "adult male" and not the more general "human being."
+  * **the catch of fish** - "the large number of fish"
+  * **partners with Simon** - "Simon's partners in his fishing business"
+  * **you will catch men** - The image of catching fish is being used as a metaphor for gathering people to follow Christ. AT: "you will fish for people" or "you will gather people for me" or "you will bring people to be my disciples." (See: [[:en:ta:vol1:translate:figs_metaphor]])
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:05|Luke Chapter 05 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:05:00]]
+  * [[:en:bible:questions:comprehension:luk:05]]
 **[[:en:bible:notes:luk:05:04|<<]] | [[:en:bible:notes:luk:05:12|>>]]**
 
-~~DISCUSSION~~{{tag>publish zebedee}}
+~~DISCUSSION~~{{tag>publish p2check zebedee}}
 
 ~~NOCACHE~~

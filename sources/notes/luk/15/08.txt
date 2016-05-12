@@ -37,22 +37,26 @@
 
 ===== translationWords: =====
 
-    * [[en:obe:other:lamp]]
-    * [[en:obe:kt:angel]]
-    * [[en:obe:kt:God]]
+  * [[:en:obe:other:lamp]]
+  * [[:en:obe:kt:angel]]
+  * [[:en:obe:kt:God]]
 
 
 ===== Translation Notes: =====
-Jesus continues speaking to the religious leaders.
-    * **Or what woman...would not light a lamp...and seek diligently until she has found it?**  - This is a rhetorical question. Jesus was reminding the people that if any of them lost a silver coin, they would certainly look for it diligently. This sentence can be translated as “You know that if a woman had ten silver coins and lost one, she would light a lamp, sweep the floor and search carefully until she has found it.” (See: [[en:ta:vol1:translate:figs_rquestion]]) 
-    * **what woman** - This is a hypothetical situation and not a story about a real woman. Some languages have ways of showing this. (See: [[en:ta:vol1:translate:figs_hypo]])
-    * **Even so**  - "In the same way" or "Just as people would rejoice with the woman"
-    * **over one sinner who repents**  - This can be translated as "when one sinner repents."
+
+  * **Connecting Statement:** - Jesus begins telling another parable. It is about a woman with 10 sliver coins.
+
+  * **Or what woman...would not light a lamp...and seek diligently until she has found it?** - Jesus uses a question to remind the people that if any of them lost a silver coin, they would certainly look for it diligently. (See: [[:en:ta:vol1:translate:figs_rquestion]]) 
+  * **what woman** - This is a hypothetical situation and not a story about a real woman. Some languages have ways of showing this. (See: [[:en:ta:vol1:translate:figs_hypo]])
+  * **Even so** - "In the same way" or "Just as people would rejoice with the woman"
+  * **over one sinner who repents** - AT: "when one sinner repents"
 ===== Links: =====
 
-  * **[[en:bible:questions:comprehension:luk:15|Luke Chapter 15 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:15:00]]
+  * [[:en:bible:questions:comprehension:luk:15]]
 **[[:en:bible:notes:luk:15:06|<<]] | [[:en:bible:notes:luk:15:11|>>]]**
 
-~~DISCUSSION~~{{tag>publish }}
+~~DISCUSSION~~{{tag>publish p2edit }}
 
 ~~NOCACHE~~

@@ -1,0 +1,26 @@
+====== Luke 02 General Notes ======
+
+
+=== Structure and formatting ===
+
+Some translations prefer to set apart long prayers, songs or prophesies. For this reason, the ULB and many other English translations indent the lines of 2:14, 29-32.
+
+=== Special concepts in this chapter ===
+
+== "There was no room for them" ==
+Luke's account of the birth of Christ does not contain as many details as the other gospels. Luke must not have thought these details were significant because of the birth narratives in other gospels. (See: [[:en:ta:vol1:translate:figs_explicit]])
+
+
+===== Links: =====
+
+  * **[[:en:bible:notes:luk:02:01|Luke 02:01 Notes]]**
+**[[:en:bible:notes:luk:01:00|<<]] | [[:en:bible:notes:luk:03:00|>>]]**
+
+
+
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft CHTeam}}

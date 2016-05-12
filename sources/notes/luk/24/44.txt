@@ -9,32 +9,33 @@
 ===== UDB: =====
 
 <usfm>
-\v 44 Then he said to them, "I will repeat what I told you while I was still with you: Everything that was written about me by Moses and the other prophets and in the Psalms must be fulfilled!"
+\v 44 Then he said to them, "I will repeat what I told you while I was with you: Everything that was written about me by Moses and the other prophets and in the Psalms must be fulfilled!"
 </usfm>
 
 ===== ULB: =====
 
 <usfm>
 \p
-\v 44 He said to them, "When I was with you, I told you that all that was written in the law of Moses and the prophets and the Psalms must be fufilled."
+\v 44 He said to them, "When I was with you, I told you that all that was written in the law of Moses and the prophets and the Psalms must be fulfilled."
 </usfm>
 
 ===== translationWords: =====
 
-  * [[:en:obe:kt:lawofmoses|law, law of Moses, God's law, law of Yahweh]]
+  * [[:en:obe:kt:lawofmoses]]
   * [[:en:obe:kt:prophet]]
   * [[:en:obe:other:psalm]]
   * [[:en:obe:kt:fulfill]]
 
 ===== Translation Notes: =====
 
-  * **When I was with you**  - "When I was with you before"
-  * **all that was written in the law of Moses and the prophets and the Psalms**  - This can be translated with an active verb: "all that Moses, the prophets, and the writers of the Psalms wrote." (See: [[:en:ta:vol2:translate:figs_activepassive]])
-  * **all…must be fulfilled**  - "God would fulfill all"
-  * **all that was written**  - "all that was written about me"
+  * **When I was with you** - "When I was with you before"
+  * **all that was written in the law of Moses and the prophets and the Psalms** - AT: "all that Moses, the prophets, and the writers of the Psalms wrote about me" (See: [[:en:ta:vol2:translate:figs_activepassive]])
+  * **must be fulfilled** - AT: "God would fulfill" or "God would cause to happen" (See: [[:en:ta:vol2:translate:figs_activepassive]])
 ===== Links: =====
 
-  * **[[:en:bible:questions:comprehension:luk:24|Luke Chapter 24 Comprehension Questions]]**
+  * [[:en:bible:notes:luk:00:intro]]
+  * [[:en:bible:notes:luk:24:00]]
+  * [[:en:bible:questions:comprehension:luk:24]]
 **[[:en:bible:notes:luk:24:41|<<]] | [[:en:bible:notes:luk:24:45|>>]]**
 
-~~DISCUSSION~~{{tag>publish written lawofmoses text}}
+~~DISCUSSION~~{{tag>publish p2edit written lawofmoses}}
