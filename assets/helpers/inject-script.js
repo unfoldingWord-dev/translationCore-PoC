@@ -13,26 +13,31 @@ injectScript = function(url, options, callback) {
 }
 
 injectHTML = function(url, placeholder){
+  getURL(url, function(html){
+    $(placeholder).html(html);
+  });
+}
+
+getURL = function(url, callback){
   localforage.getItem(url, function(err, value){
     if (err) {
       console.log(err);
     } else if (value === null) {
       $.ajaxSetup({
         crossOrigin: true,
-        cache: true
+        cache: false
       });
-      $.get('http://alloworigin.com/get?url=' + 
-        encodeURIComponent(url), function(response){
-        if (response.contents !== undefined){
+      $.get('https://crossorigin.me/'+url, function(response){
+        if (response !== undefined){
           // store in localstorage
-          localforage.setItem(url, response.contents, function (err) {
+          localforage.setItem(url, response, function (err) {
             if (err) { console.log(err); }
           });
-          $(placeholder).html(response.contents);
+          callback(response);
         }
       });
     } else {
-      $(placeholder).html(value);
+      callback(value);
     }
   });
 }
