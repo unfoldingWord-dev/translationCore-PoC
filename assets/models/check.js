@@ -50,7 +50,7 @@
       // }
     },
     aws_key: function(){
-      return "pt-br/"+this.source.reference.book+"/"+this.source.type.id+'.json';
+      return targetModel.manifest.target_language.id+"/"+this.source.reference.book+"/"+this.source.type.id+'.json';
     },
     helpers: function(){
       Handlebars.registerHelper('retained', function(block) {
@@ -86,9 +86,11 @@
           });
           checkModel.verses.source = { name: name, text: verse }
         } else {
-          checkModel.verses.target = { name: name, text: verse }
+          // checkModel.verses.target = { name: name, text: verse }
         }
       });
+      var targetName = targetModel.manifest.resource.name + " - " + targetModel.manifest.target_language.name;
+      checkModel.verses.target = { name: targetName, text: targetModel.verses[reference.chapter][reference.verse] }
     },
     highlightTargetQuote: function(){
       // this.prepSaveData();
@@ -128,7 +130,7 @@
     selectQuote: function(){
       var text = this.getSelectedText();
       if (text == "") {
-        alert("No text is selected to copy into the textbox.")
+        alert("No text is selected in the target language to highlight.")
       } else {
         // reset verse just in case it was already highlighted
         this.getVerses();
@@ -215,7 +217,5 @@
       request.send();
     }
 	};
-
-  // translationcore/pt-br/Ephesians/metaphor/1.json
 
 }(this, this.document));

@@ -1,4 +1,4 @@
-referenceBibles['ULB_en'] = {
+referenceBibles['ULB - English'] = {
   "Luke": {
     "1": {
       "1": " Many have tried to set in order a narrative about those matters that have been fulfilled among us,",

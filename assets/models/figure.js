@@ -40,8 +40,11 @@
 		// set callbacks to happen after data returns
 		onload: function(){
 			// populate checking model
+      targetModel.load();
+    },
+    onTargetModelLoad: function(){
 			checkModel.load(this.data);
-		}
+    }
 	};
 
 }(this, this.document));

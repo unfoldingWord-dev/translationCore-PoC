@@ -4,7 +4,8 @@
 		controllers: [
 			'menu',
 			'check',
-			'figure'
+      'target',
+      'figure'
 		],
     aws_config: {
       user: "translationcore-user",
