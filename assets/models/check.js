@@ -115,6 +115,8 @@
 		load: function(data){
       this.source = data;
       if (this.source.index > 0) { this.showPrev = true; } else { this.showPrev = false; }
+      var total = figureController.figures[this.source.type.id].length - 1
+      if (this.source.index < total) { this.showNext = true; } else { this.showNext = false; }
       this.onload();
 		},
 		onload: function(){
