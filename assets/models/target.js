@@ -72,7 +72,7 @@
       var verses = chunkString.split(/\s*\\v /);
       verses.shift();
       $.each(verses, function(index, verseString){
-        match = /(\d+) (.*)\s+/.exec(verseString);
+        match = /(\d+) (.*)\s*?/.exec(verseString);
         if (match !== null){
           var verse = match[1]
           var verseString = match[2]
