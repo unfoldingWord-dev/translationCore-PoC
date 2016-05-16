@@ -30,5 +30,9 @@ var figure_names = {
 	"hypo": "Hypothetical Situations",
 	"parables": "Parables",
 	"abstractnouns": "Abstract Nouns",
-	"hendiadys": "Hendiadys"
+	"hendiadys": "Hendiadys",
+	"gendernotations": "When Masculine Words Include Women",
+	"distinguish": "Distinguishing versus Informing or Reminding",
+	"events": "Order of Events",
+	"personification": "Personification"
 };
