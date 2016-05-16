@@ -18,6 +18,25 @@ injectHTML = function(url, placeholder){
   });
 }
 
+cacheGet = function(key, defaultValue, callback){
+  localforage.getItem(key, function(err, value){
+    if (err) {
+      console.log(err);
+    } else if (value === null){
+      callback(defaultValue);
+    } else {
+      callback(value);
+    }
+  });
+};
+
+cacheSet = function(key, value, callback){
+  localforage.setItem(key, value, function (err) {
+    if (err) { console.log(err); }
+  });
+  callback(value);
+};
+
 getURL = function(url, callback){
   localforage.getItem(url, function(err, value){
     if (err) {

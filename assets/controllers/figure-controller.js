@@ -26,7 +26,7 @@
 			// render menu
 			menuModel.load(figureController.figures);
 			// load first figure
-			figureModel.load('metaphor',0);
+			figureModel.currentFigureGet();
 		},
 		onModelLoad: function(){
 			// load them all
