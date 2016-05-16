@@ -198,6 +198,7 @@
       bucket.upload(params, function (err, data) {
         if (err) {
           console.log(err);
+          alert("Please Report the following error to christopher_klapp@globalsouthservices.com: "+err);
         } else {
           checkModel.reload();
         }
