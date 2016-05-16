@@ -10,7 +10,7 @@
 		view: function(data){
 			checkModel.helpers();
 			injectTemplate(this.name, data);
-			injectHTML(checkModel.source.type.taLink, "#taLink");
+			// injectHTML(checkModel.source.type.taLink, "#taLink");
 		},
 		reloadView: function(data){
 			renderTemplate(this.name, data);
