@@ -1,5 +1,7 @@
 (function (window, document) {
 
+window.onMouseDown = function() {return false;}
+
 injectScript = function(url, options, callback) {
   var script = document.createElement('script');
   script.src = url;
@@ -46,7 +48,7 @@ getURL = function(url, callback){
         crossOrigin: true,
         cache: false
       });
-      $.get('https://crossorigin.me/'+url, function(response){
+      $.get('http://cors.io/?u='+url, function(response){
         if (response !== undefined){
           // store in localstorage
           localforage.setItem(url, response, function (err) {
