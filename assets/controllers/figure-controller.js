@@ -3,8 +3,30 @@
 	figureController = {
 		// include model
 		name: 'figure', // DRY
+		book: '',
 		figures: {},
 		figureNames: {},
+		collection: function(book, callback){
+			this.book = book;
+			$.getJSON("./data/figures/"+book+".json", function(figures){
+				figureController.figures = figures;
+				$.getJSON("./data/figure-names.json", function(figureNames){
+					figureController.figureNames = figureNames;
+					figureController.onAllLoad();
+					callback();
+				});
+		  });	
+		},
+		onAllLoad: function(){
+			// render menu
+			menuModel.load(figureController.figures);
+			// load first figure
+			// figureModel.currentFigureGet();
+		},
+		onModelLoad: function(){
+			// register helper
+			figureController.helpers();
+		},
 		model: function(){
 			injectScript('./assets/models/'+this.name+'.js', {}, this.onModelLoad);
 		},
@@ -13,28 +35,6 @@
 			  return figureController.figureNames[object.data.key];
 			});
 		},
-		all: function(){
-			$.getJSON("./data/figures/Luke.json", function(figures){
-				figureController.figures = figures;
-				$.getJSON("./data/figure-names.json", function(figureNames){
-					figureController.figureNames = figureNames;
-					figureController.onAllLoad();
-				});
-		  });	
-		},
-		onAllLoad: function(){
-			// render menu
-			menuModel.load(figureController.figures);
-			// load first figure
-			figureModel.currentFigureGet();
-		},
-		onModelLoad: function(){
-			// load them all
-			figureController.all();
-			// register helper
-			figureController.helpers();
-		},
-		// include view html
 		view: function(model){
 			injectTemplate(this.name, model);
 		},

@@ -2,10 +2,6 @@
 
   targetModel = {
     // data for default/top part of menu
-    config: {
-      // manifest: "https://git.door43.org/tanem/ceb_luk_text_reg/raw/master/manifest.json",
-      manifest: "https://git.door43.org/klappy/ilo_luk_text_ulb/raw/master/manifest.json"
-    },
     manifest: {
       // target_langauge: {
       //   id: "asd",
@@ -32,18 +28,14 @@
       //   5: "verse"
       // }
     },
-    parseManifest: function(url){
+    parseManifest: function(url, callback){
       $.ajaxSetup({
         crossOrigin: true,
         cache: false
       });
-      getURL(this.config.manifest, function(response){
-        targetModel.manifest = JSON.parse(response);
-        targetModel.onload();
+      getURL(url, function(manifest){
+        callback(JSON.parse(manifest));
       });
-    },
-    getVerse: function(){
-      this.getCurrentChunk();
     },
     parseCurrentChunk: function(){
       $.each(this.manifest.finished_chunks, function(index, string){
@@ -57,7 +49,7 @@
         }
       });
     },
-    getCurrentChunk: function(){
+    getVerse: function(){
       this.parseCurrentChunk();
       var chunkFile = targetModel.currentReference.chapterString+'/'+targetModel.currentReference.chunkString+'.txt';
       var url = targetModel.config.manifest.replace('manifest.json', chunkFile);
@@ -84,14 +76,20 @@
       });
     },
     onVerseLoad: function(){
-      figureModel.onTargetModelLoad();
+      checkModel.load(figureModel.data);
     },
-    load: function(){
-      this.currentReference = {chapter: figureModel.data.reference.chapter, verse: figureModel.data.reference.verse};
-      this.parseManifest(this.config.manifest);
+    load: function(manifest){
+      this.manifest = manifest;
+      this.verses = {};
+      figureController.collection(manifest.project.name, function(){
+        figureModel.currentFigureGet(function(){
+          targetModel.currentReference = {chapter: figureModel.data.reference.chapter, verse: figureModel.data.reference.verse};  
+          targetModel.onload();
+        });
+      });
     },
     onload: function(){
-      this.getVerse();      
+      this.getVerse();
     }
   };
 

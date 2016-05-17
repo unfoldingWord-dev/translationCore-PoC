@@ -3,13 +3,6 @@
 	applicationController = {
 		// include model
 		name: 'application', // DRY
-		model: function(){
-			injectScript('./assets/models/'+this.name+'.js', {}, this.onModelLoad);
-		},
-		onModelLoad: function(){
-			applicationController.view(applicationModel);
-			applicationController.controllers();
-		},
 		// include view html
 		view: function(model){
 			injectTemplate(this.name, model);
@@ -19,6 +12,13 @@
 			$.each(controllers, function(index,controller){
 				injectScript('./assets/controllers/'+controller+'-controller.js');
 			});
+		},
+		onModelLoad: function(){
+			applicationController.view(applicationModel);
+			applicationController.controllers();
+		},
+		model: function(){
+			injectScript('./assets/models/'+this.name+'.js', {}, this.onModelLoad);
 		},
 		onload: function(){
 			this.model();

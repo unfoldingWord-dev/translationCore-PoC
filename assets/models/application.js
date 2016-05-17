@@ -4,9 +4,18 @@
 		controllers: [
 			'menu',
 			'check',
-      'target',
-      'figure'
+      'figure',
+      'target'
 		],
+    state: {
+      language: undefined,
+      reference: {
+        book: undefined,
+        chapter: undefined,
+        chunk: undefined,
+        verse: undefined
+      }
+    },
     aws_config: {
       user: "translationcore-user",
       accessKeyId: "AKIAJBE3KQMYGHXPTRHQ",

@@ -22,7 +22,7 @@ class TranslationNotes
 
   def books_dir(dir)
     Dir.chdir(dir)
-    Dir.glob('luk').select{|f| File.directory? f}.each do |subdir|
+    Dir.glob('eph').select{|f| File.directory? f}.each do |subdir|
       book_ids = %w(nil Mat Mar Luk Joh Act Rom 1Co 2Co Gal Eph Phi Col 1Th 2Th 1Ti 2Ti Tit Phm Heb Jam 1Pe 2Pe 1Jo 2Jo 3Jo Jud Rev).map(&:downcase)
       book_names = %w(nil Matthew Mark Luke John Acts Romans 1Corinthians 2Corinthians Galatians Ephesians Philippians Colossians 1Thessalonians 2Thessalonians 1Timothy 2Timothy Titus Philemon Hebrews James 1Peter 2Peter 1John 2John 3John Jude Revelation)
       @book = book_names[book_ids.index(subdir)]

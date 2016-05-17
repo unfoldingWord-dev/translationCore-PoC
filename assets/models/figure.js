@@ -38,9 +38,10 @@
     currentFigureSet: function(figureType, currentIndex){
       cacheSet('currentFigure', {id: figureType, index: currentIndex}, function(){});
     },
-    currentFigureGet: function(){
+    currentFigureGet: function(callback){
       cacheGet('currentFigure', {id: 'metaphor', index: 0}, function(value){
         figureModel.load(value.id, value.index);
+        callback();
       });
     },
     taLink: function(type, vol){
@@ -49,10 +50,7 @@
 		// set callbacks to happen after data returns
 		onload: function(){
 			// populate checking model
-      targetModel.load();
-    },
-    onTargetModelLoad: function(){
-			checkModel.load(this.data);
+      // checkModel.load(this.data);
     }
 	};
 
