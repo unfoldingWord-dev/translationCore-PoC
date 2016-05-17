@@ -1,0 +1,20 @@
+<script id="targets-template" type="text/x-handlebars-template">
+  <div class="togglebox">
+
+    <input id="toggle1" type="checkbox" name="toggle" checked />
+    <label for="toggle1">Languages and Books to check</label>
+    
+    <section id="content1">
+      <form class="pure-form">
+        <fieldset>
+        {{#each targets as |books language|}}
+          <legend>{{language}}</legend>
+          {{#each books as |manifest book|}}
+            <span id="buttonLanguage" class="pure-button" onclick="targetController.loadTargetModel('{{language}}', '{{book}}');">{{book}}</span>
+          {{/each}}
+        {{/each}}
+        </fieldset>
+      </form>
+    </section>
+  </div>
+</script>

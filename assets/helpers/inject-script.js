@@ -1,5 +1,7 @@
 (function (window, document) {
 
+window.onMouseDown = function() {return false;}
+
 injectScript = function(url, options, callback) {
   var script = document.createElement('script');
   script.src = url;

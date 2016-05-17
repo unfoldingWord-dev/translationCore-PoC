@@ -4,7 +4,8 @@
     // data for default/top part of menu
     config: {
       // manifest: "https://git.door43.org/tanem/ceb_luk_text_reg/raw/master/manifest.json",
-      manifest: "https://git.door43.org/klappy/ilo_luk_text_ulb/raw/master/manifest.json"
+      // manifest: "https://git.door43.org/klappy/ilo_luk_text_ulb/raw/master/manifest.json"
+      manifest: "https://git.door43.org/asaanbil1/fr_luk_text_ulb/raw/master/manifest.json"
     },
     manifest: {
       // target_langauge: {
