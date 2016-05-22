@@ -1,6 +1,6 @@
 'use strict'
 
-let isprod = process.env.node_env === 'production'
+let isProd = process.env.node_env === 'production'
 
 let gulp        = require('gulp'),
     path        = require('path'),
@@ -17,11 +17,11 @@ let gulp        = require('gulp'),
     connect     = require('gulp-connect')
 
 gulp.task('js', () => {
-  return browserify({ entries: './app/src/app.js', debug: isprod })
+  return browserify({ entries: './app/src/app.js', debug: isProd })
     .transform('babelify', { presets: ['es2015', 'react'] })
     .transform('brfs')
     .bundle()
-    .pipe(source('main.js'))
+    .pipe(source('app.js'))
     .pipe(buffer())
     .pipe(sourcemaps.init())
     .pipe(uglify())
@@ -50,13 +50,13 @@ gulp.task('lint', () => {
       plugins: [
         'react'
       ],
-      ecmafeatures: {
+      ecmaFeatures: {
         modules:  true,
         jsx:      true
       },
       rules: {
         strict: 2,
-        'no-console': isprod ? 1 : 0,
+        'no-console': isProd ? 1 : 0,
         semi: 0
       },
       envs: ['browser', 'es6', 'node']
