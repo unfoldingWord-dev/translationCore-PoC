@@ -2,6 +2,7 @@ import 'babel-polyfill' // Adds the ES6 features that are missing in some browse
 import _ from 'lodash'
 import React from 'react'
 import ReactDOM from 'react-dom'
+import util from './lib/util'
 
 const fs = require('fs')
 
