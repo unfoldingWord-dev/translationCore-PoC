@@ -53,3 +53,12 @@ Output from Prototype
 - Quote Phrase Used (button to copy/paste selected text)
 - Comments (optional stretch goal)
 
+
+# Building
+
+Requirements
+  * NodeJS
+
+1. Install the build tool with `npm install -g gulp-cli`
+2. Run `npm install` to fetch all the dependencies
+3. To run the application locally use `gulp serve` which will run a webserver on localhost:8080 and refresh the browser whenever a change is made.
