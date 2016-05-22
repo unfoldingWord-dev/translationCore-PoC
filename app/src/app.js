@@ -3,6 +3,8 @@ import _ from 'lodash'
 import React from 'react'
 import ReactDOM from 'react-dom'
 
+const fs = require('fs')
+
 // import $ from 'jquery'
 // import aws from 'aws-sdk'
 // import handlebars from 'handlebars'
@@ -11,8 +13,8 @@ import ReactDOM from 'react-dom'
 
 function render() {
   ReactDOM.render(
-    <h1>Hello, world</h1>,
-    document.getElementById('example')
+    <h1>Hello, world!</h1>,
+    document.getElementById('application-placeholder')
   )
 }
 
@@ -20,6 +22,11 @@ function main(...args) {
   _.each(args, (arg) => {
     console.log(arg)
   })
+
+  // This template is inserted into the source at compile time
+  // using brfs with `const fs = require('fs')` above
+  const template = fs.readFileSync('app/templates/test.html', 'utf8')
+  console.log(template)
 
   render()
 }
