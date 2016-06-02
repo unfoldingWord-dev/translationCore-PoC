@@ -45,13 +45,11 @@ class GNTParser
   end
 
   def write_files
-    json = JSON.pretty_generate(bible)
-    File.open("../data/ugnt.json", 'w') do |file|
-      file.puts(json)
-    end
-    File.open("../data/ugnt.js","w") do |file|
-      js = "reference_bibles['Unlocked Greek New Testament'] = #{json};"
-      file.puts(js)
+    bible.each do |book, data|
+      json = JSON.pretty_generate(data)
+      File.open("../data/ugnt/#{book}.json", 'w') do |file|
+        file.puts(json)
+      end
     end
   end
 
