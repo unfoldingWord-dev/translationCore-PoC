@@ -7,9 +7,9 @@ This will provide quantifiable and measurable quality of the translation output.
 
 All of the checking tools are extracted from the translation notes that are made for each verse to ensure that the information is available to the translators while translating.
 
-translationCore Prototype
+translationCore Proof of Concept
 -----
-Focused prototype of translationCore to be produced just for Metaphors & Ephesians.
+Focused Proof of Concept of translationCore to be produced just for Metaphors & Ephesians.
 
 Key Results
 -----
@@ -31,7 +31,7 @@ Stretch Goals
 - Alert if the quote is not found in the OL when pasting in the quote input box
 - Provide optional comments box for translators to make notes
 
-Sources/Input for Prototype
+Sources/Input for Proof of Concept
 -----
 - tA module for Metaphor (& Figures of Speech?)
  - https://door43.org/_export/xhtmlbody/en/ta/vol1/translate/figs_metaphor
