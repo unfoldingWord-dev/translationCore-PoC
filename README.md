@@ -47,7 +47,7 @@ Sources/Input for Proof of Concept
  - Convert into JSON
 - UI to bring all items together
 
-Output from Prototype
+Output from Proof of Concept
 -----
 - Flags, Figure Retained, Figure Replaced
 - Quote Phrase Used (button to copy/paste selected text)
